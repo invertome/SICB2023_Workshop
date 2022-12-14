@@ -66,6 +66,7 @@ else
     fi
 fi
 
+
 #create conda environment "sicb2023"
 conda create --name sicb2023 python=3.7
 
@@ -76,7 +77,7 @@ conda config --add channels conda-forge
 conda config --set channel_priority strict
 
 #test if the following software is installed:
-#biopython, orthofinder, transdecoder, iqtree, mafft, clipkit, hmmer, hyphy, paml, perl, treeshrink
+#biopython, orthofinder, transdecoder, iqtree, mafft, clipkit, hmmer, hyphy, paml, perl, treeshrink, seqtk
 
 if command -v biopython &> /dev/null; then
     echo "Biopython is installed."
@@ -162,6 +163,11 @@ else
     echo "seqtk installed."
 fi
 
+echo "Please enter full path to a folder to save the workshop materials (e.g., /home/sicb2023/):"
+read folder
+
+cd $folder
+
 #clone the tiammat repository
 git clone https://github.com/mtassia/TIAMMAt.git
 
@@ -172,7 +178,8 @@ git clone https://github.com/invertome/SICB2023_Workshop.git
 export PATH=$PATH:/Library/Frameworks/Python.framework/Versions/3.7/bin:$HOME/miniconda3/bin:$folder/TIAMMAt:$folder/SICB2023_Workshop/scripts
 
 #activate sicb2023 environment
-source $HOME/miniconda3/bin/activate sicb2023
+conda init bash
+conda activate sicb2023
 
 #test if the programs are now able to run
 if command -v biopython &> /dev/null; then
