@@ -64,7 +64,7 @@ cd $folder
 git clone https://github.com/mtassia/TIAMMAt.git
 
 # clone Workshop materials
-https://github.com/invertome/SICB2023_Workshop.git
+git clone https://github.com/invertome/SICB2023_Workshop.git
 
 # add location of python, miniconda3, and tiammat to path
 export PATH="/usr/local/bin:$HOME/miniconda3/bin:$folder/TIAMMAt:$PATH:$folder/SICB2023_Workshop/scripts:$PATH"
