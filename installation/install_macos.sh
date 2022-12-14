@@ -16,7 +16,7 @@ else
     fi
 
     #prompt user to enter folder to save python3
-    echo "Please enter the full path to a folder to save the downloaded python3 package (e.g., /home/downloads/):"
+    echo "Please enter the full path to a folder to save the downloaded python3 package (e.g., /home/sicb2023/):"
     read folder
 
     #move the python3 package to the specified folder
@@ -48,7 +48,7 @@ else
     fi
 
     #prompt user to enter folder to save miniconda3
-    echo "Please enter full path to a folder to save the downloaded miniconda3 package (e.g., /home/downloads/):"
+    echo "Please enter full path to a folder to save the downloaded miniconda3 package (e.g., /home/sicb2023/):"
     read folder
 
     #move the miniconda3 package to the specified folder
