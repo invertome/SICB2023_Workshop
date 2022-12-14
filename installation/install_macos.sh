@@ -162,7 +162,7 @@ git clone https://github.com/mtassia/TIAMMAt.git
 export PATH=$PATH:$folder/python-3.7.3-macosx*.pkg:$HOME/miniconda3:$folder/TIAMMAt
 
 #activate sicb2023 environment
-conda activate sicb2023
+source $HOME/miniconda3/bin/activate sicb2023
 
 #test if the programs are now able to run
 if command -v biopython &> /dev/null; then
