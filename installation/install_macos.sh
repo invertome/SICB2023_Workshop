@@ -148,7 +148,7 @@ else
     echo "Perl installed."
 fi
 
-if command -v treeshrink &> /dev/null; then
+if command -v run_treeshrink.py &> /dev/null; then
     echo "Treeshrink is installed."
 else
     conda install -n sicb2023 -c smirarab treeshrink
@@ -159,7 +159,7 @@ fi
 git clone https://github.com/mtassia/TIAMMAt.git
 
 #add the location of python, miniconda3, and tiammat to path
-export PATH=$PATH:$folder/python-3.7.3-macosx*.pkg:$HOME/miniconda3:$folder/TIAMMAt
+export PATH=$PATH:/Library/Frameworks/Python.framework/Versions/3.7/bin:$HOME/miniconda3/bin:$folder/TIAMMAt
 
 #activate sicb2023 environment
 source $HOME/miniconda3/bin/activate sicb2023
@@ -205,6 +205,6 @@ if command -v perl &> /dev/null; then
     echo "Perl is working properly."
 fi
 
-if command -v treeshrink &> /dev/null; then
+if command -v run_treeshrink.py &> /dev/null; then
     echo "Treeshrink is working properly."
 fi
