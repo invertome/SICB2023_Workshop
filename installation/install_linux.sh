@@ -64,8 +64,8 @@ cd $folder
 git clone https://github.com/mtassia/TIAMMAt.git
 
 # add location of python, miniconda3, and tiammat to path
-export PATH="$folder/Python-3.7.3/bin:$folder/miniconda3/bin:$folder/TIAMMAt:$PATH"
-source $folder/miniconda3/bin/activate sicb2023
+export PATH="/usr/local/bin:$HOME/miniconda3/bin:$folder/TIAMMAt:$PATH"
+source $HOME/miniconda3/bin/activate sicb2023
 
 # test if programs are working
 for program in "${programs[@]}"
