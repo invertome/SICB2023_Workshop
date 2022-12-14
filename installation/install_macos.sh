@@ -81,70 +81,70 @@ conda config --set channel_priority strict
 if command -v biopython &> /dev/null; then
     echo "Biopython is installed."
 else
-    conda install -n sicb2023 -c bioconda biopython
+    conda install -n sicb2023 biopython
     echo "Biopython installed."
 fi
 
 if command -v orthofinder &> /dev/null; then
     echo "Orthofinder is installed."
 else
-    conda install -n sicb2023 -c bioconda orthofinder
+    conda install -n sicb2023 orthofinder
     echo "Orthofinder installed."
 fi
 
 if command -v transdecoder &> /dev/null; then
     echo "Transdecoder is installed."
 else
-    conda install -n sicb2023 -c bioconda transdecoder
+    conda install -n sicb2023 transdecoder
     echo "Transdecoder installed."
 fi
 
 if command -v iqtree &> /dev/null; then
     echo "Iqtree is installed."
 else
-    conda install -n sicb2023 -c bioconda iqtree
+    conda install -n sicb2023 iqtree
     echo "Iqtree installed."
 fi
 
 if command -v mafft &> /dev/null; then
     echo "Mafft is installed."
 else
-    conda install -n sicb2023 -c bioconda mafft
+    conda install -n sicb2023 mafft
     echo "Mafft installed."
 fi
 
 if command -v clipkit &> /dev/null; then
     echo "Clipkit is installed."
 else
-    conda install -n sicb2023 -c bioconda clipkit
+    conda install -n sicb2023 clipkit
     echo "Clipkit installed."
 fi
 
 if command -v hmmer &> /dev/null; then
     echo "Hmmer is installed."
 else
-    conda install -n sicb2023 -c bioconda hmmer
+    conda install -n sicb2023 hmmer
     echo "Hmmer installed."
 fi
 
 if command -v hyphy &> /dev/null; then
     echo "Hyphy is installed."
 else
-    conda install -n sicb2023 -c bioconda hyphy
+    conda install -n sicb2023 hyphy
     echo "Hyphy installed."
 fi
 
 if command -v paml &> /dev/null; then
     echo "Paml is installed."
 else
-    conda install -n sicb2023 -c bioconda paml
+    conda install -n sicb2023 paml
     echo "Paml installed."
 fi
 
 if command -v perl &> /dev/null; then
     echo "Perl is installed."
 else
-    conda install -n sicb2023 -c bioconda perl
+    conda install -n sicb2023 perl
     echo "Perl installed."
 fi
 
