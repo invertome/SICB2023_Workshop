@@ -155,7 +155,7 @@ else
     echo "Treeshrink installed."
 fi
 
-if command -v seqtk.py &> /dev/null; then
+if command -v seqtk &> /dev/null; then
     echo "seqtk is installed."
 else
     conda install -n sicb2023 seqtk
