@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Usage:  ./install_macos.sh
+
 #check if python is installed
 if command -v python3 &> /dev/null; then
     echo "Python 3 is installed. Proceeding to next step..."
@@ -14,7 +16,7 @@ else
     fi
 
     #prompt user to enter folder to save python3
-    echo "Please enter a folder to save the downloaded python3 package:"
+    echo "Please enter the full path to a folder to save the downloaded python3 package (e.g., /home/downloads/):"
     read folder
 
     #move the python3 package to the specified folder
@@ -46,7 +48,7 @@ else
     fi
 
     #prompt user to enter folder to save miniconda3
-    echo "Please enter a folder to save the downloaded miniconda3 package:"
+    echo "Please enter full path to a folder to save the downloaded miniconda3 package (e.g., /home/downloads/):"
     read folder
 
     #move the miniconda3 package to the specified folder
