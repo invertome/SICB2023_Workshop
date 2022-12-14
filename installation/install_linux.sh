@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Usage:  ./install_linux.sh /full/path/to/install/folder/
+
 # check if python is installed
 if command -v python &>/dev/null; then
     echo "Python is already installed"
