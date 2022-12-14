@@ -45,13 +45,13 @@ else
 fi
 
 # install programs
-programs=("biopython" "orthofinder" "transdecoder" "iqtree" "mafft" "clipkit" "hmmer" "hyphy" "paml" "perl" "treeshrink")
+programs=("biopython" "orthofinder" "transdecoder" "iqtree" "mafft" "clipkit" "hmmer" "hyphy" "paml" "perl" "run_treeshrink.py")
 for program in "${programs[@]}"
 do
     if command -v $program &>/dev/null; then
         echo "$program is already installed"
     else
-        if [ "$program" == "treeshrink" ]; then
+        if [ "$program" == "run_treeshrink.py" ]; then
             conda install -c smirarab treeshrink -n sicb2023
         else
             conda install $program -n sicb2023
