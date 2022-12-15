@@ -79,7 +79,7 @@ conda activate sicb2023
 prog_cmds=("hyphy" "orthofinder" "TransDecoder.LongOrfs" "iqtree" "mafft" "clipkit" "hmmsearch" "codeml" "run_treeshrink.py" "seqtk")
 
 # test if programs are working
-for program in "${programs[@]}"
+for program in "${prog_cmds[@]}"
 do
     if command -v $program &>/dev/null; then
         echo "$program is working properly"
