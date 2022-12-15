@@ -40,26 +40,24 @@ fi
 
 # create conda environment
 conda create -n sicb2023 python=3.7 -y
-conda init bash
-conda activate sicb2023
+
 # add channels
 conda config --add channels defaults
 conda config --add channels bioconda
 conda config --add channels conda-forge
 conda config --set channel_priority strict
 
+conda init bash
+conda activate sicb2023
+
 # install programs
-programs=("biopython" "hyphy" "orthofinder" "transdecoder" "iqtree" "mafft" "clipkit" "hmmer" "paml" "run_treeshrink.py" "seqtk")
+programs=("biopython" "hyphy" "orthofinder" "transdecoder" "iqtree" "mafft" "clipkit" "hmmer" "paml" "treeshrink" "seqtk")
 for program in "${programs[@]}"
 do
-    if command -v $program &>/dev/null; then
-        echo "$program is already installed"
+    if [ "$program" == "treeshrink" ]; then
+        conda install -c smirarab treeshrink -n sicb2023 -y
     else
-        if [ "$program" == "run_treeshrink.py" ]; then
-            conda install -c smirarab treeshrink -n sicb2023 -y
-        else
-            conda install $program -n sicb2023 -y
-        fi
+        conda install $program -n sicb2023 -y
     fi
 done
 
@@ -73,10 +71,6 @@ git clone https://github.com/invertome/SICB2023_Workshop.git
 # add location of python, miniconda3, and tiammat to path
 export PATH="/usr/local/bin:$HOME/miniconda3/bin:$folder/TIAMMAt:$PATH:$folder/SICB2023_Workshop/scripts:$PATH"
 
-$HOME/miniconda3/bin/conda init bash
-source $HOME/miniconda3/bin/activate sicb2023
-conda init bash
-conda activate sicb2023
 
 prog_cmds=("hyphy" "orthofinder" "TransDecoder.LongOrfs" "iqtree" "mafft" "clipkit" "hmmsearch" "codeml" "run_treeshrink.py" "seqtk")
 
@@ -89,3 +83,5 @@ do
         echo "$program is not working properly"
     fi
 done
+
+echo "To verify whether the conda packages were installed succesfully, once this program exits please cd into 'SICB2023_Workshop/' folder and run: 'conda activate sicb2023 && ./installation/checks.sh' "
