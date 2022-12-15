@@ -80,7 +80,7 @@ do
     if command -v $program &>/dev/null; then
         echo "$program is working properly"
     else
-        echo "$program is not working properly"
+        echo "$program is not working properly, may need to restart terminal?"
     fi
 done
 
