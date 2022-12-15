@@ -35,16 +35,18 @@ else
         # install miniconda3
         bash Miniconda3-latest-Linux-x86_64.sh
     fi
-    # create conda environment
-    conda create -n sicb2023 python=3.7
-    conda init bash
-    conda activate sicb2023
-    # add channels
-    conda config --add channels defaults
-    conda config --add channels bioconda
-    conda config --add channels conda-forge
-    conda config --set channel_priority strict
+
 fi
+
+# create conda environment
+conda create -n sicb2023 python=3.7 -y
+conda init bash
+conda activate sicb2023
+# add channels
+conda config --add channels defaults
+conda config --add channels bioconda
+conda config --add channels conda-forge
+conda config --set channel_priority strict
 
 # install programs
 programs=("biopython" "hyphy" "orthofinder" "transdecoder" "iqtree" "mafft" "clipkit" "hmmer" "paml" "run_treeshrink.py" "seqtk")
