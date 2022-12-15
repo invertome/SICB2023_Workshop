@@ -217,3 +217,6 @@ fi
 if command -v seqtk &> /dev/null; then
     echo "seqtk is working properly."
 fi
+
+
+echo "To verify whether the conda packages were installed succesfully or not, once this program exits please restart your terminal, cd into the 'SICB2023_Workshop/' folder and run: 'conda activate sicb2023 && chmod +x ./installation/checks.sh && bash ./installation/checks.sh' "
