@@ -69,6 +69,8 @@ fi
 
 #create conda environment "sicb2023"
 conda create --name sicb2023 python=3.7
+conda init bash
+conda activate sicb2023
 
 #configure conda
 conda config --add channels defaults
@@ -77,84 +79,80 @@ conda config --add channels conda-forge
 conda config --set channel_priority strict
 
 #test if the following software is installed:
-#biopython, orthofinder, transdecoder, iqtree, mafft, clipkit, hmmer, hyphy, paml, perl, treeshrink, seqtk
+#orthofinder, transdecoder, iqtree, mafft, clipkit, hmmer, hyphy, paml, perl, treeshrink, seqtk
 
-if command -v biopython &> /dev/null; then
-    echo "Biopython is installed."
-else
-    conda install -n sicb2023 biopython
-    echo "Biopython installed."
-fi
 
 if command -v orthofinder &> /dev/null; then
     echo "Orthofinder is installed."
 else
-    conda install -n sicb2023 orthofinder
+    conda install -n sicb2023 orthofinder -y
     echo "Orthofinder installed."
 fi
 
-if command -v transdecoder &> /dev/null; then
+if command -v TransDecoder.LongOrfs &> /dev/null; then
     echo "Transdecoder is installed."
 else
-    conda install -n sicb2023 transdecoder
+    conda install -n sicb2023 transdecoder -y
     echo "Transdecoder installed."
 fi
 
 if command -v iqtree &> /dev/null; then
     echo "Iqtree is installed."
 else
-    conda install -n sicb2023 iqtree
+    conda install -n sicb2023 iqtree -y
     echo "Iqtree installed."
 fi
 
 if command -v mafft &> /dev/null; then
     echo "Mafft is installed."
 else
-    conda install -n sicb2023 mafft
+    conda install -n sicb2023 mafft -y
     echo "Mafft installed."
 fi
 
 if command -v clipkit &> /dev/null; then
     echo "Clipkit is installed."
 else
-    conda install -n sicb2023 clipkit
+    conda install -n sicb2023 clipkit -y
     echo "Clipkit installed."
 fi
 
 if command -v hmmer &> /dev/null; then
     echo "Hmmer is installed."
 else
-    conda install -n sicb2023 hmmer
+    conda install -n sicb2023 hmmer -y
     echo "Hmmer installed."
 fi
 
 if command -v hyphy &> /dev/null; then
     echo "Hyphy is installed."
 else
-    conda install -n sicb2023 hyphy
+    conda install -n sicb2023 hyphy -y
     echo "Hyphy installed."
 fi
 
 if command -v paml &> /dev/null; then
     echo "Paml is installed."
 else
-    conda install -n sicb2023 paml
+    conda install -n sicb2023 paml -y
     echo "Paml installed."
 fi
 
 if command -v run_treeshrink.py &> /dev/null; then
     echo "Treeshrink is installed."
 else
-    conda install -n sicb2023 -c smirarab treeshrink
+    conda install -n sicb2023 -c smirarab treeshrink -y
     echo "Treeshrink installed."
 fi
 
 if command -v seqtk &> /dev/null; then
     echo "seqtk is installed."
 else
-    conda install -n sicb2023 seqtk
+    conda install -n sicb2023 seqtk -y
     echo "seqtk installed."
 fi
+
+conda install -n sicb2023 python=3.7 -y
 
 echo "Please enter full path to a folder to save the workshop materials (e.g., /home/sicb2023/):"
 read folder
@@ -175,15 +173,12 @@ conda init bash
 conda activate sicb2023
 
 #test if the programs are now able to run
-if command -v biopython &> /dev/null; then
-    echo "Biopython is working properly."
-fi
 
 if command -v orthofinder &> /dev/null; then
     echo "Orthofinder is working properly."
 fi
 
-if command -v transdecoder &> /dev/null; then
+if command -v TransDecoder.LongOrfs &> /dev/null; then
     echo "Transdecoder is working properly."
 fi
 
@@ -199,7 +194,7 @@ if command -v clipkit &> /dev/null; then
     echo "Clipkit is working properly."
 fi
 
-if command -v hmmer &> /dev/null; then
+if command -v hmmsearch &> /dev/null; then
     echo "Hmmer is working properly."
 fi
 
@@ -207,7 +202,7 @@ if command -v hyphy &> /dev/null; then
     echo "Hyphy is working properly."
 fi
 
-if command -v paml &> /dev/null; then
+if command -v codeml &> /dev/null; then
     echo "Paml is working properly."
 fi
 
