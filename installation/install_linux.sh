@@ -37,6 +37,8 @@ else
     fi
     # create conda environment
     conda create -n sicb2023 python=3.7
+    conda init bash
+    conda activate sicb2023
     # add channels
     conda config --add channels defaults
     conda config --add channels bioconda
@@ -73,6 +75,8 @@ $HOME/miniconda3/bin/conda init bash
 source $HOME/miniconda3/bin/activate sicb2023
 conda init bash
 conda activate sicb2023
+
+prog_cmds=("hyphy" "orthofinder" "TransDecoder.LongOrfs" "iqtree" "mafft" "clipkit" "hmmer" "paml" "run_treeshrink.py" "seqtk")
 
 # test if programs are working
 for program in "${programs[@]}"
