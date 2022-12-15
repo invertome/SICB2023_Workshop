@@ -142,13 +142,6 @@ else
     echo "Paml installed."
 fi
 
-if command -v perl &> /dev/null; then
-    echo "Perl is installed."
-else
-    conda install -n sicb2023 perl
-    echo "Perl installed."
-fi
-
 if command -v run_treeshrink.py &> /dev/null; then
     echo "Treeshrink is installed."
 else
