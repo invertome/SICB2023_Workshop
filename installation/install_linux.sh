@@ -54,9 +54,9 @@ do
         echo "$program is already installed"
     else
         if [ "$program" == "run_treeshrink.py" ]; then
-            conda install -c smirarab treeshrink -n sicb2023
+            conda install -c smirarab treeshrink -n sicb2023 -y
         else
-            conda install $program -n sicb2023
+            conda install $program -n sicb2023 -y
         fi
     fi
 done
