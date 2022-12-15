@@ -45,7 +45,7 @@ else
 fi
 
 # install programs
-programs=("biopython" "orthofinder" "transdecoder" "iqtree" "mafft" "clipkit" "hmmer" "hyphy" "paml" "run_treeshrink.py" "seqtk")
+programs=("biopython" "hyphy" "orthofinder" "transdecoder" "iqtree" "mafft" "clipkit" "hmmer" "paml" "run_treeshrink.py" "seqtk")
 for program in "${programs[@]}"
 do
     if command -v $program &>/dev/null; then
