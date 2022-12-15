@@ -84,4 +84,4 @@ do
     fi
 done
 
-echo "To verify whether the conda packages were installed succesfully, once this program exits please cd into 'SICB2023_Workshop/' folder and run: 'conda activate sicb2023 && ./installation/checks.sh' "
+echo "To verify whether the conda packages were installed succesfully or not, once this program exits please cd into the 'SICB2023_Workshop/' folder and run: 'conda activate sicb2023 && ./installation/checks.sh' "
