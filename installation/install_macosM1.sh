@@ -185,6 +185,8 @@ wget http://ftp.ebi.ac.uk/pub/databases/Pfam/current_release/Pfam-A.hmm.dat.gz #
 wget http://ftp.ebi.ac.uk/pub/databases/Pfam/current_release/Pfam-A.seed.gz #STOCKHOLM formatted sed alignments
 gzip -d *.gz #
 
+cd $folder
+
 #clone the workshop materials
 git clone https://github.com/invertome/SICB2023_Workshop.git
 
