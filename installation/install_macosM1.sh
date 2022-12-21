@@ -83,7 +83,7 @@ conda config --set channel_priority strict
 #test if the following software is installed:
 #orthofinder, transdecoder, iqtree, mafft, clipkit, hmmer, hyphy, paml, perl, treeshrink, seqtk
 
-conda install -c conda-forge coreutils
+conda install -c conda-forge coreutils -y
 
 if command -v orthofinder &> /dev/null; then
     echo "Orthofinder is installed."
