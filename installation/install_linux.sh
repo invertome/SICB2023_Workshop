@@ -50,7 +50,7 @@ conda config --set channel_priority strict
 conda init bash
 conda activate sicb2023
 
-conda install -c conda-forge coreutils
+conda install -c conda-forge coreutils -y
 
 # install programs
 programs=("biopython" "hyphy" "orthofinder" "transdecoder" "iqtree" "mafft" "clipkit" "hmmer" "paml" "treeshrink" "seqtk")
