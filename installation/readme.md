@@ -16,8 +16,9 @@ mkdir /home/User1/Desktop/workshop/
 
 bash install_linux.sh /home/User1/Desktop/workshop/
 
-# Once installation/downloads complete, please load the new conda environment, and run the install checks to make sure the dependencies 
-# are working. Remember to update the paths to the ones you previously set.
+# Once installation/downloads complete, please restart your terminal, load the new conda environment, and run the install checks 
+# to make sure the dependencies are working. Remember to update the paths to the ones you previously set.
+
 
 conda activate sicb2023
 cd /home/User1/Desktop/workshop/
