@@ -4,6 +4,8 @@ The script will check if Python3 and Anaconda/Miniconda are installed, if they a
 
 If you are an intermediate/advanced user, feel free to modify the scripts to adjust them to your needs.
 
+Make sure you have ample disk space before running ( > 1 GB ), since it will download a couple of large reference datasets.
+
 An example installation run:
 
 ```
