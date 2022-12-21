@@ -26,5 +26,5 @@ chmod +x ./SICB2023_Workshop/installation/checks.sh
 bash ./SICB2023_Workshop/installation/checks.sh 
 ```
 
-If everything installs and the checks are successful, then you are all set. If there are any problems during installation, please make note of the commands & output, and send us an email to troubleshoot the process:  jorgepm@colostate.edu 
+If everything installs and the checks are successful, then you are all set. If there are any problems during installation, please make note of the commands & output, and send us an email to troubleshoot the process:  jorgepm AT colostate.edu 
 We will be troubleshooting installations onsite before the workshop commences. If you would like assistance on the day of the workshop, please arrive early and allow ample time for any eventualities.
