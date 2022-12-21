@@ -1,6 +1,8 @@
 #!/bin/bash
 
-#Usage:  ./install_macos.sh
+#Usage:  ./install_macos.sh /full/path/to/installation/folder/
+
+folder=$1
 
 #check if python is installed
 if command -v python3 &> /dev/null; then
@@ -15,9 +17,6 @@ else
         curl -O https://www.python.org/ftp/python/3.7.3/python-3.7.3-macosx10.9.pkg
     fi
 
-    #prompt user to enter folder to save python3
-    echo "Please enter the full path to a folder to save the downloaded python3 package (e.g., /home/sicb2023/):"
-    read folder
 
     #move the python3 package to the specified folder
     mv python-3.7.3-macosx*.pkg $folder
@@ -47,9 +46,6 @@ else
         curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
     fi
 
-    #prompt user to enter folder to save miniconda3
-    echo "Please enter full path to a folder to save the downloaded miniconda3 package (e.g., /home/sicb2023/):"
-    read folder
 
     #move the miniconda3 package to the specified folder
     mv Miniconda3-latest-MacOSX*.sh $folder
@@ -154,8 +150,6 @@ fi
 
 conda install -n sicb2023 python=3.7 -y
 
-echo "Please enter full path to a folder to save the workshop materials (e.g., /home/sicb2023/):"
-read folder
 
 cd $folder
 
