@@ -7,8 +7,18 @@ If you are an intermediate/advanced user, feel free to modify the scripts to adj
 An example installation run:
 
 ```
+# Open your terminal
+
+# Download the installation script to your current folder. Replace "install_linux.sh", for "install_macos.sh" or "install_macosM1.sh"
+# according to OS and chip type
+
+wget https://github.com/invertome/SICB2023_Workshop/raw/main/installation/install_linux.sh
+
+
 # Assigning permissions to execute
+
 chmod +x install_linux.sh
+
 
 # Execute installation script from the folder where it was downloaded to. Include the full path where to clone workshop 
 # materials into. In this example we are creating a "workshop" folder on the linux desktop for "User1". Make sure this corresponds 
@@ -18,14 +28,15 @@ mkdir /home/User1/Desktop/workshop/
 
 bash install_linux.sh /home/User1/Desktop/workshop/
 
+
 # Once installation/downloads complete, please restart your terminal, load the new conda environment, and run the install checks 
 # to make sure the dependencies are working. Remember to update the paths to the ones you previously set.
-
 
 conda activate sicb2023
 cd /home/User1/Desktop/workshop/
 chmod +x ./SICB2023_Workshop/installation/checks.sh
 bash ./SICB2023_Workshop/installation/checks.sh 
+
 
 ```
 
