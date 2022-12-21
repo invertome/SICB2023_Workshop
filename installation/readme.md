@@ -4,7 +4,8 @@ The scripts contained herein are meant to assist in the installation of the requ
 
 For example:
 
-`# Assigning permissions to execute
+```
+# Assigning permissions to execute
 chmod +x install_linux.sh
 
 # Execute installation script from the folder where it was downloaded to. Include the full path where to clone workshop materials into. In this example we are creating a "workshop" folder on the linux desktop for "User1". Make sure this corresponds to your own system.
@@ -18,4 +19,5 @@ bash install_linux.sh /home/User1/Desktop/workshop/
 conda activate sicb2023
 cd /home/User1/Desktop/workshop/
 chmod +x ./SICB2023_Workshop/installation/checks.sh
-bash ./SICB2023_Workshop/installation/checks.sh `
+bash ./SICB2023_Workshop/installation/checks.sh 
+```
