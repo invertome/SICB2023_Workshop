@@ -69,8 +69,8 @@ fi
 
 
 #create conda environment "sicb2023"
-conda create --name sicb2023 python=3.7
-conda init bash
+conda create --name sicb2023 -y python=3.7
+source activate base
 conda activate sicb2023
 
 #configure conda
