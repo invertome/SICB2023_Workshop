@@ -158,7 +158,7 @@ fi
 conda install -n sicb2023 python=3.7 -y
 
 #activate sicb2023 environment
-conda init bash
+source activate base
 conda activate sicb2023
 
 cd $folder
