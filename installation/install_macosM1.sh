@@ -69,8 +69,8 @@ fi
 
 
 #create conda environment "sicb2023"
-CONDA_SUBDIR=osx-64 conda create -n sicb2023 python=3.7
-conda init bash
+CONDA_SUBDIR=osx-64 conda create -n sicb2023 -y python=3.7
+source activate base
 conda activate sicb2023
 
 #configure conda
