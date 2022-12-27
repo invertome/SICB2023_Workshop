@@ -48,6 +48,7 @@ conda config --add channels conda-forge
 conda config --set channel_priority strict
 
 conda init bash
+source activate base
 conda activate sicb2023
 
 conda install -c conda-forge coreutils -y
