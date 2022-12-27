@@ -24,7 +24,7 @@ chmod +x install_linux.sh
 
 # Execute installation script from the folder where it was downloaded to. Include the full path where to clone workshop 
 # materials into. In this example we are creating a "workshop" folder on the linux desktop for "User1". Make sure this corresponds 
-# to your own system.
+# to your own system. Use ABSOLUTE paths (i.e., /home/User1/Desktop/workshop/ ) and *not* relative paths (i.e., ../workshop/)!
 
 mkdir /home/User1/Desktop/workshop/
 
