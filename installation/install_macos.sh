@@ -160,6 +160,11 @@ conda install -n sicb2023 python=3.7 -y
 conda init bash
 conda activate sicb2023
 
+conda install -y -n sicb2023 -c bioconda perl-db-file
+conda install -y -n sicb2023 -c conda-forge r-ape
+conda install -y -n sicb2023 -c bioconda perl-uri
+cpan URI::Escape
+
 cd $folder
 
 #clone the tiammat repository
