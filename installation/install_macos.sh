@@ -164,6 +164,7 @@ conda install -y -n sicb2023 -c bioconda perl-db-file
 conda install -y -n sicb2023 -c conda-forge r-ape
 conda install -y -n sicb2023 -c bioconda perl-uri
 cpan URI::Escape
+pip install --user phylopypruner
 
 cd $folder
 
