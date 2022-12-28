@@ -182,7 +182,7 @@ wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/224/145/GCF_000224145.3_KH
 gzip -d * #Decompress downloaded proteoms
 
 #Set-up PfamModels directory
-cd ..
+cd $folder
 cd PfamModels/
 
 wget http://ftp.ebi.ac.uk/pub/databases/Pfam/current_release/Pfam-A.hmm.dat.gz #Low-weight metadata used to get up-to-date accession for target domains
