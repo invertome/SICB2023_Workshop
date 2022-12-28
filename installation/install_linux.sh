@@ -64,6 +64,12 @@ do
     fi
 done
 
+conda install -y -n sicb2023 -c bioconda perl-db-file
+conda install -y -n sicb2023 -c conda-forge r-ape
+conda install -y -n sicb2023 -c bioconda perl-uri
+cpan URI::Escape
+
+
 # clone TIAMMAt
 cd $folder
 git clone https://github.com/mtassia/TIAMMAt.git
