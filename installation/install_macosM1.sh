@@ -161,6 +161,11 @@ conda install -n sicb2023 python=3.7 -y
 source activate base
 conda activate sicb2023
 
+conda install -y -n sicb2023 -c bioconda perl-db-file
+conda install -y -n sicb2023 -c conda-forge r-ape
+conda install -y -n sicb2023 -c bioconda perl-uri
+cpan URI::Escape
+
 cd $folder
 
 #clone the tiammat repository
@@ -178,7 +183,7 @@ wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/224/145/GCF_000224145.3_KH
 gzip -d * #Decompress downloaded proteoms
 
 #Set-up PfamModels directory
-cd ..
+cd $folder
 cd PfamModels/
 
 wget http://ftp.ebi.ac.uk/pub/databases/Pfam/current_release/Pfam-A.hmm.dat.gz #Low-weight metadata used to get up-to-date accession for target domains
