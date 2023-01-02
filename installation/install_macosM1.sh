@@ -11,10 +11,10 @@ else
     #check what version of MacOS is running
     if [[ $(sw_vers -productVersion | cut -d . -f 2) -lt 15 ]]; then
         echo "MacOS version is lower than 10.15. Downloading python3 for MacOS 10.14 or lower..."
-        curl -O https://www.python.org/ftp/python/3.7.3/python-3.7.3-macosx10.6.pkg
+        curl -LO https://www.python.org/ftp/python/3.7.3/python-3.7.3-macosx10.6.pkg
     else
         echo "MacOS version is 10.15 or higher. Downloading python3 for MacOS 10.15 or higher..."
-        curl -O https://www.python.org/ftp/python/3.7.3/python-3.7.3-macosx10.9.pkg
+        curl -LO https://www.python.org/ftp/python/3.7.3/python-3.7.3-macosx10.9.pkg
     fi
 
 
@@ -42,10 +42,10 @@ else
     #check what version of MacOS is running
     if [[ $(sw_vers -productVersion | cut -d . -f 2) -lt 15 ]]; then
         echo "MacOS version is lower than 10.15. Downloading miniconda3 for MacOS 10.14 or lower..."
-        curl -O https://repo.continuum.io/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
+        curl -LO https://repo.continuum.io/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
     else
         echo "MacOS version is 10.15 or higher. Downloading miniconda3 for MacOS 10.15 or higher..."
-        curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
+        curl -LO https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
     fi
 
 
@@ -175,21 +175,21 @@ git clone https://github.com/mtassia/TIAMMAt.git
 
 mkdir Proteomes 
 mkdir PfamModels 
-wget http://ftp.ebi.ac.uk/pub/databases/Pfam/current_release/Pfam-A.hmm.gz
+curl -LO http://ftp.ebi.ac.uk/pub/databases/Pfam/current_release/Pfam-A.hmm.gz
 gzip -d *.gz #Decompress pfam database
 
 #Set-up Proteomes directory
 cd Proteomes/
-wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/003/605/GCF_000003605.2_Skow_1.1/GCF_000003605.2_Skow_1.1_protein.faa.gz #Download example proteome 1
-wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/224/145/GCF_000224145.3_KH/GCF_000224145.3_KH_protein.faa.gz #Download example proteome 2
+curl -LO https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/003/605/GCF_000003605.2_Skow_1.1/GCF_000003605.2_Skow_1.1_protein.faa.gz #Download example proteome 1
+curl -LO https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/224/145/GCF_000224145.3_KH/GCF_000224145.3_KH_protein.faa.gz #Download example proteome 2
 gzip -d * #Decompress downloaded proteoms
 
 #Set-up PfamModels directory
 cd $folder
 cd PfamModels/
 
-wget http://ftp.ebi.ac.uk/pub/databases/Pfam/current_release/Pfam-A.hmm.dat.gz #Low-weight metadata used to get up-to-date accession for target domains
-wget http://ftp.ebi.ac.uk/pub/databases/Pfam/current_release/Pfam-A.seed.gz #STOCKHOLM formatted sed alignments
+curl -LO http://ftp.ebi.ac.uk/pub/databases/Pfam/current_release/Pfam-A.hmm.dat.gz #Low-weight metadata used to get up-to-date accession for target domains
+curl -LO http://ftp.ebi.ac.uk/pub/databases/Pfam/current_release/Pfam-A.seed.gz #STOCKHOLM formatted sed alignments
 gzip -d *.gz #
 
 cd $folder
