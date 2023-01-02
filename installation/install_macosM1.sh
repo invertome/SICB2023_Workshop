@@ -28,6 +28,7 @@ else
     export PATH=$PATH:/Library/Frameworks/Python.framework/Versions/3.7/bin
     #add python3 to bashrc
     echo "export PATH=$PATH:/Library/Frameworks/Python.framework/Versions/3.7/bin" >> ~/.bashrc
+    echo "export PATH=$PATH:/Library/Frameworks/Python.framework/Versions/3.7/bin" >> ~/.bash_profile
     
     #test if python3 was successfully installed
     if command -v python3 &> /dev/null; then
@@ -60,6 +61,7 @@ else
     
     #add miniconda3 to bashrc
     echo "export PATH=$PATH:$HOME/miniconda3/bin" >> ~/.bashrc
+    echo "export PATH=$PATH:$HOME/miniconda3/bin" >> ~/.bash_profile
 
     #test if miniconda3 was successfully installed
     if command -v conda &> /dev/null; then
@@ -69,7 +71,8 @@ fi
 
 
 #create conda environment "sicb2023"
-CONDA_SUBDIR=osx-64 conda create -n sicb2023 -y python=3.7
+CONDA_SUBDIR=osx-64
+conda create -n sicb2023 -y python=3.7
 source activate base
 conda activate sicb2023
 
