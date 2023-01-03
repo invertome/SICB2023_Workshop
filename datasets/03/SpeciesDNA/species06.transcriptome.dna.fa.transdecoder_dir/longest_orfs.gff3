@@ -1,0 +1,190 @@
+AseaqSEVm001984t1:13-2586	transdecoder	gene	1	2574	.	+	.	ID=GENE.AseaqSEVm001984t1:13-2586~~AseaqSEVm001984t1:13-2586.p1;Name=ORF%20type%3Ainternal%20len%3A859%20%28%2B%29
+AseaqSEVm001984t1:13-2586	transdecoder	mRNA	1	2574	.	+	.	ID=AseaqSEVm001984t1:13-2586.p1;Parent=GENE.AseaqSEVm001984t1:13-2586~~AseaqSEVm001984t1:13-2586.p1;Name=ORF%20type%3Ainternal%20len%3A859%20%28%2B%29
+AseaqSEVm001984t1:13-2586	transdecoder	exon	1	2574	.	+	.	ID=AseaqSEVm001984t1:13-2586.p1.exon1;Parent=AseaqSEVm001984t1:13-2586.p1
+AseaqSEVm001984t1:13-2586	transdecoder	CDS	1	2574	.	+	0	ID=cds.AseaqSEVm001984t1:13-2586.p1;Parent=AseaqSEVm001984t1:13-2586.p1;5_prime_partial=true;3_prime_partial=true
+
+AseaqSEVm000918t1:135-3533	transdecoder	gene	1	3399	.	+	.	ID=GENE.AseaqSEVm000918t1:135-3533~~AseaqSEVm000918t1:135-3533.p1;Name=ORF%20type%3A3prime_partial%20len%3A1134%20%28%2B%29
+AseaqSEVm000918t1:135-3533	transdecoder	mRNA	1	3399	.	+	.	ID=AseaqSEVm000918t1:135-3533.p1;Parent=GENE.AseaqSEVm000918t1:135-3533~~AseaqSEVm000918t1:135-3533.p1;Name=ORF%20type%3A3prime_partial%20len%3A1134%20%28%2B%29
+AseaqSEVm000918t1:135-3533	transdecoder	exon	1	3399	.	+	.	ID=AseaqSEVm000918t1:135-3533.p1.exon1;Parent=AseaqSEVm000918t1:135-3533.p1
+AseaqSEVm000918t1:135-3533	transdecoder	CDS	1	3399	.	+	0	ID=cds.AseaqSEVm000918t1:135-3533.p1;Parent=AseaqSEVm000918t1:135-3533.p1;3_prime_partial=true
+
+AseaqSEVm001070t1:122-3304	transdecoder	gene	1	3183	.	+	.	ID=GENE.AseaqSEVm001070t1:122-3304~~AseaqSEVm001070t1:122-3304.p1;Name=ORF%20type%3Ainternal%20len%3A1062%20%28%2B%29
+AseaqSEVm001070t1:122-3304	transdecoder	mRNA	1	3183	.	+	.	ID=AseaqSEVm001070t1:122-3304.p1;Parent=GENE.AseaqSEVm001070t1:122-3304~~AseaqSEVm001070t1:122-3304.p1;Name=ORF%20type%3Ainternal%20len%3A1062%20%28%2B%29
+AseaqSEVm001070t1:122-3304	transdecoder	exon	1	3183	.	+	.	ID=AseaqSEVm001070t1:122-3304.p1.exon1;Parent=AseaqSEVm001070t1:122-3304.p1
+AseaqSEVm001070t1:122-3304	transdecoder	CDS	1	3183	.	+	0	ID=cds.AseaqSEVm001070t1:122-3304.p1;Parent=AseaqSEVm001070t1:122-3304.p1;5_prime_partial=true;3_prime_partial=true
+
+AseaqSEVm000714t1:195-3170	transdecoder	gene	1	2976	.	+	.	ID=GENE.AseaqSEVm000714t1:195-3170~~AseaqSEVm000714t1:195-3170.p1;Name=ORF%20type%3Ainternal%20len%3A993%20%28%2B%29
+AseaqSEVm000714t1:195-3170	transdecoder	mRNA	1	2976	.	+	.	ID=AseaqSEVm000714t1:195-3170.p1;Parent=GENE.AseaqSEVm000714t1:195-3170~~AseaqSEVm000714t1:195-3170.p1;Name=ORF%20type%3Ainternal%20len%3A993%20%28%2B%29
+AseaqSEVm000714t1:195-3170	transdecoder	exon	1	2976	.	+	.	ID=AseaqSEVm000714t1:195-3170.p1.exon1;Parent=AseaqSEVm000714t1:195-3170.p1
+AseaqSEVm000714t1:195-3170	transdecoder	CDS	1	2976	.	+	0	ID=cds.AseaqSEVm000714t1:195-3170.p1;Parent=AseaqSEVm000714t1:195-3170.p1;5_prime_partial=true;3_prime_partial=true
+
+AseaqSEVm001178t1:109-3261	transdecoder	gene	1	3153	.	+	.	ID=GENE.AseaqSEVm001178t1:109-3261~~AseaqSEVm001178t1:109-3261.p1;Name=ORF%20type%3A3prime_partial%20len%3A1052%20%28%2B%29
+AseaqSEVm001178t1:109-3261	transdecoder	mRNA	1	3153	.	+	.	ID=AseaqSEVm001178t1:109-3261.p1;Parent=GENE.AseaqSEVm001178t1:109-3261~~AseaqSEVm001178t1:109-3261.p1;Name=ORF%20type%3A3prime_partial%20len%3A1052%20%28%2B%29
+AseaqSEVm001178t1:109-3261	transdecoder	exon	1	3153	.	+	.	ID=AseaqSEVm001178t1:109-3261.p1.exon1;Parent=AseaqSEVm001178t1:109-3261.p1
+AseaqSEVm001178t1:109-3261	transdecoder	CDS	1	3153	.	+	0	ID=cds.AseaqSEVm001178t1:109-3261.p1;Parent=AseaqSEVm001178t1:109-3261.p1;3_prime_partial=true
+
+AseaqSEVm000080t1:142-7656	transdecoder	gene	1	7515	.	+	.	ID=GENE.AseaqSEVm000080t1:142-7656~~AseaqSEVm000080t1:142-7656.p1;Name=ORF%20type%3Ainternal%20len%3A2506%20%28%2B%29
+AseaqSEVm000080t1:142-7656	transdecoder	mRNA	1	7515	.	+	.	ID=AseaqSEVm000080t1:142-7656.p1;Parent=GENE.AseaqSEVm000080t1:142-7656~~AseaqSEVm000080t1:142-7656.p1;Name=ORF%20type%3Ainternal%20len%3A2506%20%28%2B%29
+AseaqSEVm000080t1:142-7656	transdecoder	exon	1	7515	.	+	.	ID=AseaqSEVm000080t1:142-7656.p1.exon1;Parent=AseaqSEVm000080t1:142-7656.p1
+AseaqSEVm000080t1:142-7656	transdecoder	CDS	1	7515	.	+	0	ID=cds.AseaqSEVm000080t1:142-7656.p1;Parent=AseaqSEVm000080t1:142-7656.p1;5_prime_partial=true;3_prime_partial=true
+
+AseaqSEVm000080t1:142-7656	transdecoder	gene	1	7515	.	-	.	ID=GENE.AseaqSEVm000080t1:142-7656~~AseaqSEVm000080t1:142-7656.p2;Name=ORF%20type%3A5prime_partial%20len%3A121%20%28-%29
+AseaqSEVm000080t1:142-7656	transdecoder	mRNA	1	7515	.	-	.	ID=AseaqSEVm000080t1:142-7656.p2;Parent=GENE.AseaqSEVm000080t1:142-7656~~AseaqSEVm000080t1:142-7656.p2;Name=ORF%20type%3A5prime_partial%20len%3A121%20%28-%29
+AseaqSEVm000080t1:142-7656	transdecoder	exon	1	7515	.	-	.	ID=AseaqSEVm000080t1:142-7656.p2.exon1;Parent=AseaqSEVm000080t1:142-7656.p2
+AseaqSEVm000080t1:142-7656	transdecoder	CDS	7152	7514	.	-	0	ID=cds.AseaqSEVm000080t1:142-7656.p2;Parent=AseaqSEVm000080t1:142-7656.p2;5_prime_partial=true
+AseaqSEVm000080t1:142-7656	transdecoder	three_prime_UTR	1	7151	.	-	.	ID=AseaqSEVm000080t1:142-7656.p2.utr3p1;Parent=AseaqSEVm000080t1:142-7656.p2
+
+AseaqSEVm001078t1:153-3440	transdecoder	gene	1	3288	.	+	.	ID=GENE.AseaqSEVm001078t1:153-3440~~AseaqSEVm001078t1:153-3440.p1;Name=ORF%20type%3A3prime_partial%20len%3A1097%20%28%2B%29
+AseaqSEVm001078t1:153-3440	transdecoder	mRNA	1	3288	.	+	.	ID=AseaqSEVm001078t1:153-3440.p1;Parent=GENE.AseaqSEVm001078t1:153-3440~~AseaqSEVm001078t1:153-3440.p1;Name=ORF%20type%3A3prime_partial%20len%3A1097%20%28%2B%29
+AseaqSEVm001078t1:153-3440	transdecoder	exon	1	3288	.	+	.	ID=AseaqSEVm001078t1:153-3440.p1.exon1;Parent=AseaqSEVm001078t1:153-3440.p1
+AseaqSEVm001078t1:153-3440	transdecoder	CDS	1	3288	.	+	0	ID=cds.AseaqSEVm001078t1:153-3440.p1;Parent=AseaqSEVm001078t1:153-3440.p1;3_prime_partial=true
+
+AseaqSEVm001005t1:1778-3466	transdecoder	gene	1	1689	.	+	.	ID=GENE.AseaqSEVm001005t1:1778-3466~~AseaqSEVm001005t1:1778-3466.p1;Name=ORF%20type%3Ainternal%20len%3A564%20%28%2B%29
+AseaqSEVm001005t1:1778-3466	transdecoder	mRNA	1	1689	.	+	.	ID=AseaqSEVm001005t1:1778-3466.p1;Parent=GENE.AseaqSEVm001005t1:1778-3466~~AseaqSEVm001005t1:1778-3466.p1;Name=ORF%20type%3Ainternal%20len%3A564%20%28%2B%29
+AseaqSEVm001005t1:1778-3466	transdecoder	exon	1	1689	.	+	.	ID=AseaqSEVm001005t1:1778-3466.p1.exon1;Parent=AseaqSEVm001005t1:1778-3466.p1
+AseaqSEVm001005t1:1778-3466	transdecoder	CDS	1	1689	.	+	0	ID=cds.AseaqSEVm001005t1:1778-3466.p1;Parent=AseaqSEVm001005t1:1778-3466.p1;5_prime_partial=true;3_prime_partial=true
+
+AseaqSEVm000783t1:191-3928	transdecoder	gene	1	3738	.	+	.	ID=GENE.AseaqSEVm000783t1:191-3928~~AseaqSEVm000783t1:191-3928.p1;Name=ORF%20type%3Ainternal%20len%3A1247%20%28%2B%29
+AseaqSEVm000783t1:191-3928	transdecoder	mRNA	1	3738	.	+	.	ID=AseaqSEVm000783t1:191-3928.p1;Parent=GENE.AseaqSEVm000783t1:191-3928~~AseaqSEVm000783t1:191-3928.p1;Name=ORF%20type%3Ainternal%20len%3A1247%20%28%2B%29
+AseaqSEVm000783t1:191-3928	transdecoder	exon	1	3738	.	+	.	ID=AseaqSEVm000783t1:191-3928.p1.exon1;Parent=AseaqSEVm000783t1:191-3928.p1
+AseaqSEVm000783t1:191-3928	transdecoder	CDS	1	3738	.	+	0	ID=cds.AseaqSEVm000783t1:191-3928.p1;Parent=AseaqSEVm000783t1:191-3928.p1;5_prime_partial=true;3_prime_partial=true
+
+AseaqSEVm000783t1:191-3928	transdecoder	gene	1	3738	.	-	.	ID=GENE.AseaqSEVm000783t1:191-3928~~AseaqSEVm000783t1:191-3928.p2;Name=ORF%20type%3Acomplete%20len%3A130%20%28-%29
+AseaqSEVm000783t1:191-3928	transdecoder	mRNA	1	3738	.	-	.	ID=AseaqSEVm000783t1:191-3928.p2;Parent=GENE.AseaqSEVm000783t1:191-3928~~AseaqSEVm000783t1:191-3928.p2;Name=ORF%20type%3Acomplete%20len%3A130%20%28-%29
+AseaqSEVm000783t1:191-3928	transdecoder	five_prime_UTR	2841	3738	.	-	.	ID=AseaqSEVm000783t1:191-3928.p2.utr5p1;Parent=AseaqSEVm000783t1:191-3928.p2
+AseaqSEVm000783t1:191-3928	transdecoder	exon	1	3738	.	-	.	ID=AseaqSEVm000783t1:191-3928.p2.exon1;Parent=AseaqSEVm000783t1:191-3928.p2
+AseaqSEVm000783t1:191-3928	transdecoder	CDS	2451	2840	.	-	0	ID=cds.AseaqSEVm000783t1:191-3928.p2;Parent=AseaqSEVm000783t1:191-3928.p2
+AseaqSEVm000783t1:191-3928	transdecoder	three_prime_UTR	1	2450	.	-	.	ID=AseaqSEVm000783t1:191-3928.p2.utr3p1;Parent=AseaqSEVm000783t1:191-3928.p2
+
+AseaqSEVm001570t1:181-2916	transdecoder	gene	1	2736	.	+	.	ID=GENE.AseaqSEVm001570t1:181-2916~~AseaqSEVm001570t1:181-2916.p1;Name=ORF%20type%3A3prime_partial%20len%3A913%20%28%2B%29
+AseaqSEVm001570t1:181-2916	transdecoder	mRNA	1	2736	.	+	.	ID=AseaqSEVm001570t1:181-2916.p1;Parent=GENE.AseaqSEVm001570t1:181-2916~~AseaqSEVm001570t1:181-2916.p1;Name=ORF%20type%3A3prime_partial%20len%3A913%20%28%2B%29
+AseaqSEVm001570t1:181-2916	transdecoder	exon	1	2736	.	+	.	ID=AseaqSEVm001570t1:181-2916.p1.exon1;Parent=AseaqSEVm001570t1:181-2916.p1
+AseaqSEVm001570t1:181-2916	transdecoder	CDS	1	2736	.	+	0	ID=cds.AseaqSEVm001570t1:181-2916.p1;Parent=AseaqSEVm001570t1:181-2916.p1;3_prime_partial=true
+
+AseaqSEVm001361t1:177-3134	transdecoder	gene	1	2958	.	+	.	ID=GENE.AseaqSEVm001361t1:177-3134~~AseaqSEVm001361t1:177-3134.p1;Name=ORF%20type%3A3prime_partial%20len%3A987%20%28%2B%29
+AseaqSEVm001361t1:177-3134	transdecoder	mRNA	1	2958	.	+	.	ID=AseaqSEVm001361t1:177-3134.p1;Parent=GENE.AseaqSEVm001361t1:177-3134~~AseaqSEVm001361t1:177-3134.p1;Name=ORF%20type%3A3prime_partial%20len%3A987%20%28%2B%29
+AseaqSEVm001361t1:177-3134	transdecoder	exon	1	2958	.	+	.	ID=AseaqSEVm001361t1:177-3134.p1.exon1;Parent=AseaqSEVm001361t1:177-3134.p1
+AseaqSEVm001361t1:177-3134	transdecoder	CDS	1	2958	.	+	0	ID=cds.AseaqSEVm001361t1:177-3134.p1;Parent=AseaqSEVm001361t1:177-3134.p1;3_prime_partial=true
+
+AseaqSEVm001361t1:177-3134	transdecoder	gene	1	2958	.	-	.	ID=GENE.AseaqSEVm001361t1:177-3134~~AseaqSEVm001361t1:177-3134.p2;Name=ORF%20type%3A3prime_partial%20len%3A148%20%28-%29
+AseaqSEVm001361t1:177-3134	transdecoder	mRNA	1	2958	.	-	.	ID=AseaqSEVm001361t1:177-3134.p2;Parent=GENE.AseaqSEVm001361t1:177-3134~~AseaqSEVm001361t1:177-3134.p2;Name=ORF%20type%3A3prime_partial%20len%3A148%20%28-%29
+AseaqSEVm001361t1:177-3134	transdecoder	five_prime_UTR	444	2958	.	-	.	ID=AseaqSEVm001361t1:177-3134.p2.utr5p1;Parent=AseaqSEVm001361t1:177-3134.p2
+AseaqSEVm001361t1:177-3134	transdecoder	exon	1	2958	.	-	.	ID=AseaqSEVm001361t1:177-3134.p2.exon1;Parent=AseaqSEVm001361t1:177-3134.p2
+AseaqSEVm001361t1:177-3134	transdecoder	CDS	3	443	.	-	0	ID=cds.AseaqSEVm001361t1:177-3134.p2;Parent=AseaqSEVm001361t1:177-3134.p2;3_prime_partial=true
+
+AseaqSEVm001004t1:1191-3107	transdecoder	gene	1	1917	.	+	.	ID=GENE.AseaqSEVm001004t1:1191-3107~~AseaqSEVm001004t1:1191-3107.p1;Name=ORF%20type%3Ainternal%20len%3A640%20%28%2B%29
+AseaqSEVm001004t1:1191-3107	transdecoder	mRNA	1	1917	.	+	.	ID=AseaqSEVm001004t1:1191-3107.p1;Parent=GENE.AseaqSEVm001004t1:1191-3107~~AseaqSEVm001004t1:1191-3107.p1;Name=ORF%20type%3Ainternal%20len%3A640%20%28%2B%29
+AseaqSEVm001004t1:1191-3107	transdecoder	exon	1	1917	.	+	.	ID=AseaqSEVm001004t1:1191-3107.p1.exon1;Parent=AseaqSEVm001004t1:1191-3107.p1
+AseaqSEVm001004t1:1191-3107	transdecoder	CDS	1	1917	.	+	0	ID=cds.AseaqSEVm001004t1:1191-3107.p1;Parent=AseaqSEVm001004t1:1191-3107.p1;5_prime_partial=true;3_prime_partial=true
+
+AseaqSEVm000141t1:92-5458	transdecoder	gene	1	5367	.	+	.	ID=GENE.AseaqSEVm000141t1:92-5458~~AseaqSEVm000141t1:92-5458.p1;Name=ORF%20type%3A3prime_partial%20len%3A1790%20%28%2B%29
+AseaqSEVm000141t1:92-5458	transdecoder	mRNA	1	5367	.	+	.	ID=AseaqSEVm000141t1:92-5458.p1;Parent=GENE.AseaqSEVm000141t1:92-5458~~AseaqSEVm000141t1:92-5458.p1;Name=ORF%20type%3A3prime_partial%20len%3A1790%20%28%2B%29
+AseaqSEVm000141t1:92-5458	transdecoder	exon	1	5367	.	+	.	ID=AseaqSEVm000141t1:92-5458.p1.exon1;Parent=AseaqSEVm000141t1:92-5458.p1
+AseaqSEVm000141t1:92-5458	transdecoder	CDS	1	5367	.	+	0	ID=cds.AseaqSEVm000141t1:92-5458.p1;Parent=AseaqSEVm000141t1:92-5458.p1;3_prime_partial=true
+
+AseaqSEVm000141t1:92-5458	transdecoder	gene	1	5367	.	+	.	ID=GENE.AseaqSEVm000141t1:92-5458~~AseaqSEVm000141t1:92-5458.p2;Name=ORF%20type%3Acomplete%20len%3A120%20%28%2B%29
+AseaqSEVm000141t1:92-5458	transdecoder	mRNA	1	5367	.	+	.	ID=AseaqSEVm000141t1:92-5458.p2;Parent=GENE.AseaqSEVm000141t1:92-5458~~AseaqSEVm000141t1:92-5458.p2;Name=ORF%20type%3Acomplete%20len%3A120%20%28%2B%29
+AseaqSEVm000141t1:92-5458	transdecoder	five_prime_UTR	1	3880	.	+	.	ID=AseaqSEVm000141t1:92-5458.p2.utr5p1;Parent=AseaqSEVm000141t1:92-5458.p2
+AseaqSEVm000141t1:92-5458	transdecoder	exon	1	5367	.	+	.	ID=AseaqSEVm000141t1:92-5458.p2.exon1;Parent=AseaqSEVm000141t1:92-5458.p2
+AseaqSEVm000141t1:92-5458	transdecoder	CDS	3881	4240	.	+	0	ID=cds.AseaqSEVm000141t1:92-5458.p2;Parent=AseaqSEVm000141t1:92-5458.p2
+AseaqSEVm000141t1:92-5458	transdecoder	three_prime_UTR	4241	5367	.	+	.	ID=AseaqSEVm000141t1:92-5458.p2.utr3p1;Parent=AseaqSEVm000141t1:92-5458.p2
+
+AseaqSEVm000497t1:139-4473	transdecoder	gene	1	4335	.	+	.	ID=GENE.AseaqSEVm000497t1:139-4473~~AseaqSEVm000497t1:139-4473.p1;Name=ORF%20type%3Ainternal%20len%3A1446%20%28%2B%29
+AseaqSEVm000497t1:139-4473	transdecoder	mRNA	1	4335	.	+	.	ID=AseaqSEVm000497t1:139-4473.p1;Parent=GENE.AseaqSEVm000497t1:139-4473~~AseaqSEVm000497t1:139-4473.p1;Name=ORF%20type%3Ainternal%20len%3A1446%20%28%2B%29
+AseaqSEVm000497t1:139-4473	transdecoder	exon	1	4335	.	+	.	ID=AseaqSEVm000497t1:139-4473.p1.exon1;Parent=AseaqSEVm000497t1:139-4473.p1
+AseaqSEVm000497t1:139-4473	transdecoder	CDS	1	4335	.	+	0	ID=cds.AseaqSEVm000497t1:139-4473.p1;Parent=AseaqSEVm000497t1:139-4473.p1;5_prime_partial=true;3_prime_partial=true
+
+AseaqSEVm000497t1:139-4473	transdecoder	gene	1	4335	.	-	.	ID=GENE.AseaqSEVm000497t1:139-4473~~AseaqSEVm000497t1:139-4473.p2;Name=ORF%20type%3Acomplete%20len%3A239%20%28-%29
+AseaqSEVm000497t1:139-4473	transdecoder	mRNA	1	4335	.	-	.	ID=AseaqSEVm000497t1:139-4473.p2;Parent=GENE.AseaqSEVm000497t1:139-4473~~AseaqSEVm000497t1:139-4473.p2;Name=ORF%20type%3Acomplete%20len%3A239%20%28-%29
+AseaqSEVm000497t1:139-4473	transdecoder	five_prime_UTR	3318	4335	.	-	.	ID=AseaqSEVm000497t1:139-4473.p2.utr5p1;Parent=AseaqSEVm000497t1:139-4473.p2
+AseaqSEVm000497t1:139-4473	transdecoder	exon	1	4335	.	-	.	ID=AseaqSEVm000497t1:139-4473.p2.exon1;Parent=AseaqSEVm000497t1:139-4473.p2
+AseaqSEVm000497t1:139-4473	transdecoder	CDS	2601	3317	.	-	0	ID=cds.AseaqSEVm000497t1:139-4473.p2;Parent=AseaqSEVm000497t1:139-4473.p2
+AseaqSEVm000497t1:139-4473	transdecoder	three_prime_UTR	1	2600	.	-	.	ID=AseaqSEVm000497t1:139-4473.p2.utr3p1;Parent=AseaqSEVm000497t1:139-4473.p2
+
+AseaqSEVm000497t1:139-4473	transdecoder	gene	1	4335	.	+	.	ID=GENE.AseaqSEVm000497t1:139-4473~~AseaqSEVm000497t1:139-4473.p3;Name=ORF%20type%3Acomplete%20len%3A115%20%28%2B%29
+AseaqSEVm000497t1:139-4473	transdecoder	mRNA	1	4335	.	+	.	ID=AseaqSEVm000497t1:139-4473.p3;Parent=GENE.AseaqSEVm000497t1:139-4473~~AseaqSEVm000497t1:139-4473.p3;Name=ORF%20type%3Acomplete%20len%3A115%20%28%2B%29
+AseaqSEVm000497t1:139-4473	transdecoder	five_prime_UTR	1	2287	.	+	.	ID=AseaqSEVm000497t1:139-4473.p3.utr5p1;Parent=AseaqSEVm000497t1:139-4473.p3
+AseaqSEVm000497t1:139-4473	transdecoder	exon	1	4335	.	+	.	ID=AseaqSEVm000497t1:139-4473.p3.exon1;Parent=AseaqSEVm000497t1:139-4473.p3
+AseaqSEVm000497t1:139-4473	transdecoder	CDS	2288	2632	.	+	0	ID=cds.AseaqSEVm000497t1:139-4473.p3;Parent=AseaqSEVm000497t1:139-4473.p3
+AseaqSEVm000497t1:139-4473	transdecoder	three_prime_UTR	2633	4335	.	+	.	ID=AseaqSEVm000497t1:139-4473.p3.utr3p1;Parent=AseaqSEVm000497t1:139-4473.p3
+
+AseaqSEVm002480t1:380-2179	transdecoder	gene	1	1800	.	+	.	ID=GENE.AseaqSEVm002480t1:380-2179~~AseaqSEVm002480t1:380-2179.p1;Name=ORF%20type%3Ainternal%20len%3A601%20%28%2B%29
+AseaqSEVm002480t1:380-2179	transdecoder	mRNA	1	1800	.	+	.	ID=AseaqSEVm002480t1:380-2179.p1;Parent=GENE.AseaqSEVm002480t1:380-2179~~AseaqSEVm002480t1:380-2179.p1;Name=ORF%20type%3Ainternal%20len%3A601%20%28%2B%29
+AseaqSEVm002480t1:380-2179	transdecoder	exon	1	1800	.	+	.	ID=AseaqSEVm002480t1:380-2179.p1.exon1;Parent=AseaqSEVm002480t1:380-2179.p1
+AseaqSEVm002480t1:380-2179	transdecoder	CDS	1	1800	.	+	0	ID=cds.AseaqSEVm002480t1:380-2179.p1;Parent=AseaqSEVm002480t1:380-2179.p1;5_prime_partial=true;3_prime_partial=true
+
+AseaqSEVm001047t1:113-3406	transdecoder	gene	1	3294	.	+	.	ID=GENE.AseaqSEVm001047t1:113-3406~~AseaqSEVm001047t1:113-3406.p1;Name=ORF%20type%3A3prime_partial%20len%3A1099%20%28%2B%29
+AseaqSEVm001047t1:113-3406	transdecoder	mRNA	1	3294	.	+	.	ID=AseaqSEVm001047t1:113-3406.p1;Parent=GENE.AseaqSEVm001047t1:113-3406~~AseaqSEVm001047t1:113-3406.p1;Name=ORF%20type%3A3prime_partial%20len%3A1099%20%28%2B%29
+AseaqSEVm001047t1:113-3406	transdecoder	exon	1	3294	.	+	.	ID=AseaqSEVm001047t1:113-3406.p1.exon1;Parent=AseaqSEVm001047t1:113-3406.p1
+AseaqSEVm001047t1:113-3406	transdecoder	CDS	1	3294	.	+	0	ID=cds.AseaqSEVm001047t1:113-3406.p1;Parent=AseaqSEVm001047t1:113-3406.p1;3_prime_partial=true
+
+AseaqSEVm000838t1:109-3759	transdecoder	gene	1	3651	.	+	.	ID=GENE.AseaqSEVm000838t1:109-3759~~AseaqSEVm000838t1:109-3759.p1;Name=ORF%20type%3A3prime_partial%20len%3A1218%20%28%2B%29
+AseaqSEVm000838t1:109-3759	transdecoder	mRNA	1	3651	.	+	.	ID=AseaqSEVm000838t1:109-3759.p1;Parent=GENE.AseaqSEVm000838t1:109-3759~~AseaqSEVm000838t1:109-3759.p1;Name=ORF%20type%3A3prime_partial%20len%3A1218%20%28%2B%29
+AseaqSEVm000838t1:109-3759	transdecoder	exon	1	3651	.	+	.	ID=AseaqSEVm000838t1:109-3759.p1.exon1;Parent=AseaqSEVm000838t1:109-3759.p1
+AseaqSEVm000838t1:109-3759	transdecoder	CDS	1	3651	.	+	0	ID=cds.AseaqSEVm000838t1:109-3759.p1;Parent=AseaqSEVm000838t1:109-3759.p1;3_prime_partial=true
+
+AseaqSEVm000838t1:109-3759	transdecoder	gene	1	3651	.	-	.	ID=GENE.AseaqSEVm000838t1:109-3759~~AseaqSEVm000838t1:109-3759.p2;Name=ORF%20type%3Acomplete%20len%3A165%20%28-%29
+AseaqSEVm000838t1:109-3759	transdecoder	mRNA	1	3651	.	-	.	ID=AseaqSEVm000838t1:109-3759.p2;Parent=GENE.AseaqSEVm000838t1:109-3759~~AseaqSEVm000838t1:109-3759.p2;Name=ORF%20type%3Acomplete%20len%3A165%20%28-%29
+AseaqSEVm000838t1:109-3759	transdecoder	five_prime_UTR	629	3651	.	-	.	ID=AseaqSEVm000838t1:109-3759.p2.utr5p1;Parent=AseaqSEVm000838t1:109-3759.p2
+AseaqSEVm000838t1:109-3759	transdecoder	exon	1	3651	.	-	.	ID=AseaqSEVm000838t1:109-3759.p2.exon1;Parent=AseaqSEVm000838t1:109-3759.p2
+AseaqSEVm000838t1:109-3759	transdecoder	CDS	134	628	.	-	0	ID=cds.AseaqSEVm000838t1:109-3759.p2;Parent=AseaqSEVm000838t1:109-3759.p2
+AseaqSEVm000838t1:109-3759	transdecoder	three_prime_UTR	1	133	.	-	.	ID=AseaqSEVm000838t1:109-3759.p2.utr3p1;Parent=AseaqSEVm000838t1:109-3759.p2
+
+AseaqSEVm000107t1:145-7302	transdecoder	gene	1	7158	.	+	.	ID=GENE.AseaqSEVm000107t1:145-7302~~AseaqSEVm000107t1:145-7302.p1;Name=ORF%20type%3A3prime_partial%20len%3A2387%20%28%2B%29
+AseaqSEVm000107t1:145-7302	transdecoder	mRNA	1	7158	.	+	.	ID=AseaqSEVm000107t1:145-7302.p1;Parent=GENE.AseaqSEVm000107t1:145-7302~~AseaqSEVm000107t1:145-7302.p1;Name=ORF%20type%3A3prime_partial%20len%3A2387%20%28%2B%29
+AseaqSEVm000107t1:145-7302	transdecoder	exon	1	7158	.	+	.	ID=AseaqSEVm000107t1:145-7302.p1.exon1;Parent=AseaqSEVm000107t1:145-7302.p1
+AseaqSEVm000107t1:145-7302	transdecoder	CDS	1	7158	.	+	0	ID=cds.AseaqSEVm000107t1:145-7302.p1;Parent=AseaqSEVm000107t1:145-7302.p1;3_prime_partial=true
+
+AseaqSEVm000976t1:173-3568	transdecoder	gene	1	3396	.	+	.	ID=GENE.AseaqSEVm000976t1:173-3568~~AseaqSEVm000976t1:173-3568.p1;Name=ORF%20type%3Ainternal%20len%3A1133%20%28%2B%29
+AseaqSEVm000976t1:173-3568	transdecoder	mRNA	1	3396	.	+	.	ID=AseaqSEVm000976t1:173-3568.p1;Parent=GENE.AseaqSEVm000976t1:173-3568~~AseaqSEVm000976t1:173-3568.p1;Name=ORF%20type%3Ainternal%20len%3A1133%20%28%2B%29
+AseaqSEVm000976t1:173-3568	transdecoder	exon	1	3396	.	+	.	ID=AseaqSEVm000976t1:173-3568.p1.exon1;Parent=AseaqSEVm000976t1:173-3568.p1
+AseaqSEVm000976t1:173-3568	transdecoder	CDS	1	3396	.	+	0	ID=cds.AseaqSEVm000976t1:173-3568.p1;Parent=AseaqSEVm000976t1:173-3568.p1;5_prime_partial=true;3_prime_partial=true
+
+AseaqSEVm000976t1:173-3568	transdecoder	gene	1	3396	.	-	.	ID=GENE.AseaqSEVm000976t1:173-3568~~AseaqSEVm000976t1:173-3568.p2;Name=ORF%20type%3Acomplete%20len%3A181%20%28-%29
+AseaqSEVm000976t1:173-3568	transdecoder	mRNA	1	3396	.	-	.	ID=AseaqSEVm000976t1:173-3568.p2;Parent=GENE.AseaqSEVm000976t1:173-3568~~AseaqSEVm000976t1:173-3568.p2;Name=ORF%20type%3Acomplete%20len%3A181%20%28-%29
+AseaqSEVm000976t1:173-3568	transdecoder	five_prime_UTR	1320	3396	.	-	.	ID=AseaqSEVm000976t1:173-3568.p2.utr5p1;Parent=AseaqSEVm000976t1:173-3568.p2
+AseaqSEVm000976t1:173-3568	transdecoder	exon	1	3396	.	-	.	ID=AseaqSEVm000976t1:173-3568.p2.exon1;Parent=AseaqSEVm000976t1:173-3568.p2
+AseaqSEVm000976t1:173-3568	transdecoder	CDS	777	1319	.	-	0	ID=cds.AseaqSEVm000976t1:173-3568.p2;Parent=AseaqSEVm000976t1:173-3568.p2
+AseaqSEVm000976t1:173-3568	transdecoder	three_prime_UTR	1	776	.	-	.	ID=AseaqSEVm000976t1:173-3568.p2.utr3p1;Parent=AseaqSEVm000976t1:173-3568.p2
+
+AseaqSEVm000713t1:8-3907	transdecoder	gene	1	3900	.	+	.	ID=GENE.AseaqSEVm000713t1:8-3907~~AseaqSEVm000713t1:8-3907.p1;Name=ORF%20type%3Ainternal%20len%3A1301%20%28%2B%29
+AseaqSEVm000713t1:8-3907	transdecoder	mRNA	1	3900	.	+	.	ID=AseaqSEVm000713t1:8-3907.p1;Parent=GENE.AseaqSEVm000713t1:8-3907~~AseaqSEVm000713t1:8-3907.p1;Name=ORF%20type%3Ainternal%20len%3A1301%20%28%2B%29
+AseaqSEVm000713t1:8-3907	transdecoder	exon	1	3900	.	+	.	ID=AseaqSEVm000713t1:8-3907.p1.exon1;Parent=AseaqSEVm000713t1:8-3907.p1
+AseaqSEVm000713t1:8-3907	transdecoder	CDS	1	3900	.	+	0	ID=cds.AseaqSEVm000713t1:8-3907.p1;Parent=AseaqSEVm000713t1:8-3907.p1;5_prime_partial=true;3_prime_partial=true
+
+AseaqSEVm000713t1:8-3907	transdecoder	gene	1	3900	.	-	.	ID=GENE.AseaqSEVm000713t1:8-3907~~AseaqSEVm000713t1:8-3907.p2;Name=ORF%20type%3Acomplete%20len%3A104%20%28-%29
+AseaqSEVm000713t1:8-3907	transdecoder	mRNA	1	3900	.	-	.	ID=AseaqSEVm000713t1:8-3907.p2;Parent=GENE.AseaqSEVm000713t1:8-3907~~AseaqSEVm000713t1:8-3907.p2;Name=ORF%20type%3Acomplete%20len%3A104%20%28-%29
+AseaqSEVm000713t1:8-3907	transdecoder	five_prime_UTR	1500	3900	.	-	.	ID=AseaqSEVm000713t1:8-3907.p2.utr5p1;Parent=AseaqSEVm000713t1:8-3907.p2
+AseaqSEVm000713t1:8-3907	transdecoder	exon	1	3900	.	-	.	ID=AseaqSEVm000713t1:8-3907.p2.exon1;Parent=AseaqSEVm000713t1:8-3907.p2
+AseaqSEVm000713t1:8-3907	transdecoder	CDS	1188	1499	.	-	0	ID=cds.AseaqSEVm000713t1:8-3907.p2;Parent=AseaqSEVm000713t1:8-3907.p2
+AseaqSEVm000713t1:8-3907	transdecoder	three_prime_UTR	1	1187	.	-	.	ID=AseaqSEVm000713t1:8-3907.p2.utr3p1;Parent=AseaqSEVm000713t1:8-3907.p2
+
+AseaqSEVm001297t1:93-3110	transdecoder	gene	1	3018	.	+	.	ID=GENE.AseaqSEVm001297t1:93-3110~~AseaqSEVm001297t1:93-3110.p1;Name=ORF%20type%3Ainternal%20len%3A1007%20%28%2B%29
+AseaqSEVm001297t1:93-3110	transdecoder	mRNA	1	3018	.	+	.	ID=AseaqSEVm001297t1:93-3110.p1;Parent=GENE.AseaqSEVm001297t1:93-3110~~AseaqSEVm001297t1:93-3110.p1;Name=ORF%20type%3Ainternal%20len%3A1007%20%28%2B%29
+AseaqSEVm001297t1:93-3110	transdecoder	exon	1	3018	.	+	.	ID=AseaqSEVm001297t1:93-3110.p1.exon1;Parent=AseaqSEVm001297t1:93-3110.p1
+AseaqSEVm001297t1:93-3110	transdecoder	CDS	1	3018	.	+	0	ID=cds.AseaqSEVm001297t1:93-3110.p1;Parent=AseaqSEVm001297t1:93-3110.p1;5_prime_partial=true;3_prime_partial=true
+
+AseaqSEVm001297t1:93-3110	transdecoder	gene	1	3018	.	-	.	ID=GENE.AseaqSEVm001297t1:93-3110~~AseaqSEVm001297t1:93-3110.p2;Name=ORF%20type%3Acomplete%20len%3A156%20%28-%29
+AseaqSEVm001297t1:93-3110	transdecoder	mRNA	1	3018	.	-	.	ID=AseaqSEVm001297t1:93-3110.p2;Parent=GENE.AseaqSEVm001297t1:93-3110~~AseaqSEVm001297t1:93-3110.p2;Name=ORF%20type%3Acomplete%20len%3A156%20%28-%29
+AseaqSEVm001297t1:93-3110	transdecoder	five_prime_UTR	2838	3018	.	-	.	ID=AseaqSEVm001297t1:93-3110.p2.utr5p1;Parent=AseaqSEVm001297t1:93-3110.p2
+AseaqSEVm001297t1:93-3110	transdecoder	exon	1	3018	.	-	.	ID=AseaqSEVm001297t1:93-3110.p2.exon1;Parent=AseaqSEVm001297t1:93-3110.p2
+AseaqSEVm001297t1:93-3110	transdecoder	CDS	2370	2837	.	-	0	ID=cds.AseaqSEVm001297t1:93-3110.p2;Parent=AseaqSEVm001297t1:93-3110.p2
+AseaqSEVm001297t1:93-3110	transdecoder	three_prime_UTR	1	2369	.	-	.	ID=AseaqSEVm001297t1:93-3110.p2.utr3p1;Parent=AseaqSEVm001297t1:93-3110.p2
+
+AseaqSEVm001297t1:93-3110	transdecoder	gene	1	3018	.	+	.	ID=GENE.AseaqSEVm001297t1:93-3110~~AseaqSEVm001297t1:93-3110.p3;Name=ORF%20type%3Acomplete%20len%3A100%20%28%2B%29
+AseaqSEVm001297t1:93-3110	transdecoder	mRNA	1	3018	.	+	.	ID=AseaqSEVm001297t1:93-3110.p3;Parent=GENE.AseaqSEVm001297t1:93-3110~~AseaqSEVm001297t1:93-3110.p3;Name=ORF%20type%3Acomplete%20len%3A100%20%28%2B%29
+AseaqSEVm001297t1:93-3110	transdecoder	five_prime_UTR	1	91	.	+	.	ID=AseaqSEVm001297t1:93-3110.p3.utr5p1;Parent=AseaqSEVm001297t1:93-3110.p3
+AseaqSEVm001297t1:93-3110	transdecoder	exon	1	3018	.	+	.	ID=AseaqSEVm001297t1:93-3110.p3.exon1;Parent=AseaqSEVm001297t1:93-3110.p3
+AseaqSEVm001297t1:93-3110	transdecoder	CDS	92	391	.	+	0	ID=cds.AseaqSEVm001297t1:93-3110.p3;Parent=AseaqSEVm001297t1:93-3110.p3
+AseaqSEVm001297t1:93-3110	transdecoder	three_prime_UTR	392	3018	.	+	.	ID=AseaqSEVm001297t1:93-3110.p3.utr3p1;Parent=AseaqSEVm001297t1:93-3110.p3
+
+AseaqSEVm000925t1:21-3503	transdecoder	gene	1	3483	.	+	.	ID=GENE.AseaqSEVm000925t1:21-3503~~AseaqSEVm000925t1:21-3503.p1;Name=ORF%20type%3Ainternal%20len%3A1162%20%28%2B%29
+AseaqSEVm000925t1:21-3503	transdecoder	mRNA	1	3483	.	+	.	ID=AseaqSEVm000925t1:21-3503.p1;Parent=GENE.AseaqSEVm000925t1:21-3503~~AseaqSEVm000925t1:21-3503.p1;Name=ORF%20type%3Ainternal%20len%3A1162%20%28%2B%29
+AseaqSEVm000925t1:21-3503	transdecoder	exon	1	3483	.	+	.	ID=AseaqSEVm000925t1:21-3503.p1.exon1;Parent=AseaqSEVm000925t1:21-3503.p1
+AseaqSEVm000925t1:21-3503	transdecoder	CDS	1	3483	.	+	0	ID=cds.AseaqSEVm000925t1:21-3503.p1;Parent=AseaqSEVm000925t1:21-3503.p1;5_prime_partial=true;3_prime_partial=true
+
+AseaqSEVm001474t1:71-2908	transdecoder	gene	1	2838	.	+	.	ID=GENE.AseaqSEVm001474t1:71-2908~~AseaqSEVm001474t1:71-2908.p1;Name=ORF%20type%3Ainternal%20len%3A947%20%28%2B%29
+AseaqSEVm001474t1:71-2908	transdecoder	mRNA	1	2838	.	+	.	ID=AseaqSEVm001474t1:71-2908.p1;Parent=GENE.AseaqSEVm001474t1:71-2908~~AseaqSEVm001474t1:71-2908.p1;Name=ORF%20type%3Ainternal%20len%3A947%20%28%2B%29
+AseaqSEVm001474t1:71-2908	transdecoder	exon	1	2838	.	+	.	ID=AseaqSEVm001474t1:71-2908.p1.exon1;Parent=AseaqSEVm001474t1:71-2908.p1
+AseaqSEVm001474t1:71-2908	transdecoder	CDS	1	2838	.	+	0	ID=cds.AseaqSEVm001474t1:71-2908.p1;Parent=AseaqSEVm001474t1:71-2908.p1;5_prime_partial=true;3_prime_partial=true
+
