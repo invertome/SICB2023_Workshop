@@ -1,0 +1,2 @@
+NULLMOD_OG0000000.ALNcds.phy:lnL(ntime: 21  np: 25): -25820.278247      +0.000000
+NULLMOD_OG0000001.ALNcds.phy:lnL(ntime: 21  np: 25):  -9813.716789      +0.000000

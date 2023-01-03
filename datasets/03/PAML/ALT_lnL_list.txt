@@ -1,0 +1,2 @@
+ALTMOD_OG0000000.ALNcds.phy:lnL(ntime: 21  np: 26): -25820.277783      +0.000000
+ALTMOD_OG0000001.ALNcds.phy:lnL(ntime: 21  np: 26):  -9813.764007      +0.000000
