@@ -1,0 +1,599 @@
+GamcheEVm000600t2:115-3609	transdecoder	gene	1	3495	.	+	.	ID=GENE.GamcheEVm000600t2:115-3609~~GamcheEVm000600t2:115-3609.p1;Name=ORF%20type%3A3prime_partial%20len%3A1166%20%28%2B%29
+GamcheEVm000600t2:115-3609	transdecoder	mRNA	1	3495	.	+	.	ID=GamcheEVm000600t2:115-3609.p1;Parent=GENE.GamcheEVm000600t2:115-3609~~GamcheEVm000600t2:115-3609.p1;Name=ORF%20type%3A3prime_partial%20len%3A1166%20%28%2B%29
+GamcheEVm000600t2:115-3609	transdecoder	exon	1	3495	.	+	.	ID=GamcheEVm000600t2:115-3609.p1.exon1;Parent=GamcheEVm000600t2:115-3609.p1
+GamcheEVm000600t2:115-3609	transdecoder	CDS	1	3495	.	+	0	ID=cds.GamcheEVm000600t2:115-3609.p1;Parent=GamcheEVm000600t2:115-3609.p1;3_prime_partial=true
+
+GamcheEVm000600t2:115-3609	transdecoder	gene	1	3495	.	-	.	ID=GENE.GamcheEVm000600t2:115-3609~~GamcheEVm000600t2:115-3609.p2;Name=ORF%20type%3A5prime_partial%20len%3A209%20%28-%29
+GamcheEVm000600t2:115-3609	transdecoder	mRNA	1	3495	.	-	.	ID=GamcheEVm000600t2:115-3609.p2;Parent=GENE.GamcheEVm000600t2:115-3609~~GamcheEVm000600t2:115-3609.p2;Name=ORF%20type%3A5prime_partial%20len%3A209%20%28-%29
+GamcheEVm000600t2:115-3609	transdecoder	exon	1	3495	.	-	.	ID=GamcheEVm000600t2:115-3609.p2.exon1;Parent=GamcheEVm000600t2:115-3609.p2
+GamcheEVm000600t2:115-3609	transdecoder	CDS	2869	3495	.	-	0	ID=cds.GamcheEVm000600t2:115-3609.p2;Parent=GamcheEVm000600t2:115-3609.p2;5_prime_partial=true
+GamcheEVm000600t2:115-3609	transdecoder	three_prime_UTR	1	2868	.	-	.	ID=GamcheEVm000600t2:115-3609.p2.utr3p1;Parent=GamcheEVm000600t2:115-3609.p2
+
+GamcheEVm000600t2:115-3609	transdecoder	gene	1	3495	.	-	.	ID=GENE.GamcheEVm000600t2:115-3609~~GamcheEVm000600t2:115-3609.p3;Name=ORF%20type%3Acomplete%20len%3A131%20%28-%29
+GamcheEVm000600t2:115-3609	transdecoder	mRNA	1	3495	.	-	.	ID=GamcheEVm000600t2:115-3609.p3;Parent=GENE.GamcheEVm000600t2:115-3609~~GamcheEVm000600t2:115-3609.p3;Name=ORF%20type%3Acomplete%20len%3A131%20%28-%29
+GamcheEVm000600t2:115-3609	transdecoder	five_prime_UTR	609	3495	.	-	.	ID=GamcheEVm000600t2:115-3609.p3.utr5p1;Parent=GamcheEVm000600t2:115-3609.p3
+GamcheEVm000600t2:115-3609	transdecoder	exon	1	3495	.	-	.	ID=GamcheEVm000600t2:115-3609.p3.exon1;Parent=GamcheEVm000600t2:115-3609.p3
+GamcheEVm000600t2:115-3609	transdecoder	CDS	216	608	.	-	0	ID=cds.GamcheEVm000600t2:115-3609.p3;Parent=GamcheEVm000600t2:115-3609.p3
+GamcheEVm000600t2:115-3609	transdecoder	three_prime_UTR	1	215	.	-	.	ID=GamcheEVm000600t2:115-3609.p3.utr3p1;Parent=GamcheEVm000600t2:115-3609.p3
+
+GamcheEVm000529t2:164-3739	transdecoder	gene	1	3576	.	+	.	ID=GENE.GamcheEVm000529t2:164-3739~~GamcheEVm000529t2:164-3739.p1;Name=ORF%20type%3Ainternal%20len%3A1193%20%28%2B%29
+GamcheEVm000529t2:164-3739	transdecoder	mRNA	1	3576	.	+	.	ID=GamcheEVm000529t2:164-3739.p1;Parent=GENE.GamcheEVm000529t2:164-3739~~GamcheEVm000529t2:164-3739.p1;Name=ORF%20type%3Ainternal%20len%3A1193%20%28%2B%29
+GamcheEVm000529t2:164-3739	transdecoder	exon	1	3576	.	+	.	ID=GamcheEVm000529t2:164-3739.p1.exon1;Parent=GamcheEVm000529t2:164-3739.p1
+GamcheEVm000529t2:164-3739	transdecoder	CDS	1	3576	.	+	0	ID=cds.GamcheEVm000529t2:164-3739.p1;Parent=GamcheEVm000529t2:164-3739.p1;5_prime_partial=true;3_prime_partial=true
+
+GamcheEVm000529t2:164-3739	transdecoder	gene	1	3576	.	-	.	ID=GENE.GamcheEVm000529t2:164-3739~~GamcheEVm000529t2:164-3739.p2;Name=ORF%20type%3Acomplete%20len%3A135%20%28-%29
+GamcheEVm000529t2:164-3739	transdecoder	mRNA	1	3576	.	-	.	ID=GamcheEVm000529t2:164-3739.p2;Parent=GENE.GamcheEVm000529t2:164-3739~~GamcheEVm000529t2:164-3739.p2;Name=ORF%20type%3Acomplete%20len%3A135%20%28-%29
+GamcheEVm000529t2:164-3739	transdecoder	five_prime_UTR	772	3576	.	-	.	ID=GamcheEVm000529t2:164-3739.p2.utr5p1;Parent=GamcheEVm000529t2:164-3739.p2
+GamcheEVm000529t2:164-3739	transdecoder	exon	1	3576	.	-	.	ID=GamcheEVm000529t2:164-3739.p2.exon1;Parent=GamcheEVm000529t2:164-3739.p2
+GamcheEVm000529t2:164-3739	transdecoder	CDS	367	771	.	-	0	ID=cds.GamcheEVm000529t2:164-3739.p2;Parent=GamcheEVm000529t2:164-3739.p2
+GamcheEVm000529t2:164-3739	transdecoder	three_prime_UTR	1	366	.	-	.	ID=GamcheEVm000529t2:164-3739.p2.utr3p1;Parent=GamcheEVm000529t2:164-3739.p2
+
+GamcheEVm000529t2:164-3739	transdecoder	gene	1	3576	.	-	.	ID=GENE.GamcheEVm000529t2:164-3739~~GamcheEVm000529t2:164-3739.p3;Name=ORF%20type%3Acomplete%20len%3A122%20%28-%29
+GamcheEVm000529t2:164-3739	transdecoder	mRNA	1	3576	.	-	.	ID=GamcheEVm000529t2:164-3739.p3;Parent=GENE.GamcheEVm000529t2:164-3739~~GamcheEVm000529t2:164-3739.p3;Name=ORF%20type%3Acomplete%20len%3A122%20%28-%29
+GamcheEVm000529t2:164-3739	transdecoder	five_prime_UTR	714	3576	.	-	.	ID=GamcheEVm000529t2:164-3739.p3.utr5p1;Parent=GamcheEVm000529t2:164-3739.p3
+GamcheEVm000529t2:164-3739	transdecoder	exon	1	3576	.	-	.	ID=GamcheEVm000529t2:164-3739.p3.exon1;Parent=GamcheEVm000529t2:164-3739.p3
+GamcheEVm000529t2:164-3739	transdecoder	CDS	348	713	.	-	0	ID=cds.GamcheEVm000529t2:164-3739.p3;Parent=GamcheEVm000529t2:164-3739.p3
+GamcheEVm000529t2:164-3739	transdecoder	three_prime_UTR	1	347	.	-	.	ID=GamcheEVm000529t2:164-3739.p3.utr3p1;Parent=GamcheEVm000529t2:164-3739.p3
+
+GamcheEVm000529t2:164-3739	transdecoder	gene	1	3576	.	-	.	ID=GENE.GamcheEVm000529t2:164-3739~~GamcheEVm000529t2:164-3739.p4;Name=ORF%20type%3Acomplete%20len%3A106%20%28-%29
+GamcheEVm000529t2:164-3739	transdecoder	mRNA	1	3576	.	-	.	ID=GamcheEVm000529t2:164-3739.p4;Parent=GENE.GamcheEVm000529t2:164-3739~~GamcheEVm000529t2:164-3739.p4;Name=ORF%20type%3Acomplete%20len%3A106%20%28-%29
+GamcheEVm000529t2:164-3739	transdecoder	five_prime_UTR	2445	3576	.	-	.	ID=GamcheEVm000529t2:164-3739.p4.utr5p1;Parent=GamcheEVm000529t2:164-3739.p4
+GamcheEVm000529t2:164-3739	transdecoder	exon	1	3576	.	-	.	ID=GamcheEVm000529t2:164-3739.p4.exon1;Parent=GamcheEVm000529t2:164-3739.p4
+GamcheEVm000529t2:164-3739	transdecoder	CDS	2127	2444	.	-	0	ID=cds.GamcheEVm000529t2:164-3739.p4;Parent=GamcheEVm000529t2:164-3739.p4
+GamcheEVm000529t2:164-3739	transdecoder	three_prime_UTR	1	2126	.	-	.	ID=GamcheEVm000529t2:164-3739.p4.utr3p1;Parent=GamcheEVm000529t2:164-3739.p4
+
+GamcheEVm000529t2:164-3739	transdecoder	gene	1	3576	.	-	.	ID=GENE.GamcheEVm000529t2:164-3739~~GamcheEVm000529t2:164-3739.p5;Name=ORF%20type%3Acomplete%20len%3A105%20%28-%29
+GamcheEVm000529t2:164-3739	transdecoder	mRNA	1	3576	.	-	.	ID=GamcheEVm000529t2:164-3739.p5;Parent=GENE.GamcheEVm000529t2:164-3739~~GamcheEVm000529t2:164-3739.p5;Name=ORF%20type%3Acomplete%20len%3A105%20%28-%29
+GamcheEVm000529t2:164-3739	transdecoder	five_prime_UTR	3129	3576	.	-	.	ID=GamcheEVm000529t2:164-3739.p5.utr5p1;Parent=GamcheEVm000529t2:164-3739.p5
+GamcheEVm000529t2:164-3739	transdecoder	exon	1	3576	.	-	.	ID=GamcheEVm000529t2:164-3739.p5.exon1;Parent=GamcheEVm000529t2:164-3739.p5
+GamcheEVm000529t2:164-3739	transdecoder	CDS	2814	3128	.	-	0	ID=cds.GamcheEVm000529t2:164-3739.p5;Parent=GamcheEVm000529t2:164-3739.p5
+GamcheEVm000529t2:164-3739	transdecoder	three_prime_UTR	1	2813	.	-	.	ID=GamcheEVm000529t2:164-3739.p5.utr3p1;Parent=GamcheEVm000529t2:164-3739.p5
+
+GamcheEVm000261t1:491-4612	transdecoder	gene	1	4122	.	+	.	ID=GENE.GamcheEVm000261t1:491-4612~~GamcheEVm000261t1:491-4612.p1;Name=ORF%20type%3Ainternal%20len%3A1375%20%28%2B%29
+GamcheEVm000261t1:491-4612	transdecoder	mRNA	1	4122	.	+	.	ID=GamcheEVm000261t1:491-4612.p1;Parent=GENE.GamcheEVm000261t1:491-4612~~GamcheEVm000261t1:491-4612.p1;Name=ORF%20type%3Ainternal%20len%3A1375%20%28%2B%29
+GamcheEVm000261t1:491-4612	transdecoder	exon	1	4122	.	+	.	ID=GamcheEVm000261t1:491-4612.p1.exon1;Parent=GamcheEVm000261t1:491-4612.p1
+GamcheEVm000261t1:491-4612	transdecoder	CDS	1	4122	.	+	0	ID=cds.GamcheEVm000261t1:491-4612.p1;Parent=GamcheEVm000261t1:491-4612.p1;5_prime_partial=true;3_prime_partial=true
+
+GamcheEVm000261t1:491-4612	transdecoder	gene	1	4122	.	-	.	ID=GENE.GamcheEVm000261t1:491-4612~~GamcheEVm000261t1:491-4612.p2;Name=ORF%20type%3Acomplete%20len%3A192%20%28-%29
+GamcheEVm000261t1:491-4612	transdecoder	mRNA	1	4122	.	-	.	ID=GamcheEVm000261t1:491-4612.p2;Parent=GENE.GamcheEVm000261t1:491-4612~~GamcheEVm000261t1:491-4612.p2;Name=ORF%20type%3Acomplete%20len%3A192%20%28-%29
+GamcheEVm000261t1:491-4612	transdecoder	five_prime_UTR	1431	4122	.	-	.	ID=GamcheEVm000261t1:491-4612.p2.utr5p1;Parent=GamcheEVm000261t1:491-4612.p2
+GamcheEVm000261t1:491-4612	transdecoder	exon	1	4122	.	-	.	ID=GamcheEVm000261t1:491-4612.p2.exon1;Parent=GamcheEVm000261t1:491-4612.p2
+GamcheEVm000261t1:491-4612	transdecoder	CDS	855	1430	.	-	0	ID=cds.GamcheEVm000261t1:491-4612.p2;Parent=GamcheEVm000261t1:491-4612.p2
+GamcheEVm000261t1:491-4612	transdecoder	three_prime_UTR	1	854	.	-	.	ID=GamcheEVm000261t1:491-4612.p2.utr3p1;Parent=GamcheEVm000261t1:491-4612.p2
+
+GamcheEVm000261t1:491-4612	transdecoder	gene	1	4122	.	+	.	ID=GENE.GamcheEVm000261t1:491-4612~~GamcheEVm000261t1:491-4612.p3;Name=ORF%20type%3Acomplete%20len%3A153%20%28%2B%29
+GamcheEVm000261t1:491-4612	transdecoder	mRNA	1	4122	.	+	.	ID=GamcheEVm000261t1:491-4612.p3;Parent=GENE.GamcheEVm000261t1:491-4612~~GamcheEVm000261t1:491-4612.p3;Name=ORF%20type%3Acomplete%20len%3A153%20%28%2B%29
+GamcheEVm000261t1:491-4612	transdecoder	five_prime_UTR	1	505	.	+	.	ID=GamcheEVm000261t1:491-4612.p3.utr5p1;Parent=GamcheEVm000261t1:491-4612.p3
+GamcheEVm000261t1:491-4612	transdecoder	exon	1	4122	.	+	.	ID=GamcheEVm000261t1:491-4612.p3.exon1;Parent=GamcheEVm000261t1:491-4612.p3
+GamcheEVm000261t1:491-4612	transdecoder	CDS	506	964	.	+	0	ID=cds.GamcheEVm000261t1:491-4612.p3;Parent=GamcheEVm000261t1:491-4612.p3
+GamcheEVm000261t1:491-4612	transdecoder	three_prime_UTR	965	4122	.	+	.	ID=GamcheEVm000261t1:491-4612.p3.utr3p1;Parent=GamcheEVm000261t1:491-4612.p3
+
+GamcheEVm000261t1:491-4612	transdecoder	gene	1	4122	.	-	.	ID=GENE.GamcheEVm000261t1:491-4612~~GamcheEVm000261t1:491-4612.p4;Name=ORF%20type%3Acomplete%20len%3A144%20%28-%29
+GamcheEVm000261t1:491-4612	transdecoder	mRNA	1	4122	.	-	.	ID=GamcheEVm000261t1:491-4612.p4;Parent=GENE.GamcheEVm000261t1:491-4612~~GamcheEVm000261t1:491-4612.p4;Name=ORF%20type%3Acomplete%20len%3A144%20%28-%29
+GamcheEVm000261t1:491-4612	transdecoder	five_prime_UTR	3388	4122	.	-	.	ID=GamcheEVm000261t1:491-4612.p4.utr5p1;Parent=GamcheEVm000261t1:491-4612.p4
+GamcheEVm000261t1:491-4612	transdecoder	exon	1	4122	.	-	.	ID=GamcheEVm000261t1:491-4612.p4.exon1;Parent=GamcheEVm000261t1:491-4612.p4
+GamcheEVm000261t1:491-4612	transdecoder	CDS	2956	3387	.	-	0	ID=cds.GamcheEVm000261t1:491-4612.p4;Parent=GamcheEVm000261t1:491-4612.p4
+GamcheEVm000261t1:491-4612	transdecoder	three_prime_UTR	1	2955	.	-	.	ID=GamcheEVm000261t1:491-4612.p4.utr3p1;Parent=GamcheEVm000261t1:491-4612.p4
+
+GamcheEVm000261t1:491-4612	transdecoder	gene	1	4122	.	-	.	ID=GENE.GamcheEVm000261t1:491-4612~~GamcheEVm000261t1:491-4612.p5;Name=ORF%20type%3Acomplete%20len%3A139%20%28-%29
+GamcheEVm000261t1:491-4612	transdecoder	mRNA	1	4122	.	-	.	ID=GamcheEVm000261t1:491-4612.p5;Parent=GENE.GamcheEVm000261t1:491-4612~~GamcheEVm000261t1:491-4612.p5;Name=ORF%20type%3Acomplete%20len%3A139%20%28-%29
+GamcheEVm000261t1:491-4612	transdecoder	five_prime_UTR	631	4122	.	-	.	ID=GamcheEVm000261t1:491-4612.p5.utr5p1;Parent=GamcheEVm000261t1:491-4612.p5
+GamcheEVm000261t1:491-4612	transdecoder	exon	1	4122	.	-	.	ID=GamcheEVm000261t1:491-4612.p5.exon1;Parent=GamcheEVm000261t1:491-4612.p5
+GamcheEVm000261t1:491-4612	transdecoder	CDS	214	630	.	-	0	ID=cds.GamcheEVm000261t1:491-4612.p5;Parent=GamcheEVm000261t1:491-4612.p5
+GamcheEVm000261t1:491-4612	transdecoder	three_prime_UTR	1	213	.	-	.	ID=GamcheEVm000261t1:491-4612.p5.utr3p1;Parent=GamcheEVm000261t1:491-4612.p5
+
+GamcheEVm000261t1:491-4612	transdecoder	gene	1	4122	.	-	.	ID=GENE.GamcheEVm000261t1:491-4612~~GamcheEVm000261t1:491-4612.p6;Name=ORF%20type%3Acomplete%20len%3A120%20%28-%29
+GamcheEVm000261t1:491-4612	transdecoder	mRNA	1	4122	.	-	.	ID=GamcheEVm000261t1:491-4612.p6;Parent=GENE.GamcheEVm000261t1:491-4612~~GamcheEVm000261t1:491-4612.p6;Name=ORF%20type%3Acomplete%20len%3A120%20%28-%29
+GamcheEVm000261t1:491-4612	transdecoder	five_prime_UTR	3726	4122	.	-	.	ID=GamcheEVm000261t1:491-4612.p6.utr5p1;Parent=GamcheEVm000261t1:491-4612.p6
+GamcheEVm000261t1:491-4612	transdecoder	exon	1	4122	.	-	.	ID=GamcheEVm000261t1:491-4612.p6.exon1;Parent=GamcheEVm000261t1:491-4612.p6
+GamcheEVm000261t1:491-4612	transdecoder	CDS	3366	3725	.	-	0	ID=cds.GamcheEVm000261t1:491-4612.p6;Parent=GamcheEVm000261t1:491-4612.p6
+GamcheEVm000261t1:491-4612	transdecoder	three_prime_UTR	1	3365	.	-	.	ID=GamcheEVm000261t1:491-4612.p6.utr3p1;Parent=GamcheEVm000261t1:491-4612.p6
+
+GamcheEVm000807t1:147-3305	transdecoder	gene	1	3159	.	+	.	ID=GENE.GamcheEVm000807t1:147-3305~~GamcheEVm000807t1:147-3305.p1;Name=ORF%20type%3A3prime_partial%20len%3A1054%20%28%2B%29
+GamcheEVm000807t1:147-3305	transdecoder	mRNA	1	3159	.	+	.	ID=GamcheEVm000807t1:147-3305.p1;Parent=GENE.GamcheEVm000807t1:147-3305~~GamcheEVm000807t1:147-3305.p1;Name=ORF%20type%3A3prime_partial%20len%3A1054%20%28%2B%29
+GamcheEVm000807t1:147-3305	transdecoder	exon	1	3159	.	+	.	ID=GamcheEVm000807t1:147-3305.p1.exon1;Parent=GamcheEVm000807t1:147-3305.p1
+GamcheEVm000807t1:147-3305	transdecoder	CDS	1	3159	.	+	0	ID=cds.GamcheEVm000807t1:147-3305.p1;Parent=GamcheEVm000807t1:147-3305.p1;3_prime_partial=true
+
+GamcheEVm000807t1:147-3305	transdecoder	gene	1	3159	.	-	.	ID=GENE.GamcheEVm000807t1:147-3305~~GamcheEVm000807t1:147-3305.p2;Name=ORF%20type%3A5prime_partial%20len%3A226%20%28-%29
+GamcheEVm000807t1:147-3305	transdecoder	mRNA	1	3159	.	-	.	ID=GamcheEVm000807t1:147-3305.p2;Parent=GENE.GamcheEVm000807t1:147-3305~~GamcheEVm000807t1:147-3305.p2;Name=ORF%20type%3A5prime_partial%20len%3A226%20%28-%29
+GamcheEVm000807t1:147-3305	transdecoder	exon	1	3159	.	-	.	ID=GamcheEVm000807t1:147-3305.p2.exon1;Parent=GamcheEVm000807t1:147-3305.p2
+GamcheEVm000807t1:147-3305	transdecoder	CDS	2482	3159	.	-	0	ID=cds.GamcheEVm000807t1:147-3305.p2;Parent=GamcheEVm000807t1:147-3305.p2;5_prime_partial=true
+GamcheEVm000807t1:147-3305	transdecoder	three_prime_UTR	1	2481	.	-	.	ID=GamcheEVm000807t1:147-3305.p2.utr3p1;Parent=GamcheEVm000807t1:147-3305.p2
+
+GamcheEVm000807t1:147-3305	transdecoder	gene	1	3159	.	-	.	ID=GENE.GamcheEVm000807t1:147-3305~~GamcheEVm000807t1:147-3305.p3;Name=ORF%20type%3Acomplete%20len%3A203%20%28-%29
+GamcheEVm000807t1:147-3305	transdecoder	mRNA	1	3159	.	-	.	ID=GamcheEVm000807t1:147-3305.p3;Parent=GENE.GamcheEVm000807t1:147-3305~~GamcheEVm000807t1:147-3305.p3;Name=ORF%20type%3Acomplete%20len%3A203%20%28-%29
+GamcheEVm000807t1:147-3305	transdecoder	five_prime_UTR	2871	3159	.	-	.	ID=GamcheEVm000807t1:147-3305.p3.utr5p1;Parent=GamcheEVm000807t1:147-3305.p3
+GamcheEVm000807t1:147-3305	transdecoder	exon	1	3159	.	-	.	ID=GamcheEVm000807t1:147-3305.p3.exon1;Parent=GamcheEVm000807t1:147-3305.p3
+GamcheEVm000807t1:147-3305	transdecoder	CDS	2262	2870	.	-	0	ID=cds.GamcheEVm000807t1:147-3305.p3;Parent=GamcheEVm000807t1:147-3305.p3
+GamcheEVm000807t1:147-3305	transdecoder	three_prime_UTR	1	2261	.	-	.	ID=GamcheEVm000807t1:147-3305.p3.utr3p1;Parent=GamcheEVm000807t1:147-3305.p3
+
+GamcheEVm000807t1:147-3305	transdecoder	gene	1	3159	.	-	.	ID=GENE.GamcheEVm000807t1:147-3305~~GamcheEVm000807t1:147-3305.p4;Name=ORF%20type%3Acomplete%20len%3A158%20%28-%29
+GamcheEVm000807t1:147-3305	transdecoder	mRNA	1	3159	.	-	.	ID=GamcheEVm000807t1:147-3305.p4;Parent=GENE.GamcheEVm000807t1:147-3305~~GamcheEVm000807t1:147-3305.p4;Name=ORF%20type%3Acomplete%20len%3A158%20%28-%29
+GamcheEVm000807t1:147-3305	transdecoder	five_prime_UTR	1209	3159	.	-	.	ID=GamcheEVm000807t1:147-3305.p4.utr5p1;Parent=GamcheEVm000807t1:147-3305.p4
+GamcheEVm000807t1:147-3305	transdecoder	exon	1	3159	.	-	.	ID=GamcheEVm000807t1:147-3305.p4.exon1;Parent=GamcheEVm000807t1:147-3305.p4
+GamcheEVm000807t1:147-3305	transdecoder	CDS	735	1208	.	-	0	ID=cds.GamcheEVm000807t1:147-3305.p4;Parent=GamcheEVm000807t1:147-3305.p4
+GamcheEVm000807t1:147-3305	transdecoder	three_prime_UTR	1	734	.	-	.	ID=GamcheEVm000807t1:147-3305.p4.utr3p1;Parent=GamcheEVm000807t1:147-3305.p4
+
+GamcheEVm000807t1:147-3305	transdecoder	gene	1	3159	.	-	.	ID=GENE.GamcheEVm000807t1:147-3305~~GamcheEVm000807t1:147-3305.p5;Name=ORF%20type%3Acomplete%20len%3A158%20%28-%29
+GamcheEVm000807t1:147-3305	transdecoder	mRNA	1	3159	.	-	.	ID=GamcheEVm000807t1:147-3305.p5;Parent=GENE.GamcheEVm000807t1:147-3305~~GamcheEVm000807t1:147-3305.p5;Name=ORF%20type%3Acomplete%20len%3A158%20%28-%29
+GamcheEVm000807t1:147-3305	transdecoder	five_prime_UTR	814	3159	.	-	.	ID=GamcheEVm000807t1:147-3305.p5.utr5p1;Parent=GamcheEVm000807t1:147-3305.p5
+GamcheEVm000807t1:147-3305	transdecoder	exon	1	3159	.	-	.	ID=GamcheEVm000807t1:147-3305.p5.exon1;Parent=GamcheEVm000807t1:147-3305.p5
+GamcheEVm000807t1:147-3305	transdecoder	CDS	340	813	.	-	0	ID=cds.GamcheEVm000807t1:147-3305.p5;Parent=GamcheEVm000807t1:147-3305.p5
+GamcheEVm000807t1:147-3305	transdecoder	three_prime_UTR	1	339	.	-	.	ID=GamcheEVm000807t1:147-3305.p5.utr3p1;Parent=GamcheEVm000807t1:147-3305.p5
+
+GamcheEVm000807t1:147-3305	transdecoder	gene	1	3159	.	+	.	ID=GENE.GamcheEVm000807t1:147-3305~~GamcheEVm000807t1:147-3305.p6;Name=ORF%20type%3Acomplete%20len%3A114%20%28%2B%29
+GamcheEVm000807t1:147-3305	transdecoder	mRNA	1	3159	.	+	.	ID=GamcheEVm000807t1:147-3305.p6;Parent=GENE.GamcheEVm000807t1:147-3305~~GamcheEVm000807t1:147-3305.p6;Name=ORF%20type%3Acomplete%20len%3A114%20%28%2B%29
+GamcheEVm000807t1:147-3305	transdecoder	five_prime_UTR	1	628	.	+	.	ID=GamcheEVm000807t1:147-3305.p6.utr5p1;Parent=GamcheEVm000807t1:147-3305.p6
+GamcheEVm000807t1:147-3305	transdecoder	exon	1	3159	.	+	.	ID=GamcheEVm000807t1:147-3305.p6.exon1;Parent=GamcheEVm000807t1:147-3305.p6
+GamcheEVm000807t1:147-3305	transdecoder	CDS	629	970	.	+	0	ID=cds.GamcheEVm000807t1:147-3305.p6;Parent=GamcheEVm000807t1:147-3305.p6
+GamcheEVm000807t1:147-3305	transdecoder	three_prime_UTR	971	3159	.	+	.	ID=GamcheEVm000807t1:147-3305.p6.utr3p1;Parent=GamcheEVm000807t1:147-3305.p6
+
+GamcheEVm000807t1:147-3305	transdecoder	gene	1	3159	.	-	.	ID=GENE.GamcheEVm000807t1:147-3305~~GamcheEVm000807t1:147-3305.p7;Name=ORF%20type%3Acomplete%20len%3A113%20%28-%29
+GamcheEVm000807t1:147-3305	transdecoder	mRNA	1	3159	.	-	.	ID=GamcheEVm000807t1:147-3305.p7;Parent=GENE.GamcheEVm000807t1:147-3305~~GamcheEVm000807t1:147-3305.p7;Name=ORF%20type%3Acomplete%20len%3A113%20%28-%29
+GamcheEVm000807t1:147-3305	transdecoder	five_prime_UTR	723	3159	.	-	.	ID=GamcheEVm000807t1:147-3305.p7.utr5p1;Parent=GamcheEVm000807t1:147-3305.p7
+GamcheEVm000807t1:147-3305	transdecoder	exon	1	3159	.	-	.	ID=GamcheEVm000807t1:147-3305.p7.exon1;Parent=GamcheEVm000807t1:147-3305.p7
+GamcheEVm000807t1:147-3305	transdecoder	CDS	384	722	.	-	0	ID=cds.GamcheEVm000807t1:147-3305.p7;Parent=GamcheEVm000807t1:147-3305.p7
+GamcheEVm000807t1:147-3305	transdecoder	three_prime_UTR	1	383	.	-	.	ID=GamcheEVm000807t1:147-3305.p7.utr3p1;Parent=GamcheEVm000807t1:147-3305.p7
+
+GamcheEVm000807t1:147-3305	transdecoder	gene	1	3159	.	+	.	ID=GENE.GamcheEVm000807t1:147-3305~~GamcheEVm000807t1:147-3305.p8;Name=ORF%20type%3A5prime_partial%20len%3A106%20%28%2B%29
+GamcheEVm000807t1:147-3305	transdecoder	mRNA	1	3159	.	+	.	ID=GamcheEVm000807t1:147-3305.p8;Parent=GENE.GamcheEVm000807t1:147-3305~~GamcheEVm000807t1:147-3305.p8;Name=ORF%20type%3A5prime_partial%20len%3A106%20%28%2B%29
+GamcheEVm000807t1:147-3305	transdecoder	exon	1	3159	.	+	.	ID=GamcheEVm000807t1:147-3305.p8.exon1;Parent=GamcheEVm000807t1:147-3305.p8
+GamcheEVm000807t1:147-3305	transdecoder	CDS	3	320	.	+	0	ID=cds.GamcheEVm000807t1:147-3305.p8;Parent=GamcheEVm000807t1:147-3305.p8;5_prime_partial=true
+GamcheEVm000807t1:147-3305	transdecoder	three_prime_UTR	321	3159	.	+	.	ID=GamcheEVm000807t1:147-3305.p8.utr3p1;Parent=GamcheEVm000807t1:147-3305.p8
+
+GamcheEVm000535t2:247-3765	transdecoder	gene	1	3519	.	+	.	ID=GENE.GamcheEVm000535t2:247-3765~~GamcheEVm000535t2:247-3765.p1;Name=ORF%20type%3Ainternal%20len%3A1174%20%28%2B%29
+GamcheEVm000535t2:247-3765	transdecoder	mRNA	1	3519	.	+	.	ID=GamcheEVm000535t2:247-3765.p1;Parent=GENE.GamcheEVm000535t2:247-3765~~GamcheEVm000535t2:247-3765.p1;Name=ORF%20type%3Ainternal%20len%3A1174%20%28%2B%29
+GamcheEVm000535t2:247-3765	transdecoder	exon	1	3519	.	+	.	ID=GamcheEVm000535t2:247-3765.p1.exon1;Parent=GamcheEVm000535t2:247-3765.p1
+GamcheEVm000535t2:247-3765	transdecoder	CDS	1	3519	.	+	0	ID=cds.GamcheEVm000535t2:247-3765.p1;Parent=GamcheEVm000535t2:247-3765.p1;5_prime_partial=true;3_prime_partial=true
+
+GamcheEVm000535t2:247-3765	transdecoder	gene	1	3519	.	-	.	ID=GENE.GamcheEVm000535t2:247-3765~~GamcheEVm000535t2:247-3765.p2;Name=ORF%20type%3Acomplete%20len%3A119%20%28-%29
+GamcheEVm000535t2:247-3765	transdecoder	mRNA	1	3519	.	-	.	ID=GamcheEVm000535t2:247-3765.p2;Parent=GENE.GamcheEVm000535t2:247-3765~~GamcheEVm000535t2:247-3765.p2;Name=ORF%20type%3Acomplete%20len%3A119%20%28-%29
+GamcheEVm000535t2:247-3765	transdecoder	five_prime_UTR	1345	3519	.	-	.	ID=GamcheEVm000535t2:247-3765.p2.utr5p1;Parent=GamcheEVm000535t2:247-3765.p2
+GamcheEVm000535t2:247-3765	transdecoder	exon	1	3519	.	-	.	ID=GamcheEVm000535t2:247-3765.p2.exon1;Parent=GamcheEVm000535t2:247-3765.p2
+GamcheEVm000535t2:247-3765	transdecoder	CDS	988	1344	.	-	0	ID=cds.GamcheEVm000535t2:247-3765.p2;Parent=GamcheEVm000535t2:247-3765.p2
+GamcheEVm000535t2:247-3765	transdecoder	three_prime_UTR	1	987	.	-	.	ID=GamcheEVm000535t2:247-3765.p2.utr3p1;Parent=GamcheEVm000535t2:247-3765.p2
+
+GamcheEVm000535t2:247-3765	transdecoder	gene	1	3519	.	-	.	ID=GENE.GamcheEVm000535t2:247-3765~~GamcheEVm000535t2:247-3765.p3;Name=ORF%20type%3Acomplete%20len%3A113%20%28-%29
+GamcheEVm000535t2:247-3765	transdecoder	mRNA	1	3519	.	-	.	ID=GamcheEVm000535t2:247-3765.p3;Parent=GENE.GamcheEVm000535t2:247-3765~~GamcheEVm000535t2:247-3765.p3;Name=ORF%20type%3Acomplete%20len%3A113%20%28-%29
+GamcheEVm000535t2:247-3765	transdecoder	five_prime_UTR	2352	3519	.	-	.	ID=GamcheEVm000535t2:247-3765.p3.utr5p1;Parent=GamcheEVm000535t2:247-3765.p3
+GamcheEVm000535t2:247-3765	transdecoder	exon	1	3519	.	-	.	ID=GamcheEVm000535t2:247-3765.p3.exon1;Parent=GamcheEVm000535t2:247-3765.p3
+GamcheEVm000535t2:247-3765	transdecoder	CDS	2013	2351	.	-	0	ID=cds.GamcheEVm000535t2:247-3765.p3;Parent=GamcheEVm000535t2:247-3765.p3
+GamcheEVm000535t2:247-3765	transdecoder	three_prime_UTR	1	2012	.	-	.	ID=GamcheEVm000535t2:247-3765.p3.utr3p1;Parent=GamcheEVm000535t2:247-3765.p3
+
+GamcheEVm000961t1:46-2964	transdecoder	gene	1	2919	.	+	.	ID=GENE.GamcheEVm000961t1:46-2964~~GamcheEVm000961t1:46-2964.p1;Name=ORF%20type%3A3prime_partial%20len%3A974%20%28%2B%29
+GamcheEVm000961t1:46-2964	transdecoder	mRNA	1	2919	.	+	.	ID=GamcheEVm000961t1:46-2964.p1;Parent=GENE.GamcheEVm000961t1:46-2964~~GamcheEVm000961t1:46-2964.p1;Name=ORF%20type%3A3prime_partial%20len%3A974%20%28%2B%29
+GamcheEVm000961t1:46-2964	transdecoder	exon	1	2919	.	+	.	ID=GamcheEVm000961t1:46-2964.p1.exon1;Parent=GamcheEVm000961t1:46-2964.p1
+GamcheEVm000961t1:46-2964	transdecoder	CDS	1	2919	.	+	0	ID=cds.GamcheEVm000961t1:46-2964.p1;Parent=GamcheEVm000961t1:46-2964.p1;3_prime_partial=true
+
+GamcheEVm000961t1:46-2964	transdecoder	gene	1	2919	.	-	.	ID=GENE.GamcheEVm000961t1:46-2964~~GamcheEVm000961t1:46-2964.p2;Name=ORF%20type%3Acomplete%20len%3A273%20%28-%29
+GamcheEVm000961t1:46-2964	transdecoder	mRNA	1	2919	.	-	.	ID=GamcheEVm000961t1:46-2964.p2;Parent=GENE.GamcheEVm000961t1:46-2964~~GamcheEVm000961t1:46-2964.p2;Name=ORF%20type%3Acomplete%20len%3A273%20%28-%29
+GamcheEVm000961t1:46-2964	transdecoder	five_prime_UTR	2881	2919	.	-	.	ID=GamcheEVm000961t1:46-2964.p2.utr5p1;Parent=GamcheEVm000961t1:46-2964.p2
+GamcheEVm000961t1:46-2964	transdecoder	exon	1	2919	.	-	.	ID=GamcheEVm000961t1:46-2964.p2.exon1;Parent=GamcheEVm000961t1:46-2964.p2
+GamcheEVm000961t1:46-2964	transdecoder	CDS	2062	2880	.	-	0	ID=cds.GamcheEVm000961t1:46-2964.p2;Parent=GamcheEVm000961t1:46-2964.p2
+GamcheEVm000961t1:46-2964	transdecoder	three_prime_UTR	1	2061	.	-	.	ID=GamcheEVm000961t1:46-2964.p2.utr3p1;Parent=GamcheEVm000961t1:46-2964.p2
+
+GamcheEVm000961t1:46-2964	transdecoder	gene	1	2919	.	+	.	ID=GENE.GamcheEVm000961t1:46-2964~~GamcheEVm000961t1:46-2964.p3;Name=ORF%20type%3Acomplete%20len%3A120%20%28%2B%29
+GamcheEVm000961t1:46-2964	transdecoder	mRNA	1	2919	.	+	.	ID=GamcheEVm000961t1:46-2964.p3;Parent=GENE.GamcheEVm000961t1:46-2964~~GamcheEVm000961t1:46-2964.p3;Name=ORF%20type%3Acomplete%20len%3A120%20%28%2B%29
+GamcheEVm000961t1:46-2964	transdecoder	five_prime_UTR	1	800	.	+	.	ID=GamcheEVm000961t1:46-2964.p3.utr5p1;Parent=GamcheEVm000961t1:46-2964.p3
+GamcheEVm000961t1:46-2964	transdecoder	exon	1	2919	.	+	.	ID=GamcheEVm000961t1:46-2964.p3.exon1;Parent=GamcheEVm000961t1:46-2964.p3
+GamcheEVm000961t1:46-2964	transdecoder	CDS	801	1160	.	+	0	ID=cds.GamcheEVm000961t1:46-2964.p3;Parent=GamcheEVm000961t1:46-2964.p3
+GamcheEVm000961t1:46-2964	transdecoder	three_prime_UTR	1161	2919	.	+	.	ID=GamcheEVm000961t1:46-2964.p3.utr3p1;Parent=GamcheEVm000961t1:46-2964.p3
+
+GamcheEVm000714t2:63-3371	transdecoder	gene	1	3309	.	+	.	ID=GENE.GamcheEVm000714t2:63-3371~~GamcheEVm000714t2:63-3371.p1;Name=ORF%20type%3Ainternal%20len%3A1104%20%28%2B%29
+GamcheEVm000714t2:63-3371	transdecoder	mRNA	1	3309	.	+	.	ID=GamcheEVm000714t2:63-3371.p1;Parent=GENE.GamcheEVm000714t2:63-3371~~GamcheEVm000714t2:63-3371.p1;Name=ORF%20type%3Ainternal%20len%3A1104%20%28%2B%29
+GamcheEVm000714t2:63-3371	transdecoder	exon	1	3309	.	+	.	ID=GamcheEVm000714t2:63-3371.p1.exon1;Parent=GamcheEVm000714t2:63-3371.p1
+GamcheEVm000714t2:63-3371	transdecoder	CDS	1	3309	.	+	0	ID=cds.GamcheEVm000714t2:63-3371.p1;Parent=GamcheEVm000714t2:63-3371.p1;5_prime_partial=true;3_prime_partial=true
+
+GamcheEVm000714t2:63-3371	transdecoder	gene	1	3309	.	-	.	ID=GENE.GamcheEVm000714t2:63-3371~~GamcheEVm000714t2:63-3371.p2;Name=ORF%20type%3Acomplete%20len%3A119%20%28-%29
+GamcheEVm000714t2:63-3371	transdecoder	mRNA	1	3309	.	-	.	ID=GamcheEVm000714t2:63-3371.p2;Parent=GENE.GamcheEVm000714t2:63-3371~~GamcheEVm000714t2:63-3371.p2;Name=ORF%20type%3Acomplete%20len%3A119%20%28-%29
+GamcheEVm000714t2:63-3371	transdecoder	five_prime_UTR	2103	3309	.	-	.	ID=GamcheEVm000714t2:63-3371.p2.utr5p1;Parent=GamcheEVm000714t2:63-3371.p2
+GamcheEVm000714t2:63-3371	transdecoder	exon	1	3309	.	-	.	ID=GamcheEVm000714t2:63-3371.p2.exon1;Parent=GamcheEVm000714t2:63-3371.p2
+GamcheEVm000714t2:63-3371	transdecoder	CDS	1746	2102	.	-	0	ID=cds.GamcheEVm000714t2:63-3371.p2;Parent=GamcheEVm000714t2:63-3371.p2
+GamcheEVm000714t2:63-3371	transdecoder	three_prime_UTR	1	1745	.	-	.	ID=GamcheEVm000714t2:63-3371.p2.utr3p1;Parent=GamcheEVm000714t2:63-3371.p2
+
+GamcheEVm000714t2:63-3371	transdecoder	gene	1	3309	.	-	.	ID=GENE.GamcheEVm000714t2:63-3371~~GamcheEVm000714t2:63-3371.p3;Name=ORF%20type%3Acomplete%20len%3A110%20%28-%29
+GamcheEVm000714t2:63-3371	transdecoder	mRNA	1	3309	.	-	.	ID=GamcheEVm000714t2:63-3371.p3;Parent=GENE.GamcheEVm000714t2:63-3371~~GamcheEVm000714t2:63-3371.p3;Name=ORF%20type%3Acomplete%20len%3A110%20%28-%29
+GamcheEVm000714t2:63-3371	transdecoder	five_prime_UTR	3204	3309	.	-	.	ID=GamcheEVm000714t2:63-3371.p3.utr5p1;Parent=GamcheEVm000714t2:63-3371.p3
+GamcheEVm000714t2:63-3371	transdecoder	exon	1	3309	.	-	.	ID=GamcheEVm000714t2:63-3371.p3.exon1;Parent=GamcheEVm000714t2:63-3371.p3
+GamcheEVm000714t2:63-3371	transdecoder	CDS	2874	3203	.	-	0	ID=cds.GamcheEVm000714t2:63-3371.p3;Parent=GamcheEVm000714t2:63-3371.p3
+GamcheEVm000714t2:63-3371	transdecoder	three_prime_UTR	1	2873	.	-	.	ID=GamcheEVm000714t2:63-3371.p3.utr3p1;Parent=GamcheEVm000714t2:63-3371.p3
+
+GamcheEVm000431t2:212-4036	transdecoder	gene	1	3825	.	+	.	ID=GENE.GamcheEVm000431t2:212-4036~~GamcheEVm000431t2:212-4036.p1;Name=ORF%20type%3Ainternal%20len%3A1276%20%28%2B%29
+GamcheEVm000431t2:212-4036	transdecoder	mRNA	1	3825	.	+	.	ID=GamcheEVm000431t2:212-4036.p1;Parent=GENE.GamcheEVm000431t2:212-4036~~GamcheEVm000431t2:212-4036.p1;Name=ORF%20type%3Ainternal%20len%3A1276%20%28%2B%29
+GamcheEVm000431t2:212-4036	transdecoder	exon	1	3825	.	+	.	ID=GamcheEVm000431t2:212-4036.p1.exon1;Parent=GamcheEVm000431t2:212-4036.p1
+GamcheEVm000431t2:212-4036	transdecoder	CDS	1	3825	.	+	0	ID=cds.GamcheEVm000431t2:212-4036.p1;Parent=GamcheEVm000431t2:212-4036.p1;5_prime_partial=true;3_prime_partial=true
+
+GamcheEVm000431t2:212-4036	transdecoder	gene	1	3825	.	-	.	ID=GENE.GamcheEVm000431t2:212-4036~~GamcheEVm000431t2:212-4036.p2;Name=ORF%20type%3Acomplete%20len%3A230%20%28-%29
+GamcheEVm000431t2:212-4036	transdecoder	mRNA	1	3825	.	-	.	ID=GamcheEVm000431t2:212-4036.p2;Parent=GENE.GamcheEVm000431t2:212-4036~~GamcheEVm000431t2:212-4036.p2;Name=ORF%20type%3Acomplete%20len%3A230%20%28-%29
+GamcheEVm000431t2:212-4036	transdecoder	five_prime_UTR	1639	3825	.	-	.	ID=GamcheEVm000431t2:212-4036.p2.utr5p1;Parent=GamcheEVm000431t2:212-4036.p2
+GamcheEVm000431t2:212-4036	transdecoder	exon	1	3825	.	-	.	ID=GamcheEVm000431t2:212-4036.p2.exon1;Parent=GamcheEVm000431t2:212-4036.p2
+GamcheEVm000431t2:212-4036	transdecoder	CDS	949	1638	.	-	0	ID=cds.GamcheEVm000431t2:212-4036.p2;Parent=GamcheEVm000431t2:212-4036.p2
+GamcheEVm000431t2:212-4036	transdecoder	three_prime_UTR	1	948	.	-	.	ID=GamcheEVm000431t2:212-4036.p2.utr3p1;Parent=GamcheEVm000431t2:212-4036.p2
+
+GamcheEVm000431t2:212-4036	transdecoder	gene	1	3825	.	-	.	ID=GENE.GamcheEVm000431t2:212-4036~~GamcheEVm000431t2:212-4036.p3;Name=ORF%20type%3Acomplete%20len%3A213%20%28-%29
+GamcheEVm000431t2:212-4036	transdecoder	mRNA	1	3825	.	-	.	ID=GamcheEVm000431t2:212-4036.p3;Parent=GENE.GamcheEVm000431t2:212-4036~~GamcheEVm000431t2:212-4036.p3;Name=ORF%20type%3Acomplete%20len%3A213%20%28-%29
+GamcheEVm000431t2:212-4036	transdecoder	five_prime_UTR	2262	3825	.	-	.	ID=GamcheEVm000431t2:212-4036.p3.utr5p1;Parent=GamcheEVm000431t2:212-4036.p3
+GamcheEVm000431t2:212-4036	transdecoder	exon	1	3825	.	-	.	ID=GamcheEVm000431t2:212-4036.p3.exon1;Parent=GamcheEVm000431t2:212-4036.p3
+GamcheEVm000431t2:212-4036	transdecoder	CDS	1623	2261	.	-	0	ID=cds.GamcheEVm000431t2:212-4036.p3;Parent=GamcheEVm000431t2:212-4036.p3
+GamcheEVm000431t2:212-4036	transdecoder	three_prime_UTR	1	1622	.	-	.	ID=GamcheEVm000431t2:212-4036.p3.utr3p1;Parent=GamcheEVm000431t2:212-4036.p3
+
+GamcheEVm000431t2:212-4036	transdecoder	gene	1	3825	.	-	.	ID=GENE.GamcheEVm000431t2:212-4036~~GamcheEVm000431t2:212-4036.p4;Name=ORF%20type%3Acomplete%20len%3A172%20%28-%29
+GamcheEVm000431t2:212-4036	transdecoder	mRNA	1	3825	.	-	.	ID=GamcheEVm000431t2:212-4036.p4;Parent=GENE.GamcheEVm000431t2:212-4036~~GamcheEVm000431t2:212-4036.p4;Name=ORF%20type%3Acomplete%20len%3A172%20%28-%29
+GamcheEVm000431t2:212-4036	transdecoder	five_prime_UTR	993	3825	.	-	.	ID=GamcheEVm000431t2:212-4036.p4.utr5p1;Parent=GamcheEVm000431t2:212-4036.p4
+GamcheEVm000431t2:212-4036	transdecoder	exon	1	3825	.	-	.	ID=GamcheEVm000431t2:212-4036.p4.exon1;Parent=GamcheEVm000431t2:212-4036.p4
+GamcheEVm000431t2:212-4036	transdecoder	CDS	477	992	.	-	0	ID=cds.GamcheEVm000431t2:212-4036.p4;Parent=GamcheEVm000431t2:212-4036.p4
+GamcheEVm000431t2:212-4036	transdecoder	three_prime_UTR	1	476	.	-	.	ID=GamcheEVm000431t2:212-4036.p4.utr3p1;Parent=GamcheEVm000431t2:212-4036.p4
+
+GamcheEVm000431t2:212-4036	transdecoder	gene	1	3825	.	-	.	ID=GENE.GamcheEVm000431t2:212-4036~~GamcheEVm000431t2:212-4036.p5;Name=ORF%20type%3A3prime_partial%20len%3A158%20%28-%29
+GamcheEVm000431t2:212-4036	transdecoder	mRNA	1	3825	.	-	.	ID=GamcheEVm000431t2:212-4036.p5;Parent=GENE.GamcheEVm000431t2:212-4036~~GamcheEVm000431t2:212-4036.p5;Name=ORF%20type%3A3prime_partial%20len%3A158%20%28-%29
+GamcheEVm000431t2:212-4036	transdecoder	five_prime_UTR	474	3825	.	-	.	ID=GamcheEVm000431t2:212-4036.p5.utr5p1;Parent=GamcheEVm000431t2:212-4036.p5
+GamcheEVm000431t2:212-4036	transdecoder	exon	1	3825	.	-	.	ID=GamcheEVm000431t2:212-4036.p5.exon1;Parent=GamcheEVm000431t2:212-4036.p5
+GamcheEVm000431t2:212-4036	transdecoder	CDS	3	473	.	-	0	ID=cds.GamcheEVm000431t2:212-4036.p5;Parent=GamcheEVm000431t2:212-4036.p5;3_prime_partial=true
+
+GamcheEVm002431t1:4-1875	transdecoder	gene	1	1872	.	+	.	ID=GENE.GamcheEVm002431t1:4-1875~~GamcheEVm002431t1:4-1875.p1;Name=ORF%20type%3Ainternal%20len%3A625%20%28%2B%29
+GamcheEVm002431t1:4-1875	transdecoder	mRNA	1	1872	.	+	.	ID=GamcheEVm002431t1:4-1875.p1;Parent=GENE.GamcheEVm002431t1:4-1875~~GamcheEVm002431t1:4-1875.p1;Name=ORF%20type%3Ainternal%20len%3A625%20%28%2B%29
+GamcheEVm002431t1:4-1875	transdecoder	exon	1	1872	.	+	.	ID=GamcheEVm002431t1:4-1875.p1.exon1;Parent=GamcheEVm002431t1:4-1875.p1
+GamcheEVm002431t1:4-1875	transdecoder	CDS	1	1872	.	+	0	ID=cds.GamcheEVm002431t1:4-1875.p1;Parent=GamcheEVm002431t1:4-1875.p1;5_prime_partial=true;3_prime_partial=true
+
+GamcheEVm002431t1:4-1875	transdecoder	gene	1	1872	.	-	.	ID=GENE.GamcheEVm002431t1:4-1875~~GamcheEVm002431t1:4-1875.p2;Name=ORF%20type%3A5prime_partial%20len%3A123%20%28-%29
+GamcheEVm002431t1:4-1875	transdecoder	mRNA	1	1872	.	-	.	ID=GamcheEVm002431t1:4-1875.p2;Parent=GENE.GamcheEVm002431t1:4-1875~~GamcheEVm002431t1:4-1875.p2;Name=ORF%20type%3A5prime_partial%20len%3A123%20%28-%29
+GamcheEVm002431t1:4-1875	transdecoder	exon	1	1872	.	-	.	ID=GamcheEVm002431t1:4-1875.p2.exon1;Parent=GamcheEVm002431t1:4-1875.p2
+GamcheEVm002431t1:4-1875	transdecoder	CDS	1504	1872	.	-	0	ID=cds.GamcheEVm002431t1:4-1875.p2;Parent=GamcheEVm002431t1:4-1875.p2;5_prime_partial=true
+GamcheEVm002431t1:4-1875	transdecoder	three_prime_UTR	1	1503	.	-	.	ID=GamcheEVm002431t1:4-1875.p2.utr3p1;Parent=GamcheEVm002431t1:4-1875.p2
+
+GamcheEVm002431t1:4-1875	transdecoder	gene	1	1872	.	-	.	ID=GENE.GamcheEVm002431t1:4-1875~~GamcheEVm002431t1:4-1875.p3;Name=ORF%20type%3Acomplete%20len%3A113%20%28-%29
+GamcheEVm002431t1:4-1875	transdecoder	mRNA	1	1872	.	-	.	ID=GamcheEVm002431t1:4-1875.p3;Parent=GENE.GamcheEVm002431t1:4-1875~~GamcheEVm002431t1:4-1875.p3;Name=ORF%20type%3Acomplete%20len%3A113%20%28-%29
+GamcheEVm002431t1:4-1875	transdecoder	five_prime_UTR	1203	1872	.	-	.	ID=GamcheEVm002431t1:4-1875.p3.utr5p1;Parent=GamcheEVm002431t1:4-1875.p3
+GamcheEVm002431t1:4-1875	transdecoder	exon	1	1872	.	-	.	ID=GamcheEVm002431t1:4-1875.p3.exon1;Parent=GamcheEVm002431t1:4-1875.p3
+GamcheEVm002431t1:4-1875	transdecoder	CDS	864	1202	.	-	0	ID=cds.GamcheEVm002431t1:4-1875.p3;Parent=GamcheEVm002431t1:4-1875.p3
+GamcheEVm002431t1:4-1875	transdecoder	three_prime_UTR	1	863	.	-	.	ID=GamcheEVm002431t1:4-1875.p3.utr3p1;Parent=GamcheEVm002431t1:4-1875.p3
+
+GamcheEVm002431t1:4-1875	transdecoder	gene	1	1872	.	-	.	ID=GENE.GamcheEVm002431t1:4-1875~~GamcheEVm002431t1:4-1875.p4;Name=ORF%20type%3Acomplete%20len%3A102%20%28-%29
+GamcheEVm002431t1:4-1875	transdecoder	mRNA	1	1872	.	-	.	ID=GamcheEVm002431t1:4-1875.p4;Parent=GENE.GamcheEVm002431t1:4-1875~~GamcheEVm002431t1:4-1875.p4;Name=ORF%20type%3Acomplete%20len%3A102%20%28-%29
+GamcheEVm002431t1:4-1875	transdecoder	five_prime_UTR	821	1872	.	-	.	ID=GamcheEVm002431t1:4-1875.p4.utr5p1;Parent=GamcheEVm002431t1:4-1875.p4
+GamcheEVm002431t1:4-1875	transdecoder	exon	1	1872	.	-	.	ID=GamcheEVm002431t1:4-1875.p4.exon1;Parent=GamcheEVm002431t1:4-1875.p4
+GamcheEVm002431t1:4-1875	transdecoder	CDS	515	820	.	-	0	ID=cds.GamcheEVm002431t1:4-1875.p4;Parent=GamcheEVm002431t1:4-1875.p4
+GamcheEVm002431t1:4-1875	transdecoder	three_prime_UTR	1	514	.	-	.	ID=GamcheEVm002431t1:4-1875.p4.utr3p1;Parent=GamcheEVm002431t1:4-1875.p4
+
+GamcheEVm002772t1:0-1961	transdecoder	gene	1	1962	.	+	.	ID=GENE.GamcheEVm002772t1:0-1961~~GamcheEVm002772t1:0-1961.p1;Name=ORF%20type%3Ainternal%20len%3A655%20%28%2B%29
+GamcheEVm002772t1:0-1961	transdecoder	mRNA	1	1962	.	+	.	ID=GamcheEVm002772t1:0-1961.p1;Parent=GENE.GamcheEVm002772t1:0-1961~~GamcheEVm002772t1:0-1961.p1;Name=ORF%20type%3Ainternal%20len%3A655%20%28%2B%29
+GamcheEVm002772t1:0-1961	transdecoder	exon	1	1962	.	+	.	ID=GamcheEVm002772t1:0-1961.p1.exon1;Parent=GamcheEVm002772t1:0-1961.p1
+GamcheEVm002772t1:0-1961	transdecoder	CDS	1	1962	.	+	0	ID=cds.GamcheEVm002772t1:0-1961.p1;Parent=GamcheEVm002772t1:0-1961.p1;5_prime_partial=true;3_prime_partial=true
+
+GamcheEVm000329t3:1291-3852	transdecoder	gene	1	2562	.	+	.	ID=GENE.GamcheEVm000329t3:1291-3852~~GamcheEVm000329t3:1291-3852.p1;Name=ORF%20type%3Ainternal%20len%3A855%20%28%2B%29
+GamcheEVm000329t3:1291-3852	transdecoder	mRNA	1	2562	.	+	.	ID=GamcheEVm000329t3:1291-3852.p1;Parent=GENE.GamcheEVm000329t3:1291-3852~~GamcheEVm000329t3:1291-3852.p1;Name=ORF%20type%3Ainternal%20len%3A855%20%28%2B%29
+GamcheEVm000329t3:1291-3852	transdecoder	exon	1	2562	.	+	.	ID=GamcheEVm000329t3:1291-3852.p1.exon1;Parent=GamcheEVm000329t3:1291-3852.p1
+GamcheEVm000329t3:1291-3852	transdecoder	CDS	1	2562	.	+	0	ID=cds.GamcheEVm000329t3:1291-3852.p1;Parent=GamcheEVm000329t3:1291-3852.p1;5_prime_partial=true;3_prime_partial=true
+
+GamcheEVm000329t3:1291-3852	transdecoder	gene	1	2562	.	-	.	ID=GENE.GamcheEVm000329t3:1291-3852~~GamcheEVm000329t3:1291-3852.p2;Name=ORF%20type%3Acomplete%20len%3A404%20%28-%29
+GamcheEVm000329t3:1291-3852	transdecoder	mRNA	1	2562	.	-	.	ID=GamcheEVm000329t3:1291-3852.p2;Parent=GENE.GamcheEVm000329t3:1291-3852~~GamcheEVm000329t3:1291-3852.p2;Name=ORF%20type%3Acomplete%20len%3A404%20%28-%29
+GamcheEVm000329t3:1291-3852	transdecoder	five_prime_UTR	2128	2562	.	-	.	ID=GamcheEVm000329t3:1291-3852.p2.utr5p1;Parent=GamcheEVm000329t3:1291-3852.p2
+GamcheEVm000329t3:1291-3852	transdecoder	exon	1	2562	.	-	.	ID=GamcheEVm000329t3:1291-3852.p2.exon1;Parent=GamcheEVm000329t3:1291-3852.p2
+GamcheEVm000329t3:1291-3852	transdecoder	CDS	916	2127	.	-	0	ID=cds.GamcheEVm000329t3:1291-3852.p2;Parent=GamcheEVm000329t3:1291-3852.p2
+GamcheEVm000329t3:1291-3852	transdecoder	three_prime_UTR	1	915	.	-	.	ID=GamcheEVm000329t3:1291-3852.p2.utr3p1;Parent=GamcheEVm000329t3:1291-3852.p2
+
+GamcheEVm000329t3:1291-3852	transdecoder	gene	1	2562	.	-	.	ID=GENE.GamcheEVm000329t3:1291-3852~~GamcheEVm000329t3:1291-3852.p3;Name=ORF%20type%3A5prime_partial%20len%3A145%20%28-%29
+GamcheEVm000329t3:1291-3852	transdecoder	mRNA	1	2562	.	-	.	ID=GamcheEVm000329t3:1291-3852.p3;Parent=GENE.GamcheEVm000329t3:1291-3852~~GamcheEVm000329t3:1291-3852.p3;Name=ORF%20type%3A5prime_partial%20len%3A145%20%28-%29
+GamcheEVm000329t3:1291-3852	transdecoder	exon	1	2562	.	-	.	ID=GamcheEVm000329t3:1291-3852.p3.exon1;Parent=GamcheEVm000329t3:1291-3852.p3
+GamcheEVm000329t3:1291-3852	transdecoder	CDS	2127	2561	.	-	0	ID=cds.GamcheEVm000329t3:1291-3852.p3;Parent=GamcheEVm000329t3:1291-3852.p3;5_prime_partial=true
+GamcheEVm000329t3:1291-3852	transdecoder	three_prime_UTR	1	2126	.	-	.	ID=GamcheEVm000329t3:1291-3852.p3.utr3p1;Parent=GamcheEVm000329t3:1291-3852.p3
+
+GamcheEVm000180t1:1145-5365	transdecoder	gene	1	4221	.	+	.	ID=GENE.GamcheEVm000180t1:1145-5365~~GamcheEVm000180t1:1145-5365.p1;Name=ORF%20type%3Ainternal%20len%3A1408%20%28%2B%29
+GamcheEVm000180t1:1145-5365	transdecoder	mRNA	1	4221	.	+	.	ID=GamcheEVm000180t1:1145-5365.p1;Parent=GENE.GamcheEVm000180t1:1145-5365~~GamcheEVm000180t1:1145-5365.p1;Name=ORF%20type%3Ainternal%20len%3A1408%20%28%2B%29
+GamcheEVm000180t1:1145-5365	transdecoder	exon	1	4221	.	+	.	ID=GamcheEVm000180t1:1145-5365.p1.exon1;Parent=GamcheEVm000180t1:1145-5365.p1
+GamcheEVm000180t1:1145-5365	transdecoder	CDS	1	4221	.	+	0	ID=cds.GamcheEVm000180t1:1145-5365.p1;Parent=GamcheEVm000180t1:1145-5365.p1;5_prime_partial=true;3_prime_partial=true
+
+GamcheEVm000180t1:1145-5365	transdecoder	gene	1	4221	.	-	.	ID=GENE.GamcheEVm000180t1:1145-5365~~GamcheEVm000180t1:1145-5365.p2;Name=ORF%20type%3Acomplete%20len%3A274%20%28-%29
+GamcheEVm000180t1:1145-5365	transdecoder	mRNA	1	4221	.	-	.	ID=GamcheEVm000180t1:1145-5365.p2;Parent=GENE.GamcheEVm000180t1:1145-5365~~GamcheEVm000180t1:1145-5365.p2;Name=ORF%20type%3Acomplete%20len%3A274%20%28-%29
+GamcheEVm000180t1:1145-5365	transdecoder	five_prime_UTR	1947	4221	.	-	.	ID=GamcheEVm000180t1:1145-5365.p2.utr5p1;Parent=GamcheEVm000180t1:1145-5365.p2
+GamcheEVm000180t1:1145-5365	transdecoder	exon	1	4221	.	-	.	ID=GamcheEVm000180t1:1145-5365.p2.exon1;Parent=GamcheEVm000180t1:1145-5365.p2
+GamcheEVm000180t1:1145-5365	transdecoder	CDS	1125	1946	.	-	0	ID=cds.GamcheEVm000180t1:1145-5365.p2;Parent=GamcheEVm000180t1:1145-5365.p2
+GamcheEVm000180t1:1145-5365	transdecoder	three_prime_UTR	1	1124	.	-	.	ID=GamcheEVm000180t1:1145-5365.p2.utr3p1;Parent=GamcheEVm000180t1:1145-5365.p2
+
+GamcheEVm000180t1:1145-5365	transdecoder	gene	1	4221	.	+	.	ID=GENE.GamcheEVm000180t1:1145-5365~~GamcheEVm000180t1:1145-5365.p3;Name=ORF%20type%3Acomplete%20len%3A109%20%28%2B%29
+GamcheEVm000180t1:1145-5365	transdecoder	mRNA	1	4221	.	+	.	ID=GamcheEVm000180t1:1145-5365.p3;Parent=GENE.GamcheEVm000180t1:1145-5365~~GamcheEVm000180t1:1145-5365.p3;Name=ORF%20type%3Acomplete%20len%3A109%20%28%2B%29
+GamcheEVm000180t1:1145-5365	transdecoder	five_prime_UTR	1	2692	.	+	.	ID=GamcheEVm000180t1:1145-5365.p3.utr5p1;Parent=GamcheEVm000180t1:1145-5365.p3
+GamcheEVm000180t1:1145-5365	transdecoder	exon	1	4221	.	+	.	ID=GamcheEVm000180t1:1145-5365.p3.exon1;Parent=GamcheEVm000180t1:1145-5365.p3
+GamcheEVm000180t1:1145-5365	transdecoder	CDS	2693	3019	.	+	0	ID=cds.GamcheEVm000180t1:1145-5365.p3;Parent=GamcheEVm000180t1:1145-5365.p3
+GamcheEVm000180t1:1145-5365	transdecoder	three_prime_UTR	3020	4221	.	+	.	ID=GamcheEVm000180t1:1145-5365.p3.utr3p1;Parent=GamcheEVm000180t1:1145-5365.p3
+
+GamcheEVm000504t1:257-3742	transdecoder	gene	1	3486	.	+	.	ID=GENE.GamcheEVm000504t1:257-3742~~GamcheEVm000504t1:257-3742.p1;Name=ORF%20type%3Ainternal%20len%3A1163%20%28%2B%29
+GamcheEVm000504t1:257-3742	transdecoder	mRNA	1	3486	.	+	.	ID=GamcheEVm000504t1:257-3742.p1;Parent=GENE.GamcheEVm000504t1:257-3742~~GamcheEVm000504t1:257-3742.p1;Name=ORF%20type%3Ainternal%20len%3A1163%20%28%2B%29
+GamcheEVm000504t1:257-3742	transdecoder	exon	1	3486	.	+	.	ID=GamcheEVm000504t1:257-3742.p1.exon1;Parent=GamcheEVm000504t1:257-3742.p1
+GamcheEVm000504t1:257-3742	transdecoder	CDS	1	3486	.	+	0	ID=cds.GamcheEVm000504t1:257-3742.p1;Parent=GamcheEVm000504t1:257-3742.p1;5_prime_partial=true;3_prime_partial=true
+
+GamcheEVm000504t1:257-3742	transdecoder	gene	1	3486	.	-	.	ID=GENE.GamcheEVm000504t1:257-3742~~GamcheEVm000504t1:257-3742.p2;Name=ORF%20type%3A5prime_partial%20len%3A114%20%28-%29
+GamcheEVm000504t1:257-3742	transdecoder	mRNA	1	3486	.	-	.	ID=GamcheEVm000504t1:257-3742.p2;Parent=GENE.GamcheEVm000504t1:257-3742~~GamcheEVm000504t1:257-3742.p2;Name=ORF%20type%3A5prime_partial%20len%3A114%20%28-%29
+GamcheEVm000504t1:257-3742	transdecoder	exon	1	3486	.	-	.	ID=GamcheEVm000504t1:257-3742.p2.exon1;Parent=GamcheEVm000504t1:257-3742.p2
+GamcheEVm000504t1:257-3742	transdecoder	CDS	3143	3484	.	-	0	ID=cds.GamcheEVm000504t1:257-3742.p2;Parent=GamcheEVm000504t1:257-3742.p2;5_prime_partial=true
+GamcheEVm000504t1:257-3742	transdecoder	three_prime_UTR	1	3142	.	-	.	ID=GamcheEVm000504t1:257-3742.p2.utr3p1;Parent=GamcheEVm000504t1:257-3742.p2
+
+GamcheEVm000504t1:257-3742	transdecoder	gene	1	3486	.	+	.	ID=GENE.GamcheEVm000504t1:257-3742~~GamcheEVm000504t1:257-3742.p3;Name=ORF%20type%3Acomplete%20len%3A113%20%28%2B%29
+GamcheEVm000504t1:257-3742	transdecoder	mRNA	1	3486	.	+	.	ID=GamcheEVm000504t1:257-3742.p3;Parent=GENE.GamcheEVm000504t1:257-3742~~GamcheEVm000504t1:257-3742.p3;Name=ORF%20type%3Acomplete%20len%3A113%20%28%2B%29
+GamcheEVm000504t1:257-3742	transdecoder	five_prime_UTR	1	2887	.	+	.	ID=GamcheEVm000504t1:257-3742.p3.utr5p1;Parent=GamcheEVm000504t1:257-3742.p3
+GamcheEVm000504t1:257-3742	transdecoder	exon	1	3486	.	+	.	ID=GamcheEVm000504t1:257-3742.p3.exon1;Parent=GamcheEVm000504t1:257-3742.p3
+GamcheEVm000504t1:257-3742	transdecoder	CDS	2888	3226	.	+	0	ID=cds.GamcheEVm000504t1:257-3742.p3;Parent=GamcheEVm000504t1:257-3742.p3
+GamcheEVm000504t1:257-3742	transdecoder	three_prime_UTR	3227	3486	.	+	.	ID=GamcheEVm000504t1:257-3742.p3.utr3p1;Parent=GamcheEVm000504t1:257-3742.p3
+
+GamcheEVm000602t2:786-3311	transdecoder	gene	1	2526	.	+	.	ID=GENE.GamcheEVm000602t2:786-3311~~GamcheEVm000602t2:786-3311.p1;Name=ORF%20type%3Ainternal%20len%3A843%20%28%2B%29
+GamcheEVm000602t2:786-3311	transdecoder	mRNA	1	2526	.	+	.	ID=GamcheEVm000602t2:786-3311.p1;Parent=GENE.GamcheEVm000602t2:786-3311~~GamcheEVm000602t2:786-3311.p1;Name=ORF%20type%3Ainternal%20len%3A843%20%28%2B%29
+GamcheEVm000602t2:786-3311	transdecoder	exon	1	2526	.	+	.	ID=GamcheEVm000602t2:786-3311.p1.exon1;Parent=GamcheEVm000602t2:786-3311.p1
+GamcheEVm000602t2:786-3311	transdecoder	CDS	1	2526	.	+	0	ID=cds.GamcheEVm000602t2:786-3311.p1;Parent=GamcheEVm000602t2:786-3311.p1;5_prime_partial=true;3_prime_partial=true
+
+GamcheEVm000602t2:786-3311	transdecoder	gene	1	2526	.	-	.	ID=GENE.GamcheEVm000602t2:786-3311~~GamcheEVm000602t2:786-3311.p2;Name=ORF%20type%3Acomplete%20len%3A176%20%28-%29
+GamcheEVm000602t2:786-3311	transdecoder	mRNA	1	2526	.	-	.	ID=GamcheEVm000602t2:786-3311.p2;Parent=GENE.GamcheEVm000602t2:786-3311~~GamcheEVm000602t2:786-3311.p2;Name=ORF%20type%3Acomplete%20len%3A176%20%28-%29
+GamcheEVm000602t2:786-3311	transdecoder	five_prime_UTR	1921	2526	.	-	.	ID=GamcheEVm000602t2:786-3311.p2.utr5p1;Parent=GamcheEVm000602t2:786-3311.p2
+GamcheEVm000602t2:786-3311	transdecoder	exon	1	2526	.	-	.	ID=GamcheEVm000602t2:786-3311.p2.exon1;Parent=GamcheEVm000602t2:786-3311.p2
+GamcheEVm000602t2:786-3311	transdecoder	CDS	1393	1920	.	-	0	ID=cds.GamcheEVm000602t2:786-3311.p2;Parent=GamcheEVm000602t2:786-3311.p2
+GamcheEVm000602t2:786-3311	transdecoder	three_prime_UTR	1	1392	.	-	.	ID=GamcheEVm000602t2:786-3311.p2.utr3p1;Parent=GamcheEVm000602t2:786-3311.p2
+
+GamcheEVm000602t2:786-3311	transdecoder	gene	1	2526	.	-	.	ID=GENE.GamcheEVm000602t2:786-3311~~GamcheEVm000602t2:786-3311.p3;Name=ORF%20type%3Acomplete%20len%3A123%20%28-%29
+GamcheEVm000602t2:786-3311	transdecoder	mRNA	1	2526	.	-	.	ID=GamcheEVm000602t2:786-3311.p3;Parent=GENE.GamcheEVm000602t2:786-3311~~GamcheEVm000602t2:786-3311.p3;Name=ORF%20type%3Acomplete%20len%3A123%20%28-%29
+GamcheEVm000602t2:786-3311	transdecoder	five_prime_UTR	798	2526	.	-	.	ID=GamcheEVm000602t2:786-3311.p3.utr5p1;Parent=GamcheEVm000602t2:786-3311.p3
+GamcheEVm000602t2:786-3311	transdecoder	exon	1	2526	.	-	.	ID=GamcheEVm000602t2:786-3311.p3.exon1;Parent=GamcheEVm000602t2:786-3311.p3
+GamcheEVm000602t2:786-3311	transdecoder	CDS	429	797	.	-	0	ID=cds.GamcheEVm000602t2:786-3311.p3;Parent=GamcheEVm000602t2:786-3311.p3
+GamcheEVm000602t2:786-3311	transdecoder	three_prime_UTR	1	428	.	-	.	ID=GamcheEVm000602t2:786-3311.p3.utr3p1;Parent=GamcheEVm000602t2:786-3311.p3
+
+GamcheEVm000602t2:786-3311	transdecoder	gene	1	2526	.	+	.	ID=GENE.GamcheEVm000602t2:786-3311~~GamcheEVm000602t2:786-3311.p4;Name=ORF%20type%3Acomplete%20len%3A122%20%28%2B%29
+GamcheEVm000602t2:786-3311	transdecoder	mRNA	1	2526	.	+	.	ID=GamcheEVm000602t2:786-3311.p4;Parent=GENE.GamcheEVm000602t2:786-3311~~GamcheEVm000602t2:786-3311.p4;Name=ORF%20type%3Acomplete%20len%3A122%20%28%2B%29
+GamcheEVm000602t2:786-3311	transdecoder	five_prime_UTR	1	820	.	+	.	ID=GamcheEVm000602t2:786-3311.p4.utr5p1;Parent=GamcheEVm000602t2:786-3311.p4
+GamcheEVm000602t2:786-3311	transdecoder	exon	1	2526	.	+	.	ID=GamcheEVm000602t2:786-3311.p4.exon1;Parent=GamcheEVm000602t2:786-3311.p4
+GamcheEVm000602t2:786-3311	transdecoder	CDS	821	1186	.	+	0	ID=cds.GamcheEVm000602t2:786-3311.p4;Parent=GamcheEVm000602t2:786-3311.p4
+GamcheEVm000602t2:786-3311	transdecoder	three_prime_UTR	1187	2526	.	+	.	ID=GamcheEVm000602t2:786-3311.p4.utr3p1;Parent=GamcheEVm000602t2:786-3311.p4
+
+GamcheEVm000602t2:786-3311	transdecoder	gene	1	2526	.	-	.	ID=GENE.GamcheEVm000602t2:786-3311~~GamcheEVm000602t2:786-3311.p5;Name=ORF%20type%3Acomplete%20len%3A114%20%28-%29
+GamcheEVm000602t2:786-3311	transdecoder	mRNA	1	2526	.	-	.	ID=GamcheEVm000602t2:786-3311.p5;Parent=GENE.GamcheEVm000602t2:786-3311~~GamcheEVm000602t2:786-3311.p5;Name=ORF%20type%3Acomplete%20len%3A114%20%28-%29
+GamcheEVm000602t2:786-3311	transdecoder	five_prime_UTR	1305	2526	.	-	.	ID=GamcheEVm000602t2:786-3311.p5.utr5p1;Parent=GamcheEVm000602t2:786-3311.p5
+GamcheEVm000602t2:786-3311	transdecoder	exon	1	2526	.	-	.	ID=GamcheEVm000602t2:786-3311.p5.exon1;Parent=GamcheEVm000602t2:786-3311.p5
+GamcheEVm000602t2:786-3311	transdecoder	CDS	963	1304	.	-	0	ID=cds.GamcheEVm000602t2:786-3311.p5;Parent=GamcheEVm000602t2:786-3311.p5
+GamcheEVm000602t2:786-3311	transdecoder	three_prime_UTR	1	962	.	-	.	ID=GamcheEVm000602t2:786-3311.p5.utr3p1;Parent=GamcheEVm000602t2:786-3311.p5
+
+GamcheEVm000602t2:786-3311	transdecoder	gene	1	2526	.	-	.	ID=GENE.GamcheEVm000602t2:786-3311~~GamcheEVm000602t2:786-3311.p6;Name=ORF%20type%3Acomplete%20len%3A111%20%28-%29
+GamcheEVm000602t2:786-3311	transdecoder	mRNA	1	2526	.	-	.	ID=GamcheEVm000602t2:786-3311.p6;Parent=GENE.GamcheEVm000602t2:786-3311~~GamcheEVm000602t2:786-3311.p6;Name=ORF%20type%3Acomplete%20len%3A111%20%28-%29
+GamcheEVm000602t2:786-3311	transdecoder	five_prime_UTR	2097	2526	.	-	.	ID=GamcheEVm000602t2:786-3311.p6.utr5p1;Parent=GamcheEVm000602t2:786-3311.p6
+GamcheEVm000602t2:786-3311	transdecoder	exon	1	2526	.	-	.	ID=GamcheEVm000602t2:786-3311.p6.exon1;Parent=GamcheEVm000602t2:786-3311.p6
+GamcheEVm000602t2:786-3311	transdecoder	CDS	1764	2096	.	-	0	ID=cds.GamcheEVm000602t2:786-3311.p6;Parent=GamcheEVm000602t2:786-3311.p6
+GamcheEVm000602t2:786-3311	transdecoder	three_prime_UTR	1	1763	.	-	.	ID=GamcheEVm000602t2:786-3311.p6.utr3p1;Parent=GamcheEVm000602t2:786-3311.p6
+
+GamcheEVm000801t1:2-3283	transdecoder	gene	1	3282	.	+	.	ID=GENE.GamcheEVm000801t1:2-3283~~GamcheEVm000801t1:2-3283.p1;Name=ORF%20type%3Ainternal%20len%3A1095%20%28%2B%29
+GamcheEVm000801t1:2-3283	transdecoder	mRNA	1	3282	.	+	.	ID=GamcheEVm000801t1:2-3283.p1;Parent=GENE.GamcheEVm000801t1:2-3283~~GamcheEVm000801t1:2-3283.p1;Name=ORF%20type%3Ainternal%20len%3A1095%20%28%2B%29
+GamcheEVm000801t1:2-3283	transdecoder	exon	1	3282	.	+	.	ID=GamcheEVm000801t1:2-3283.p1.exon1;Parent=GamcheEVm000801t1:2-3283.p1
+GamcheEVm000801t1:2-3283	transdecoder	CDS	1	3282	.	+	0	ID=cds.GamcheEVm000801t1:2-3283.p1;Parent=GamcheEVm000801t1:2-3283.p1;5_prime_partial=true;3_prime_partial=true
+
+GamcheEVm000801t1:2-3283	transdecoder	gene	1	3282	.	-	.	ID=GENE.GamcheEVm000801t1:2-3283~~GamcheEVm000801t1:2-3283.p2;Name=ORF%20type%3Acomplete%20len%3A696%20%28-%29
+GamcheEVm000801t1:2-3283	transdecoder	mRNA	1	3282	.	-	.	ID=GamcheEVm000801t1:2-3283.p2;Parent=GENE.GamcheEVm000801t1:2-3283~~GamcheEVm000801t1:2-3283.p2;Name=ORF%20type%3Acomplete%20len%3A696%20%28-%29
+GamcheEVm000801t1:2-3283	transdecoder	five_prime_UTR	2638	3282	.	-	.	ID=GamcheEVm000801t1:2-3283.p2.utr5p1;Parent=GamcheEVm000801t1:2-3283.p2
+GamcheEVm000801t1:2-3283	transdecoder	exon	1	3282	.	-	.	ID=GamcheEVm000801t1:2-3283.p2.exon1;Parent=GamcheEVm000801t1:2-3283.p2
+GamcheEVm000801t1:2-3283	transdecoder	CDS	550	2637	.	-	0	ID=cds.GamcheEVm000801t1:2-3283.p2;Parent=GamcheEVm000801t1:2-3283.p2
+GamcheEVm000801t1:2-3283	transdecoder	three_prime_UTR	1	549	.	-	.	ID=GamcheEVm000801t1:2-3283.p2.utr3p1;Parent=GamcheEVm000801t1:2-3283.p2
+
+GamcheEVm000801t1:2-3283	transdecoder	gene	1	3282	.	-	.	ID=GENE.GamcheEVm000801t1:2-3283~~GamcheEVm000801t1:2-3283.p3;Name=ORF%20type%3Acomplete%20len%3A230%20%28-%29
+GamcheEVm000801t1:2-3283	transdecoder	mRNA	1	3282	.	-	.	ID=GamcheEVm000801t1:2-3283.p3;Parent=GENE.GamcheEVm000801t1:2-3283~~GamcheEVm000801t1:2-3283.p3;Name=ORF%20type%3Acomplete%20len%3A230%20%28-%29
+GamcheEVm000801t1:2-3283	transdecoder	five_prime_UTR	927	3282	.	-	.	ID=GamcheEVm000801t1:2-3283.p3.utr5p1;Parent=GamcheEVm000801t1:2-3283.p3
+GamcheEVm000801t1:2-3283	transdecoder	exon	1	3282	.	-	.	ID=GamcheEVm000801t1:2-3283.p3.exon1;Parent=GamcheEVm000801t1:2-3283.p3
+GamcheEVm000801t1:2-3283	transdecoder	CDS	237	926	.	-	0	ID=cds.GamcheEVm000801t1:2-3283.p3;Parent=GamcheEVm000801t1:2-3283.p3
+GamcheEVm000801t1:2-3283	transdecoder	three_prime_UTR	1	236	.	-	.	ID=GamcheEVm000801t1:2-3283.p3.utr3p1;Parent=GamcheEVm000801t1:2-3283.p3
+
+GamcheEVm000801t1:2-3283	transdecoder	gene	1	3282	.	+	.	ID=GENE.GamcheEVm000801t1:2-3283~~GamcheEVm000801t1:2-3283.p4;Name=ORF%20type%3Acomplete%20len%3A108%20%28%2B%29
+GamcheEVm000801t1:2-3283	transdecoder	mRNA	1	3282	.	+	.	ID=GamcheEVm000801t1:2-3283.p4;Parent=GENE.GamcheEVm000801t1:2-3283~~GamcheEVm000801t1:2-3283.p4;Name=ORF%20type%3Acomplete%20len%3A108%20%28%2B%29
+GamcheEVm000801t1:2-3283	transdecoder	five_prime_UTR	1	1783	.	+	.	ID=GamcheEVm000801t1:2-3283.p4.utr5p1;Parent=GamcheEVm000801t1:2-3283.p4
+GamcheEVm000801t1:2-3283	transdecoder	exon	1	3282	.	+	.	ID=GamcheEVm000801t1:2-3283.p4.exon1;Parent=GamcheEVm000801t1:2-3283.p4
+GamcheEVm000801t1:2-3283	transdecoder	CDS	1784	2107	.	+	0	ID=cds.GamcheEVm000801t1:2-3283.p4;Parent=GamcheEVm000801t1:2-3283.p4
+GamcheEVm000801t1:2-3283	transdecoder	three_prime_UTR	2108	3282	.	+	.	ID=GamcheEVm000801t1:2-3283.p4.utr3p1;Parent=GamcheEVm000801t1:2-3283.p4
+
+GamcheEVm000801t1:2-3283	transdecoder	gene	1	3282	.	-	.	ID=GENE.GamcheEVm000801t1:2-3283~~GamcheEVm000801t1:2-3283.p5;Name=ORF%20type%3Acomplete%20len%3A106%20%28-%29
+GamcheEVm000801t1:2-3283	transdecoder	mRNA	1	3282	.	-	.	ID=GamcheEVm000801t1:2-3283.p5;Parent=GENE.GamcheEVm000801t1:2-3283~~GamcheEVm000801t1:2-3283.p5;Name=ORF%20type%3Acomplete%20len%3A106%20%28-%29
+GamcheEVm000801t1:2-3283	transdecoder	five_prime_UTR	2955	3282	.	-	.	ID=GamcheEVm000801t1:2-3283.p5.utr5p1;Parent=GamcheEVm000801t1:2-3283.p5
+GamcheEVm000801t1:2-3283	transdecoder	exon	1	3282	.	-	.	ID=GamcheEVm000801t1:2-3283.p5.exon1;Parent=GamcheEVm000801t1:2-3283.p5
+GamcheEVm000801t1:2-3283	transdecoder	CDS	2637	2954	.	-	0	ID=cds.GamcheEVm000801t1:2-3283.p5;Parent=GamcheEVm000801t1:2-3283.p5
+GamcheEVm000801t1:2-3283	transdecoder	three_prime_UTR	1	2636	.	-	.	ID=GamcheEVm000801t1:2-3283.p5.utr3p1;Parent=GamcheEVm000801t1:2-3283.p5
+
+GamcheEVm000518t1:28-3696	transdecoder	gene	1	3669	.	+	.	ID=GENE.GamcheEVm000518t1:28-3696~~GamcheEVm000518t1:28-3696.p1;Name=ORF%20type%3A3prime_partial%20len%3A1224%20%28%2B%29
+GamcheEVm000518t1:28-3696	transdecoder	mRNA	1	3669	.	+	.	ID=GamcheEVm000518t1:28-3696.p1;Parent=GENE.GamcheEVm000518t1:28-3696~~GamcheEVm000518t1:28-3696.p1;Name=ORF%20type%3A3prime_partial%20len%3A1224%20%28%2B%29
+GamcheEVm000518t1:28-3696	transdecoder	exon	1	3669	.	+	.	ID=GamcheEVm000518t1:28-3696.p1.exon1;Parent=GamcheEVm000518t1:28-3696.p1
+GamcheEVm000518t1:28-3696	transdecoder	CDS	1	3669	.	+	0	ID=cds.GamcheEVm000518t1:28-3696.p1;Parent=GamcheEVm000518t1:28-3696.p1;3_prime_partial=true
+
+GamcheEVm000518t1:28-3696	transdecoder	gene	1	3669	.	-	.	ID=GENE.GamcheEVm000518t1:28-3696~~GamcheEVm000518t1:28-3696.p2;Name=ORF%20type%3Acomplete%20len%3A743%20%28-%29
+GamcheEVm000518t1:28-3696	transdecoder	mRNA	1	3669	.	-	.	ID=GamcheEVm000518t1:28-3696.p2;Parent=GENE.GamcheEVm000518t1:28-3696~~GamcheEVm000518t1:28-3696.p2;Name=ORF%20type%3Acomplete%20len%3A743%20%28-%29
+GamcheEVm000518t1:28-3696	transdecoder	five_prime_UTR	2974	3669	.	-	.	ID=GamcheEVm000518t1:28-3696.p2.utr5p1;Parent=GamcheEVm000518t1:28-3696.p2
+GamcheEVm000518t1:28-3696	transdecoder	exon	1	3669	.	-	.	ID=GamcheEVm000518t1:28-3696.p2.exon1;Parent=GamcheEVm000518t1:28-3696.p2
+GamcheEVm000518t1:28-3696	transdecoder	CDS	745	2973	.	-	0	ID=cds.GamcheEVm000518t1:28-3696.p2;Parent=GamcheEVm000518t1:28-3696.p2
+GamcheEVm000518t1:28-3696	transdecoder	three_prime_UTR	1	744	.	-	.	ID=GamcheEVm000518t1:28-3696.p2.utr3p1;Parent=GamcheEVm000518t1:28-3696.p2
+
+GamcheEVm000518t1:28-3696	transdecoder	gene	1	3669	.	+	.	ID=GENE.GamcheEVm000518t1:28-3696~~GamcheEVm000518t1:28-3696.p3;Name=ORF%20type%3Acomplete%20len%3A120%20%28%2B%29
+GamcheEVm000518t1:28-3696	transdecoder	mRNA	1	3669	.	+	.	ID=GamcheEVm000518t1:28-3696.p3;Parent=GENE.GamcheEVm000518t1:28-3696~~GamcheEVm000518t1:28-3696.p3;Name=ORF%20type%3Acomplete%20len%3A120%20%28%2B%29
+GamcheEVm000518t1:28-3696	transdecoder	five_prime_UTR	1	1096	.	+	.	ID=GamcheEVm000518t1:28-3696.p3.utr5p1;Parent=GamcheEVm000518t1:28-3696.p3
+GamcheEVm000518t1:28-3696	transdecoder	exon	1	3669	.	+	.	ID=GamcheEVm000518t1:28-3696.p3.exon1;Parent=GamcheEVm000518t1:28-3696.p3
+GamcheEVm000518t1:28-3696	transdecoder	CDS	1097	1456	.	+	0	ID=cds.GamcheEVm000518t1:28-3696.p3;Parent=GamcheEVm000518t1:28-3696.p3
+GamcheEVm000518t1:28-3696	transdecoder	three_prime_UTR	1457	3669	.	+	.	ID=GamcheEVm000518t1:28-3696.p3.utr3p1;Parent=GamcheEVm000518t1:28-3696.p3
+
+GamcheEVm000518t1:28-3696	transdecoder	gene	1	3669	.	-	.	ID=GENE.GamcheEVm000518t1:28-3696~~GamcheEVm000518t1:28-3696.p4;Name=ORF%20type%3Acomplete%20len%3A108%20%28-%29
+GamcheEVm000518t1:28-3696	transdecoder	mRNA	1	3669	.	-	.	ID=GamcheEVm000518t1:28-3696.p4;Parent=GENE.GamcheEVm000518t1:28-3696~~GamcheEVm000518t1:28-3696.p4;Name=ORF%20type%3Acomplete%20len%3A108%20%28-%29
+GamcheEVm000518t1:28-3696	transdecoder	five_prime_UTR	3462	3669	.	-	.	ID=GamcheEVm000518t1:28-3696.p4.utr5p1;Parent=GamcheEVm000518t1:28-3696.p4
+GamcheEVm000518t1:28-3696	transdecoder	exon	1	3669	.	-	.	ID=GamcheEVm000518t1:28-3696.p4.exon1;Parent=GamcheEVm000518t1:28-3696.p4
+GamcheEVm000518t1:28-3696	transdecoder	CDS	3138	3461	.	-	0	ID=cds.GamcheEVm000518t1:28-3696.p4;Parent=GamcheEVm000518t1:28-3696.p4
+GamcheEVm000518t1:28-3696	transdecoder	three_prime_UTR	1	3137	.	-	.	ID=GamcheEVm000518t1:28-3696.p4.utr3p1;Parent=GamcheEVm000518t1:28-3696.p4
+
+GamcheEVm000518t1:28-3696	transdecoder	gene	1	3669	.	+	.	ID=GENE.GamcheEVm000518t1:28-3696~~GamcheEVm000518t1:28-3696.p5;Name=ORF%20type%3Acomplete%20len%3A103%20%28%2B%29
+GamcheEVm000518t1:28-3696	transdecoder	mRNA	1	3669	.	+	.	ID=GamcheEVm000518t1:28-3696.p5;Parent=GENE.GamcheEVm000518t1:28-3696~~GamcheEVm000518t1:28-3696.p5;Name=ORF%20type%3Acomplete%20len%3A103%20%28%2B%29
+GamcheEVm000518t1:28-3696	transdecoder	five_prime_UTR	1	2386	.	+	.	ID=GamcheEVm000518t1:28-3696.p5.utr5p1;Parent=GamcheEVm000518t1:28-3696.p5
+GamcheEVm000518t1:28-3696	transdecoder	exon	1	3669	.	+	.	ID=GamcheEVm000518t1:28-3696.p5.exon1;Parent=GamcheEVm000518t1:28-3696.p5
+GamcheEVm000518t1:28-3696	transdecoder	CDS	2387	2695	.	+	0	ID=cds.GamcheEVm000518t1:28-3696.p5;Parent=GamcheEVm000518t1:28-3696.p5
+GamcheEVm000518t1:28-3696	transdecoder	three_prime_UTR	2696	3669	.	+	.	ID=GamcheEVm000518t1:28-3696.p5.utr3p1;Parent=GamcheEVm000518t1:28-3696.p5
+
+GamcheEVm000049t1:156-7334	transdecoder	gene	1	7179	.	+	.	ID=GENE.GamcheEVm000049t1:156-7334~~GamcheEVm000049t1:156-7334.p1;Name=ORF%20type%3A3prime_partial%20len%3A2394%20%28%2B%29
+GamcheEVm000049t1:156-7334	transdecoder	mRNA	1	7179	.	+	.	ID=GamcheEVm000049t1:156-7334.p1;Parent=GENE.GamcheEVm000049t1:156-7334~~GamcheEVm000049t1:156-7334.p1;Name=ORF%20type%3A3prime_partial%20len%3A2394%20%28%2B%29
+GamcheEVm000049t1:156-7334	transdecoder	exon	1	7179	.	+	.	ID=GamcheEVm000049t1:156-7334.p1.exon1;Parent=GamcheEVm000049t1:156-7334.p1
+GamcheEVm000049t1:156-7334	transdecoder	CDS	1	7179	.	+	0	ID=cds.GamcheEVm000049t1:156-7334.p1;Parent=GamcheEVm000049t1:156-7334.p1;3_prime_partial=true
+
+GamcheEVm000049t1:156-7334	transdecoder	gene	1	7179	.	-	.	ID=GENE.GamcheEVm000049t1:156-7334~~GamcheEVm000049t1:156-7334.p2;Name=ORF%20type%3A5prime_partial%20len%3A174%20%28-%29
+GamcheEVm000049t1:156-7334	transdecoder	mRNA	1	7179	.	-	.	ID=GamcheEVm000049t1:156-7334.p2;Parent=GENE.GamcheEVm000049t1:156-7334~~GamcheEVm000049t1:156-7334.p2;Name=ORF%20type%3A5prime_partial%20len%3A174%20%28-%29
+GamcheEVm000049t1:156-7334	transdecoder	exon	1	7179	.	-	.	ID=GamcheEVm000049t1:156-7334.p2.exon1;Parent=GamcheEVm000049t1:156-7334.p2
+GamcheEVm000049t1:156-7334	transdecoder	CDS	6658	7179	.	-	0	ID=cds.GamcheEVm000049t1:156-7334.p2;Parent=GamcheEVm000049t1:156-7334.p2;5_prime_partial=true
+GamcheEVm000049t1:156-7334	transdecoder	three_prime_UTR	1	6657	.	-	.	ID=GamcheEVm000049t1:156-7334.p2.utr3p1;Parent=GamcheEVm000049t1:156-7334.p2
+
+GamcheEVm000049t1:156-7334	transdecoder	gene	1	7179	.	+	.	ID=GENE.GamcheEVm000049t1:156-7334~~GamcheEVm000049t1:156-7334.p3;Name=ORF%20type%3A5prime_partial%20len%3A150%20%28%2B%29
+GamcheEVm000049t1:156-7334	transdecoder	mRNA	1	7179	.	+	.	ID=GamcheEVm000049t1:156-7334.p3;Parent=GENE.GamcheEVm000049t1:156-7334~~GamcheEVm000049t1:156-7334.p3;Name=ORF%20type%3A5prime_partial%20len%3A150%20%28%2B%29
+GamcheEVm000049t1:156-7334	transdecoder	exon	1	7179	.	+	.	ID=GamcheEVm000049t1:156-7334.p3.exon1;Parent=GamcheEVm000049t1:156-7334.p3
+GamcheEVm000049t1:156-7334	transdecoder	CDS	2	451	.	+	0	ID=cds.GamcheEVm000049t1:156-7334.p3;Parent=GamcheEVm000049t1:156-7334.p3;5_prime_partial=true
+GamcheEVm000049t1:156-7334	transdecoder	three_prime_UTR	452	7179	.	+	.	ID=GamcheEVm000049t1:156-7334.p3.utr3p1;Parent=GamcheEVm000049t1:156-7334.p3
+
+GamcheEVm000049t1:156-7334	transdecoder	gene	1	7179	.	-	.	ID=GENE.GamcheEVm000049t1:156-7334~~GamcheEVm000049t1:156-7334.p4;Name=ORF%20type%3Acomplete%20len%3A121%20%28-%29
+GamcheEVm000049t1:156-7334	transdecoder	mRNA	1	7179	.	-	.	ID=GamcheEVm000049t1:156-7334.p4;Parent=GENE.GamcheEVm000049t1:156-7334~~GamcheEVm000049t1:156-7334.p4;Name=ORF%20type%3Acomplete%20len%3A121%20%28-%29
+GamcheEVm000049t1:156-7334	transdecoder	five_prime_UTR	5797	7179	.	-	.	ID=GamcheEVm000049t1:156-7334.p4.utr5p1;Parent=GamcheEVm000049t1:156-7334.p4
+GamcheEVm000049t1:156-7334	transdecoder	exon	1	7179	.	-	.	ID=GamcheEVm000049t1:156-7334.p4.exon1;Parent=GamcheEVm000049t1:156-7334.p4
+GamcheEVm000049t1:156-7334	transdecoder	CDS	5434	5796	.	-	0	ID=cds.GamcheEVm000049t1:156-7334.p4;Parent=GamcheEVm000049t1:156-7334.p4
+GamcheEVm000049t1:156-7334	transdecoder	three_prime_UTR	1	5433	.	-	.	ID=GamcheEVm000049t1:156-7334.p4.utr3p1;Parent=GamcheEVm000049t1:156-7334.p4
+
+GamcheEVm000049t1:156-7334	transdecoder	gene	1	7179	.	-	.	ID=GENE.GamcheEVm000049t1:156-7334~~GamcheEVm000049t1:156-7334.p5;Name=ORF%20type%3Acomplete%20len%3A109%20%28-%29
+GamcheEVm000049t1:156-7334	transdecoder	mRNA	1	7179	.	-	.	ID=GamcheEVm000049t1:156-7334.p5;Parent=GENE.GamcheEVm000049t1:156-7334~~GamcheEVm000049t1:156-7334.p5;Name=ORF%20type%3Acomplete%20len%3A109%20%28-%29
+GamcheEVm000049t1:156-7334	transdecoder	five_prime_UTR	5017	7179	.	-	.	ID=GamcheEVm000049t1:156-7334.p5.utr5p1;Parent=GamcheEVm000049t1:156-7334.p5
+GamcheEVm000049t1:156-7334	transdecoder	exon	1	7179	.	-	.	ID=GamcheEVm000049t1:156-7334.p5.exon1;Parent=GamcheEVm000049t1:156-7334.p5
+GamcheEVm000049t1:156-7334	transdecoder	CDS	4690	5016	.	-	0	ID=cds.GamcheEVm000049t1:156-7334.p5;Parent=GamcheEVm000049t1:156-7334.p5
+GamcheEVm000049t1:156-7334	transdecoder	three_prime_UTR	1	4689	.	-	.	ID=GamcheEVm000049t1:156-7334.p5.utr3p1;Parent=GamcheEVm000049t1:156-7334.p5
+
+GamcheEVm000049t1:156-7334	transdecoder	gene	1	7179	.	+	.	ID=GENE.GamcheEVm000049t1:156-7334~~GamcheEVm000049t1:156-7334.p6;Name=ORF%20type%3Acomplete%20len%3A103%20%28%2B%29
+GamcheEVm000049t1:156-7334	transdecoder	mRNA	1	7179	.	+	.	ID=GamcheEVm000049t1:156-7334.p6;Parent=GENE.GamcheEVm000049t1:156-7334~~GamcheEVm000049t1:156-7334.p6;Name=ORF%20type%3Acomplete%20len%3A103%20%28%2B%29
+GamcheEVm000049t1:156-7334	transdecoder	five_prime_UTR	1	6679	.	+	.	ID=GamcheEVm000049t1:156-7334.p6.utr5p1;Parent=GamcheEVm000049t1:156-7334.p6
+GamcheEVm000049t1:156-7334	transdecoder	exon	1	7179	.	+	.	ID=GamcheEVm000049t1:156-7334.p6.exon1;Parent=GamcheEVm000049t1:156-7334.p6
+GamcheEVm000049t1:156-7334	transdecoder	CDS	6680	6988	.	+	0	ID=cds.GamcheEVm000049t1:156-7334.p6;Parent=GamcheEVm000049t1:156-7334.p6
+GamcheEVm000049t1:156-7334	transdecoder	three_prime_UTR	6989	7179	.	+	.	ID=GamcheEVm000049t1:156-7334.p6.utr3p1;Parent=GamcheEVm000049t1:156-7334.p6
+
+GamcheEVm000526t3:63-3725	transdecoder	gene	1	3663	.	+	.	ID=GENE.GamcheEVm000526t3:63-3725~~GamcheEVm000526t3:63-3725.p1;Name=ORF%20type%3A3prime_partial%20len%3A1222%20%28%2B%29
+GamcheEVm000526t3:63-3725	transdecoder	mRNA	1	3663	.	+	.	ID=GamcheEVm000526t3:63-3725.p1;Parent=GENE.GamcheEVm000526t3:63-3725~~GamcheEVm000526t3:63-3725.p1;Name=ORF%20type%3A3prime_partial%20len%3A1222%20%28%2B%29
+GamcheEVm000526t3:63-3725	transdecoder	exon	1	3663	.	+	.	ID=GamcheEVm000526t3:63-3725.p1.exon1;Parent=GamcheEVm000526t3:63-3725.p1
+GamcheEVm000526t3:63-3725	transdecoder	CDS	1	3663	.	+	0	ID=cds.GamcheEVm000526t3:63-3725.p1;Parent=GamcheEVm000526t3:63-3725.p1;3_prime_partial=true
+
+GamcheEVm000526t3:63-3725	transdecoder	gene	1	3663	.	-	.	ID=GENE.GamcheEVm000526t3:63-3725~~GamcheEVm000526t3:63-3725.p2;Name=ORF%20type%3Acomplete%20len%3A183%20%28-%29
+GamcheEVm000526t3:63-3725	transdecoder	mRNA	1	3663	.	-	.	ID=GamcheEVm000526t3:63-3725.p2;Parent=GENE.GamcheEVm000526t3:63-3725~~GamcheEVm000526t3:63-3725.p2;Name=ORF%20type%3Acomplete%20len%3A183%20%28-%29
+GamcheEVm000526t3:63-3725	transdecoder	five_prime_UTR	3369	3663	.	-	.	ID=GamcheEVm000526t3:63-3725.p2.utr5p1;Parent=GamcheEVm000526t3:63-3725.p2
+GamcheEVm000526t3:63-3725	transdecoder	exon	1	3663	.	-	.	ID=GamcheEVm000526t3:63-3725.p2.exon1;Parent=GamcheEVm000526t3:63-3725.p2
+GamcheEVm000526t3:63-3725	transdecoder	CDS	2820	3368	.	-	0	ID=cds.GamcheEVm000526t3:63-3725.p2;Parent=GamcheEVm000526t3:63-3725.p2
+GamcheEVm000526t3:63-3725	transdecoder	three_prime_UTR	1	2819	.	-	.	ID=GamcheEVm000526t3:63-3725.p2.utr3p1;Parent=GamcheEVm000526t3:63-3725.p2
+
+GamcheEVm000526t3:63-3725	transdecoder	gene	1	3663	.	-	.	ID=GENE.GamcheEVm000526t3:63-3725~~GamcheEVm000526t3:63-3725.p3;Name=ORF%20type%3Acomplete%20len%3A175%20%28-%29
+GamcheEVm000526t3:63-3725	transdecoder	mRNA	1	3663	.	-	.	ID=GamcheEVm000526t3:63-3725.p3;Parent=GENE.GamcheEVm000526t3:63-3725~~GamcheEVm000526t3:63-3725.p3;Name=ORF%20type%3Acomplete%20len%3A175%20%28-%29
+GamcheEVm000526t3:63-3725	transdecoder	five_prime_UTR	870	3663	.	-	.	ID=GamcheEVm000526t3:63-3725.p3.utr5p1;Parent=GamcheEVm000526t3:63-3725.p3
+GamcheEVm000526t3:63-3725	transdecoder	exon	1	3663	.	-	.	ID=GamcheEVm000526t3:63-3725.p3.exon1;Parent=GamcheEVm000526t3:63-3725.p3
+GamcheEVm000526t3:63-3725	transdecoder	CDS	345	869	.	-	0	ID=cds.GamcheEVm000526t3:63-3725.p3;Parent=GamcheEVm000526t3:63-3725.p3
+GamcheEVm000526t3:63-3725	transdecoder	three_prime_UTR	1	344	.	-	.	ID=GamcheEVm000526t3:63-3725.p3.utr3p1;Parent=GamcheEVm000526t3:63-3725.p3
+
+GamcheEVm000526t3:63-3725	transdecoder	gene	1	3663	.	+	.	ID=GENE.GamcheEVm000526t3:63-3725~~GamcheEVm000526t3:63-3725.p4;Name=ORF%20type%3Acomplete%20len%3A103%20%28%2B%29
+GamcheEVm000526t3:63-3725	transdecoder	mRNA	1	3663	.	+	.	ID=GamcheEVm000526t3:63-3725.p4;Parent=GENE.GamcheEVm000526t3:63-3725~~GamcheEVm000526t3:63-3725.p4;Name=ORF%20type%3Acomplete%20len%3A103%20%28%2B%29
+GamcheEVm000526t3:63-3725	transdecoder	five_prime_UTR	1	2206	.	+	.	ID=GamcheEVm000526t3:63-3725.p4.utr5p1;Parent=GamcheEVm000526t3:63-3725.p4
+GamcheEVm000526t3:63-3725	transdecoder	exon	1	3663	.	+	.	ID=GamcheEVm000526t3:63-3725.p4.exon1;Parent=GamcheEVm000526t3:63-3725.p4
+GamcheEVm000526t3:63-3725	transdecoder	CDS	2207	2515	.	+	0	ID=cds.GamcheEVm000526t3:63-3725.p4;Parent=GamcheEVm000526t3:63-3725.p4
+GamcheEVm000526t3:63-3725	transdecoder	three_prime_UTR	2516	3663	.	+	.	ID=GamcheEVm000526t3:63-3725.p4.utr3p1;Parent=GamcheEVm000526t3:63-3725.p4
+
+GamcheEVm000526t3:63-3725	transdecoder	gene	1	3663	.	-	.	ID=GENE.GamcheEVm000526t3:63-3725~~GamcheEVm000526t3:63-3725.p5;Name=ORF%20type%3Acomplete%20len%3A101%20%28-%29
+GamcheEVm000526t3:63-3725	transdecoder	mRNA	1	3663	.	-	.	ID=GamcheEVm000526t3:63-3725.p5;Parent=GENE.GamcheEVm000526t3:63-3725~~GamcheEVm000526t3:63-3725.p5;Name=ORF%20type%3Acomplete%20len%3A101%20%28-%29
+GamcheEVm000526t3:63-3725	transdecoder	five_prime_UTR	1179	3663	.	-	.	ID=GamcheEVm000526t3:63-3725.p5.utr5p1;Parent=GamcheEVm000526t3:63-3725.p5
+GamcheEVm000526t3:63-3725	transdecoder	exon	1	3663	.	-	.	ID=GamcheEVm000526t3:63-3725.p5.exon1;Parent=GamcheEVm000526t3:63-3725.p5
+GamcheEVm000526t3:63-3725	transdecoder	CDS	876	1178	.	-	0	ID=cds.GamcheEVm000526t3:63-3725.p5;Parent=GamcheEVm000526t3:63-3725.p5
+GamcheEVm000526t3:63-3725	transdecoder	three_prime_UTR	1	875	.	-	.	ID=GamcheEVm000526t3:63-3725.p5.utr3p1;Parent=GamcheEVm000526t3:63-3725.p5
+
+GamcheEVm000319t3:121-4359	transdecoder	gene	1	4239	.	+	.	ID=GENE.GamcheEVm000319t3:121-4359~~GamcheEVm000319t3:121-4359.p1;Name=ORF%20type%3A3prime_partial%20len%3A1414%20%28%2B%29
+GamcheEVm000319t3:121-4359	transdecoder	mRNA	1	4239	.	+	.	ID=GamcheEVm000319t3:121-4359.p1;Parent=GENE.GamcheEVm000319t3:121-4359~~GamcheEVm000319t3:121-4359.p1;Name=ORF%20type%3A3prime_partial%20len%3A1414%20%28%2B%29
+GamcheEVm000319t3:121-4359	transdecoder	exon	1	4239	.	+	.	ID=GamcheEVm000319t3:121-4359.p1.exon1;Parent=GamcheEVm000319t3:121-4359.p1
+GamcheEVm000319t3:121-4359	transdecoder	CDS	1	4239	.	+	0	ID=cds.GamcheEVm000319t3:121-4359.p1;Parent=GamcheEVm000319t3:121-4359.p1;3_prime_partial=true
+
+GamcheEVm000319t3:121-4359	transdecoder	gene	1	4239	.	-	.	ID=GENE.GamcheEVm000319t3:121-4359~~GamcheEVm000319t3:121-4359.p2;Name=ORF%20type%3Acomplete%20len%3A245%20%28-%29
+GamcheEVm000319t3:121-4359	transdecoder	mRNA	1	4239	.	-	.	ID=GamcheEVm000319t3:121-4359.p2;Parent=GENE.GamcheEVm000319t3:121-4359~~GamcheEVm000319t3:121-4359.p2;Name=ORF%20type%3Acomplete%20len%3A245%20%28-%29
+GamcheEVm000319t3:121-4359	transdecoder	five_prime_UTR	2119	4239	.	-	.	ID=GamcheEVm000319t3:121-4359.p2.utr5p1;Parent=GamcheEVm000319t3:121-4359.p2
+GamcheEVm000319t3:121-4359	transdecoder	exon	1	4239	.	-	.	ID=GamcheEVm000319t3:121-4359.p2.exon1;Parent=GamcheEVm000319t3:121-4359.p2
+GamcheEVm000319t3:121-4359	transdecoder	CDS	1384	2118	.	-	0	ID=cds.GamcheEVm000319t3:121-4359.p2;Parent=GamcheEVm000319t3:121-4359.p2
+GamcheEVm000319t3:121-4359	transdecoder	three_prime_UTR	1	1383	.	-	.	ID=GamcheEVm000319t3:121-4359.p2.utr3p1;Parent=GamcheEVm000319t3:121-4359.p2
+
+GamcheEVm000319t3:121-4359	transdecoder	gene	1	4239	.	+	.	ID=GENE.GamcheEVm000319t3:121-4359~~GamcheEVm000319t3:121-4359.p3;Name=ORF%20type%3Acomplete%20len%3A149%20%28%2B%29
+GamcheEVm000319t3:121-4359	transdecoder	mRNA	1	4239	.	+	.	ID=GamcheEVm000319t3:121-4359.p3;Parent=GENE.GamcheEVm000319t3:121-4359~~GamcheEVm000319t3:121-4359.p3;Name=ORF%20type%3Acomplete%20len%3A149%20%28%2B%29
+GamcheEVm000319t3:121-4359	transdecoder	five_prime_UTR	1	2029	.	+	.	ID=GamcheEVm000319t3:121-4359.p3.utr5p1;Parent=GamcheEVm000319t3:121-4359.p3
+GamcheEVm000319t3:121-4359	transdecoder	exon	1	4239	.	+	.	ID=GamcheEVm000319t3:121-4359.p3.exon1;Parent=GamcheEVm000319t3:121-4359.p3
+GamcheEVm000319t3:121-4359	transdecoder	CDS	2030	2476	.	+	0	ID=cds.GamcheEVm000319t3:121-4359.p3;Parent=GamcheEVm000319t3:121-4359.p3
+GamcheEVm000319t3:121-4359	transdecoder	three_prime_UTR	2477	4239	.	+	.	ID=GamcheEVm000319t3:121-4359.p3.utr3p1;Parent=GamcheEVm000319t3:121-4359.p3
+
+GamcheEVm000319t3:121-4359	transdecoder	gene	1	4239	.	-	.	ID=GENE.GamcheEVm000319t3:121-4359~~GamcheEVm000319t3:121-4359.p4;Name=ORF%20type%3Acomplete%20len%3A129%20%28-%29
+GamcheEVm000319t3:121-4359	transdecoder	mRNA	1	4239	.	-	.	ID=GamcheEVm000319t3:121-4359.p4;Parent=GENE.GamcheEVm000319t3:121-4359~~GamcheEVm000319t3:121-4359.p4;Name=ORF%20type%3Acomplete%20len%3A129%20%28-%29
+GamcheEVm000319t3:121-4359	transdecoder	five_prime_UTR	3270	4239	.	-	.	ID=GamcheEVm000319t3:121-4359.p4.utr5p1;Parent=GamcheEVm000319t3:121-4359.p4
+GamcheEVm000319t3:121-4359	transdecoder	exon	1	4239	.	-	.	ID=GamcheEVm000319t3:121-4359.p4.exon1;Parent=GamcheEVm000319t3:121-4359.p4
+GamcheEVm000319t3:121-4359	transdecoder	CDS	2883	3269	.	-	0	ID=cds.GamcheEVm000319t3:121-4359.p4;Parent=GamcheEVm000319t3:121-4359.p4
+GamcheEVm000319t3:121-4359	transdecoder	three_prime_UTR	1	2882	.	-	.	ID=GamcheEVm000319t3:121-4359.p4.utr3p1;Parent=GamcheEVm000319t3:121-4359.p4
+
+GamcheEVm000319t3:121-4359	transdecoder	gene	1	4239	.	-	.	ID=GENE.GamcheEVm000319t3:121-4359~~GamcheEVm000319t3:121-4359.p5;Name=ORF%20type%3A5prime_partial%20len%3A128%20%28-%29
+GamcheEVm000319t3:121-4359	transdecoder	mRNA	1	4239	.	-	.	ID=GamcheEVm000319t3:121-4359.p5;Parent=GENE.GamcheEVm000319t3:121-4359~~GamcheEVm000319t3:121-4359.p5;Name=ORF%20type%3A5prime_partial%20len%3A128%20%28-%29
+GamcheEVm000319t3:121-4359	transdecoder	exon	1	4239	.	-	.	ID=GamcheEVm000319t3:121-4359.p5.exon1;Parent=GamcheEVm000319t3:121-4359.p5
+GamcheEVm000319t3:121-4359	transdecoder	CDS	3854	4237	.	-	0	ID=cds.GamcheEVm000319t3:121-4359.p5;Parent=GamcheEVm000319t3:121-4359.p5;5_prime_partial=true
+GamcheEVm000319t3:121-4359	transdecoder	three_prime_UTR	1	3853	.	-	.	ID=GamcheEVm000319t3:121-4359.p5.utr3p1;Parent=GamcheEVm000319t3:121-4359.p5
+
+GamcheEVm000319t3:121-4359	transdecoder	gene	1	4239	.	-	.	ID=GENE.GamcheEVm000319t3:121-4359~~GamcheEVm000319t3:121-4359.p6;Name=ORF%20type%3Acomplete%20len%3A113%20%28-%29
+GamcheEVm000319t3:121-4359	transdecoder	mRNA	1	4239	.	-	.	ID=GamcheEVm000319t3:121-4359.p6;Parent=GENE.GamcheEVm000319t3:121-4359~~GamcheEVm000319t3:121-4359.p6;Name=ORF%20type%3Acomplete%20len%3A113%20%28-%29
+GamcheEVm000319t3:121-4359	transdecoder	five_prime_UTR	349	4239	.	-	.	ID=GamcheEVm000319t3:121-4359.p6.utr5p1;Parent=GamcheEVm000319t3:121-4359.p6
+GamcheEVm000319t3:121-4359	transdecoder	exon	1	4239	.	-	.	ID=GamcheEVm000319t3:121-4359.p6.exon1;Parent=GamcheEVm000319t3:121-4359.p6
+GamcheEVm000319t3:121-4359	transdecoder	CDS	10	348	.	-	0	ID=cds.GamcheEVm000319t3:121-4359.p6;Parent=GamcheEVm000319t3:121-4359.p6
+GamcheEVm000319t3:121-4359	transdecoder	three_prime_UTR	1	9	.	-	.	ID=GamcheEVm000319t3:121-4359.p6.utr3p1;Parent=GamcheEVm000319t3:121-4359.p6
+
+GamcheEVm000786t1:80-3283	transdecoder	gene	1	3204	.	+	.	ID=GENE.GamcheEVm000786t1:80-3283~~GamcheEVm000786t1:80-3283.p1;Name=ORF%20type%3A3prime_partial%20len%3A1069%20%28%2B%29
+GamcheEVm000786t1:80-3283	transdecoder	mRNA	1	3204	.	+	.	ID=GamcheEVm000786t1:80-3283.p1;Parent=GENE.GamcheEVm000786t1:80-3283~~GamcheEVm000786t1:80-3283.p1;Name=ORF%20type%3A3prime_partial%20len%3A1069%20%28%2B%29
+GamcheEVm000786t1:80-3283	transdecoder	exon	1	3204	.	+	.	ID=GamcheEVm000786t1:80-3283.p1.exon1;Parent=GamcheEVm000786t1:80-3283.p1
+GamcheEVm000786t1:80-3283	transdecoder	CDS	1	3204	.	+	0	ID=cds.GamcheEVm000786t1:80-3283.p1;Parent=GamcheEVm000786t1:80-3283.p1;3_prime_partial=true
+
+GamcheEVm000786t1:80-3283	transdecoder	gene	1	3204	.	-	.	ID=GENE.GamcheEVm000786t1:80-3283~~GamcheEVm000786t1:80-3283.p2;Name=ORF%20type%3Acomplete%20len%3A184%20%28-%29
+GamcheEVm000786t1:80-3283	transdecoder	mRNA	1	3204	.	-	.	ID=GamcheEVm000786t1:80-3283.p2;Parent=GENE.GamcheEVm000786t1:80-3283~~GamcheEVm000786t1:80-3283.p2;Name=ORF%20type%3Acomplete%20len%3A184%20%28-%29
+GamcheEVm000786t1:80-3283	transdecoder	five_prime_UTR	1410	3204	.	-	.	ID=GamcheEVm000786t1:80-3283.p2.utr5p1;Parent=GamcheEVm000786t1:80-3283.p2
+GamcheEVm000786t1:80-3283	transdecoder	exon	1	3204	.	-	.	ID=GamcheEVm000786t1:80-3283.p2.exon1;Parent=GamcheEVm000786t1:80-3283.p2
+GamcheEVm000786t1:80-3283	transdecoder	CDS	858	1409	.	-	0	ID=cds.GamcheEVm000786t1:80-3283.p2;Parent=GamcheEVm000786t1:80-3283.p2
+GamcheEVm000786t1:80-3283	transdecoder	three_prime_UTR	1	857	.	-	.	ID=GamcheEVm000786t1:80-3283.p2.utr3p1;Parent=GamcheEVm000786t1:80-3283.p2
+
+GamcheEVm000786t1:80-3283	transdecoder	gene	1	3204	.	-	.	ID=GENE.GamcheEVm000786t1:80-3283~~GamcheEVm000786t1:80-3283.p3;Name=ORF%20type%3Acomplete%20len%3A153%20%28-%29
+GamcheEVm000786t1:80-3283	transdecoder	mRNA	1	3204	.	-	.	ID=GamcheEVm000786t1:80-3283.p3;Parent=GENE.GamcheEVm000786t1:80-3283~~GamcheEVm000786t1:80-3283.p3;Name=ORF%20type%3Acomplete%20len%3A153%20%28-%29
+GamcheEVm000786t1:80-3283	transdecoder	five_prime_UTR	3033	3204	.	-	.	ID=GamcheEVm000786t1:80-3283.p3.utr5p1;Parent=GamcheEVm000786t1:80-3283.p3
+GamcheEVm000786t1:80-3283	transdecoder	exon	1	3204	.	-	.	ID=GamcheEVm000786t1:80-3283.p3.exon1;Parent=GamcheEVm000786t1:80-3283.p3
+GamcheEVm000786t1:80-3283	transdecoder	CDS	2574	3032	.	-	0	ID=cds.GamcheEVm000786t1:80-3283.p3;Parent=GamcheEVm000786t1:80-3283.p3
+GamcheEVm000786t1:80-3283	transdecoder	three_prime_UTR	1	2573	.	-	.	ID=GamcheEVm000786t1:80-3283.p3.utr3p1;Parent=GamcheEVm000786t1:80-3283.p3
+
+GamcheEVm000786t1:80-3283	transdecoder	gene	1	3204	.	+	.	ID=GENE.GamcheEVm000786t1:80-3283~~GamcheEVm000786t1:80-3283.p4;Name=ORF%20type%3Acomplete%20len%3A119%20%28%2B%29
+GamcheEVm000786t1:80-3283	transdecoder	mRNA	1	3204	.	+	.	ID=GamcheEVm000786t1:80-3283.p4;Parent=GENE.GamcheEVm000786t1:80-3283~~GamcheEVm000786t1:80-3283.p4;Name=ORF%20type%3Acomplete%20len%3A119%20%28%2B%29
+GamcheEVm000786t1:80-3283	transdecoder	five_prime_UTR	1	157	.	+	.	ID=GamcheEVm000786t1:80-3283.p4.utr5p1;Parent=GamcheEVm000786t1:80-3283.p4
+GamcheEVm000786t1:80-3283	transdecoder	exon	1	3204	.	+	.	ID=GamcheEVm000786t1:80-3283.p4.exon1;Parent=GamcheEVm000786t1:80-3283.p4
+GamcheEVm000786t1:80-3283	transdecoder	CDS	158	514	.	+	0	ID=cds.GamcheEVm000786t1:80-3283.p4;Parent=GamcheEVm000786t1:80-3283.p4
+GamcheEVm000786t1:80-3283	transdecoder	three_prime_UTR	515	3204	.	+	.	ID=GamcheEVm000786t1:80-3283.p4.utr3p1;Parent=GamcheEVm000786t1:80-3283.p4
+
+GamcheEVm000950t1:22-2955	transdecoder	gene	1	2934	.	+	.	ID=GENE.GamcheEVm000950t1:22-2955~~GamcheEVm000950t1:22-2955.p1;Name=ORF%20type%3A3prime_partial%20len%3A979%20%28%2B%29
+GamcheEVm000950t1:22-2955	transdecoder	mRNA	1	2934	.	+	.	ID=GamcheEVm000950t1:22-2955.p1;Parent=GENE.GamcheEVm000950t1:22-2955~~GamcheEVm000950t1:22-2955.p1;Name=ORF%20type%3A3prime_partial%20len%3A979%20%28%2B%29
+GamcheEVm000950t1:22-2955	transdecoder	exon	1	2934	.	+	.	ID=GamcheEVm000950t1:22-2955.p1.exon1;Parent=GamcheEVm000950t1:22-2955.p1
+GamcheEVm000950t1:22-2955	transdecoder	CDS	1	2934	.	+	0	ID=cds.GamcheEVm000950t1:22-2955.p1;Parent=GamcheEVm000950t1:22-2955.p1;3_prime_partial=true
+
+GamcheEVm000950t1:22-2955	transdecoder	gene	1	2934	.	+	.	ID=GENE.GamcheEVm000950t1:22-2955~~GamcheEVm000950t1:22-2955.p2;Name=ORF%20type%3Acomplete%20len%3A160%20%28%2B%29
+GamcheEVm000950t1:22-2955	transdecoder	mRNA	1	2934	.	+	.	ID=GamcheEVm000950t1:22-2955.p2;Parent=GENE.GamcheEVm000950t1:22-2955~~GamcheEVm000950t1:22-2955.p2;Name=ORF%20type%3Acomplete%20len%3A160%20%28%2B%29
+GamcheEVm000950t1:22-2955	transdecoder	five_prime_UTR	1	964	.	+	.	ID=GamcheEVm000950t1:22-2955.p2.utr5p1;Parent=GamcheEVm000950t1:22-2955.p2
+GamcheEVm000950t1:22-2955	transdecoder	exon	1	2934	.	+	.	ID=GamcheEVm000950t1:22-2955.p2.exon1;Parent=GamcheEVm000950t1:22-2955.p2
+GamcheEVm000950t1:22-2955	transdecoder	CDS	965	1444	.	+	0	ID=cds.GamcheEVm000950t1:22-2955.p2;Parent=GamcheEVm000950t1:22-2955.p2
+GamcheEVm000950t1:22-2955	transdecoder	three_prime_UTR	1445	2934	.	+	.	ID=GamcheEVm000950t1:22-2955.p2.utr3p1;Parent=GamcheEVm000950t1:22-2955.p2
+
+GamcheEVm000950t1:22-2955	transdecoder	gene	1	2934	.	-	.	ID=GENE.GamcheEVm000950t1:22-2955~~GamcheEVm000950t1:22-2955.p3;Name=ORF%20type%3Acomplete%20len%3A157%20%28-%29
+GamcheEVm000950t1:22-2955	transdecoder	mRNA	1	2934	.	-	.	ID=GamcheEVm000950t1:22-2955.p3;Parent=GENE.GamcheEVm000950t1:22-2955~~GamcheEVm000950t1:22-2955.p3;Name=ORF%20type%3Acomplete%20len%3A157%20%28-%29
+GamcheEVm000950t1:22-2955	transdecoder	five_prime_UTR	1827	2934	.	-	.	ID=GamcheEVm000950t1:22-2955.p3.utr5p1;Parent=GamcheEVm000950t1:22-2955.p3
+GamcheEVm000950t1:22-2955	transdecoder	exon	1	2934	.	-	.	ID=GamcheEVm000950t1:22-2955.p3.exon1;Parent=GamcheEVm000950t1:22-2955.p3
+GamcheEVm000950t1:22-2955	transdecoder	CDS	1356	1826	.	-	0	ID=cds.GamcheEVm000950t1:22-2955.p3;Parent=GamcheEVm000950t1:22-2955.p3
+GamcheEVm000950t1:22-2955	transdecoder	three_prime_UTR	1	1355	.	-	.	ID=GamcheEVm000950t1:22-2955.p3.utr3p1;Parent=GamcheEVm000950t1:22-2955.p3
+
+GamcheEVm000950t1:22-2955	transdecoder	gene	1	2934	.	+	.	ID=GENE.GamcheEVm000950t1:22-2955~~GamcheEVm000950t1:22-2955.p4;Name=ORF%20type%3Acomplete%20len%3A120%20%28%2B%29
+GamcheEVm000950t1:22-2955	transdecoder	mRNA	1	2934	.	+	.	ID=GamcheEVm000950t1:22-2955.p4;Parent=GENE.GamcheEVm000950t1:22-2955~~GamcheEVm000950t1:22-2955.p4;Name=ORF%20type%3Acomplete%20len%3A120%20%28%2B%29
+GamcheEVm000950t1:22-2955	transdecoder	five_prime_UTR	1	365	.	+	.	ID=GamcheEVm000950t1:22-2955.p4.utr5p1;Parent=GamcheEVm000950t1:22-2955.p4
+GamcheEVm000950t1:22-2955	transdecoder	exon	1	2934	.	+	.	ID=GamcheEVm000950t1:22-2955.p4.exon1;Parent=GamcheEVm000950t1:22-2955.p4
+GamcheEVm000950t1:22-2955	transdecoder	CDS	366	725	.	+	0	ID=cds.GamcheEVm000950t1:22-2955.p4;Parent=GamcheEVm000950t1:22-2955.p4
+GamcheEVm000950t1:22-2955	transdecoder	three_prime_UTR	726	2934	.	+	.	ID=GamcheEVm000950t1:22-2955.p4.utr3p1;Parent=GamcheEVm000950t1:22-2955.p4
+
+GamcheEVm000950t1:22-2955	transdecoder	gene	1	2934	.	-	.	ID=GENE.GamcheEVm000950t1:22-2955~~GamcheEVm000950t1:22-2955.p5;Name=ORF%20type%3Acomplete%20len%3A104%20%28-%29
+GamcheEVm000950t1:22-2955	transdecoder	mRNA	1	2934	.	-	.	ID=GamcheEVm000950t1:22-2955.p5;Parent=GENE.GamcheEVm000950t1:22-2955~~GamcheEVm000950t1:22-2955.p5;Name=ORF%20type%3Acomplete%20len%3A104%20%28-%29
+GamcheEVm000950t1:22-2955	transdecoder	five_prime_UTR	819	2934	.	-	.	ID=GamcheEVm000950t1:22-2955.p5.utr5p1;Parent=GamcheEVm000950t1:22-2955.p5
+GamcheEVm000950t1:22-2955	transdecoder	exon	1	2934	.	-	.	ID=GamcheEVm000950t1:22-2955.p5.exon1;Parent=GamcheEVm000950t1:22-2955.p5
+GamcheEVm000950t1:22-2955	transdecoder	CDS	507	818	.	-	0	ID=cds.GamcheEVm000950t1:22-2955.p5;Parent=GamcheEVm000950t1:22-2955.p5
+GamcheEVm000950t1:22-2955	transdecoder	three_prime_UTR	1	506	.	-	.	ID=GamcheEVm000950t1:22-2955.p5.utr3p1;Parent=GamcheEVm000950t1:22-2955.p5
+
+GamcheEVm000950t1:22-2955	transdecoder	gene	1	2934	.	-	.	ID=GENE.GamcheEVm000950t1:22-2955~~GamcheEVm000950t1:22-2955.p6;Name=ORF%20type%3Acomplete%20len%3A102%20%28-%29
+GamcheEVm000950t1:22-2955	transdecoder	mRNA	1	2934	.	-	.	ID=GamcheEVm000950t1:22-2955.p6;Parent=GENE.GamcheEVm000950t1:22-2955~~GamcheEVm000950t1:22-2955.p6;Name=ORF%20type%3Acomplete%20len%3A102%20%28-%29
+GamcheEVm000950t1:22-2955	transdecoder	five_prime_UTR	2476	2934	.	-	.	ID=GamcheEVm000950t1:22-2955.p6.utr5p1;Parent=GamcheEVm000950t1:22-2955.p6
+GamcheEVm000950t1:22-2955	transdecoder	exon	1	2934	.	-	.	ID=GamcheEVm000950t1:22-2955.p6.exon1;Parent=GamcheEVm000950t1:22-2955.p6
+GamcheEVm000950t1:22-2955	transdecoder	CDS	2170	2475	.	-	0	ID=cds.GamcheEVm000950t1:22-2955.p6;Parent=GamcheEVm000950t1:22-2955.p6
+GamcheEVm000950t1:22-2955	transdecoder	three_prime_UTR	1	2169	.	-	.	ID=GamcheEVm000950t1:22-2955.p6.utr3p1;Parent=GamcheEVm000950t1:22-2955.p6
+
