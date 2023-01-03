@@ -1,0 +1,292 @@
+PenvanEVm000334t1:103-3597	transdecoder	gene	1	3495	.	+	.	ID=GENE.PenvanEVm000334t1:103-3597~~PenvanEVm000334t1:103-3597.p1;Name=ORF%20type%3A3prime_partial%20len%3A1166%20%28%2B%29
+PenvanEVm000334t1:103-3597	transdecoder	mRNA	1	3495	.	+	.	ID=PenvanEVm000334t1:103-3597.p1;Parent=GENE.PenvanEVm000334t1:103-3597~~PenvanEVm000334t1:103-3597.p1;Name=ORF%20type%3A3prime_partial%20len%3A1166%20%28%2B%29
+PenvanEVm000334t1:103-3597	transdecoder	exon	1	3495	.	+	.	ID=PenvanEVm000334t1:103-3597.p1.exon1;Parent=PenvanEVm000334t1:103-3597.p1
+PenvanEVm000334t1:103-3597	transdecoder	CDS	1	3495	.	+	0	ID=cds.PenvanEVm000334t1:103-3597.p1;Parent=PenvanEVm000334t1:103-3597.p1;3_prime_partial=true
+
+PenvanEVm000405t1:105-3293	transdecoder	gene	1	3189	.	+	.	ID=GENE.PenvanEVm000405t1:105-3293~~PenvanEVm000405t1:105-3293.p1;Name=ORF%20type%3Ainternal%20len%3A1064%20%28%2B%29
+PenvanEVm000405t1:105-3293	transdecoder	mRNA	1	3189	.	+	.	ID=PenvanEVm000405t1:105-3293.p1;Parent=GENE.PenvanEVm000405t1:105-3293~~PenvanEVm000405t1:105-3293.p1;Name=ORF%20type%3Ainternal%20len%3A1064%20%28%2B%29
+PenvanEVm000405t1:105-3293	transdecoder	exon	1	3189	.	+	.	ID=PenvanEVm000405t1:105-3293.p1.exon1;Parent=PenvanEVm000405t1:105-3293.p1
+PenvanEVm000405t1:105-3293	transdecoder	CDS	1	3189	.	+	0	ID=cds.PenvanEVm000405t1:105-3293.p1;Parent=PenvanEVm000405t1:105-3293.p1;5_prime_partial=true;3_prime_partial=true
+
+PenvanEVm000405t1:105-3293	transdecoder	gene	1	3189	.	-	.	ID=GENE.PenvanEVm000405t1:105-3293~~PenvanEVm000405t1:105-3293.p2;Name=ORF%20type%3Acomplete%20len%3A134%20%28-%29
+PenvanEVm000405t1:105-3293	transdecoder	mRNA	1	3189	.	-	.	ID=PenvanEVm000405t1:105-3293.p2;Parent=GENE.PenvanEVm000405t1:105-3293~~PenvanEVm000405t1:105-3293.p2;Name=ORF%20type%3Acomplete%20len%3A134%20%28-%29
+PenvanEVm000405t1:105-3293	transdecoder	five_prime_UTR	714	3189	.	-	.	ID=PenvanEVm000405t1:105-3293.p2.utr5p1;Parent=PenvanEVm000405t1:105-3293.p2
+PenvanEVm000405t1:105-3293	transdecoder	exon	1	3189	.	-	.	ID=PenvanEVm000405t1:105-3293.p2.exon1;Parent=PenvanEVm000405t1:105-3293.p2
+PenvanEVm000405t1:105-3293	transdecoder	CDS	312	713	.	-	0	ID=cds.PenvanEVm000405t1:105-3293.p2;Parent=PenvanEVm000405t1:105-3293.p2
+PenvanEVm000405t1:105-3293	transdecoder	three_prime_UTR	1	311	.	-	.	ID=PenvanEVm000405t1:105-3293.p2.utr3p1;Parent=PenvanEVm000405t1:105-3293.p2
+
+PenvanEVm000405t1:105-3293	transdecoder	gene	1	3189	.	-	.	ID=GENE.PenvanEVm000405t1:105-3293~~PenvanEVm000405t1:105-3293.p3;Name=ORF%20type%3Acomplete%20len%3A112%20%28-%29
+PenvanEVm000405t1:105-3293	transdecoder	mRNA	1	3189	.	-	.	ID=PenvanEVm000405t1:105-3293.p3;Parent=GENE.PenvanEVm000405t1:105-3293~~PenvanEVm000405t1:105-3293.p3;Name=ORF%20type%3Acomplete%20len%3A112%20%28-%29
+PenvanEVm000405t1:105-3293	transdecoder	five_prime_UTR	1557	3189	.	-	.	ID=PenvanEVm000405t1:105-3293.p3.utr5p1;Parent=PenvanEVm000405t1:105-3293.p3
+PenvanEVm000405t1:105-3293	transdecoder	exon	1	3189	.	-	.	ID=PenvanEVm000405t1:105-3293.p3.exon1;Parent=PenvanEVm000405t1:105-3293.p3
+PenvanEVm000405t1:105-3293	transdecoder	CDS	1221	1556	.	-	0	ID=cds.PenvanEVm000405t1:105-3293.p3;Parent=PenvanEVm000405t1:105-3293.p3
+PenvanEVm000405t1:105-3293	transdecoder	three_prime_UTR	1	1220	.	-	.	ID=PenvanEVm000405t1:105-3293.p3.utr3p1;Parent=PenvanEVm000405t1:105-3293.p3
+
+PenvanEVm000541t1:125-2950	transdecoder	gene	1	2826	.	+	.	ID=GENE.PenvanEVm000541t1:125-2950~~PenvanEVm000541t1:125-2950.p1;Name=ORF%20type%3Ainternal%20len%3A943%20%28%2B%29
+PenvanEVm000541t1:125-2950	transdecoder	mRNA	1	2826	.	+	.	ID=PenvanEVm000541t1:125-2950.p1;Parent=GENE.PenvanEVm000541t1:125-2950~~PenvanEVm000541t1:125-2950.p1;Name=ORF%20type%3Ainternal%20len%3A943%20%28%2B%29
+PenvanEVm000541t1:125-2950	transdecoder	exon	1	2826	.	+	.	ID=PenvanEVm000541t1:125-2950.p1.exon1;Parent=PenvanEVm000541t1:125-2950.p1
+PenvanEVm000541t1:125-2950	transdecoder	CDS	1	2826	.	+	0	ID=cds.PenvanEVm000541t1:125-2950.p1;Parent=PenvanEVm000541t1:125-2950.p1;5_prime_partial=true;3_prime_partial=true
+
+PenvanEVm000470t1:106-3156	transdecoder	gene	1	3051	.	+	.	ID=GENE.PenvanEVm000470t1:106-3156~~PenvanEVm000470t1:106-3156.p1;Name=ORF%20type%3Ainternal%20len%3A1018%20%28%2B%29
+PenvanEVm000470t1:106-3156	transdecoder	mRNA	1	3051	.	+	.	ID=PenvanEVm000470t1:106-3156.p1;Parent=GENE.PenvanEVm000470t1:106-3156~~PenvanEVm000470t1:106-3156.p1;Name=ORF%20type%3Ainternal%20len%3A1018%20%28%2B%29
+PenvanEVm000470t1:106-3156	transdecoder	exon	1	3051	.	+	.	ID=PenvanEVm000470t1:106-3156.p1.exon1;Parent=PenvanEVm000470t1:106-3156.p1
+PenvanEVm000470t1:106-3156	transdecoder	CDS	1	3051	.	+	0	ID=cds.PenvanEVm000470t1:106-3156.p1;Parent=PenvanEVm000470t1:106-3156.p1;5_prime_partial=true;3_prime_partial=true
+
+PenvanEVm000470t1:106-3156	transdecoder	gene	1	3051	.	+	.	ID=GENE.PenvanEVm000470t1:106-3156~~PenvanEVm000470t1:106-3156.p2;Name=ORF%20type%3Acomplete%20len%3A101%20%28%2B%29
+PenvanEVm000470t1:106-3156	transdecoder	mRNA	1	3051	.	+	.	ID=PenvanEVm000470t1:106-3156.p2;Parent=GENE.PenvanEVm000470t1:106-3156~~PenvanEVm000470t1:106-3156.p2;Name=ORF%20type%3Acomplete%20len%3A101%20%28%2B%29
+PenvanEVm000470t1:106-3156	transdecoder	five_prime_UTR	1	589	.	+	.	ID=PenvanEVm000470t1:106-3156.p2.utr5p1;Parent=PenvanEVm000470t1:106-3156.p2
+PenvanEVm000470t1:106-3156	transdecoder	exon	1	3051	.	+	.	ID=PenvanEVm000470t1:106-3156.p2.exon1;Parent=PenvanEVm000470t1:106-3156.p2
+PenvanEVm000470t1:106-3156	transdecoder	CDS	590	892	.	+	0	ID=cds.PenvanEVm000470t1:106-3156.p2;Parent=PenvanEVm000470t1:106-3156.p2
+PenvanEVm000470t1:106-3156	transdecoder	three_prime_UTR	893	3051	.	+	.	ID=PenvanEVm000470t1:106-3156.p2.utr3p1;Parent=PenvanEVm000470t1:106-3156.p2
+
+PenvanEVm000066t1:31-6117	transdecoder	gene	1	6087	.	+	.	ID=GENE.PenvanEVm000066t1:31-6117~~PenvanEVm000066t1:31-6117.p1;Name=ORF%20type%3Ainternal%20len%3A2030%20%28%2B%29
+PenvanEVm000066t1:31-6117	transdecoder	mRNA	1	6087	.	+	.	ID=PenvanEVm000066t1:31-6117.p1;Parent=GENE.PenvanEVm000066t1:31-6117~~PenvanEVm000066t1:31-6117.p1;Name=ORF%20type%3Ainternal%20len%3A2030%20%28%2B%29
+PenvanEVm000066t1:31-6117	transdecoder	exon	1	6087	.	+	.	ID=PenvanEVm000066t1:31-6117.p1.exon1;Parent=PenvanEVm000066t1:31-6117.p1
+PenvanEVm000066t1:31-6117	transdecoder	CDS	1	6087	.	+	0	ID=cds.PenvanEVm000066t1:31-6117.p1;Parent=PenvanEVm000066t1:31-6117.p1;5_prime_partial=true;3_prime_partial=true
+
+PenvanEVm000066t1:31-6117	transdecoder	gene	1	6087	.	-	.	ID=GENE.PenvanEVm000066t1:31-6117~~PenvanEVm000066t1:31-6117.p2;Name=ORF%20type%3Acomplete%20len%3A155%20%28-%29
+PenvanEVm000066t1:31-6117	transdecoder	mRNA	1	6087	.	-	.	ID=PenvanEVm000066t1:31-6117.p2;Parent=GENE.PenvanEVm000066t1:31-6117~~PenvanEVm000066t1:31-6117.p2;Name=ORF%20type%3Acomplete%20len%3A155%20%28-%29
+PenvanEVm000066t1:31-6117	transdecoder	five_prime_UTR	942	6087	.	-	.	ID=PenvanEVm000066t1:31-6117.p2.utr5p1;Parent=PenvanEVm000066t1:31-6117.p2
+PenvanEVm000066t1:31-6117	transdecoder	exon	1	6087	.	-	.	ID=PenvanEVm000066t1:31-6117.p2.exon1;Parent=PenvanEVm000066t1:31-6117.p2
+PenvanEVm000066t1:31-6117	transdecoder	CDS	477	941	.	-	0	ID=cds.PenvanEVm000066t1:31-6117.p2;Parent=PenvanEVm000066t1:31-6117.p2
+PenvanEVm000066t1:31-6117	transdecoder	three_prime_UTR	1	476	.	-	.	ID=PenvanEVm000066t1:31-6117.p2.utr3p1;Parent=PenvanEVm000066t1:31-6117.p2
+
+PenvanEVm000066t1:31-6117	transdecoder	gene	1	6087	.	-	.	ID=GENE.PenvanEVm000066t1:31-6117~~PenvanEVm000066t1:31-6117.p3;Name=ORF%20type%3Acomplete%20len%3A133%20%28-%29
+PenvanEVm000066t1:31-6117	transdecoder	mRNA	1	6087	.	-	.	ID=PenvanEVm000066t1:31-6117.p3;Parent=GENE.PenvanEVm000066t1:31-6117~~PenvanEVm000066t1:31-6117.p3;Name=ORF%20type%3Acomplete%20len%3A133%20%28-%29
+PenvanEVm000066t1:31-6117	transdecoder	five_prime_UTR	4003	6087	.	-	.	ID=PenvanEVm000066t1:31-6117.p3.utr5p1;Parent=PenvanEVm000066t1:31-6117.p3
+PenvanEVm000066t1:31-6117	transdecoder	exon	1	6087	.	-	.	ID=PenvanEVm000066t1:31-6117.p3.exon1;Parent=PenvanEVm000066t1:31-6117.p3
+PenvanEVm000066t1:31-6117	transdecoder	CDS	3604	4002	.	-	0	ID=cds.PenvanEVm000066t1:31-6117.p3;Parent=PenvanEVm000066t1:31-6117.p3
+PenvanEVm000066t1:31-6117	transdecoder	three_prime_UTR	1	3603	.	-	.	ID=PenvanEVm000066t1:31-6117.p3.utr3p1;Parent=PenvanEVm000066t1:31-6117.p3
+
+PenvanEVm000066t1:31-6117	transdecoder	gene	1	6087	.	-	.	ID=GENE.PenvanEVm000066t1:31-6117~~PenvanEVm000066t1:31-6117.p4;Name=ORF%20type%3Acomplete%20len%3A101%20%28-%29
+PenvanEVm000066t1:31-6117	transdecoder	mRNA	1	6087	.	-	.	ID=PenvanEVm000066t1:31-6117.p4;Parent=GENE.PenvanEVm000066t1:31-6117~~PenvanEVm000066t1:31-6117.p4;Name=ORF%20type%3Acomplete%20len%3A101%20%28-%29
+PenvanEVm000066t1:31-6117	transdecoder	five_prime_UTR	1572	6087	.	-	.	ID=PenvanEVm000066t1:31-6117.p4.utr5p1;Parent=PenvanEVm000066t1:31-6117.p4
+PenvanEVm000066t1:31-6117	transdecoder	exon	1	6087	.	-	.	ID=PenvanEVm000066t1:31-6117.p4.exon1;Parent=PenvanEVm000066t1:31-6117.p4
+PenvanEVm000066t1:31-6117	transdecoder	CDS	1269	1571	.	-	0	ID=cds.PenvanEVm000066t1:31-6117.p4;Parent=PenvanEVm000066t1:31-6117.p4
+PenvanEVm000066t1:31-6117	transdecoder	three_prime_UTR	1	1268	.	-	.	ID=PenvanEVm000066t1:31-6117.p4.utr3p1;Parent=PenvanEVm000066t1:31-6117.p4
+
+PenvanEVm002449t1:0-1745	transdecoder	gene	1	1746	.	+	.	ID=GENE.PenvanEVm002449t1:0-1745~~PenvanEVm002449t1:0-1745.p1;Name=ORF%20type%3Ainternal%20len%3A583%20%28%2B%29
+PenvanEVm002449t1:0-1745	transdecoder	mRNA	1	1746	.	+	.	ID=PenvanEVm002449t1:0-1745.p1;Parent=GENE.PenvanEVm002449t1:0-1745~~PenvanEVm002449t1:0-1745.p1;Name=ORF%20type%3Ainternal%20len%3A583%20%28%2B%29
+PenvanEVm002449t1:0-1745	transdecoder	exon	1	1746	.	+	.	ID=PenvanEVm002449t1:0-1745.p1.exon1;Parent=PenvanEVm002449t1:0-1745.p1
+PenvanEVm002449t1:0-1745	transdecoder	CDS	1	1746	.	+	0	ID=cds.PenvanEVm002449t1:0-1745.p1;Parent=PenvanEVm002449t1:0-1745.p1;5_prime_partial=true;3_prime_partial=true
+
+PenvanEVm002449t1:0-1745	transdecoder	gene	1	1746	.	-	.	ID=GENE.PenvanEVm002449t1:0-1745~~PenvanEVm002449t1:0-1745.p2;Name=ORF%20type%3Acomplete%20len%3A136%20%28-%29
+PenvanEVm002449t1:0-1745	transdecoder	mRNA	1	1746	.	-	.	ID=PenvanEVm002449t1:0-1745.p2;Parent=GENE.PenvanEVm002449t1:0-1745~~PenvanEVm002449t1:0-1745.p2;Name=ORF%20type%3Acomplete%20len%3A136%20%28-%29
+PenvanEVm002449t1:0-1745	transdecoder	five_prime_UTR	1528	1746	.	-	.	ID=PenvanEVm002449t1:0-1745.p2.utr5p1;Parent=PenvanEVm002449t1:0-1745.p2
+PenvanEVm002449t1:0-1745	transdecoder	exon	1	1746	.	-	.	ID=PenvanEVm002449t1:0-1745.p2.exon1;Parent=PenvanEVm002449t1:0-1745.p2
+PenvanEVm002449t1:0-1745	transdecoder	CDS	1120	1527	.	-	0	ID=cds.PenvanEVm002449t1:0-1745.p2;Parent=PenvanEVm002449t1:0-1745.p2
+PenvanEVm002449t1:0-1745	transdecoder	three_prime_UTR	1	1119	.	-	.	ID=PenvanEVm002449t1:0-1745.p2.utr3p1;Parent=PenvanEVm002449t1:0-1745.p2
+
+PenvanEVm000537t1:210-3110	transdecoder	gene	1	2901	.	+	.	ID=GENE.PenvanEVm000537t1:210-3110~~PenvanEVm000537t1:210-3110.p1;Name=ORF%20type%3A3prime_partial%20len%3A968%20%28%2B%29
+PenvanEVm000537t1:210-3110	transdecoder	mRNA	1	2901	.	+	.	ID=PenvanEVm000537t1:210-3110.p1;Parent=GENE.PenvanEVm000537t1:210-3110~~PenvanEVm000537t1:210-3110.p1;Name=ORF%20type%3A3prime_partial%20len%3A968%20%28%2B%29
+PenvanEVm000537t1:210-3110	transdecoder	exon	1	2901	.	+	.	ID=PenvanEVm000537t1:210-3110.p1.exon1;Parent=PenvanEVm000537t1:210-3110.p1
+PenvanEVm000537t1:210-3110	transdecoder	CDS	1	2901	.	+	0	ID=cds.PenvanEVm000537t1:210-3110.p1;Parent=PenvanEVm000537t1:210-3110.p1;3_prime_partial=true
+
+PenvanEVm000537t1:210-3110	transdecoder	gene	1	2901	.	-	.	ID=GENE.PenvanEVm000537t1:210-3110~~PenvanEVm000537t1:210-3110.p2;Name=ORF%20type%3Acomplete%20len%3A157%20%28-%29
+PenvanEVm000537t1:210-3110	transdecoder	mRNA	1	2901	.	-	.	ID=PenvanEVm000537t1:210-3110.p2;Parent=GENE.PenvanEVm000537t1:210-3110~~PenvanEVm000537t1:210-3110.p2;Name=ORF%20type%3Acomplete%20len%3A157%20%28-%29
+PenvanEVm000537t1:210-3110	transdecoder	five_prime_UTR	996	2901	.	-	.	ID=PenvanEVm000537t1:210-3110.p2.utr5p1;Parent=PenvanEVm000537t1:210-3110.p2
+PenvanEVm000537t1:210-3110	transdecoder	exon	1	2901	.	-	.	ID=PenvanEVm000537t1:210-3110.p2.exon1;Parent=PenvanEVm000537t1:210-3110.p2
+PenvanEVm000537t1:210-3110	transdecoder	CDS	525	995	.	-	0	ID=cds.PenvanEVm000537t1:210-3110.p2;Parent=PenvanEVm000537t1:210-3110.p2
+PenvanEVm000537t1:210-3110	transdecoder	three_prime_UTR	1	524	.	-	.	ID=PenvanEVm000537t1:210-3110.p2.utr3p1;Parent=PenvanEVm000537t1:210-3110.p2
+
+PenvanEVm001794t1:4-1806	transdecoder	gene	1	1803	.	+	.	ID=GENE.PenvanEVm001794t1:4-1806~~PenvanEVm001794t1:4-1806.p1;Name=ORF%20type%3Ainternal%20len%3A602%20%28%2B%29
+PenvanEVm001794t1:4-1806	transdecoder	mRNA	1	1803	.	+	.	ID=PenvanEVm001794t1:4-1806.p1;Parent=GENE.PenvanEVm001794t1:4-1806~~PenvanEVm001794t1:4-1806.p1;Name=ORF%20type%3Ainternal%20len%3A602%20%28%2B%29
+PenvanEVm001794t1:4-1806	transdecoder	exon	1	1803	.	+	.	ID=PenvanEVm001794t1:4-1806.p1.exon1;Parent=PenvanEVm001794t1:4-1806.p1
+PenvanEVm001794t1:4-1806	transdecoder	CDS	1	1803	.	+	0	ID=cds.PenvanEVm001794t1:4-1806.p1;Parent=PenvanEVm001794t1:4-1806.p1;5_prime_partial=true;3_prime_partial=true
+
+PenvanEVm001794t1:4-1806	transdecoder	gene	1	1803	.	-	.	ID=GENE.PenvanEVm001794t1:4-1806~~PenvanEVm001794t1:4-1806.p2;Name=ORF%20type%3Acomplete%20len%3A100%20%28-%29
+PenvanEVm001794t1:4-1806	transdecoder	mRNA	1	1803	.	-	.	ID=PenvanEVm001794t1:4-1806.p2;Parent=GENE.PenvanEVm001794t1:4-1806~~PenvanEVm001794t1:4-1806.p2;Name=ORF%20type%3Acomplete%20len%3A100%20%28-%29
+PenvanEVm001794t1:4-1806	transdecoder	five_prime_UTR	837	1803	.	-	.	ID=PenvanEVm001794t1:4-1806.p2.utr5p1;Parent=PenvanEVm001794t1:4-1806.p2
+PenvanEVm001794t1:4-1806	transdecoder	exon	1	1803	.	-	.	ID=PenvanEVm001794t1:4-1806.p2.exon1;Parent=PenvanEVm001794t1:4-1806.p2
+PenvanEVm001794t1:4-1806	transdecoder	CDS	537	836	.	-	0	ID=cds.PenvanEVm001794t1:4-1806.p2;Parent=PenvanEVm001794t1:4-1806.p2
+PenvanEVm001794t1:4-1806	transdecoder	three_prime_UTR	1	536	.	-	.	ID=PenvanEVm001794t1:4-1806.p2.utr3p1;Parent=PenvanEVm001794t1:4-1806.p2
+
+PenvanEVm000606t1:8-2932	transdecoder	gene	1	2925	.	+	.	ID=GENE.PenvanEVm000606t1:8-2932~~PenvanEVm000606t1:8-2932.p1;Name=ORF%20type%3Ainternal%20len%3A976%20%28%2B%29
+PenvanEVm000606t1:8-2932	transdecoder	mRNA	1	2925	.	+	.	ID=PenvanEVm000606t1:8-2932.p1;Parent=GENE.PenvanEVm000606t1:8-2932~~PenvanEVm000606t1:8-2932.p1;Name=ORF%20type%3Ainternal%20len%3A976%20%28%2B%29
+PenvanEVm000606t1:8-2932	transdecoder	exon	1	2925	.	+	.	ID=PenvanEVm000606t1:8-2932.p1.exon1;Parent=PenvanEVm000606t1:8-2932.p1
+PenvanEVm000606t1:8-2932	transdecoder	CDS	1	2925	.	+	0	ID=cds.PenvanEVm000606t1:8-2932.p1;Parent=PenvanEVm000606t1:8-2932.p1;5_prime_partial=true;3_prime_partial=true
+
+PenvanEVm000606t1:8-2932	transdecoder	gene	1	2925	.	-	.	ID=GENE.PenvanEVm000606t1:8-2932~~PenvanEVm000606t1:8-2932.p2;Name=ORF%20type%3Acomplete%20len%3A122%20%28-%29
+PenvanEVm000606t1:8-2932	transdecoder	mRNA	1	2925	.	-	.	ID=PenvanEVm000606t1:8-2932.p2;Parent=GENE.PenvanEVm000606t1:8-2932~~PenvanEVm000606t1:8-2932.p2;Name=ORF%20type%3Acomplete%20len%3A122%20%28-%29
+PenvanEVm000606t1:8-2932	transdecoder	five_prime_UTR	2274	2925	.	-	.	ID=PenvanEVm000606t1:8-2932.p2.utr5p1;Parent=PenvanEVm000606t1:8-2932.p2
+PenvanEVm000606t1:8-2932	transdecoder	exon	1	2925	.	-	.	ID=PenvanEVm000606t1:8-2932.p2.exon1;Parent=PenvanEVm000606t1:8-2932.p2
+PenvanEVm000606t1:8-2932	transdecoder	CDS	1908	2273	.	-	0	ID=cds.PenvanEVm000606t1:8-2932.p2;Parent=PenvanEVm000606t1:8-2932.p2
+PenvanEVm000606t1:8-2932	transdecoder	three_prime_UTR	1	1907	.	-	.	ID=PenvanEVm000606t1:8-2932.p2.utr3p1;Parent=PenvanEVm000606t1:8-2932.p2
+
+PenvanEVm001468t1:18-1994	transdecoder	gene	1	1977	.	+	.	ID=GENE.PenvanEVm001468t1:18-1994~~PenvanEVm001468t1:18-1994.p1;Name=ORF%20type%3A3prime_partial%20len%3A660%20%28%2B%29
+PenvanEVm001468t1:18-1994	transdecoder	mRNA	1	1977	.	+	.	ID=PenvanEVm001468t1:18-1994.p1;Parent=GENE.PenvanEVm001468t1:18-1994~~PenvanEVm001468t1:18-1994.p1;Name=ORF%20type%3A3prime_partial%20len%3A660%20%28%2B%29
+PenvanEVm001468t1:18-1994	transdecoder	exon	1	1977	.	+	.	ID=PenvanEVm001468t1:18-1994.p1.exon1;Parent=PenvanEVm001468t1:18-1994.p1
+PenvanEVm001468t1:18-1994	transdecoder	CDS	1	1977	.	+	0	ID=cds.PenvanEVm001468t1:18-1994.p1;Parent=PenvanEVm001468t1:18-1994.p1;3_prime_partial=true
+
+PenvanEVm001565t1:9-1889	transdecoder	gene	1	1881	.	+	.	ID=GENE.PenvanEVm001565t1:9-1889~~PenvanEVm001565t1:9-1889.p1;Name=ORF%20type%3Ainternal%20len%3A628%20%28%2B%29
+PenvanEVm001565t1:9-1889	transdecoder	mRNA	1	1881	.	+	.	ID=PenvanEVm001565t1:9-1889.p1;Parent=GENE.PenvanEVm001565t1:9-1889~~PenvanEVm001565t1:9-1889.p1;Name=ORF%20type%3Ainternal%20len%3A628%20%28%2B%29
+PenvanEVm001565t1:9-1889	transdecoder	exon	1	1881	.	+	.	ID=PenvanEVm001565t1:9-1889.p1.exon1;Parent=PenvanEVm001565t1:9-1889.p1
+PenvanEVm001565t1:9-1889	transdecoder	CDS	1	1881	.	+	0	ID=cds.PenvanEVm001565t1:9-1889.p1;Parent=PenvanEVm001565t1:9-1889.p1;5_prime_partial=true;3_prime_partial=true
+
+PenvanEVm000161t1:220-4626	transdecoder	gene	1	4407	.	+	.	ID=GENE.PenvanEVm000161t1:220-4626~~PenvanEVm000161t1:220-4626.p1;Name=ORF%20type%3Ainternal%20len%3A1470%20%28%2B%29
+PenvanEVm000161t1:220-4626	transdecoder	mRNA	1	4407	.	+	.	ID=PenvanEVm000161t1:220-4626.p1;Parent=GENE.PenvanEVm000161t1:220-4626~~PenvanEVm000161t1:220-4626.p1;Name=ORF%20type%3Ainternal%20len%3A1470%20%28%2B%29
+PenvanEVm000161t1:220-4626	transdecoder	exon	1	4407	.	+	.	ID=PenvanEVm000161t1:220-4626.p1.exon1;Parent=PenvanEVm000161t1:220-4626.p1
+PenvanEVm000161t1:220-4626	transdecoder	CDS	1	4407	.	+	0	ID=cds.PenvanEVm000161t1:220-4626.p1;Parent=PenvanEVm000161t1:220-4626.p1;5_prime_partial=true;3_prime_partial=true
+
+PenvanEVm000161t1:220-4626	transdecoder	gene	1	4407	.	-	.	ID=GENE.PenvanEVm000161t1:220-4626~~PenvanEVm000161t1:220-4626.p2;Name=ORF%20type%3Acomplete%20len%3A174%20%28-%29
+PenvanEVm000161t1:220-4626	transdecoder	mRNA	1	4407	.	-	.	ID=PenvanEVm000161t1:220-4626.p2;Parent=GENE.PenvanEVm000161t1:220-4626~~PenvanEVm000161t1:220-4626.p2;Name=ORF%20type%3Acomplete%20len%3A174%20%28-%29
+PenvanEVm000161t1:220-4626	transdecoder	five_prime_UTR	738	4407	.	-	.	ID=PenvanEVm000161t1:220-4626.p2.utr5p1;Parent=PenvanEVm000161t1:220-4626.p2
+PenvanEVm000161t1:220-4626	transdecoder	exon	1	4407	.	-	.	ID=PenvanEVm000161t1:220-4626.p2.exon1;Parent=PenvanEVm000161t1:220-4626.p2
+PenvanEVm000161t1:220-4626	transdecoder	CDS	216	737	.	-	0	ID=cds.PenvanEVm000161t1:220-4626.p2;Parent=PenvanEVm000161t1:220-4626.p2
+PenvanEVm000161t1:220-4626	transdecoder	three_prime_UTR	1	215	.	-	.	ID=PenvanEVm000161t1:220-4626.p2.utr3p1;Parent=PenvanEVm000161t1:220-4626.p2
+
+PenvanEVm000161t1:220-4626	transdecoder	gene	1	4407	.	+	.	ID=GENE.PenvanEVm000161t1:220-4626~~PenvanEVm000161t1:220-4626.p3;Name=ORF%20type%3Acomplete%20len%3A150%20%28%2B%29
+PenvanEVm000161t1:220-4626	transdecoder	mRNA	1	4407	.	+	.	ID=PenvanEVm000161t1:220-4626.p3;Parent=GENE.PenvanEVm000161t1:220-4626~~PenvanEVm000161t1:220-4626.p3;Name=ORF%20type%3Acomplete%20len%3A150%20%28%2B%29
+PenvanEVm000161t1:220-4626	transdecoder	five_prime_UTR	1	124	.	+	.	ID=PenvanEVm000161t1:220-4626.p3.utr5p1;Parent=PenvanEVm000161t1:220-4626.p3
+PenvanEVm000161t1:220-4626	transdecoder	exon	1	4407	.	+	.	ID=PenvanEVm000161t1:220-4626.p3.exon1;Parent=PenvanEVm000161t1:220-4626.p3
+PenvanEVm000161t1:220-4626	transdecoder	CDS	125	574	.	+	0	ID=cds.PenvanEVm000161t1:220-4626.p3;Parent=PenvanEVm000161t1:220-4626.p3
+PenvanEVm000161t1:220-4626	transdecoder	three_prime_UTR	575	4407	.	+	.	ID=PenvanEVm000161t1:220-4626.p3.utr3p1;Parent=PenvanEVm000161t1:220-4626.p3
+
+PenvanEVm000161t1:220-4626	transdecoder	gene	1	4407	.	-	.	ID=GENE.PenvanEVm000161t1:220-4626~~PenvanEVm000161t1:220-4626.p4;Name=ORF%20type%3Acomplete%20len%3A107%20%28-%29
+PenvanEVm000161t1:220-4626	transdecoder	mRNA	1	4407	.	-	.	ID=PenvanEVm000161t1:220-4626.p4;Parent=GENE.PenvanEVm000161t1:220-4626~~PenvanEVm000161t1:220-4626.p4;Name=ORF%20type%3Acomplete%20len%3A107%20%28-%29
+PenvanEVm000161t1:220-4626	transdecoder	five_prime_UTR	1471	4407	.	-	.	ID=PenvanEVm000161t1:220-4626.p4.utr5p1;Parent=PenvanEVm000161t1:220-4626.p4
+PenvanEVm000161t1:220-4626	transdecoder	exon	1	4407	.	-	.	ID=PenvanEVm000161t1:220-4626.p4.exon1;Parent=PenvanEVm000161t1:220-4626.p4
+PenvanEVm000161t1:220-4626	transdecoder	CDS	1150	1470	.	-	0	ID=cds.PenvanEVm000161t1:220-4626.p4;Parent=PenvanEVm000161t1:220-4626.p4
+PenvanEVm000161t1:220-4626	transdecoder	three_prime_UTR	1	1149	.	-	.	ID=PenvanEVm000161t1:220-4626.p4.utr3p1;Parent=PenvanEVm000161t1:220-4626.p4
+
+PenvanEVm000603t1:423-2729	transdecoder	gene	1	2307	.	+	.	ID=GENE.PenvanEVm000603t1:423-2729~~PenvanEVm000603t1:423-2729.p1;Name=ORF%20type%3Ainternal%20len%3A770%20%28%2B%29
+PenvanEVm000603t1:423-2729	transdecoder	mRNA	1	2307	.	+	.	ID=PenvanEVm000603t1:423-2729.p1;Parent=GENE.PenvanEVm000603t1:423-2729~~PenvanEVm000603t1:423-2729.p1;Name=ORF%20type%3Ainternal%20len%3A770%20%28%2B%29
+PenvanEVm000603t1:423-2729	transdecoder	exon	1	2307	.	+	.	ID=PenvanEVm000603t1:423-2729.p1.exon1;Parent=PenvanEVm000603t1:423-2729.p1
+PenvanEVm000603t1:423-2729	transdecoder	CDS	1	2307	.	+	0	ID=cds.PenvanEVm000603t1:423-2729.p1;Parent=PenvanEVm000603t1:423-2729.p1;5_prime_partial=true;3_prime_partial=true
+
+PenvanEVm000603t1:423-2729	transdecoder	gene	1	2307	.	-	.	ID=GENE.PenvanEVm000603t1:423-2729~~PenvanEVm000603t1:423-2729.p2;Name=ORF%20type%3Acomplete%20len%3A180%20%28-%29
+PenvanEVm000603t1:423-2729	transdecoder	mRNA	1	2307	.	-	.	ID=PenvanEVm000603t1:423-2729.p2;Parent=GENE.PenvanEVm000603t1:423-2729~~PenvanEVm000603t1:423-2729.p2;Name=ORF%20type%3Acomplete%20len%3A180%20%28-%29
+PenvanEVm000603t1:423-2729	transdecoder	five_prime_UTR	725	2307	.	-	.	ID=PenvanEVm000603t1:423-2729.p2.utr5p1;Parent=PenvanEVm000603t1:423-2729.p2
+PenvanEVm000603t1:423-2729	transdecoder	exon	1	2307	.	-	.	ID=PenvanEVm000603t1:423-2729.p2.exon1;Parent=PenvanEVm000603t1:423-2729.p2
+PenvanEVm000603t1:423-2729	transdecoder	CDS	185	724	.	-	0	ID=cds.PenvanEVm000603t1:423-2729.p2;Parent=PenvanEVm000603t1:423-2729.p2
+PenvanEVm000603t1:423-2729	transdecoder	three_prime_UTR	1	184	.	-	.	ID=PenvanEVm000603t1:423-2729.p2.utr3p1;Parent=PenvanEVm000603t1:423-2729.p2
+
+PenvanEVm000400t1:32-3310	transdecoder	gene	1	3279	.	+	.	ID=GENE.PenvanEVm000400t1:32-3310~~PenvanEVm000400t1:32-3310.p1;Name=ORF%20type%3A3prime_partial%20len%3A1094%20%28%2B%29
+PenvanEVm000400t1:32-3310	transdecoder	mRNA	1	3279	.	+	.	ID=PenvanEVm000400t1:32-3310.p1;Parent=GENE.PenvanEVm000400t1:32-3310~~PenvanEVm000400t1:32-3310.p1;Name=ORF%20type%3A3prime_partial%20len%3A1094%20%28%2B%29
+PenvanEVm000400t1:32-3310	transdecoder	exon	1	3279	.	+	.	ID=PenvanEVm000400t1:32-3310.p1.exon1;Parent=PenvanEVm000400t1:32-3310.p1
+PenvanEVm000400t1:32-3310	transdecoder	CDS	1	3279	.	+	0	ID=cds.PenvanEVm000400t1:32-3310.p1;Parent=PenvanEVm000400t1:32-3310.p1;3_prime_partial=true
+
+PenvanEVm000400t1:32-3310	transdecoder	gene	1	3279	.	-	.	ID=GENE.PenvanEVm000400t1:32-3310~~PenvanEVm000400t1:32-3310.p2;Name=ORF%20type%3Acomplete%20len%3A195%20%28-%29
+PenvanEVm000400t1:32-3310	transdecoder	mRNA	1	3279	.	-	.	ID=PenvanEVm000400t1:32-3310.p2;Parent=GENE.PenvanEVm000400t1:32-3310~~PenvanEVm000400t1:32-3310.p2;Name=ORF%20type%3Acomplete%20len%3A195%20%28-%29
+PenvanEVm000400t1:32-3310	transdecoder	five_prime_UTR	1185	3279	.	-	.	ID=PenvanEVm000400t1:32-3310.p2.utr5p1;Parent=PenvanEVm000400t1:32-3310.p2
+PenvanEVm000400t1:32-3310	transdecoder	exon	1	3279	.	-	.	ID=PenvanEVm000400t1:32-3310.p2.exon1;Parent=PenvanEVm000400t1:32-3310.p2
+PenvanEVm000400t1:32-3310	transdecoder	CDS	600	1184	.	-	0	ID=cds.PenvanEVm000400t1:32-3310.p2;Parent=PenvanEVm000400t1:32-3310.p2
+PenvanEVm000400t1:32-3310	transdecoder	three_prime_UTR	1	599	.	-	.	ID=PenvanEVm000400t1:32-3310.p2.utr3p1;Parent=PenvanEVm000400t1:32-3310.p2
+
+PenvanEVm000400t1:32-3310	transdecoder	gene	1	3279	.	-	.	ID=GENE.PenvanEVm000400t1:32-3310~~PenvanEVm000400t1:32-3310.p3;Name=ORF%20type%3Acomplete%20len%3A112%20%28-%29
+PenvanEVm000400t1:32-3310	transdecoder	mRNA	1	3279	.	-	.	ID=PenvanEVm000400t1:32-3310.p3;Parent=GENE.PenvanEVm000400t1:32-3310~~PenvanEVm000400t1:32-3310.p3;Name=ORF%20type%3Acomplete%20len%3A112%20%28-%29
+PenvanEVm000400t1:32-3310	transdecoder	five_prime_UTR	3189	3279	.	-	.	ID=PenvanEVm000400t1:32-3310.p3.utr5p1;Parent=PenvanEVm000400t1:32-3310.p3
+PenvanEVm000400t1:32-3310	transdecoder	exon	1	3279	.	-	.	ID=PenvanEVm000400t1:32-3310.p3.exon1;Parent=PenvanEVm000400t1:32-3310.p3
+PenvanEVm000400t1:32-3310	transdecoder	CDS	2853	3188	.	-	0	ID=cds.PenvanEVm000400t1:32-3310.p3;Parent=PenvanEVm000400t1:32-3310.p3
+PenvanEVm000400t1:32-3310	transdecoder	three_prime_UTR	1	2852	.	-	.	ID=PenvanEVm000400t1:32-3310.p3.utr3p1;Parent=PenvanEVm000400t1:32-3310.p3
+
+PenvanEVm000038t1:76-7197	transdecoder	gene	1	7122	.	+	.	ID=GENE.PenvanEVm000038t1:76-7197~~PenvanEVm000038t1:76-7197.p1;Name=ORF%20type%3A3prime_partial%20len%3A2375%20%28%2B%29
+PenvanEVm000038t1:76-7197	transdecoder	mRNA	1	7122	.	+	.	ID=PenvanEVm000038t1:76-7197.p1;Parent=GENE.PenvanEVm000038t1:76-7197~~PenvanEVm000038t1:76-7197.p1;Name=ORF%20type%3A3prime_partial%20len%3A2375%20%28%2B%29
+PenvanEVm000038t1:76-7197	transdecoder	exon	1	7122	.	+	.	ID=PenvanEVm000038t1:76-7197.p1.exon1;Parent=PenvanEVm000038t1:76-7197.p1
+PenvanEVm000038t1:76-7197	transdecoder	CDS	1	7122	.	+	0	ID=cds.PenvanEVm000038t1:76-7197.p1;Parent=PenvanEVm000038t1:76-7197.p1;3_prime_partial=true
+
+PenvanEVm000038t1:76-7197	transdecoder	gene	1	7122	.	-	.	ID=GENE.PenvanEVm000038t1:76-7197~~PenvanEVm000038t1:76-7197.p2;Name=ORF%20type%3Acomplete%20len%3A127%20%28-%29
+PenvanEVm000038t1:76-7197	transdecoder	mRNA	1	7122	.	-	.	ID=PenvanEVm000038t1:76-7197.p2;Parent=GENE.PenvanEVm000038t1:76-7197~~PenvanEVm000038t1:76-7197.p2;Name=ORF%20type%3Acomplete%20len%3A127%20%28-%29
+PenvanEVm000038t1:76-7197	transdecoder	five_prime_UTR	6000	7122	.	-	.	ID=PenvanEVm000038t1:76-7197.p2.utr5p1;Parent=PenvanEVm000038t1:76-7197.p2
+PenvanEVm000038t1:76-7197	transdecoder	exon	1	7122	.	-	.	ID=PenvanEVm000038t1:76-7197.p2.exon1;Parent=PenvanEVm000038t1:76-7197.p2
+PenvanEVm000038t1:76-7197	transdecoder	CDS	5619	5999	.	-	0	ID=cds.PenvanEVm000038t1:76-7197.p2;Parent=PenvanEVm000038t1:76-7197.p2
+PenvanEVm000038t1:76-7197	transdecoder	three_prime_UTR	1	5618	.	-	.	ID=PenvanEVm000038t1:76-7197.p2.utr3p1;Parent=PenvanEVm000038t1:76-7197.p2
+
+PenvanEVm000038t1:76-7197	transdecoder	gene	1	7122	.	-	.	ID=GENE.PenvanEVm000038t1:76-7197~~PenvanEVm000038t1:76-7197.p3;Name=ORF%20type%3Acomplete%20len%3A107%20%28-%29
+PenvanEVm000038t1:76-7197	transdecoder	mRNA	1	7122	.	-	.	ID=PenvanEVm000038t1:76-7197.p3;Parent=GENE.PenvanEVm000038t1:76-7197~~PenvanEVm000038t1:76-7197.p3;Name=ORF%20type%3Acomplete%20len%3A107%20%28-%29
+PenvanEVm000038t1:76-7197	transdecoder	five_prime_UTR	1948	7122	.	-	.	ID=PenvanEVm000038t1:76-7197.p3.utr5p1;Parent=PenvanEVm000038t1:76-7197.p3
+PenvanEVm000038t1:76-7197	transdecoder	exon	1	7122	.	-	.	ID=PenvanEVm000038t1:76-7197.p3.exon1;Parent=PenvanEVm000038t1:76-7197.p3
+PenvanEVm000038t1:76-7197	transdecoder	CDS	1627	1947	.	-	0	ID=cds.PenvanEVm000038t1:76-7197.p3;Parent=PenvanEVm000038t1:76-7197.p3
+PenvanEVm000038t1:76-7197	transdecoder	three_prime_UTR	1	1626	.	-	.	ID=PenvanEVm000038t1:76-7197.p3.utr3p1;Parent=PenvanEVm000038t1:76-7197.p3
+
+PenvanEVm000038t1:76-7197	transdecoder	gene	1	7122	.	+	.	ID=GENE.PenvanEVm000038t1:76-7197~~PenvanEVm000038t1:76-7197.p4;Name=ORF%20type%3A5prime_partial%20len%3A103%20%28%2B%29
+PenvanEVm000038t1:76-7197	transdecoder	mRNA	1	7122	.	+	.	ID=PenvanEVm000038t1:76-7197.p4;Parent=GENE.PenvanEVm000038t1:76-7197~~PenvanEVm000038t1:76-7197.p4;Name=ORF%20type%3A5prime_partial%20len%3A103%20%28%2B%29
+PenvanEVm000038t1:76-7197	transdecoder	exon	1	7122	.	+	.	ID=PenvanEVm000038t1:76-7197.p4.exon1;Parent=PenvanEVm000038t1:76-7197.p4
+PenvanEVm000038t1:76-7197	transdecoder	CDS	3	311	.	+	0	ID=cds.PenvanEVm000038t1:76-7197.p4;Parent=PenvanEVm000038t1:76-7197.p4;5_prime_partial=true
+PenvanEVm000038t1:76-7197	transdecoder	three_prime_UTR	312	7122	.	+	.	ID=PenvanEVm000038t1:76-7197.p4.utr3p1;Parent=PenvanEVm000038t1:76-7197.p4
+
+PenvanEVm000234t2:352-3984	transdecoder	gene	1	3633	.	+	.	ID=GENE.PenvanEVm000234t2:352-3984~~PenvanEVm000234t2:352-3984.p1;Name=ORF%20type%3A3prime_partial%20len%3A1212%20%28%2B%29
+PenvanEVm000234t2:352-3984	transdecoder	mRNA	1	3633	.	+	.	ID=PenvanEVm000234t2:352-3984.p1;Parent=GENE.PenvanEVm000234t2:352-3984~~PenvanEVm000234t2:352-3984.p1;Name=ORF%20type%3A3prime_partial%20len%3A1212%20%28%2B%29
+PenvanEVm000234t2:352-3984	transdecoder	exon	1	3633	.	+	.	ID=PenvanEVm000234t2:352-3984.p1.exon1;Parent=PenvanEVm000234t2:352-3984.p1
+PenvanEVm000234t2:352-3984	transdecoder	CDS	1	3633	.	+	0	ID=cds.PenvanEVm000234t2:352-3984.p1;Parent=PenvanEVm000234t2:352-3984.p1;3_prime_partial=true
+
+PenvanEVm000234t2:352-3984	transdecoder	gene	1	3633	.	-	.	ID=GENE.PenvanEVm000234t2:352-3984~~PenvanEVm000234t2:352-3984.p2;Name=ORF%20type%3A3prime_partial%20len%3A163%20%28-%29
+PenvanEVm000234t2:352-3984	transdecoder	mRNA	1	3633	.	-	.	ID=PenvanEVm000234t2:352-3984.p2;Parent=GENE.PenvanEVm000234t2:352-3984~~PenvanEVm000234t2:352-3984.p2;Name=ORF%20type%3A3prime_partial%20len%3A163%20%28-%29
+PenvanEVm000234t2:352-3984	transdecoder	five_prime_UTR	487	3633	.	-	.	ID=PenvanEVm000234t2:352-3984.p2.utr5p1;Parent=PenvanEVm000234t2:352-3984.p2
+PenvanEVm000234t2:352-3984	transdecoder	exon	1	3633	.	-	.	ID=PenvanEVm000234t2:352-3984.p2.exon1;Parent=PenvanEVm000234t2:352-3984.p2
+PenvanEVm000234t2:352-3984	transdecoder	CDS	1	486	.	-	0	ID=cds.PenvanEVm000234t2:352-3984.p2;Parent=PenvanEVm000234t2:352-3984.p2;3_prime_partial=true
+
+PenvanEVm000234t2:352-3984	transdecoder	gene	1	3633	.	+	.	ID=GENE.PenvanEVm000234t2:352-3984~~PenvanEVm000234t2:352-3984.p3;Name=ORF%20type%3Acomplete%20len%3A157%20%28%2B%29
+PenvanEVm000234t2:352-3984	transdecoder	mRNA	1	3633	.	+	.	ID=PenvanEVm000234t2:352-3984.p3;Parent=GENE.PenvanEVm000234t2:352-3984~~PenvanEVm000234t2:352-3984.p3;Name=ORF%20type%3Acomplete%20len%3A157%20%28%2B%29
+PenvanEVm000234t2:352-3984	transdecoder	five_prime_UTR	1	244	.	+	.	ID=PenvanEVm000234t2:352-3984.p3.utr5p1;Parent=PenvanEVm000234t2:352-3984.p3
+PenvanEVm000234t2:352-3984	transdecoder	exon	1	3633	.	+	.	ID=PenvanEVm000234t2:352-3984.p3.exon1;Parent=PenvanEVm000234t2:352-3984.p3
+PenvanEVm000234t2:352-3984	transdecoder	CDS	245	715	.	+	0	ID=cds.PenvanEVm000234t2:352-3984.p3;Parent=PenvanEVm000234t2:352-3984.p3
+PenvanEVm000234t2:352-3984	transdecoder	three_prime_UTR	716	3633	.	+	.	ID=PenvanEVm000234t2:352-3984.p3.utr3p1;Parent=PenvanEVm000234t2:352-3984.p3
+
+PenvanEVm000234t2:352-3984	transdecoder	gene	1	3633	.	-	.	ID=GENE.PenvanEVm000234t2:352-3984~~PenvanEVm000234t2:352-3984.p4;Name=ORF%20type%3Acomplete%20len%3A106%20%28-%29
+PenvanEVm000234t2:352-3984	transdecoder	mRNA	1	3633	.	-	.	ID=PenvanEVm000234t2:352-3984.p4;Parent=GENE.PenvanEVm000234t2:352-3984~~PenvanEVm000234t2:352-3984.p4;Name=ORF%20type%3Acomplete%20len%3A106%20%28-%29
+PenvanEVm000234t2:352-3984	transdecoder	five_prime_UTR	2806	3633	.	-	.	ID=PenvanEVm000234t2:352-3984.p4.utr5p1;Parent=PenvanEVm000234t2:352-3984.p4
+PenvanEVm000234t2:352-3984	transdecoder	exon	1	3633	.	-	.	ID=PenvanEVm000234t2:352-3984.p4.exon1;Parent=PenvanEVm000234t2:352-3984.p4
+PenvanEVm000234t2:352-3984	transdecoder	CDS	2488	2805	.	-	0	ID=cds.PenvanEVm000234t2:352-3984.p4;Parent=PenvanEVm000234t2:352-3984.p4
+PenvanEVm000234t2:352-3984	transdecoder	three_prime_UTR	1	2487	.	-	.	ID=PenvanEVm000234t2:352-3984.p4.utr3p1;Parent=PenvanEVm000234t2:352-3984.p4
+
+PenvanEVm000363t1:67-3465	transdecoder	gene	1	3399	.	+	.	ID=GENE.PenvanEVm000363t1:67-3465~~PenvanEVm000363t1:67-3465.p1;Name=ORF%20type%3Ainternal%20len%3A1134%20%28%2B%29
+PenvanEVm000363t1:67-3465	transdecoder	mRNA	1	3399	.	+	.	ID=PenvanEVm000363t1:67-3465.p1;Parent=GENE.PenvanEVm000363t1:67-3465~~PenvanEVm000363t1:67-3465.p1;Name=ORF%20type%3Ainternal%20len%3A1134%20%28%2B%29
+PenvanEVm000363t1:67-3465	transdecoder	exon	1	3399	.	+	.	ID=PenvanEVm000363t1:67-3465.p1.exon1;Parent=PenvanEVm000363t1:67-3465.p1
+PenvanEVm000363t1:67-3465	transdecoder	CDS	1	3399	.	+	0	ID=cds.PenvanEVm000363t1:67-3465.p1;Parent=PenvanEVm000363t1:67-3465.p1;5_prime_partial=true;3_prime_partial=true
+
+PenvanEVm000363t1:67-3465	transdecoder	gene	1	3399	.	-	.	ID=GENE.PenvanEVm000363t1:67-3465~~PenvanEVm000363t1:67-3465.p2;Name=ORF%20type%3Acomplete%20len%3A143%20%28-%29
+PenvanEVm000363t1:67-3465	transdecoder	mRNA	1	3399	.	-	.	ID=PenvanEVm000363t1:67-3465.p2;Parent=GENE.PenvanEVm000363t1:67-3465~~PenvanEVm000363t1:67-3465.p2;Name=ORF%20type%3Acomplete%20len%3A143%20%28-%29
+PenvanEVm000363t1:67-3465	transdecoder	five_prime_UTR	1206	3399	.	-	.	ID=PenvanEVm000363t1:67-3465.p2.utr5p1;Parent=PenvanEVm000363t1:67-3465.p2
+PenvanEVm000363t1:67-3465	transdecoder	exon	1	3399	.	-	.	ID=PenvanEVm000363t1:67-3465.p2.exon1;Parent=PenvanEVm000363t1:67-3465.p2
+PenvanEVm000363t1:67-3465	transdecoder	CDS	777	1205	.	-	0	ID=cds.PenvanEVm000363t1:67-3465.p2;Parent=PenvanEVm000363t1:67-3465.p2
+PenvanEVm000363t1:67-3465	transdecoder	three_prime_UTR	1	776	.	-	.	ID=PenvanEVm000363t1:67-3465.p2.utr3p1;Parent=PenvanEVm000363t1:67-3465.p2
+
+PenvanEVm002228t1:1-1773	transdecoder	gene	1	1773	.	+	.	ID=GENE.PenvanEVm002228t1:1-1773~~PenvanEVm002228t1:1-1773.p1;Name=ORF%20type%3Ainternal%20len%3A592%20%28%2B%29
+PenvanEVm002228t1:1-1773	transdecoder	mRNA	1	1773	.	+	.	ID=PenvanEVm002228t1:1-1773.p1;Parent=GENE.PenvanEVm002228t1:1-1773~~PenvanEVm002228t1:1-1773.p1;Name=ORF%20type%3Ainternal%20len%3A592%20%28%2B%29
+PenvanEVm002228t1:1-1773	transdecoder	exon	1	1773	.	+	.	ID=PenvanEVm002228t1:1-1773.p1.exon1;Parent=PenvanEVm002228t1:1-1773.p1
+PenvanEVm002228t1:1-1773	transdecoder	CDS	1	1773	.	+	0	ID=cds.PenvanEVm002228t1:1-1773.p1;Parent=PenvanEVm002228t1:1-1773.p1;5_prime_partial=true;3_prime_partial=true
+
+PenvanEVm002228t1:1-1773	transdecoder	gene	1	1773	.	-	.	ID=GENE.PenvanEVm002228t1:1-1773~~PenvanEVm002228t1:1-1773.p2;Name=ORF%20type%3Acomplete%20len%3A174%20%28-%29
+PenvanEVm002228t1:1-1773	transdecoder	mRNA	1	1773	.	-	.	ID=PenvanEVm002228t1:1-1773.p2;Parent=GENE.PenvanEVm002228t1:1-1773~~PenvanEVm002228t1:1-1773.p2;Name=ORF%20type%3Acomplete%20len%3A174%20%28-%29
+PenvanEVm002228t1:1-1773	transdecoder	five_prime_UTR	735	1773	.	-	.	ID=PenvanEVm002228t1:1-1773.p2.utr5p1;Parent=PenvanEVm002228t1:1-1773.p2
+PenvanEVm002228t1:1-1773	transdecoder	exon	1	1773	.	-	.	ID=PenvanEVm002228t1:1-1773.p2.exon1;Parent=PenvanEVm002228t1:1-1773.p2
+PenvanEVm002228t1:1-1773	transdecoder	CDS	213	734	.	-	0	ID=cds.PenvanEVm002228t1:1-1773.p2;Parent=PenvanEVm002228t1:1-1773.p2
+PenvanEVm002228t1:1-1773	transdecoder	three_prime_UTR	1	212	.	-	.	ID=PenvanEVm002228t1:1-1773.p2.utr3p1;Parent=PenvanEVm002228t1:1-1773.p2
+
+PenvanEVm000547t1:17-2992	transdecoder	gene	1	2976	.	+	.	ID=GENE.PenvanEVm000547t1:17-2992~~PenvanEVm000547t1:17-2992.p1;Name=ORF%20type%3A3prime_partial%20len%3A993%20%28%2B%29
+PenvanEVm000547t1:17-2992	transdecoder	mRNA	1	2976	.	+	.	ID=PenvanEVm000547t1:17-2992.p1;Parent=GENE.PenvanEVm000547t1:17-2992~~PenvanEVm000547t1:17-2992.p1;Name=ORF%20type%3A3prime_partial%20len%3A993%20%28%2B%29
+PenvanEVm000547t1:17-2992	transdecoder	exon	1	2976	.	+	.	ID=PenvanEVm000547t1:17-2992.p1.exon1;Parent=PenvanEVm000547t1:17-2992.p1
+PenvanEVm000547t1:17-2992	transdecoder	CDS	1	2976	.	+	0	ID=cds.PenvanEVm000547t1:17-2992.p1;Parent=PenvanEVm000547t1:17-2992.p1;3_prime_partial=true
+
+PenvanEVm000547t1:17-2992	transdecoder	gene	1	2976	.	-	.	ID=GENE.PenvanEVm000547t1:17-2992~~PenvanEVm000547t1:17-2992.p2;Name=ORF%20type%3Acomplete%20len%3A109%20%28-%29
+PenvanEVm000547t1:17-2992	transdecoder	mRNA	1	2976	.	-	.	ID=PenvanEVm000547t1:17-2992.p2;Parent=GENE.PenvanEVm000547t1:17-2992~~PenvanEVm000547t1:17-2992.p2;Name=ORF%20type%3Acomplete%20len%3A109%20%28-%29
+PenvanEVm000547t1:17-2992	transdecoder	five_prime_UTR	1074	2976	.	-	.	ID=PenvanEVm000547t1:17-2992.p2.utr5p1;Parent=PenvanEVm000547t1:17-2992.p2
+PenvanEVm000547t1:17-2992	transdecoder	exon	1	2976	.	-	.	ID=PenvanEVm000547t1:17-2992.p2.exon1;Parent=PenvanEVm000547t1:17-2992.p2
+PenvanEVm000547t1:17-2992	transdecoder	CDS	747	1073	.	-	0	ID=cds.PenvanEVm000547t1:17-2992.p2;Parent=PenvanEVm000547t1:17-2992.p2
+PenvanEVm000547t1:17-2992	transdecoder	three_prime_UTR	1	746	.	-	.	ID=PenvanEVm000547t1:17-2992.p2.utr3p1;Parent=PenvanEVm000547t1:17-2992.p2
+
+PenvanEVm000547t1:17-2992	transdecoder	gene	1	2976	.	-	.	ID=GENE.PenvanEVm000547t1:17-2992~~PenvanEVm000547t1:17-2992.p3;Name=ORF%20type%3Acomplete%20len%3A100%20%28-%29
+PenvanEVm000547t1:17-2992	transdecoder	mRNA	1	2976	.	-	.	ID=PenvanEVm000547t1:17-2992.p3;Parent=GENE.PenvanEVm000547t1:17-2992~~PenvanEVm000547t1:17-2992.p3;Name=ORF%20type%3Acomplete%20len%3A100%20%28-%29
+PenvanEVm000547t1:17-2992	transdecoder	five_prime_UTR	2796	2976	.	-	.	ID=PenvanEVm000547t1:17-2992.p3.utr5p1;Parent=PenvanEVm000547t1:17-2992.p3
+PenvanEVm000547t1:17-2992	transdecoder	exon	1	2976	.	-	.	ID=PenvanEVm000547t1:17-2992.p3.exon1;Parent=PenvanEVm000547t1:17-2992.p3
+PenvanEVm000547t1:17-2992	transdecoder	CDS	2496	2795	.	-	0	ID=cds.PenvanEVm000547t1:17-2992.p3;Parent=PenvanEVm000547t1:17-2992.p3
+PenvanEVm000547t1:17-2992	transdecoder	three_prime_UTR	1	2495	.	-	.	ID=PenvanEVm000547t1:17-2992.p3.utr3p1;Parent=PenvanEVm000547t1:17-2992.p3
+
+PenvanEVm000339t1:74-3541	transdecoder	gene	1	3468	.	+	.	ID=GENE.PenvanEVm000339t1:74-3541~~PenvanEVm000339t1:74-3541.p1;Name=ORF%20type%3Ainternal%20len%3A1157%20%28%2B%29
+PenvanEVm000339t1:74-3541	transdecoder	mRNA	1	3468	.	+	.	ID=PenvanEVm000339t1:74-3541.p1;Parent=GENE.PenvanEVm000339t1:74-3541~~PenvanEVm000339t1:74-3541.p1;Name=ORF%20type%3Ainternal%20len%3A1157%20%28%2B%29
+PenvanEVm000339t1:74-3541	transdecoder	exon	1	3468	.	+	.	ID=PenvanEVm000339t1:74-3541.p1.exon1;Parent=PenvanEVm000339t1:74-3541.p1
+PenvanEVm000339t1:74-3541	transdecoder	CDS	1	3468	.	+	0	ID=cds.PenvanEVm000339t1:74-3541.p1;Parent=PenvanEVm000339t1:74-3541.p1;5_prime_partial=true;3_prime_partial=true
+
+PenvanEVm000339t1:74-3541	transdecoder	gene	1	3468	.	+	.	ID=GENE.PenvanEVm000339t1:74-3541~~PenvanEVm000339t1:74-3541.p2;Name=ORF%20type%3Acomplete%20len%3A104%20%28%2B%29
+PenvanEVm000339t1:74-3541	transdecoder	mRNA	1	3468	.	+	.	ID=PenvanEVm000339t1:74-3541.p2;Parent=GENE.PenvanEVm000339t1:74-3541~~PenvanEVm000339t1:74-3541.p2;Name=ORF%20type%3Acomplete%20len%3A104%20%28%2B%29
+PenvanEVm000339t1:74-3541	transdecoder	five_prime_UTR	1	2341	.	+	.	ID=PenvanEVm000339t1:74-3541.p2.utr5p1;Parent=PenvanEVm000339t1:74-3541.p2
+PenvanEVm000339t1:74-3541	transdecoder	exon	1	3468	.	+	.	ID=PenvanEVm000339t1:74-3541.p2.exon1;Parent=PenvanEVm000339t1:74-3541.p2
+PenvanEVm000339t1:74-3541	transdecoder	CDS	2342	2653	.	+	0	ID=cds.PenvanEVm000339t1:74-3541.p2;Parent=PenvanEVm000339t1:74-3541.p2
+PenvanEVm000339t1:74-3541	transdecoder	three_prime_UTR	2654	3468	.	+	.	ID=PenvanEVm000339t1:74-3541.p2.utr3p1;Parent=PenvanEVm000339t1:74-3541.p2
+
+PenvanEVm001734t1:12-1841	transdecoder	gene	1	1830	.	+	.	ID=GENE.PenvanEVm001734t1:12-1841~~PenvanEVm001734t1:12-1841.p1;Name=ORF%20type%3Ainternal%20len%3A611%20%28%2B%29
+PenvanEVm001734t1:12-1841	transdecoder	mRNA	1	1830	.	+	.	ID=PenvanEVm001734t1:12-1841.p1;Parent=GENE.PenvanEVm001734t1:12-1841~~PenvanEVm001734t1:12-1841.p1;Name=ORF%20type%3Ainternal%20len%3A611%20%28%2B%29
+PenvanEVm001734t1:12-1841	transdecoder	exon	1	1830	.	+	.	ID=PenvanEVm001734t1:12-1841.p1.exon1;Parent=PenvanEVm001734t1:12-1841.p1
+PenvanEVm001734t1:12-1841	transdecoder	CDS	1	1830	.	+	0	ID=cds.PenvanEVm001734t1:12-1841.p1;Parent=PenvanEVm001734t1:12-1841.p1;5_prime_partial=true;3_prime_partial=true
+
