@@ -1,0 +1,304 @@
+Procl2_EVm002210t1:85-2865	transdecoder	gene	1	2781	.	+	.	ID=GENE.Procl2_EVm002210t1:85-2865~~Procl2_EVm002210t1:85-2865.p1;Name=ORF%20type%3A3prime_partial%20len%3A928%20%28%2B%29
+Procl2_EVm002210t1:85-2865	transdecoder	mRNA	1	2781	.	+	.	ID=Procl2_EVm002210t1:85-2865.p1;Parent=GENE.Procl2_EVm002210t1:85-2865~~Procl2_EVm002210t1:85-2865.p1;Name=ORF%20type%3A3prime_partial%20len%3A928%20%28%2B%29
+Procl2_EVm002210t1:85-2865	transdecoder	exon	1	2781	.	+	.	ID=Procl2_EVm002210t1:85-2865.p1.exon1;Parent=Procl2_EVm002210t1:85-2865.p1
+Procl2_EVm002210t1:85-2865	transdecoder	CDS	1	2781	.	+	0	ID=cds.Procl2_EVm002210t1:85-2865.p1;Parent=Procl2_EVm002210t1:85-2865.p1;3_prime_partial=true
+
+Procl2_EVm002210t1:85-2865	transdecoder	gene	1	2781	.	-	.	ID=GENE.Procl2_EVm002210t1:85-2865~~Procl2_EVm002210t1:85-2865.p2;Name=ORF%20type%3Acomplete%20len%3A119%20%28-%29
+Procl2_EVm002210t1:85-2865	transdecoder	mRNA	1	2781	.	-	.	ID=Procl2_EVm002210t1:85-2865.p2;Parent=GENE.Procl2_EVm002210t1:85-2865~~Procl2_EVm002210t1:85-2865.p2;Name=ORF%20type%3Acomplete%20len%3A119%20%28-%29
+Procl2_EVm002210t1:85-2865	transdecoder	five_prime_UTR	1491	2781	.	-	.	ID=Procl2_EVm002210t1:85-2865.p2.utr5p1;Parent=Procl2_EVm002210t1:85-2865.p2
+Procl2_EVm002210t1:85-2865	transdecoder	exon	1	2781	.	-	.	ID=Procl2_EVm002210t1:85-2865.p2.exon1;Parent=Procl2_EVm002210t1:85-2865.p2
+Procl2_EVm002210t1:85-2865	transdecoder	CDS	1134	1490	.	-	0	ID=cds.Procl2_EVm002210t1:85-2865.p2;Parent=Procl2_EVm002210t1:85-2865.p2
+Procl2_EVm002210t1:85-2865	transdecoder	three_prime_UTR	1	1133	.	-	.	ID=Procl2_EVm002210t1:85-2865.p2.utr3p1;Parent=Procl2_EVm002210t1:85-2865.p2
+
+Procl2_EVm001417t1:146-3508	transdecoder	gene	1	3363	.	+	.	ID=GENE.Procl2_EVm001417t1:146-3508~~Procl2_EVm001417t1:146-3508.p1;Name=ORF%20type%3A3prime_partial%20len%3A1122%20%28%2B%29
+Procl2_EVm001417t1:146-3508	transdecoder	mRNA	1	3363	.	+	.	ID=Procl2_EVm001417t1:146-3508.p1;Parent=GENE.Procl2_EVm001417t1:146-3508~~Procl2_EVm001417t1:146-3508.p1;Name=ORF%20type%3A3prime_partial%20len%3A1122%20%28%2B%29
+Procl2_EVm001417t1:146-3508	transdecoder	exon	1	3363	.	+	.	ID=Procl2_EVm001417t1:146-3508.p1.exon1;Parent=Procl2_EVm001417t1:146-3508.p1
+Procl2_EVm001417t1:146-3508	transdecoder	CDS	1	3363	.	+	0	ID=cds.Procl2_EVm001417t1:146-3508.p1;Parent=Procl2_EVm001417t1:146-3508.p1;3_prime_partial=true
+
+Procl2_EVm001385t1:145-3645	transdecoder	gene	1	3501	.	+	.	ID=GENE.Procl2_EVm001385t1:145-3645~~Procl2_EVm001385t1:145-3645.p1;Name=ORF%20type%3Ainternal%20len%3A1168%20%28%2B%29
+Procl2_EVm001385t1:145-3645	transdecoder	mRNA	1	3501	.	+	.	ID=Procl2_EVm001385t1:145-3645.p1;Parent=GENE.Procl2_EVm001385t1:145-3645~~Procl2_EVm001385t1:145-3645.p1;Name=ORF%20type%3Ainternal%20len%3A1168%20%28%2B%29
+Procl2_EVm001385t1:145-3645	transdecoder	exon	1	3501	.	+	.	ID=Procl2_EVm001385t1:145-3645.p1.exon1;Parent=Procl2_EVm001385t1:145-3645.p1
+Procl2_EVm001385t1:145-3645	transdecoder	CDS	1	3501	.	+	0	ID=cds.Procl2_EVm001385t1:145-3645.p1;Parent=Procl2_EVm001385t1:145-3645.p1;5_prime_partial=true;3_prime_partial=true
+
+Procl2_EVm001615t1:115-3306	transdecoder	gene	1	3192	.	+	.	ID=GENE.Procl2_EVm001615t1:115-3306~~Procl2_EVm001615t1:115-3306.p1;Name=ORF%20type%3Ainternal%20len%3A1065%20%28%2B%29
+Procl2_EVm001615t1:115-3306	transdecoder	mRNA	1	3192	.	+	.	ID=Procl2_EVm001615t1:115-3306.p1;Parent=GENE.Procl2_EVm001615t1:115-3306~~Procl2_EVm001615t1:115-3306.p1;Name=ORF%20type%3Ainternal%20len%3A1065%20%28%2B%29
+Procl2_EVm001615t1:115-3306	transdecoder	exon	1	3192	.	+	.	ID=Procl2_EVm001615t1:115-3306.p1.exon1;Parent=Procl2_EVm001615t1:115-3306.p1
+Procl2_EVm001615t1:115-3306	transdecoder	CDS	1	3192	.	+	0	ID=cds.Procl2_EVm001615t1:115-3306.p1;Parent=Procl2_EVm001615t1:115-3306.p1;5_prime_partial=true;3_prime_partial=true
+
+Procl2_EVm001282t1:203-3733	transdecoder	gene	1	3531	.	+	.	ID=GENE.Procl2_EVm001282t1:203-3733~~Procl2_EVm001282t1:203-3733.p1;Name=ORF%20type%3A3prime_partial%20len%3A1178%20%28%2B%29
+Procl2_EVm001282t1:203-3733	transdecoder	mRNA	1	3531	.	+	.	ID=Procl2_EVm001282t1:203-3733.p1;Parent=GENE.Procl2_EVm001282t1:203-3733~~Procl2_EVm001282t1:203-3733.p1;Name=ORF%20type%3A3prime_partial%20len%3A1178%20%28%2B%29
+Procl2_EVm001282t1:203-3733	transdecoder	exon	1	3531	.	+	.	ID=Procl2_EVm001282t1:203-3733.p1.exon1;Parent=Procl2_EVm001282t1:203-3733.p1
+Procl2_EVm001282t1:203-3733	transdecoder	CDS	1	3531	.	+	0	ID=cds.Procl2_EVm001282t1:203-3733.p1;Parent=Procl2_EVm001282t1:203-3733.p1;3_prime_partial=true
+
+Procl2_EVm001282t1:203-3733	transdecoder	gene	1	3531	.	-	.	ID=GENE.Procl2_EVm001282t1:203-3733~~Procl2_EVm001282t1:203-3733.p2;Name=ORF%20type%3Acomplete%20len%3A138%20%28-%29
+Procl2_EVm001282t1:203-3733	transdecoder	mRNA	1	3531	.	-	.	ID=Procl2_EVm001282t1:203-3733.p2;Parent=GENE.Procl2_EVm001282t1:203-3733~~Procl2_EVm001282t1:203-3733.p2;Name=ORF%20type%3Acomplete%20len%3A138%20%28-%29
+Procl2_EVm001282t1:203-3733	transdecoder	five_prime_UTR	3351	3531	.	-	.	ID=Procl2_EVm001282t1:203-3733.p2.utr5p1;Parent=Procl2_EVm001282t1:203-3733.p2
+Procl2_EVm001282t1:203-3733	transdecoder	exon	1	3531	.	-	.	ID=Procl2_EVm001282t1:203-3733.p2.exon1;Parent=Procl2_EVm001282t1:203-3733.p2
+Procl2_EVm001282t1:203-3733	transdecoder	CDS	2937	3350	.	-	0	ID=cds.Procl2_EVm001282t1:203-3733.p2;Parent=Procl2_EVm001282t1:203-3733.p2
+Procl2_EVm001282t1:203-3733	transdecoder	three_prime_UTR	1	2936	.	-	.	ID=Procl2_EVm001282t1:203-3733.p2.utr3p1;Parent=Procl2_EVm001282t1:203-3733.p2
+
+Procl2_EVm000129t1:378-8996	transdecoder	gene	1	8619	.	+	.	ID=GENE.Procl2_EVm000129t1:378-8996~~Procl2_EVm000129t1:378-8996.p1;Name=ORF%20type%3Ainternal%20len%3A2874%20%28%2B%29
+Procl2_EVm000129t1:378-8996	transdecoder	mRNA	1	8619	.	+	.	ID=Procl2_EVm000129t1:378-8996.p1;Parent=GENE.Procl2_EVm000129t1:378-8996~~Procl2_EVm000129t1:378-8996.p1;Name=ORF%20type%3Ainternal%20len%3A2874%20%28%2B%29
+Procl2_EVm000129t1:378-8996	transdecoder	exon	1	8619	.	+	.	ID=Procl2_EVm000129t1:378-8996.p1.exon1;Parent=Procl2_EVm000129t1:378-8996.p1
+Procl2_EVm000129t1:378-8996	transdecoder	CDS	1	8619	.	+	0	ID=cds.Procl2_EVm000129t1:378-8996.p1;Parent=Procl2_EVm000129t1:378-8996.p1;5_prime_partial=true;3_prime_partial=true
+
+Procl2_EVm000129t1:378-8996	transdecoder	gene	1	8619	.	-	.	ID=GENE.Procl2_EVm000129t1:378-8996~~Procl2_EVm000129t1:378-8996.p2;Name=ORF%20type%3Acomplete%20len%3A165%20%28-%29
+Procl2_EVm000129t1:378-8996	transdecoder	mRNA	1	8619	.	-	.	ID=Procl2_EVm000129t1:378-8996.p2;Parent=GENE.Procl2_EVm000129t1:378-8996~~Procl2_EVm000129t1:378-8996.p2;Name=ORF%20type%3Acomplete%20len%3A165%20%28-%29
+Procl2_EVm000129t1:378-8996	transdecoder	five_prime_UTR	1980	8619	.	-	.	ID=Procl2_EVm000129t1:378-8996.p2.utr5p1;Parent=Procl2_EVm000129t1:378-8996.p2
+Procl2_EVm000129t1:378-8996	transdecoder	exon	1	8619	.	-	.	ID=Procl2_EVm000129t1:378-8996.p2.exon1;Parent=Procl2_EVm000129t1:378-8996.p2
+Procl2_EVm000129t1:378-8996	transdecoder	CDS	1485	1979	.	-	0	ID=cds.Procl2_EVm000129t1:378-8996.p2;Parent=Procl2_EVm000129t1:378-8996.p2
+Procl2_EVm000129t1:378-8996	transdecoder	three_prime_UTR	1	1484	.	-	.	ID=Procl2_EVm000129t1:378-8996.p2.utr3p1;Parent=Procl2_EVm000129t1:378-8996.p2
+
+Procl2_EVm000129t1:378-8996	transdecoder	gene	1	8619	.	-	.	ID=GENE.Procl2_EVm000129t1:378-8996~~Procl2_EVm000129t1:378-8996.p3;Name=ORF%20type%3Acomplete%20len%3A135%20%28-%29
+Procl2_EVm000129t1:378-8996	transdecoder	mRNA	1	8619	.	-	.	ID=Procl2_EVm000129t1:378-8996.p3;Parent=GENE.Procl2_EVm000129t1:378-8996~~Procl2_EVm000129t1:378-8996.p3;Name=ORF%20type%3Acomplete%20len%3A135%20%28-%29
+Procl2_EVm000129t1:378-8996	transdecoder	five_prime_UTR	2979	8619	.	-	.	ID=Procl2_EVm000129t1:378-8996.p3.utr5p1;Parent=Procl2_EVm000129t1:378-8996.p3
+Procl2_EVm000129t1:378-8996	transdecoder	exon	1	8619	.	-	.	ID=Procl2_EVm000129t1:378-8996.p3.exon1;Parent=Procl2_EVm000129t1:378-8996.p3
+Procl2_EVm000129t1:378-8996	transdecoder	CDS	2574	2978	.	-	0	ID=cds.Procl2_EVm000129t1:378-8996.p3;Parent=Procl2_EVm000129t1:378-8996.p3
+Procl2_EVm000129t1:378-8996	transdecoder	three_prime_UTR	1	2573	.	-	.	ID=Procl2_EVm000129t1:378-8996.p3.utr3p1;Parent=Procl2_EVm000129t1:378-8996.p3
+
+Procl2_EVm000129t1:378-8996	transdecoder	gene	1	8619	.	-	.	ID=GENE.Procl2_EVm000129t1:378-8996~~Procl2_EVm000129t1:378-8996.p4;Name=ORF%20type%3Acomplete%20len%3A101%20%28-%29
+Procl2_EVm000129t1:378-8996	transdecoder	mRNA	1	8619	.	-	.	ID=Procl2_EVm000129t1:378-8996.p4;Parent=GENE.Procl2_EVm000129t1:378-8996~~Procl2_EVm000129t1:378-8996.p4;Name=ORF%20type%3Acomplete%20len%3A101%20%28-%29
+Procl2_EVm000129t1:378-8996	transdecoder	five_prime_UTR	6813	8619	.	-	.	ID=Procl2_EVm000129t1:378-8996.p4.utr5p1;Parent=Procl2_EVm000129t1:378-8996.p4
+Procl2_EVm000129t1:378-8996	transdecoder	exon	1	8619	.	-	.	ID=Procl2_EVm000129t1:378-8996.p4.exon1;Parent=Procl2_EVm000129t1:378-8996.p4
+Procl2_EVm000129t1:378-8996	transdecoder	CDS	6510	6812	.	-	0	ID=cds.Procl2_EVm000129t1:378-8996.p4;Parent=Procl2_EVm000129t1:378-8996.p4
+Procl2_EVm000129t1:378-8996	transdecoder	three_prime_UTR	1	6509	.	-	.	ID=Procl2_EVm000129t1:378-8996.p4.utr3p1;Parent=Procl2_EVm000129t1:378-8996.p4
+
+Procl2_EVm000129t1:378-8996	transdecoder	gene	1	8619	.	-	.	ID=GENE.Procl2_EVm000129t1:378-8996~~Procl2_EVm000129t1:378-8996.p5;Name=ORF%20type%3Acomplete%20len%3A101%20%28-%29
+Procl2_EVm000129t1:378-8996	transdecoder	mRNA	1	8619	.	-	.	ID=Procl2_EVm000129t1:378-8996.p5;Parent=GENE.Procl2_EVm000129t1:378-8996~~Procl2_EVm000129t1:378-8996.p5;Name=ORF%20type%3Acomplete%20len%3A101%20%28-%29
+Procl2_EVm000129t1:378-8996	transdecoder	five_prime_UTR	3457	8619	.	-	.	ID=Procl2_EVm000129t1:378-8996.p5.utr5p1;Parent=Procl2_EVm000129t1:378-8996.p5
+Procl2_EVm000129t1:378-8996	transdecoder	exon	1	8619	.	-	.	ID=Procl2_EVm000129t1:378-8996.p5.exon1;Parent=Procl2_EVm000129t1:378-8996.p5
+Procl2_EVm000129t1:378-8996	transdecoder	CDS	3154	3456	.	-	0	ID=cds.Procl2_EVm000129t1:378-8996.p5;Parent=Procl2_EVm000129t1:378-8996.p5
+Procl2_EVm000129t1:378-8996	transdecoder	three_prime_UTR	1	3153	.	-	.	ID=Procl2_EVm000129t1:378-8996.p5.utr3p1;Parent=Procl2_EVm000129t1:378-8996.p5
+
+Procl2_EVm001748t1:101-3229	transdecoder	gene	1	3129	.	+	.	ID=GENE.Procl2_EVm001748t1:101-3229~~Procl2_EVm001748t1:101-3229.p1;Name=ORF%20type%3A3prime_partial%20len%3A1044%20%28%2B%29
+Procl2_EVm001748t1:101-3229	transdecoder	mRNA	1	3129	.	+	.	ID=Procl2_EVm001748t1:101-3229.p1;Parent=GENE.Procl2_EVm001748t1:101-3229~~Procl2_EVm001748t1:101-3229.p1;Name=ORF%20type%3A3prime_partial%20len%3A1044%20%28%2B%29
+Procl2_EVm001748t1:101-3229	transdecoder	exon	1	3129	.	+	.	ID=Procl2_EVm001748t1:101-3229.p1.exon1;Parent=Procl2_EVm001748t1:101-3229.p1
+Procl2_EVm001748t1:101-3229	transdecoder	CDS	1	3129	.	+	0	ID=cds.Procl2_EVm001748t1:101-3229.p1;Parent=Procl2_EVm001748t1:101-3229.p1;3_prime_partial=true
+
+Procl2_EVm001748t1:101-3229	transdecoder	gene	1	3129	.	-	.	ID=GENE.Procl2_EVm001748t1:101-3229~~Procl2_EVm001748t1:101-3229.p2;Name=ORF%20type%3Acomplete%20len%3A110%20%28-%29
+Procl2_EVm001748t1:101-3229	transdecoder	mRNA	1	3129	.	-	.	ID=Procl2_EVm001748t1:101-3229.p2;Parent=GENE.Procl2_EVm001748t1:101-3229~~Procl2_EVm001748t1:101-3229.p2;Name=ORF%20type%3Acomplete%20len%3A110%20%28-%29
+Procl2_EVm001748t1:101-3229	transdecoder	five_prime_UTR	2223	3129	.	-	.	ID=Procl2_EVm001748t1:101-3229.p2.utr5p1;Parent=Procl2_EVm001748t1:101-3229.p2
+Procl2_EVm001748t1:101-3229	transdecoder	exon	1	3129	.	-	.	ID=Procl2_EVm001748t1:101-3229.p2.exon1;Parent=Procl2_EVm001748t1:101-3229.p2
+Procl2_EVm001748t1:101-3229	transdecoder	CDS	1893	2222	.	-	0	ID=cds.Procl2_EVm001748t1:101-3229.p2;Parent=Procl2_EVm001748t1:101-3229.p2
+Procl2_EVm001748t1:101-3229	transdecoder	three_prime_UTR	1	1892	.	-	.	ID=Procl2_EVm001748t1:101-3229.p2.utr3p1;Parent=Procl2_EVm001748t1:101-3229.p2
+
+Procl2_EVm000157t1:53-8032	transdecoder	gene	1	7980	.	+	.	ID=GENE.Procl2_EVm000157t1:53-8032~~Procl2_EVm000157t1:53-8032.p1;Name=ORF%20type%3A3prime_partial%20len%3A2661%20%28%2B%29
+Procl2_EVm000157t1:53-8032	transdecoder	mRNA	1	7980	.	+	.	ID=Procl2_EVm000157t1:53-8032.p1;Parent=GENE.Procl2_EVm000157t1:53-8032~~Procl2_EVm000157t1:53-8032.p1;Name=ORF%20type%3A3prime_partial%20len%3A2661%20%28%2B%29
+Procl2_EVm000157t1:53-8032	transdecoder	exon	1	7980	.	+	.	ID=Procl2_EVm000157t1:53-8032.p1.exon1;Parent=Procl2_EVm000157t1:53-8032.p1
+Procl2_EVm000157t1:53-8032	transdecoder	CDS	1	7980	.	+	0	ID=cds.Procl2_EVm000157t1:53-8032.p1;Parent=Procl2_EVm000157t1:53-8032.p1;3_prime_partial=true
+
+Procl2_EVm000157t1:53-8032	transdecoder	gene	1	7980	.	-	.	ID=GENE.Procl2_EVm000157t1:53-8032~~Procl2_EVm000157t1:53-8032.p2;Name=ORF%20type%3Acomplete%20len%3A189%20%28-%29
+Procl2_EVm000157t1:53-8032	transdecoder	mRNA	1	7980	.	-	.	ID=Procl2_EVm000157t1:53-8032.p2;Parent=GENE.Procl2_EVm000157t1:53-8032~~Procl2_EVm000157t1:53-8032.p2;Name=ORF%20type%3Acomplete%20len%3A189%20%28-%29
+Procl2_EVm000157t1:53-8032	transdecoder	five_prime_UTR	3798	7980	.	-	.	ID=Procl2_EVm000157t1:53-8032.p2.utr5p1;Parent=Procl2_EVm000157t1:53-8032.p2
+Procl2_EVm000157t1:53-8032	transdecoder	exon	1	7980	.	-	.	ID=Procl2_EVm000157t1:53-8032.p2.exon1;Parent=Procl2_EVm000157t1:53-8032.p2
+Procl2_EVm000157t1:53-8032	transdecoder	CDS	3231	3797	.	-	0	ID=cds.Procl2_EVm000157t1:53-8032.p2;Parent=Procl2_EVm000157t1:53-8032.p2
+Procl2_EVm000157t1:53-8032	transdecoder	three_prime_UTR	1	3230	.	-	.	ID=Procl2_EVm000157t1:53-8032.p2.utr3p1;Parent=Procl2_EVm000157t1:53-8032.p2
+
+Procl2_EVm001349t1:522-3836	transdecoder	gene	1	3315	.	+	.	ID=GENE.Procl2_EVm001349t1:522-3836~~Procl2_EVm001349t1:522-3836.p1;Name=ORF%20type%3Ainternal%20len%3A1106%20%28%2B%29
+Procl2_EVm001349t1:522-3836	transdecoder	mRNA	1	3315	.	+	.	ID=Procl2_EVm001349t1:522-3836.p1;Parent=GENE.Procl2_EVm001349t1:522-3836~~Procl2_EVm001349t1:522-3836.p1;Name=ORF%20type%3Ainternal%20len%3A1106%20%28%2B%29
+Procl2_EVm001349t1:522-3836	transdecoder	exon	1	3315	.	+	.	ID=Procl2_EVm001349t1:522-3836.p1.exon1;Parent=Procl2_EVm001349t1:522-3836.p1
+Procl2_EVm001349t1:522-3836	transdecoder	CDS	1	3315	.	+	0	ID=cds.Procl2_EVm001349t1:522-3836.p1;Parent=Procl2_EVm001349t1:522-3836.p1;5_prime_partial=true;3_prime_partial=true
+
+Procl2_EVm001552t2:278-1702	transdecoder	gene	1	1425	.	+	.	ID=GENE.Procl2_EVm001552t2:278-1702~~Procl2_EVm001552t2:278-1702.p1;Name=ORF%20type%3Ainternal%20len%3A476%20%28%2B%29
+Procl2_EVm001552t2:278-1702	transdecoder	mRNA	1	1425	.	+	.	ID=Procl2_EVm001552t2:278-1702.p1;Parent=GENE.Procl2_EVm001552t2:278-1702~~Procl2_EVm001552t2:278-1702.p1;Name=ORF%20type%3Ainternal%20len%3A476%20%28%2B%29
+Procl2_EVm001552t2:278-1702	transdecoder	exon	1	1425	.	+	.	ID=Procl2_EVm001552t2:278-1702.p1.exon1;Parent=Procl2_EVm001552t2:278-1702.p1
+Procl2_EVm001552t2:278-1702	transdecoder	CDS	1	1425	.	+	0	ID=cds.Procl2_EVm001552t2:278-1702.p1;Parent=Procl2_EVm001552t2:278-1702.p1;5_prime_partial=true;3_prime_partial=true
+
+Procl2_EVm001332t1:180-3722	transdecoder	gene	1	3543	.	+	.	ID=GENE.Procl2_EVm001332t1:180-3722~~Procl2_EVm001332t1:180-3722.p1;Name=ORF%20type%3Ainternal%20len%3A1182%20%28%2B%29
+Procl2_EVm001332t1:180-3722	transdecoder	mRNA	1	3543	.	+	.	ID=Procl2_EVm001332t1:180-3722.p1;Parent=GENE.Procl2_EVm001332t1:180-3722~~Procl2_EVm001332t1:180-3722.p1;Name=ORF%20type%3Ainternal%20len%3A1182%20%28%2B%29
+Procl2_EVm001332t1:180-3722	transdecoder	exon	1	3543	.	+	.	ID=Procl2_EVm001332t1:180-3722.p1.exon1;Parent=Procl2_EVm001332t1:180-3722.p1
+Procl2_EVm001332t1:180-3722	transdecoder	CDS	1	3543	.	+	0	ID=cds.Procl2_EVm001332t1:180-3722.p1;Parent=Procl2_EVm001332t1:180-3722.p1;5_prime_partial=true;3_prime_partial=true
+
+Procl2_EVm001332t1:180-3722	transdecoder	gene	1	3543	.	-	.	ID=GENE.Procl2_EVm001332t1:180-3722~~Procl2_EVm001332t1:180-3722.p2;Name=ORF%20type%3Acomplete%20len%3A184%20%28-%29
+Procl2_EVm001332t1:180-3722	transdecoder	mRNA	1	3543	.	-	.	ID=Procl2_EVm001332t1:180-3722.p2;Parent=GENE.Procl2_EVm001332t1:180-3722~~Procl2_EVm001332t1:180-3722.p2;Name=ORF%20type%3Acomplete%20len%3A184%20%28-%29
+Procl2_EVm001332t1:180-3722	transdecoder	five_prime_UTR	3006	3543	.	-	.	ID=Procl2_EVm001332t1:180-3722.p2.utr5p1;Parent=Procl2_EVm001332t1:180-3722.p2
+Procl2_EVm001332t1:180-3722	transdecoder	exon	1	3543	.	-	.	ID=Procl2_EVm001332t1:180-3722.p2.exon1;Parent=Procl2_EVm001332t1:180-3722.p2
+Procl2_EVm001332t1:180-3722	transdecoder	CDS	2454	3005	.	-	0	ID=cds.Procl2_EVm001332t1:180-3722.p2;Parent=Procl2_EVm001332t1:180-3722.p2
+Procl2_EVm001332t1:180-3722	transdecoder	three_prime_UTR	1	2453	.	-	.	ID=Procl2_EVm001332t1:180-3722.p2.utr3p1;Parent=Procl2_EVm001332t1:180-3722.p2
+
+Procl2_EVm001332t1:180-3722	transdecoder	gene	1	3543	.	-	.	ID=GENE.Procl2_EVm001332t1:180-3722~~Procl2_EVm001332t1:180-3722.p3;Name=ORF%20type%3Acomplete%20len%3A162%20%28-%29
+Procl2_EVm001332t1:180-3722	transdecoder	mRNA	1	3543	.	-	.	ID=Procl2_EVm001332t1:180-3722.p3;Parent=GENE.Procl2_EVm001332t1:180-3722~~Procl2_EVm001332t1:180-3722.p3;Name=ORF%20type%3Acomplete%20len%3A162%20%28-%29
+Procl2_EVm001332t1:180-3722	transdecoder	five_prime_UTR	1941	3543	.	-	.	ID=Procl2_EVm001332t1:180-3722.p3.utr5p1;Parent=Procl2_EVm001332t1:180-3722.p3
+Procl2_EVm001332t1:180-3722	transdecoder	exon	1	3543	.	-	.	ID=Procl2_EVm001332t1:180-3722.p3.exon1;Parent=Procl2_EVm001332t1:180-3722.p3
+Procl2_EVm001332t1:180-3722	transdecoder	CDS	1455	1940	.	-	0	ID=cds.Procl2_EVm001332t1:180-3722.p3;Parent=Procl2_EVm001332t1:180-3722.p3
+Procl2_EVm001332t1:180-3722	transdecoder	three_prime_UTR	1	1454	.	-	.	ID=Procl2_EVm001332t1:180-3722.p3.utr3p1;Parent=Procl2_EVm001332t1:180-3722.p3
+
+Procl2_EVm001332t1:180-3722	transdecoder	gene	1	3543	.	-	.	ID=GENE.Procl2_EVm001332t1:180-3722~~Procl2_EVm001332t1:180-3722.p4;Name=ORF%20type%3Acomplete%20len%3A111%20%28-%29
+Procl2_EVm001332t1:180-3722	transdecoder	mRNA	1	3543	.	-	.	ID=Procl2_EVm001332t1:180-3722.p4;Parent=GENE.Procl2_EVm001332t1:180-3722~~Procl2_EVm001332t1:180-3722.p4;Name=ORF%20type%3Acomplete%20len%3A111%20%28-%29
+Procl2_EVm001332t1:180-3722	transdecoder	five_prime_UTR	1347	3543	.	-	.	ID=Procl2_EVm001332t1:180-3722.p4.utr5p1;Parent=Procl2_EVm001332t1:180-3722.p4
+Procl2_EVm001332t1:180-3722	transdecoder	exon	1	3543	.	-	.	ID=Procl2_EVm001332t1:180-3722.p4.exon1;Parent=Procl2_EVm001332t1:180-3722.p4
+Procl2_EVm001332t1:180-3722	transdecoder	CDS	1014	1346	.	-	0	ID=cds.Procl2_EVm001332t1:180-3722.p4;Parent=Procl2_EVm001332t1:180-3722.p4
+Procl2_EVm001332t1:180-3722	transdecoder	three_prime_UTR	1	1013	.	-	.	ID=Procl2_EVm001332t1:180-3722.p4.utr3p1;Parent=Procl2_EVm001332t1:180-3722.p4
+
+Procl2_EVm002225t1:199-2826	transdecoder	gene	1	2628	.	+	.	ID=GENE.Procl2_EVm002225t1:199-2826~~Procl2_EVm002225t1:199-2826.p1;Name=ORF%20type%3A3prime_partial%20len%3A877%20%28%2B%29
+Procl2_EVm002225t1:199-2826	transdecoder	mRNA	1	2628	.	+	.	ID=Procl2_EVm002225t1:199-2826.p1;Parent=GENE.Procl2_EVm002225t1:199-2826~~Procl2_EVm002225t1:199-2826.p1;Name=ORF%20type%3A3prime_partial%20len%3A877%20%28%2B%29
+Procl2_EVm002225t1:199-2826	transdecoder	exon	1	2628	.	+	.	ID=Procl2_EVm002225t1:199-2826.p1.exon1;Parent=Procl2_EVm002225t1:199-2826.p1
+Procl2_EVm002225t1:199-2826	transdecoder	CDS	1	2628	.	+	0	ID=cds.Procl2_EVm002225t1:199-2826.p1;Parent=Procl2_EVm002225t1:199-2826.p1;3_prime_partial=true
+
+Procl2_EVm001898t1:255-3140	transdecoder	gene	1	2886	.	+	.	ID=GENE.Procl2_EVm001898t1:255-3140~~Procl2_EVm001898t1:255-3140.p1;Name=ORF%20type%3Ainternal%20len%3A963%20%28%2B%29
+Procl2_EVm001898t1:255-3140	transdecoder	mRNA	1	2886	.	+	.	ID=Procl2_EVm001898t1:255-3140.p1;Parent=GENE.Procl2_EVm001898t1:255-3140~~Procl2_EVm001898t1:255-3140.p1;Name=ORF%20type%3Ainternal%20len%3A963%20%28%2B%29
+Procl2_EVm001898t1:255-3140	transdecoder	exon	1	2886	.	+	.	ID=Procl2_EVm001898t1:255-3140.p1.exon1;Parent=Procl2_EVm001898t1:255-3140.p1
+Procl2_EVm001898t1:255-3140	transdecoder	CDS	1	2886	.	+	0	ID=cds.Procl2_EVm001898t1:255-3140.p1;Parent=Procl2_EVm001898t1:255-3140.p1;5_prime_partial=true;3_prime_partial=true
+
+Procl2_EVm001898t1:255-3140	transdecoder	gene	1	2886	.	-	.	ID=GENE.Procl2_EVm001898t1:255-3140~~Procl2_EVm001898t1:255-3140.p2;Name=ORF%20type%3Acomplete%20len%3A118%20%28-%29
+Procl2_EVm001898t1:255-3140	transdecoder	mRNA	1	2886	.	-	.	ID=Procl2_EVm001898t1:255-3140.p2;Parent=GENE.Procl2_EVm001898t1:255-3140~~Procl2_EVm001898t1:255-3140.p2;Name=ORF%20type%3Acomplete%20len%3A118%20%28-%29
+Procl2_EVm001898t1:255-3140	transdecoder	five_prime_UTR	882	2886	.	-	.	ID=Procl2_EVm001898t1:255-3140.p2.utr5p1;Parent=Procl2_EVm001898t1:255-3140.p2
+Procl2_EVm001898t1:255-3140	transdecoder	exon	1	2886	.	-	.	ID=Procl2_EVm001898t1:255-3140.p2.exon1;Parent=Procl2_EVm001898t1:255-3140.p2
+Procl2_EVm001898t1:255-3140	transdecoder	CDS	528	881	.	-	0	ID=cds.Procl2_EVm001898t1:255-3140.p2;Parent=Procl2_EVm001898t1:255-3140.p2
+Procl2_EVm001898t1:255-3140	transdecoder	three_prime_UTR	1	527	.	-	.	ID=Procl2_EVm001898t1:255-3140.p2.utr3p1;Parent=Procl2_EVm001898t1:255-3140.p2
+
+Procl2_EVm002013t1:129-3047	transdecoder	gene	1	2919	.	+	.	ID=GENE.Procl2_EVm002013t1:129-3047~~Procl2_EVm002013t1:129-3047.p1;Name=ORF%20type%3A3prime_partial%20len%3A974%20%28%2B%29
+Procl2_EVm002013t1:129-3047	transdecoder	mRNA	1	2919	.	+	.	ID=Procl2_EVm002013t1:129-3047.p1;Parent=GENE.Procl2_EVm002013t1:129-3047~~Procl2_EVm002013t1:129-3047.p1;Name=ORF%20type%3A3prime_partial%20len%3A974%20%28%2B%29
+Procl2_EVm002013t1:129-3047	transdecoder	exon	1	2919	.	+	.	ID=Procl2_EVm002013t1:129-3047.p1.exon1;Parent=Procl2_EVm002013t1:129-3047.p1
+Procl2_EVm002013t1:129-3047	transdecoder	CDS	1	2919	.	+	0	ID=cds.Procl2_EVm002013t1:129-3047.p1;Parent=Procl2_EVm002013t1:129-3047.p1;3_prime_partial=true
+
+Procl2_EVm001298t1:875-2926	transdecoder	gene	1	2052	.	+	.	ID=GENE.Procl2_EVm001298t1:875-2926~~Procl2_EVm001298t1:875-2926.p1;Name=ORF%20type%3Ainternal%20len%3A685%20%28%2B%29
+Procl2_EVm001298t1:875-2926	transdecoder	mRNA	1	2052	.	+	.	ID=Procl2_EVm001298t1:875-2926.p1;Parent=GENE.Procl2_EVm001298t1:875-2926~~Procl2_EVm001298t1:875-2926.p1;Name=ORF%20type%3Ainternal%20len%3A685%20%28%2B%29
+Procl2_EVm001298t1:875-2926	transdecoder	exon	1	2052	.	+	.	ID=Procl2_EVm001298t1:875-2926.p1.exon1;Parent=Procl2_EVm001298t1:875-2926.p1
+Procl2_EVm001298t1:875-2926	transdecoder	CDS	1	2052	.	+	0	ID=cds.Procl2_EVm001298t1:875-2926.p1;Parent=Procl2_EVm001298t1:875-2926.p1;5_prime_partial=true;3_prime_partial=true
+
+Procl2_EVm000195t1:122-5341	transdecoder	gene	1	5220	.	+	.	ID=GENE.Procl2_EVm000195t1:122-5341~~Procl2_EVm000195t1:122-5341.p1;Name=ORF%20type%3Ainternal%20len%3A1741%20%28%2B%29
+Procl2_EVm000195t1:122-5341	transdecoder	mRNA	1	5220	.	+	.	ID=Procl2_EVm000195t1:122-5341.p1;Parent=GENE.Procl2_EVm000195t1:122-5341~~Procl2_EVm000195t1:122-5341.p1;Name=ORF%20type%3Ainternal%20len%3A1741%20%28%2B%29
+Procl2_EVm000195t1:122-5341	transdecoder	exon	1	5220	.	+	.	ID=Procl2_EVm000195t1:122-5341.p1.exon1;Parent=Procl2_EVm000195t1:122-5341.p1
+Procl2_EVm000195t1:122-5341	transdecoder	CDS	1	5220	.	+	0	ID=cds.Procl2_EVm000195t1:122-5341.p1;Parent=Procl2_EVm000195t1:122-5341.p1;5_prime_partial=true;3_prime_partial=true
+
+Procl2_EVm000195t1:122-5341	transdecoder	gene	1	5220	.	-	.	ID=GENE.Procl2_EVm000195t1:122-5341~~Procl2_EVm000195t1:122-5341.p2;Name=ORF%20type%3Acomplete%20len%3A181%20%28-%29
+Procl2_EVm000195t1:122-5341	transdecoder	mRNA	1	5220	.	-	.	ID=Procl2_EVm000195t1:122-5341.p2;Parent=GENE.Procl2_EVm000195t1:122-5341~~Procl2_EVm000195t1:122-5341.p2;Name=ORF%20type%3Acomplete%20len%3A181%20%28-%29
+Procl2_EVm000195t1:122-5341	transdecoder	five_prime_UTR	921	5220	.	-	.	ID=Procl2_EVm000195t1:122-5341.p2.utr5p1;Parent=Procl2_EVm000195t1:122-5341.p2
+Procl2_EVm000195t1:122-5341	transdecoder	exon	1	5220	.	-	.	ID=Procl2_EVm000195t1:122-5341.p2.exon1;Parent=Procl2_EVm000195t1:122-5341.p2
+Procl2_EVm000195t1:122-5341	transdecoder	CDS	378	920	.	-	0	ID=cds.Procl2_EVm000195t1:122-5341.p2;Parent=Procl2_EVm000195t1:122-5341.p2
+Procl2_EVm000195t1:122-5341	transdecoder	three_prime_UTR	1	377	.	-	.	ID=Procl2_EVm000195t1:122-5341.p2.utr3p1;Parent=Procl2_EVm000195t1:122-5341.p2
+
+Procl2_EVm000195t1:122-5341	transdecoder	gene	1	5220	.	-	.	ID=GENE.Procl2_EVm000195t1:122-5341~~Procl2_EVm000195t1:122-5341.p3;Name=ORF%20type%3Acomplete%20len%3A145%20%28-%29
+Procl2_EVm000195t1:122-5341	transdecoder	mRNA	1	5220	.	-	.	ID=Procl2_EVm000195t1:122-5341.p3;Parent=GENE.Procl2_EVm000195t1:122-5341~~Procl2_EVm000195t1:122-5341.p3;Name=ORF%20type%3Acomplete%20len%3A145%20%28-%29
+Procl2_EVm000195t1:122-5341	transdecoder	five_prime_UTR	4180	5220	.	-	.	ID=Procl2_EVm000195t1:122-5341.p3.utr5p1;Parent=Procl2_EVm000195t1:122-5341.p3
+Procl2_EVm000195t1:122-5341	transdecoder	exon	1	5220	.	-	.	ID=Procl2_EVm000195t1:122-5341.p3.exon1;Parent=Procl2_EVm000195t1:122-5341.p3
+Procl2_EVm000195t1:122-5341	transdecoder	CDS	3745	4179	.	-	0	ID=cds.Procl2_EVm000195t1:122-5341.p3;Parent=Procl2_EVm000195t1:122-5341.p3
+Procl2_EVm000195t1:122-5341	transdecoder	three_prime_UTR	1	3744	.	-	.	ID=Procl2_EVm000195t1:122-5341.p3.utr3p1;Parent=Procl2_EVm000195t1:122-5341.p3
+
+Procl2_EVm000195t1:122-5341	transdecoder	gene	1	5220	.	-	.	ID=GENE.Procl2_EVm000195t1:122-5341~~Procl2_EVm000195t1:122-5341.p4;Name=ORF%20type%3Acomplete%20len%3A106%20%28-%29
+Procl2_EVm000195t1:122-5341	transdecoder	mRNA	1	5220	.	-	.	ID=Procl2_EVm000195t1:122-5341.p4;Parent=GENE.Procl2_EVm000195t1:122-5341~~Procl2_EVm000195t1:122-5341.p4;Name=ORF%20type%3Acomplete%20len%3A106%20%28-%29
+Procl2_EVm000195t1:122-5341	transdecoder	five_prime_UTR	3297	5220	.	-	.	ID=Procl2_EVm000195t1:122-5341.p4.utr5p1;Parent=Procl2_EVm000195t1:122-5341.p4
+Procl2_EVm000195t1:122-5341	transdecoder	exon	1	5220	.	-	.	ID=Procl2_EVm000195t1:122-5341.p4.exon1;Parent=Procl2_EVm000195t1:122-5341.p4
+Procl2_EVm000195t1:122-5341	transdecoder	CDS	2979	3296	.	-	0	ID=cds.Procl2_EVm000195t1:122-5341.p4;Parent=Procl2_EVm000195t1:122-5341.p4
+Procl2_EVm000195t1:122-5341	transdecoder	three_prime_UTR	1	2978	.	-	.	ID=Procl2_EVm000195t1:122-5341.p4.utr3p1;Parent=Procl2_EVm000195t1:122-5341.p4
+
+Procl2_EVm003414t1:188-2512	transdecoder	gene	1	2325	.	+	.	ID=GENE.Procl2_EVm003414t1:188-2512~~Procl2_EVm003414t1:188-2512.p1;Name=ORF%20type%3Ainternal%20len%3A776%20%28%2B%29
+Procl2_EVm003414t1:188-2512	transdecoder	mRNA	1	2325	.	+	.	ID=Procl2_EVm003414t1:188-2512.p1;Parent=GENE.Procl2_EVm003414t1:188-2512~~Procl2_EVm003414t1:188-2512.p1;Name=ORF%20type%3Ainternal%20len%3A776%20%28%2B%29
+Procl2_EVm003414t1:188-2512	transdecoder	exon	1	2325	.	+	.	ID=Procl2_EVm003414t1:188-2512.p1.exon1;Parent=Procl2_EVm003414t1:188-2512.p1
+Procl2_EVm003414t1:188-2512	transdecoder	CDS	1	2325	.	+	0	ID=cds.Procl2_EVm003414t1:188-2512.p1;Parent=Procl2_EVm003414t1:188-2512.p1;5_prime_partial=true;3_prime_partial=true
+
+Procl2_EVm003414t1:188-2512	transdecoder	gene	1	2325	.	-	.	ID=GENE.Procl2_EVm003414t1:188-2512~~Procl2_EVm003414t1:188-2512.p2;Name=ORF%20type%3Acomplete%20len%3A100%20%28-%29
+Procl2_EVm003414t1:188-2512	transdecoder	mRNA	1	2325	.	-	.	ID=Procl2_EVm003414t1:188-2512.p2;Parent=GENE.Procl2_EVm003414t1:188-2512~~Procl2_EVm003414t1:188-2512.p2;Name=ORF%20type%3Acomplete%20len%3A100%20%28-%29
+Procl2_EVm003414t1:188-2512	transdecoder	five_prime_UTR	390	2325	.	-	.	ID=Procl2_EVm003414t1:188-2512.p2.utr5p1;Parent=Procl2_EVm003414t1:188-2512.p2
+Procl2_EVm003414t1:188-2512	transdecoder	exon	1	2325	.	-	.	ID=Procl2_EVm003414t1:188-2512.p2.exon1;Parent=Procl2_EVm003414t1:188-2512.p2
+Procl2_EVm003414t1:188-2512	transdecoder	CDS	90	389	.	-	0	ID=cds.Procl2_EVm003414t1:188-2512.p2;Parent=Procl2_EVm003414t1:188-2512.p2
+Procl2_EVm003414t1:188-2512	transdecoder	three_prime_UTR	1	89	.	-	.	ID=Procl2_EVm003414t1:188-2512.p2.utr3p1;Parent=Procl2_EVm003414t1:188-2512.p2
+
+Procl2_EVm002458t1:231-2624	transdecoder	gene	1	2394	.	+	.	ID=GENE.Procl2_EVm002458t1:231-2624~~Procl2_EVm002458t1:231-2624.p1;Name=ORF%20type%3Ainternal%20len%3A799%20%28%2B%29
+Procl2_EVm002458t1:231-2624	transdecoder	mRNA	1	2394	.	+	.	ID=Procl2_EVm002458t1:231-2624.p1;Parent=GENE.Procl2_EVm002458t1:231-2624~~Procl2_EVm002458t1:231-2624.p1;Name=ORF%20type%3Ainternal%20len%3A799%20%28%2B%29
+Procl2_EVm002458t1:231-2624	transdecoder	exon	1	2394	.	+	.	ID=Procl2_EVm002458t1:231-2624.p1.exon1;Parent=Procl2_EVm002458t1:231-2624.p1
+Procl2_EVm002458t1:231-2624	transdecoder	CDS	1	2394	.	+	0	ID=cds.Procl2_EVm002458t1:231-2624.p1;Parent=Procl2_EVm002458t1:231-2624.p1;5_prime_partial=true;3_prime_partial=true
+
+Procl2_EVm001561t1:75-3353	transdecoder	gene	1	3279	.	+	.	ID=GENE.Procl2_EVm001561t1:75-3353~~Procl2_EVm001561t1:75-3353.p1;Name=ORF%20type%3A3prime_partial%20len%3A1094%20%28%2B%29
+Procl2_EVm001561t1:75-3353	transdecoder	mRNA	1	3279	.	+	.	ID=Procl2_EVm001561t1:75-3353.p1;Parent=GENE.Procl2_EVm001561t1:75-3353~~Procl2_EVm001561t1:75-3353.p1;Name=ORF%20type%3A3prime_partial%20len%3A1094%20%28%2B%29
+Procl2_EVm001561t1:75-3353	transdecoder	exon	1	3279	.	+	.	ID=Procl2_EVm001561t1:75-3353.p1.exon1;Parent=Procl2_EVm001561t1:75-3353.p1
+Procl2_EVm001561t1:75-3353	transdecoder	CDS	1	3279	.	+	0	ID=cds.Procl2_EVm001561t1:75-3353.p1;Parent=Procl2_EVm001561t1:75-3353.p1;3_prime_partial=true
+
+Procl2_EVm001268t1:87-3737	transdecoder	gene	1	3651	.	+	.	ID=GENE.Procl2_EVm001268t1:87-3737~~Procl2_EVm001268t1:87-3737.p1;Name=ORF%20type%3A3prime_partial%20len%3A1218%20%28%2B%29
+Procl2_EVm001268t1:87-3737	transdecoder	mRNA	1	3651	.	+	.	ID=Procl2_EVm001268t1:87-3737.p1;Parent=GENE.Procl2_EVm001268t1:87-3737~~Procl2_EVm001268t1:87-3737.p1;Name=ORF%20type%3A3prime_partial%20len%3A1218%20%28%2B%29
+Procl2_EVm001268t1:87-3737	transdecoder	exon	1	3651	.	+	.	ID=Procl2_EVm001268t1:87-3737.p1.exon1;Parent=Procl2_EVm001268t1:87-3737.p1
+Procl2_EVm001268t1:87-3737	transdecoder	CDS	1	3651	.	+	0	ID=cds.Procl2_EVm001268t1:87-3737.p1;Parent=Procl2_EVm001268t1:87-3737.p1;3_prime_partial=true
+
+Procl2_EVm000215t1:84-7202	transdecoder	gene	1	7119	.	+	.	ID=GENE.Procl2_EVm000215t1:84-7202~~Procl2_EVm000215t1:84-7202.p1;Name=ORF%20type%3A3prime_partial%20len%3A2374%20%28%2B%29
+Procl2_EVm000215t1:84-7202	transdecoder	mRNA	1	7119	.	+	.	ID=Procl2_EVm000215t1:84-7202.p1;Parent=GENE.Procl2_EVm000215t1:84-7202~~Procl2_EVm000215t1:84-7202.p1;Name=ORF%20type%3A3prime_partial%20len%3A2374%20%28%2B%29
+Procl2_EVm000215t1:84-7202	transdecoder	exon	1	7119	.	+	.	ID=Procl2_EVm000215t1:84-7202.p1.exon1;Parent=Procl2_EVm000215t1:84-7202.p1
+Procl2_EVm000215t1:84-7202	transdecoder	CDS	1	7119	.	+	0	ID=cds.Procl2_EVm000215t1:84-7202.p1;Parent=Procl2_EVm000215t1:84-7202.p1;3_prime_partial=true
+
+Procl2_EVm000215t1:84-7202	transdecoder	gene	1	7119	.	-	.	ID=GENE.Procl2_EVm000215t1:84-7202~~Procl2_EVm000215t1:84-7202.p2;Name=ORF%20type%3Acomplete%20len%3A147%20%28-%29
+Procl2_EVm000215t1:84-7202	transdecoder	mRNA	1	7119	.	-	.	ID=Procl2_EVm000215t1:84-7202.p2;Parent=GENE.Procl2_EVm000215t1:84-7202~~Procl2_EVm000215t1:84-7202.p2;Name=ORF%20type%3Acomplete%20len%3A147%20%28-%29
+Procl2_EVm000215t1:84-7202	transdecoder	five_prime_UTR	6613	7119	.	-	.	ID=Procl2_EVm000215t1:84-7202.p2.utr5p1;Parent=Procl2_EVm000215t1:84-7202.p2
+Procl2_EVm000215t1:84-7202	transdecoder	exon	1	7119	.	-	.	ID=Procl2_EVm000215t1:84-7202.p2.exon1;Parent=Procl2_EVm000215t1:84-7202.p2
+Procl2_EVm000215t1:84-7202	transdecoder	CDS	6172	6612	.	-	0	ID=cds.Procl2_EVm000215t1:84-7202.p2;Parent=Procl2_EVm000215t1:84-7202.p2
+Procl2_EVm000215t1:84-7202	transdecoder	three_prime_UTR	1	6171	.	-	.	ID=Procl2_EVm000215t1:84-7202.p2.utr3p1;Parent=Procl2_EVm000215t1:84-7202.p2
+
+Procl2_EVm000215t1:84-7202	transdecoder	gene	1	7119	.	-	.	ID=GENE.Procl2_EVm000215t1:84-7202~~Procl2_EVm000215t1:84-7202.p3;Name=ORF%20type%3Acomplete%20len%3A144%20%28-%29
+Procl2_EVm000215t1:84-7202	transdecoder	mRNA	1	7119	.	-	.	ID=Procl2_EVm000215t1:84-7202.p3;Parent=GENE.Procl2_EVm000215t1:84-7202~~Procl2_EVm000215t1:84-7202.p3;Name=ORF%20type%3Acomplete%20len%3A144%20%28-%29
+Procl2_EVm000215t1:84-7202	transdecoder	five_prime_UTR	3927	7119	.	-	.	ID=Procl2_EVm000215t1:84-7202.p3.utr5p1;Parent=Procl2_EVm000215t1:84-7202.p3
+Procl2_EVm000215t1:84-7202	transdecoder	exon	1	7119	.	-	.	ID=Procl2_EVm000215t1:84-7202.p3.exon1;Parent=Procl2_EVm000215t1:84-7202.p3
+Procl2_EVm000215t1:84-7202	transdecoder	CDS	3495	3926	.	-	0	ID=cds.Procl2_EVm000215t1:84-7202.p3;Parent=Procl2_EVm000215t1:84-7202.p3
+Procl2_EVm000215t1:84-7202	transdecoder	three_prime_UTR	1	3494	.	-	.	ID=Procl2_EVm000215t1:84-7202.p3.utr3p1;Parent=Procl2_EVm000215t1:84-7202.p3
+
+Procl2_EVm000215t1:84-7202	transdecoder	gene	1	7119	.	+	.	ID=GENE.Procl2_EVm000215t1:84-7202~~Procl2_EVm000215t1:84-7202.p4;Name=ORF%20type%3A5prime_partial%20len%3A131%20%28%2B%29
+Procl2_EVm000215t1:84-7202	transdecoder	mRNA	1	7119	.	+	.	ID=Procl2_EVm000215t1:84-7202.p4;Parent=GENE.Procl2_EVm000215t1:84-7202~~Procl2_EVm000215t1:84-7202.p4;Name=ORF%20type%3A5prime_partial%20len%3A131%20%28%2B%29
+Procl2_EVm000215t1:84-7202	transdecoder	exon	1	7119	.	+	.	ID=Procl2_EVm000215t1:84-7202.p4.exon1;Parent=Procl2_EVm000215t1:84-7202.p4
+Procl2_EVm000215t1:84-7202	transdecoder	CDS	2	394	.	+	0	ID=cds.Procl2_EVm000215t1:84-7202.p4;Parent=Procl2_EVm000215t1:84-7202.p4;5_prime_partial=true
+Procl2_EVm000215t1:84-7202	transdecoder	three_prime_UTR	395	7119	.	+	.	ID=Procl2_EVm000215t1:84-7202.p4.utr3p1;Parent=Procl2_EVm000215t1:84-7202.p4
+
+Procl2_EVm000215t1:84-7202	transdecoder	gene	1	7119	.	-	.	ID=GENE.Procl2_EVm000215t1:84-7202~~Procl2_EVm000215t1:84-7202.p5;Name=ORF%20type%3A3prime_partial%20len%3A113%20%28-%29
+Procl2_EVm000215t1:84-7202	transdecoder	mRNA	1	7119	.	-	.	ID=Procl2_EVm000215t1:84-7202.p5;Parent=GENE.Procl2_EVm000215t1:84-7202~~Procl2_EVm000215t1:84-7202.p5;Name=ORF%20type%3A3prime_partial%20len%3A113%20%28-%29
+Procl2_EVm000215t1:84-7202	transdecoder	five_prime_UTR	337	7119	.	-	.	ID=Procl2_EVm000215t1:84-7202.p5.utr5p1;Parent=Procl2_EVm000215t1:84-7202.p5
+Procl2_EVm000215t1:84-7202	transdecoder	exon	1	7119	.	-	.	ID=Procl2_EVm000215t1:84-7202.p5.exon1;Parent=Procl2_EVm000215t1:84-7202.p5
+Procl2_EVm000215t1:84-7202	transdecoder	CDS	1	336	.	-	0	ID=cds.Procl2_EVm000215t1:84-7202.p5;Parent=Procl2_EVm000215t1:84-7202.p5;3_prime_partial=true
+
+Procl2_EVm001047t1:370-4002	transdecoder	gene	1	3633	.	+	.	ID=GENE.Procl2_EVm001047t1:370-4002~~Procl2_EVm001047t1:370-4002.p1;Name=ORF%20type%3A3prime_partial%20len%3A1212%20%28%2B%29
+Procl2_EVm001047t1:370-4002	transdecoder	mRNA	1	3633	.	+	.	ID=Procl2_EVm001047t1:370-4002.p1;Parent=GENE.Procl2_EVm001047t1:370-4002~~Procl2_EVm001047t1:370-4002.p1;Name=ORF%20type%3A3prime_partial%20len%3A1212%20%28%2B%29
+Procl2_EVm001047t1:370-4002	transdecoder	exon	1	3633	.	+	.	ID=Procl2_EVm001047t1:370-4002.p1.exon1;Parent=Procl2_EVm001047t1:370-4002.p1
+Procl2_EVm001047t1:370-4002	transdecoder	CDS	1	3633	.	+	0	ID=cds.Procl2_EVm001047t1:370-4002.p1;Parent=Procl2_EVm001047t1:370-4002.p1;3_prime_partial=true
+
+Procl2_EVm001217t1:294-3614	transdecoder	gene	1	3321	.	+	.	ID=GENE.Procl2_EVm001217t1:294-3614~~Procl2_EVm001217t1:294-3614.p1;Name=ORF%20type%3Ainternal%20len%3A1108%20%28%2B%29
+Procl2_EVm001217t1:294-3614	transdecoder	mRNA	1	3321	.	+	.	ID=Procl2_EVm001217t1:294-3614.p1;Parent=GENE.Procl2_EVm001217t1:294-3614~~Procl2_EVm001217t1:294-3614.p1;Name=ORF%20type%3Ainternal%20len%3A1108%20%28%2B%29
+Procl2_EVm001217t1:294-3614	transdecoder	exon	1	3321	.	+	.	ID=Procl2_EVm001217t1:294-3614.p1.exon1;Parent=Procl2_EVm001217t1:294-3614.p1
+Procl2_EVm001217t1:294-3614	transdecoder	CDS	1	3321	.	+	0	ID=cds.Procl2_EVm001217t1:294-3614.p1;Parent=Procl2_EVm001217t1:294-3614.p1;5_prime_partial=true;3_prime_partial=true
+
+Procl2_EVm001217t1:294-3614	transdecoder	gene	1	3321	.	-	.	ID=GENE.Procl2_EVm001217t1:294-3614~~Procl2_EVm001217t1:294-3614.p2;Name=ORF%20type%3Acomplete%20len%3A127%20%28-%29
+Procl2_EVm001217t1:294-3614	transdecoder	mRNA	1	3321	.	-	.	ID=Procl2_EVm001217t1:294-3614.p2;Parent=GENE.Procl2_EVm001217t1:294-3614~~Procl2_EVm001217t1:294-3614.p2;Name=ORF%20type%3Acomplete%20len%3A127%20%28-%29
+Procl2_EVm001217t1:294-3614	transdecoder	five_prime_UTR	1845	3321	.	-	.	ID=Procl2_EVm001217t1:294-3614.p2.utr5p1;Parent=Procl2_EVm001217t1:294-3614.p2
+Procl2_EVm001217t1:294-3614	transdecoder	exon	1	3321	.	-	.	ID=Procl2_EVm001217t1:294-3614.p2.exon1;Parent=Procl2_EVm001217t1:294-3614.p2
+Procl2_EVm001217t1:294-3614	transdecoder	CDS	1464	1844	.	-	0	ID=cds.Procl2_EVm001217t1:294-3614.p2;Parent=Procl2_EVm001217t1:294-3614.p2
+Procl2_EVm001217t1:294-3614	transdecoder	three_prime_UTR	1	1463	.	-	.	ID=Procl2_EVm001217t1:294-3614.p2.utr3p1;Parent=Procl2_EVm001217t1:294-3614.p2
+
+Procl2_EVm001479t1:94-3492	transdecoder	gene	1	3399	.	+	.	ID=GENE.Procl2_EVm001479t1:94-3492~~Procl2_EVm001479t1:94-3492.p1;Name=ORF%20type%3Ainternal%20len%3A1134%20%28%2B%29
+Procl2_EVm001479t1:94-3492	transdecoder	mRNA	1	3399	.	+	.	ID=Procl2_EVm001479t1:94-3492.p1;Parent=GENE.Procl2_EVm001479t1:94-3492~~Procl2_EVm001479t1:94-3492.p1;Name=ORF%20type%3Ainternal%20len%3A1134%20%28%2B%29
+Procl2_EVm001479t1:94-3492	transdecoder	exon	1	3399	.	+	.	ID=Procl2_EVm001479t1:94-3492.p1.exon1;Parent=Procl2_EVm001479t1:94-3492.p1
+Procl2_EVm001479t1:94-3492	transdecoder	CDS	1	3399	.	+	0	ID=cds.Procl2_EVm001479t1:94-3492.p1;Parent=Procl2_EVm001479t1:94-3492.p1;5_prime_partial=true;3_prime_partial=true
+
+Procl2_EVm001479t1:94-3492	transdecoder	gene	1	3399	.	-	.	ID=GENE.Procl2_EVm001479t1:94-3492~~Procl2_EVm001479t1:94-3492.p2;Name=ORF%20type%3Acomplete%20len%3A101%20%28-%29
+Procl2_EVm001479t1:94-3492	transdecoder	mRNA	1	3399	.	-	.	ID=Procl2_EVm001479t1:94-3492.p2;Parent=GENE.Procl2_EVm001479t1:94-3492~~Procl2_EVm001479t1:94-3492.p2;Name=ORF%20type%3Acomplete%20len%3A101%20%28-%29
+Procl2_EVm001479t1:94-3492	transdecoder	five_prime_UTR	3041	3399	.	-	.	ID=Procl2_EVm001479t1:94-3492.p2.utr5p1;Parent=Procl2_EVm001479t1:94-3492.p2
+Procl2_EVm001479t1:94-3492	transdecoder	exon	1	3399	.	-	.	ID=Procl2_EVm001479t1:94-3492.p2.exon1;Parent=Procl2_EVm001479t1:94-3492.p2
+Procl2_EVm001479t1:94-3492	transdecoder	CDS	2738	3040	.	-	0	ID=cds.Procl2_EVm001479t1:94-3492.p2;Parent=Procl2_EVm001479t1:94-3492.p2
+Procl2_EVm001479t1:94-3492	transdecoder	three_prime_UTR	1	2737	.	-	.	ID=Procl2_EVm001479t1:94-3492.p2.utr3p1;Parent=Procl2_EVm001479t1:94-3492.p2
+
+Procl2_EVm000891t1:199-4410	transdecoder	gene	1	4212	.	+	.	ID=GENE.Procl2_EVm000891t1:199-4410~~Procl2_EVm000891t1:199-4410.p1;Name=ORF%20type%3A3prime_partial%20len%3A1405%20%28%2B%29
+Procl2_EVm000891t1:199-4410	transdecoder	mRNA	1	4212	.	+	.	ID=Procl2_EVm000891t1:199-4410.p1;Parent=GENE.Procl2_EVm000891t1:199-4410~~Procl2_EVm000891t1:199-4410.p1;Name=ORF%20type%3A3prime_partial%20len%3A1405%20%28%2B%29
+Procl2_EVm000891t1:199-4410	transdecoder	exon	1	4212	.	+	.	ID=Procl2_EVm000891t1:199-4410.p1.exon1;Parent=Procl2_EVm000891t1:199-4410.p1
+Procl2_EVm000891t1:199-4410	transdecoder	CDS	1	4212	.	+	0	ID=cds.Procl2_EVm000891t1:199-4410.p1;Parent=Procl2_EVm000891t1:199-4410.p1;3_prime_partial=true
+
+Procl2_EVm000865t1:159-4385	transdecoder	gene	1	4227	.	+	.	ID=GENE.Procl2_EVm000865t1:159-4385~~Procl2_EVm000865t1:159-4385.p1;Name=ORF%20type%3A3prime_partial%20len%3A1410%20%28%2B%29
+Procl2_EVm000865t1:159-4385	transdecoder	mRNA	1	4227	.	+	.	ID=Procl2_EVm000865t1:159-4385.p1;Parent=GENE.Procl2_EVm000865t1:159-4385~~Procl2_EVm000865t1:159-4385.p1;Name=ORF%20type%3A3prime_partial%20len%3A1410%20%28%2B%29
+Procl2_EVm000865t1:159-4385	transdecoder	exon	1	4227	.	+	.	ID=Procl2_EVm000865t1:159-4385.p1.exon1;Parent=Procl2_EVm000865t1:159-4385.p1
+Procl2_EVm000865t1:159-4385	transdecoder	CDS	1	4227	.	+	0	ID=cds.Procl2_EVm000865t1:159-4385.p1;Parent=Procl2_EVm000865t1:159-4385.p1;3_prime_partial=true
+
+Procl2_EVm001931t1:37-3018	transdecoder	gene	1	2982	.	+	.	ID=GENE.Procl2_EVm001931t1:37-3018~~Procl2_EVm001931t1:37-3018.p1;Name=ORF%20type%3A3prime_partial%20len%3A995%20%28%2B%29
+Procl2_EVm001931t1:37-3018	transdecoder	mRNA	1	2982	.	+	.	ID=Procl2_EVm001931t1:37-3018.p1;Parent=GENE.Procl2_EVm001931t1:37-3018~~Procl2_EVm001931t1:37-3018.p1;Name=ORF%20type%3A3prime_partial%20len%3A995%20%28%2B%29
+Procl2_EVm001931t1:37-3018	transdecoder	exon	1	2982	.	+	.	ID=Procl2_EVm001931t1:37-3018.p1.exon1;Parent=Procl2_EVm001931t1:37-3018.p1
+Procl2_EVm001931t1:37-3018	transdecoder	CDS	1	2982	.	+	0	ID=cds.Procl2_EVm001931t1:37-3018.p1;Parent=Procl2_EVm001931t1:37-3018.p1;3_prime_partial=true
+
+Procl2_EVm001931t1:37-3018	transdecoder	gene	1	2982	.	-	.	ID=GENE.Procl2_EVm001931t1:37-3018~~Procl2_EVm001931t1:37-3018.p2;Name=ORF%20type%3Acomplete%20len%3A100%20%28-%29
+Procl2_EVm001931t1:37-3018	transdecoder	mRNA	1	2982	.	-	.	ID=Procl2_EVm001931t1:37-3018.p2;Parent=GENE.Procl2_EVm001931t1:37-3018~~Procl2_EVm001931t1:37-3018.p2;Name=ORF%20type%3Acomplete%20len%3A100%20%28-%29
+Procl2_EVm001931t1:37-3018	transdecoder	five_prime_UTR	2802	2982	.	-	.	ID=Procl2_EVm001931t1:37-3018.p2.utr5p1;Parent=Procl2_EVm001931t1:37-3018.p2
+Procl2_EVm001931t1:37-3018	transdecoder	exon	1	2982	.	-	.	ID=Procl2_EVm001931t1:37-3018.p2.exon1;Parent=Procl2_EVm001931t1:37-3018.p2
+Procl2_EVm001931t1:37-3018	transdecoder	CDS	2502	2801	.	-	0	ID=cds.Procl2_EVm001931t1:37-3018.p2;Parent=Procl2_EVm001931t1:37-3018.p2
+Procl2_EVm001931t1:37-3018	transdecoder	three_prime_UTR	1	2501	.	-	.	ID=Procl2_EVm001931t1:37-3018.p2.utr3p1;Parent=Procl2_EVm001931t1:37-3018.p2
+
+Procl2_EVm001410t1:201-3665	transdecoder	gene	1	3465	.	+	.	ID=GENE.Procl2_EVm001410t1:201-3665~~Procl2_EVm001410t1:201-3665.p1;Name=ORF%20type%3Ainternal%20len%3A1156%20%28%2B%29
+Procl2_EVm001410t1:201-3665	transdecoder	mRNA	1	3465	.	+	.	ID=Procl2_EVm001410t1:201-3665.p1;Parent=GENE.Procl2_EVm001410t1:201-3665~~Procl2_EVm001410t1:201-3665.p1;Name=ORF%20type%3Ainternal%20len%3A1156%20%28%2B%29
+Procl2_EVm001410t1:201-3665	transdecoder	exon	1	3465	.	+	.	ID=Procl2_EVm001410t1:201-3665.p1.exon1;Parent=Procl2_EVm001410t1:201-3665.p1
+Procl2_EVm001410t1:201-3665	transdecoder	CDS	1	3465	.	+	0	ID=cds.Procl2_EVm001410t1:201-3665.p1;Parent=Procl2_EVm001410t1:201-3665.p1;5_prime_partial=true;3_prime_partial=true
+
+Procl2_EVm002098t1:172-3030	transdecoder	gene	1	2859	.	+	.	ID=GENE.Procl2_EVm002098t1:172-3030~~Procl2_EVm002098t1:172-3030.p1;Name=ORF%20type%3Ainternal%20len%3A954%20%28%2B%29
+Procl2_EVm002098t1:172-3030	transdecoder	mRNA	1	2859	.	+	.	ID=Procl2_EVm002098t1:172-3030.p1;Parent=GENE.Procl2_EVm002098t1:172-3030~~Procl2_EVm002098t1:172-3030.p1;Name=ORF%20type%3Ainternal%20len%3A954%20%28%2B%29
+Procl2_EVm002098t1:172-3030	transdecoder	exon	1	2859	.	+	.	ID=Procl2_EVm002098t1:172-3030.p1.exon1;Parent=Procl2_EVm002098t1:172-3030.p1
+Procl2_EVm002098t1:172-3030	transdecoder	CDS	1	2859	.	+	0	ID=cds.Procl2_EVm002098t1:172-3030.p1;Parent=Procl2_EVm002098t1:172-3030.p1;5_prime_partial=true;3_prime_partial=true
+
