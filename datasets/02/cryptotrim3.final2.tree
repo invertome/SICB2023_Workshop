@@ -1,0 +1,499 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=397;
+	taxlabels
+	'Acanthephyra purpurea EVm001571t1'
+	'Acanthephyra stylorostrata EVm002622t1'
+	'Acanthephyra stylorostrata EVm009341t1'
+	'Acanthephyra stylorostrata EVm014457t1'
+	'Acartia fossae EVm001108t1'
+	'Acartia fossae EVm001108t3'
+	'Acartia fossae EVm006511t3'
+	'Acartia fossae EVm006623t4'
+	'Acartia fossae EVm007179t1'
+	'Acartia fossae EVm007179t3'
+	'Acartia fossae EVm007678t1'
+	'Acartia fossae EVm019334t1'
+	'Acartia fossae EVm019334t2'
+	'Acartia fossae EVm019334t4'
+	'Acartia fossae EVm025496t1'
+	'Acartia fossae EVm027859t1'
+	'Alpheus viridari EVm002885t1'
+	'Alpheus viridari EVm003055t1'
+	'Amphibalanus amphitrite EVm003784t1'
+	'Amphibalanus amphitrite EVm004375t1'
+	'Amphibalanus amphitrite EVm004375t2'
+	'Amphibalanus amphitrite EVm004375t5'
+	'Amphibalanus amphitrite EVm004613t1'
+	'Amphibalanus amphitrite EVm004613t2'
+	'Amphibalanus amphitrite EVm007786t1'
+	'Anatolikos japonicus EVm001619t1'
+	'Anatolikos japonicus EVm003249t1'
+	'Anatolikos japonicus EVm003249t2'
+	'Anatolikos japonicus EVm006271t1'
+	Anopheles_gambiae
+	Anopheles_gambiae__CRY1
+	Anopheles_gambiae__CRY2
+	Antheraea_pernyi__CRY1
+	Apis_mellifera
+	Apis_mellifera__CRY2
+	'Asellus aquaticus CEVm004756t1'
+	'Asellus aquaticus SEVm004548t1'
+	'Baikalogammarus pullus EVm002366t1'
+	'Bathypalaemonella serratipalma EVm001564t1'
+	'Bathypalaemonella serratipalma EVm001872t1'
+	'Bathypalaemonella serratipalma EVm001872t3'
+	'Bathypalaemonella texana EVm002328t1'
+	'Bathypalaemonella texana EVm002754t1'
+	'Bathypalaemonella texana EVm002754t2'
+	'Blatella germanica EVm003815t1'
+	'Blatella germanica EVm003815t2'
+	'Blatella germanica EVm004634t1'
+	'Blatella germanica EVm005419t1'
+	'Bombyx mori EVm001312t1'
+	'Bombyx mori EVm001994t1'
+	'Bombyx mori EVm002757t1'
+	'Bombyx mori EVm005983t1'
+	Bombyx_mori
+	'Branchinella herrodi EVm001255t3'
+	'Branchinella herrodi EVm002043t1'
+	'Calanus finmarchicus EVm019369t2'
+	'Calanus finmarchicus EVm019369t3'
+	'Calanus finmarchicus EVm019369t4'
+	'Calanus sinicus EVm000917t1'
+	'Calanus sinicus EVm000917t3'
+	'Calanus sinicus EVm002225t1'
+	'Calanus sinicus EVm002225t3'
+	'Calanus sinicus EVm002431t1'
+	'Calanus sinicus EVm005316t2'
+	'Calanus sinicus EVm005316t4'
+	'Calanus sinicus EVm009086t1'
+	'Calanus sinicus EVm010454t1'
+	'Calappa philargius EVm000965t1'
+	'Calappa philargius EVm000986t1'
+	'Calappa philargius EVm001118t1'
+	'Calappa philargius EVm007120t1'
+	'Callinectes sapidus 1 EVm004950t1'
+	'Callinectes sapidus 1 EVm005075t1'
+	'Callinectes sapidus 1 EVm005326t1'
+	'Callinectes sapidus 1 EVm005559t1'
+	'Callinectes sapidus 1 EVm005699t1'
+	'Callinectes sapidus 2 EVm002816t1'
+	'Callinectes sapidus 2 EVm003051t1'
+	'Callinectes sapidus 2 EVm003211t1'
+	'Callinectes sapidus 2 EVm003211t3'
+	'Callinectes sapidus 2 EVm004298t1'
+	'Callinectes sapidus 2 EVm004298t2'
+	'Callinectes sapidus 2 EVm007197t1'
+	'Callinectes sapidus 2 EVm008151t1'
+	'Cancer borealis EVm003648t1'
+	'Cancer borealis EVm004157t1'
+	'Cancer borealis EVm005283t1'
+	'Cancer borealis EVm005622t1'
+	'Cancer borealis EVm009559t1'
+	'Carcinoplax longimanus EVm001376t1'
+	'Carcinus maenas CNS EVm004895t1'
+	'Carcinus maenas CNS EVm004895t2'
+	'Carcinus maenas CNS EVm005217t1'
+	'Carcinus maenas CNS EVm005386t1'
+	'Carcinus maenas CNS EVm005814t1'
+	'Carcinus maenas CNS EVm005814t2'
+	'Carcinus maenas CNS EVm006252t1'
+	'Carcinus maenas Y EVm004379t1'
+	'Carcinus maenas Y EVm004379t2'
+	'Carcinus maenas Y EVm004718t1'
+	'Carcinus maenas Y EVm004854t1'
+	'Carcinus maenas Y EVm004854t2'
+	'Carcinus maenas Y EVm005238t1'
+	'Carcinus maenas Y EVm005238t3'
+	'Carcinus maenas Y EVm005238t4'
+	'Carcinus maenas Y EVm005238t5'
+	'Carcinus maenas Y EVm005666t1'
+	'Cherax quadricarinatus EVm009850t1'
+	'Cherax quadricarinatus EVm009935t1'
+	'Clibanarius antillensis EVm002153t1'
+	'Clibanarius antillensis EVm002188t1'
+	'Clibanarius antillensis EVm002493t1'
+	'Clibanarius antillensis EVm002792t1'
+	'Clibanarius antillensis EVm009542t1'
+	'Clibanarius tricolor EVm001768t1'
+	'Clibanarius tricolor EVm001960t1'
+	'Clibanarius tricolor EVm002248t1'
+	'Clibanarius tricolor EVm005338t1'
+	'Clibanarius tricolor EVm007964t1'
+	'Clibanarius vittatus EVm001616t1'
+	'Clibanarius vittatus EVm001792t1'
+	'Clibanarius vittatus EVm002971t1'
+	'Clibanarius vittatus EVm003270t1'
+	'Coenobita clypeata EVm000924t1'
+	'Coenobita clypeata EVm000951t1'
+	'Coenobita clypeata EVm001142t1'
+	'Cuapetes americanus EVm002275t1'
+	'Cuapetes americanus EVm002298t1'
+	'Cuapetes americanus EVm003650t1'
+	Danaus_plexippus
+	Danaus_plexippus__CRY2
+	'Daphnia magna EVm003288t1'
+	'Daphnia magna EVm003288t2'
+	'Daphnia magna EVm003288t3'
+	'Daphnia magna EVm003288t4'
+	'Daphnia magna EVm003288t5'
+	'Daphnia magna EVm003288t6'
+	'Daphnia magna EVm003288t7'
+	'Daphnia magna EVm003288t8'
+	'Daphnia magna EVm004349t1'
+	'Daphnia magna EVm004349t12'
+	'Daphnia magna EVm004349t13'
+	'Daphnia magna EVm004349t14'
+	'Daphnia magna EVm004349t17'
+	'Daphnia magna EVm004349t18'
+	'Daphnia magna EVm004349t2'
+	'Daphnia magna EVm004349t4'
+	'Daphnia magna EVm004349t5'
+	'Daphnia magna EVm004349t6'
+	'Daphnia magna EVm004349t8'
+	'Daphnia magna EVm004349t9'
+	'Daphnia magna EVm004691t1'
+	'Daphnia magna EVm004691t2'
+	'Daphnia magna EVm004691t3'
+	'Daphnia magna EVm004691t4'
+	'Daphnia magna EVm004823t10'
+	'Daphnia magna EVm004823t11'
+	'Daphnia magna EVm004823t2'
+	'Daphnia magna EVm004823t3'
+	'Daphnia magna EVm004823t4'
+	'Daphnia magna EVm004823t8'
+	'Daphnia magna EVm004823t9'
+	'Daphnia magna EVm005335t1'
+	'Daphnia magna EVm005335t3'
+	'Drosophila melanogaster EVm003433t1'
+	'Drosophila melanogaster EVm003456t1'
+	'Drosophila melanogaster EVm003456t2'
+	'Drosophila melanogaster EVm003519t1'
+	Drosophila_melanogaster__CRY1
+	'Drosophila_melanogaster__Photolyase.1'
+	'Drosophila_melanogaster__Photolyase.2'
+	'Echinogammarus veneris EVm001444t1'
+	'Echinogammarus veneris EVm001444t3'
+	'Emerita talpoidea EVm003303t1'
+	'Eotetranychus kankitus EVm002427t1'
+	'Eotetranychus kankitus EVm002430t1'
+	'Eriocheir sinensis EVm004229t1'
+	'Eriocheir sinensis EVm004798t1'
+	'Eriocheir sinensis EVm004932t1'
+	'Eriocheir sinensis EVm004932t2'
+	'Eriocheir sinensis EVm004932t4'
+	'Eriocheir sinensis EVm004997t3'
+	'Eriocheir sinensis EVm011711t1'
+	'Eucyclops serrulatus EVm002150t1'
+	'Eucyclops serrulatus EVm004267t1'
+	'Eucyclops serrulatus EVm004272t1'
+	'Eucyclops serrulatus EVm005037t1'
+	'Eucyclops serrulatus EVm011429t1'
+	'Eucyclops serrulatus EVm011429t2'
+	'Eulimnogammarus cruentus EVm001055t1'
+	'Eulimnogammarus viridulus EVm002836t1'
+	'Euphausia superba EVm003151t1'
+	'Euphausia superba EVm003477t1'
+	'Euphausia superba EVm003477t2'
+	'Euphausia superba EVm003662t1'
+	'Euphausia superba EVm003733t1'
+	'Euphausia superba EVm006517t1'
+	'Euphausia superba EVm006517t2'
+	'Eurytemora affinis EVm002728t1'
+	'Eurytemora affinis EVm004226t1'
+	'Eurytemora affinis EVm006018t1'
+	'Eurytemora affinis EVm006095t1'
+	'Eurytemora affinis EVm006095t2'
+	'Eurytemora affinis EVm006095t3'
+	'Eurytemora affinis EVm006596t1'
+	'Eurytemora affinis EVm006840t1'
+	'Gammarus chevreuxi EVm003417t1'
+	'Gecarcinus lateralis YEVm004177t1'
+	'Gecarcinus lateralis YEVm004515t1'
+	'Gecarcinus lateralis YEVm004717t1'
+	'Gecarcinus lateralis YEVm004717t2'
+	'Gecarcinus lateralis YEVm004844t1'
+	'Gecarcinus lateralis YEVm004913t1'
+	'Gecarcinus lateralis YEVm004913t2'
+	'Glyphocrangon aculeata EVm002086t1'
+	'Glyphocrangon aculeata EVm002086t2'
+	'Glyphocrangon aculeata EVm002461t1'
+	'Gmelinoides fasciatus EVm002191t1'
+	'Halocaridinides trigonophthalma EVm002589t1'
+	'Halocaridinides trigonophthalma EVm002589t2'
+	'Heterocarpus oryx EVm001768t1'
+	'Heterocarpus oryx EVm009800t1'
+	'Homarus americanus EVm004924t1'
+	'Homarus americanus EVm005056t1'
+	'Homarus americanus EVm005068t1'
+	'Homarus americanus EVm005232t1'
+	'Homarus americanus EVm005330t1'
+	'Hyalella azteca EVm009596t1'
+	'Hyalellopsis carinata EVm001918t1'
+	'Hyalellopsis setosa EVm001853t1'
+	'Hyalellopsis setosa EVm001853t2'
+	'Hyalellopsis setosa EVm001853t3'
+	'Hyalellopsis setosa EVm001853t5'
+	'Hyalellopsis stebbingi EVm002495t1'
+	'Hyalellopsis stebbingi EVm002495t2'
+	'Hypsibius dujardini EVm007054t1'
+	'Janicella spinicauda EVm001301t1'
+	'Lepeophtheirus salmonis EVm003727t1'
+	'Lepeophtheirus salmonis EVm003727t2'
+	'Lepeophtheirus salmonis EVm004211t1'
+	'Leptotrombidium pallidum EVm004148t1'
+	'Leptuca pugilator EVm004664t1'
+	'Leptuca pugilator EVm004779t1'
+	'Leptuca pugilator EVm004964t1'
+	'Leptuca pugilator EVm004964t2'
+	'Leptuca pugilator EVm005162t1'
+	'Leptuca pugilator EVm005162t2'
+	'Leptuca pugilator EVm005273t1'
+	'Lernaea cyprinacea EVm003861t1'
+	'Lernaea cyprinacea EVm003861t2'
+	'Lernaea cyprinacea EVm003861t3'
+	'Lernaea cyprinacea EVm003861t4'
+	'Lernaea cyprinacea EVm005523t2'
+	'Lernaea cyprinacea EVm005523t3'
+	'Linevichella vortex EVm000874t1'
+	'Linevichella vortex EVm000874t2'
+	'Linevichella vortex EVm000874t5'
+	'Litopenaeus vannamei EVm002202t1'
+	'Litopenaeus vannamei EVm002202t2'
+	'Litopenaeus vannamei EVm002607t1'
+	'Litopenaeus vannamei EVm005616t1'
+	'Litopenaeus vannamei EVm006091t1'
+	'Litopenaeus vannamei EVm006091t2'
+	'Litopenaeus vannamei EVm006407t1'
+	'Litopenaeus vannamei EVm008824t1'
+	'Litopenaeus vannamei EVm009734t1'
+	'Lysmata amboinensis EVm001747t1'
+	'Lysmata amboinensis EVm001809t1'
+	'Lysmata amboinensis EVm003680t1'
+	'Macrobrachium rosenbergii EVm001169t1'
+	'Macrobrachium rosenbergii EVm001169t2'
+	'Macrobrachium rosenbergii EVm001411t1'
+	'Metabetaeus lohena EVm002272t1'
+	'Metabetaeus lohena EVm003671t1'
+	'Metacarcinus magister EVm002633t1'
+	'Metacarcinus magister EVm002708t1'
+	'Metacarcinus magister EVm002785t1'
+	'Metacarcinus magister EVm002955t1'
+	'Metacarcinus magister EVm002955t2'
+	'Metacarcinus magister EVm002955t3'
+	'Metacarcinus magister EVm004343t1'
+	'Micruropus wahlii EVm001346t1'
+	'Munida microphthalma EVm001630t1'
+	'Munidopsis serricornis EVm002328t1'
+	'Munidopsis serricornis EVm002328t2'
+	'Munidopsis serricornis EVm002328t4'
+	'Munidopsis serricornis EVm005145t1'
+	'Munidopsis serricornis EVm005145t2'
+	'Munidopsis serricornis EVm005145t3'
+	'Munidopsis similis EVm002303t1'
+	'Munidopsis similis EVm011378t1'
+	'Munidopsis transtridens EVm002058t1'
+	'Munidopsis transtridens EVm010376t1'
+	'Nematocarcinus ensifer EVm001277t1'
+	'Nematocarcinus rotundus EVm001391t1'
+	'Neocaridina denticulata EVm002783t1'
+	'Neocaridina denticulata EVm003719t1'
+	'Neocaridina denticulata EVm011490t1'
+	'Neomysis awatschensis EVm000525t1'
+	'Oplophorus spinosus EEVm002037t1'
+	'Oplophorus spinosus P2EVm000836t1'
+	'Oratosquilla oratoria EVm001831t1'
+	'Oratosquilla oratoria EVm001831t4'
+	'Palaemon carinicauda EVm002120t2'
+	'Palaemon carinicauda EVm003775t1'
+	'Pallaseopsis cancelloides EVm002859t1'
+	'Panulirus argus EVm003454t1'
+	'Panulirus argus EVm003643t1'
+	'Panulirus argus EVm003741t1'
+	'Panulirus argus EVm003741t2'
+	'Panulirus argus EVm003926t1'
+	'Panulirus argus EVm003965t1'
+	'Panulirus argus EVm004790t1'
+	'Panulirus argus EVm004936t1'
+	'Panulirus argus EVm005038t1'
+	'Panulirus argus EVm005149t1'
+	'Panulirus argus EVm005461t1'
+	'Paracyclopina nana EVm003287t1'
+	'Paracyclopina nana EVm004811t1'
+	'Paracyclopina nana EVm005116t1'
+	'Paracyclopina nana EVm005146t1'
+	'Paracyclopina nana EVm005585t1'
+	'Paratya australiensis EVm004652t1'
+	'Paratya australiensis EVm005034t1'
+	'Paratya australiensis EVm005195t1'
+	'Paratya australiensis EVm005816t1'
+	'Penaeus monodon 1 EVm000605t1'
+	'Penaeus monodon 1 EVm003158t1'
+	'Penaeus monodon 1 EVm004225t1'
+	'Penaeus monodon 2 EVm003673t1'
+	'Penaeus monodon 2 EVm004578t1'
+	'Penaeus monodon 2 EVm005013t1'
+	'Plesionika acanthonotus EVm002951t1'
+	'Plesionika acanthonotus EVm003735t1'
+	'Plesionika acanthonotus EVm004483t1'
+	'Plesionika acanthonotus EVm004483t3'
+	'Plesionika acanthonotus EVm004483t4'
+	'Plesionika acanthonotus EVm006586t1'
+	'Plesionika acanthonotus EVm009660t1'
+	'Portunus trituberculatus EVm001457t1'
+	'Portunus trituberculatus EVm006435t1'
+	'Portunus trituberculatus EVm007525t1'
+	'Proasellus aragonensis EVm001504t1'
+	'Proasellus aragonensis EVm001504t2'
+	'Proasellus aragonensis EVm001504t3'
+	'Proasellus beticus EVm004439t1'
+	'Proasellus coxalis EVm001494t1'
+	'Proasellus escolai EVm005622t1'
+	'Proasellus granadensis EVm003899t1'
+	'Proasellus ibericus EVm004667t1'
+	'Proasellus ibericus EVm005606t1'
+	'Proasellus jaloniacus EVm001365t1'
+	'Proasellus karamani EVm002962t1'
+	'Proasellus karamani EVm002962t2'
+	'Proasellus karamani EVm005005t1'
+	'Proasellus karamani EVm005005t2'
+	'Proasellus karamani EVm005005t3'
+	'Proasellus meridianus EVm007194t1'
+	'Proasellus rectus EVm002016t1'
+	'Procambarus clarkii 1EVm003532t1'
+	'Procambarus clarkii 1EVm006815t1'
+	'Procambarus clarkii 1EVm008659t1'
+	'Procambarus clarkii 2EVm005280t1'
+	'Procambarus clarkii 2EVm006021t1'
+	'Ramazzottius varieornatus EVm003049t1'
+	'Ranina ranina EVm000664t1'
+	'Ranina ranina EVm000813t1'
+	'Scylla paramamosain EVm002866t1'
+	'Scylla paramamosain EVm002934t1'
+	'Scylla paramamosain EVm003286t1'
+	Strongylocentrotus_purpuratus__CRY-DASH
+	Strongylocentrotus_purpuratus__CRY1
+	Strongylocentrotus_purpuratus__CRY2
+	'Stylopandalus richardi EVm002976t1'
+	'Stylopandalus richardi EVm003037t1'
+	'Stylopandalus richardi EVm003503t1'
+	'Stylopandalus richardi EVm008785t1'
+	'Stylopandalus richardi EVm010219t1'
+	'Systellapssis debilis P EVm001950t1'
+	'Systellapssis debilis P EVm001950t2'
+	'Systellaspsis debilis E EVm001868t1'
+	'Thor dobkini EVm002400t1'
+	'Thor dobkini EVm002400t2'
+	'Thor dobkini EVm002599t1'
+	'Thor dobkini EVm002882t1'
+	'Thor dobkini EVm006550t1'
+	'Thor dobkini EVm007749t1'
+	'Thysanoessa inermis EVm005511t1'
+	'Thysanoessa inermis EVm005762t1'
+	'Thysanoessa inermis EVm005762t2'
+	'Thysanoessa inermis EVm006019t1'
+	'Thysanoessa inermis EVm006019t2'
+	'Thysanoessa inermis EVm006019t4'
+	'Thysanoessa inermis EVm006042t1'
+	'Thysanoessa inermis EVm006488t1'
+	'Uroptychus nitidus EVm001496t1'
+	'Uroptychus nitidus EVm007308t1'
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] ('Drosophila melanogaster EVm003433t1':1.0E-6,((('Blatella germanica EVm004634t1':0.621488,(((((((((('Gecarcinus lateralis YEVm004515t1':0.115682,'Eriocheir sinensis EVm011711t1':0.343882)[&label="0.832/63"]:0.055854,('Leptuca pugilator EVm004964t1':3.0E-6,'Leptuca pugilator EVm004964t2':0.0268)[&label="1/100"]:0.225558)[&label="1/90"]:0.142637,((('Calappa philargius EVm001118t1':0.164606,(('Metacarcinus magister EVm002785t1':0.039213,'Cancer borealis EVm005622t1':0.029537)[&label="0.793/60"]:0.012871,'Anatolikos japonicus EVm006271t1':0.024928)[&label="1/100"]:0.204943)[&label="0.6/40"]:0.033762,((('Carcinus maenas Y EVm005238t1':2.0E-6,'Carcinus maenas CNS EVm005814t1':2.0E-6)[&label="0.333/100"]:2.0E-6,'Carcinus maenas Y EVm005238t5':0.037684)[&label="0.333/98"]:2.0E-6,(('Carcinus maenas Y EVm005238t4':2.0E-6,'Carcinus maenas CNS EVm005814t2':2.0E-6)[&label="0.333/29"]:3.0E-6,'Carcinus maenas Y EVm005238t3':2.0E-6)[&label="1/100"]:0.118579)[&label="1/100"]:0.199987)[&label="0.927/68"]:0.031377,((('Callinectes sapidus 2 EVm003051t1':1.0E-6,'Callinectes sapidus 1 EVm005326t1':1.0E-6)[&label="1/100"]:0.049893,'Portunus trituberculatus EVm006435t1':0.097891)[&label="0.712/97"]:0.061944,'Portunus trituberculatus EVm007525t1':0.122213)[&label="0.999/83"]:0.070579)[&label="1/98"]:0.097089)[&label="0.996/71"]:0.064162,'Ranina ranina EVm000813t1':0.306141)[&label="1/97"]:0.18144,(('Clibanarius vittatus EVm001792t1':0.067964,(('Clibanarius tricolor EVm001960t1':0.021278,'Acanthephyra stylorostrata EVm009341t1':0.009948)[&label="0.349/80"]:0.005939,'Clibanarius antillensis EVm002493t1':0.018325)[&label="1/100"]:0.095616)[&label="1/99"]:0.107807,'Coenobita clypeata EVm001142t1':0.191689)[&label="1/100"]:0.225243)[&label="1/98"]:0.147232,(((((('Cuapetes americanus EVm002298t1':0.207989,('Macrobrachium rosenbergii EVm001411t1':0.036457,'Palaemon carinicauda EVm003775t1':0.165549)[&label="0.985/82"]:0.047959)[&label="1/99"]:0.123698,(('Thor dobkini EVm002599t1':0.270895,(('Stylopandalus richardi EVm003037t1':0.16205,'Plesionika acanthonotus EVm009660t1':0.181508)[&label="0.825/78"]:0.041223,'Plesionika acanthonotus EVm006586t1':0.164674)[&label="1/98"]:0.091959)[&label="0.981/65"]:0.035571,'Lysmata amboinensis EVm001809t1':0.208732)[&label="0.981/64"]:0.046344)[&label="1/86"]:0.091159,('Paratya australiensis EVm005195t1':0.272166,'Neocaridina denticulata EVm003719t1':0.160027)[&label="1/93"]:0.071418)[&label="1/99"]:0.168809,(((('Penaeus monodon 1 EVm000605t1':3.0E-6,'Penaeus monodon 2 EVm003673t1':3.0E-6)[&label="0.333/71"]:3.0E-6,'Penaeus monodon 2 EVm005013t1':2.0E-6)[&label="0.337/97"]:0.002587,'Litopenaeus vannamei EVm009734t1':0.08479)[&label="1/100"]:0.712241,('Litopenaeus vannamei EVm006091t2':3.0E-6,'Litopenaeus vannamei EVm006091t1':2.0E-6)[&label="1/100"]:0.389654)[&label="1/91"]:0.138042)[&label="0.997/86"]:0.082771,((('Thysanoessa inermis EVm006019t1':0.034225,'Thysanoessa inermis EVm006019t2':0.037748)[&label="1/100"]:0.08683,'Thysanoessa inermis EVm006019t4':0.115846)[&label="0.987/99"]:0.122908,('Euphausia superba EVm006517t1':0.033963,'Euphausia superba EVm006517t2':0.097375)[&label="1/100"]:0.196107)[&label="1/100"]:0.721845)[&label="0.71/54"]:0.096916,('Homarus americanus EVm005330t1':0.370143,('Panulirus argus EVm003643t1':1.0E-6,'Panulirus argus EVm005038t1':1.0E-6)[&label="1/100"]:0.224837)[&label="1/96"]:0.080775)[&label="1/72"]:0.124233)[&label="1/99"]:0.338009,((((((((((((((((((('Coenobita clypeata EVm000951t1':7.1E-5,('Clibanarius vittatus EVm001616t1':2.0E-6,('Clibanarius tricolor EVm001768t1':3.0E-6,'Clibanarius antillensis EVm009542t1':2.0E-6)[&label="1/98"]:0.014958)[&label="1/100"]:0.033617)[&label="1/100"]:0.060951,(('Munida microphthalma EVm001630t1':0.065928,('Munidopsis similis EVm002303t1':0.035609,('Munidopsis transtridens EVm002058t1':0.003659,('Munidopsis serricornis EVm002328t1':3.0E-6,('Munidopsis serricornis EVm002328t2':0.084393,'Munidopsis serricornis EVm002328t4':0.062207)[&label="0.333/99"]:2.0E-6)[&label="1/99"]:0.020512)[&label="1/100"]:0.032729)[&label="1/88"]:0.03516)[&label="1/92"]:0.047897,'Uroptychus nitidus EVm001496t1':0.177263)[&label="0.585/70"]:0.008649)[&label="1/100"]:0.056358,(('Anatolikos japonicus EVm001619t1':0.003637,'Metacarcinus magister EVm002633t1':0.007304)[&label="0.333/87"]:3.0E-6,'Cancer borealis EVm003648t1':0.003677)[&label="1/100"]:0.044854)[&label="0.948/77"]:0.007677,'Ranina ranina EVm000664t1':0.023372)[&label="0.999/72"]:0.007544,('Eriocheir sinensis EVm004229t1':0.022672,('Leptuca pugilator EVm004664t1':0.011194,'Gecarcinus lateralis YEVm004177t1':3.0E-6)[&label="0.971/73"]:0.003806)[&label="1/80"]:0.007505)[&label="0.615/49"]:0.003245,'Carcinoplax longimanus EVm001376t1':0.011103)[&label="0.943/74"]:0.008765,((('Calappa philargius EVm000986t1':0.034011,(('Carcinus maenas Y EVm004854t1':1.0E-6,'Carcinus maenas CNS EVm005386t1':1.0E-6)[&label="0.775/98"]:0.004983,'Carcinus maenas Y EVm004854t2':0.113466)[&label="1/95"]:0.02187)[&label="0.715/55"]:0.003553,'Scylla paramamosain EVm002866t1':2.0E-6)[&label="0.913/58"]:0.003726,(('Callinectes sapidus 2 EVm002816t1':1.0E-6,'Callinectes sapidus 1 EVm004950t1':1.0E-6)[&label="0.333/71"]:3.0E-6,'Portunus trituberculatus EVm001457t1':2.0E-6)[&label="0.999/67"]:0.003737)[&label="1/87"]:0.014821)[&label="1/98"]:0.041803,('Homarus americanus EVm005068t1':0.053895,(('Procambarus clarkii 2EVm005280t1':3.0E-6,'Procambarus clarkii 1EVm006815t1':3.0E-6)[&label="0.333/80"]:2.0E-6,'Procambarus clarkii 1EVm008659t1':2.0E-6)[&label="1/100"]:0.038053)[&label="0.988/82"]:0.019325)[&label="1/96"]:0.03498,('Panulirus argus EVm003454t1':1.0E-6,'Panulirus argus EVm004790t1':1.0E-6)[&label="1/100"]:0.062182)[&label="1/99"]:0.036766,((((((((((('Daphnia magna EVm003288t3':2.0E-6,'Daphnia magna EVm003288t4':2.0E-6)[&label="0.333/42"]:2.0E-6,'Daphnia magna EVm003288t6':2.0E-6)[&label="0.333/29"]:3.0E-6,'Daphnia magna EVm003288t1':2.0E-6)[&label="0.333/68"]:2.0E-6,'Daphnia magna EVm003288t8':0.025398)[&label="0.333/60"]:3.0E-6,'Daphnia magna EVm003288t5':2.0E-6)[&label="0.334/89"]:3.0E-6,'Daphnia magna EVm003288t7':0.043106)[&label="0.348/85"]:0.00615,'Daphnia magna EVm003288t2':0.010778)[&label="1/100"]:0.453461,((('Blatella germanica EVm003815t1':3.0E-6,'Blatella germanica EVm003815t2':2.0E-6)[&label="1/100"]:0.193628,Apis_mellifera__CRY2:0.302914)[&label="1/96"]:0.104455,((('Bombyx mori EVm001312t1':2.0E-6,Bombyx_mori:2.0E-6)[&label="1/100"]:0.238906,Danaus_plexippus__CRY2:0.221754)[&label="1/100"]:0.428984,Anopheles_gambiae__CRY2:0.355113)[&label="0.956/77"]:0.064913)[&label="1/98"]:0.131671)[&label="1/98"]:0.153382,((((('Calanus sinicus EVm000917t3':3.0E-6,'Calanus sinicus EVm000917t1':3.0E-6)[&label="1/100"]:0.369149,(('Acartia fossae EVm001108t3':3.0E-6,'Acartia fossae EVm001108t1':0.00235)[&label="1/100"]:0.106883,(('Acartia fossae EVm019334t2':2.0E-6,'Acartia fossae EVm019334t4':2.0E-6)[&label="0.333/100"]:2.0E-6,'Acartia fossae EVm019334t1':3.0E-6)[&label="0.972/100"]:0.108224)[&label="1/100"]:0.328563)[&label="1/96"]:0.17563,'Eurytemora affinis EVm002728t1':0.219028)[&label="1/100"]:0.352258,('Paracyclopina nana EVm003287t1':0.489471,('Lernaea cyprinacea EVm005523t2':0.023871,'Lernaea cyprinacea EVm005523t3':0.237603)[&label="1/100"]:0.521121)[&label="1/100"]:0.280364)[&label="1/90"]:0.131897,((((((((('Paracyclopina nana EVm005116t1':0.736521,('Eucyclops serrulatus EVm004267t1':0.061048,'Eucyclops serrulatus EVm004272t1':0.115767)[&label="1/100"]:0.582115)[&label="1/88"]:0.238539,('Calanus sinicus EVm002431t1':0.673696,('Eurytemora affinis EVm006596t1':0.465557,('Acartia fossae EVm007179t1':3.0E-6,'Acartia fossae EVm007179t3':0.039543)[&label="1/100"]:0.430842)[&label="1/100"]:0.328026)[&label="1/89"]:0.201998)[&label="0.954/61"]:0.128501,((('Litopenaeus vannamei EVm002607t1':0.576848,(('Clibanarius antillensis EVm002792t1':0.012366,'Clibanarius tricolor EVm005338t1':0.049101)[&label="1/100"]:0.360611,(('Panulirus argus EVm003926t1':6.8E-5,'Panulirus argus EVm004936t1':0.084882)[&label="1/100"]:0.343034,'Homarus americanus EVm005232t1':0.283141)[&label="1/93"]:0.09145)[&label="0.976/70"]:0.064481)[&label="0.863/59"]:0.0376,(((('Eriocheir sinensis EVm004932t1':2.0E-6,('Eriocheir sinensis EVm004932t2':0.047199,'Eriocheir sinensis EVm004932t4':3.0E-6)[&label="0.333/100"]:3.0E-6)[&label="1/100"]:0.099012,'Leptuca pugilator EVm005273t1':0.131715)[&label="0.833/58"]:0.023624,'Gecarcinus lateralis YEVm004844t1':0.10393)[&label="1/99"]:0.073169,((('Carcinus maenas Y EVm005666t1':1.0E-6,'Carcinus maenas CNS EVm006252t1':1.0E-6)[&label="1/100"]:0.098668,(('Callinectes sapidus 1 EVm005699t1':3.0E-6,'Callinectes sapidus 2 EVm004298t1':2.0E-6)[&label="0.334/100"]:4.71E-4,'Callinectes sapidus 2 EVm004298t2':0.0959)[&label="1/100"]:0.175503)[&label="1/99"]:0.090065,('Cancer borealis EVm004157t1':0.033944,'Metacarcinus magister EVm004343t1':0.120526)[&label="1/100"]:0.114099)[&label="1/100"]:0.07583)[&label="1/100"]:0.249105)[&label="1/100"]:0.199588,('Thysanoessa inermis EVm006488t1':0.268959,'Euphausia superba EVm003662t1':0.224015)[&label="1/100"]:0.506367)[&label="1/99"]:0.256973)[&label="0.837/45"]:0.136302,(((('Daphnia magna EVm004691t3':0.0,'Daphnia magna EVm004691t1':0.0):2.0E-6,'Daphnia magna EVm004691t2':2.0E-6)[&label="0.333/100"]:3.0E-6,'Daphnia magna EVm004691t4':0.060789)[&label="1/100"]:0.725736,((('Drosophila melanogaster EVm003456t1':3.0E-6,('Drosophila melanogaster EVm003456t2':0.035442,'Drosophila_melanogaster__Photolyase.1':0.012056)[&label="0.333/66"]:3.0E-6)[&label="1/100"]:0.778416,Anopheles_gambiae:0.676513)[&label="1/100"]:0.353642,'Bombyx mori EVm002757t1':1.386141)[&label="1/99"]:0.298726)[&label="1/97"]:0.24919)[&label="0.727/40"]:0.111049,'Thor dobkini EVm006550t1':0.636885)[&label="1/97"]:0.285145,Strongylocentrotus_purpuratus__CRY2:0.966353)[&label="1/100"]:0.937371,Strongylocentrotus_purpuratus__CRY1:0.802635)[&label="1/100"]:0.436398,'Eotetranychus kankitus EVm002430t1':1.045037)[&label="0.506/46"]:0.055302,'Amphibalanus amphitrite EVm007786t1':0.657653)[&label="0.999/84"]:0.115663)[&label="0.968/67"]:0.082514)[&label="1/100"]:0.318105,('Euphausia superba EVm003151t1':0.125614,('Thysanoessa inermis EVm005762t1':3.0E-6,'Thysanoessa inermis EVm005762t2':0.095168)[&label="1/100"]:0.126037)[&label="1/100"]:0.2186)[&label="0.781/60"]:0.094302,(('Oratosquilla oratoria EVm001831t1':3.0E-6,'Oratosquilla oratoria EVm001831t4':0.099892)[&label="1/100"]:0.16908,('Neomysis awatschensis EVm000525t1':0.372604,('Proasellus karamani EVm002962t1':0.002909,'Proasellus karamani EVm002962t2':0.016193)[&label="1/100"]:0.503574)[&label="0.998/87"]:0.092939)[&label="0.982/77"]:0.046359)[&label="1/100"]:0.10357)[&label="0.66/55"]:0.016171,(('Litopenaeus vannamei EVm002202t1':2.0E-6,('Litopenaeus vannamei EVm002202t2':0.020674,'Penaeus monodon 1 EVm004225t1':3.0E-6)[&label="0.333/99"]:3.0E-6)[&label="0.96/100"]:0.006633,('Penaeus monodon 1 EVm003158t1':3.0E-6,'Penaeus monodon 2 EVm004578t1':2.0E-6)[&label="0.348/95"]:0.008454)[&label="1/100"]:0.10301)[&label="1/100"]:0.06742,('Neocaridina denticulata EVm002783t1':0.060366,('Paratya australiensis EVm005034t1':0.064112,('Halocaridinides trigonophthalma EVm002589t2':3.0E-6,'Halocaridinides trigonophthalma EVm002589t1':2.0E-6)[&label="0.333/76"]:2.0E-6)[&label="0.532/48"]:0.006794)[&label="1/82"]:0.025798)[&label="1/85"]:0.021331,('Janicella spinicauda EVm001301t1':0.096336,((('Systellaspsis debilis E EVm001868t1':0.006865,'Systellapssis debilis P EVm001950t2':0.035882)[&label="0.333/54"]:2.0E-6,'Systellapssis debilis P EVm001950t1':2.0E-6)[&label="1/100"]:0.056637,('Oplophorus spinosus P2EVm000836t1':0.006254,'Oplophorus spinosus EEVm002037t1':2.0E-6)[&label="1/100"]:0.064604)[&label="1/99"]:0.054517)[&label="1/94"]:0.039094)[&label="0.648/43"]:0.006519,((('Acanthephyra purpurea EVm001571t1':0.015305,'Acanthephyra stylorostrata EVm002622t1':0.007545)[&label="1/98"]:0.020391,('Nematocarcinus rotundus EVm001391t1':2.0E-6,'Nematocarcinus ensifer EVm001277t1':2.0E-6)[&label="1/100"]:0.053023)[&label="0.904/57"]:0.0058,('Bathypalaemonella texana EVm002328t1':0.007692,'Bathypalaemonella serratipalma EVm001564t1':0.014584)[&label="1/100"]:0.071175)[&label="0.871/44"]:0.008259)[&label="1/91"]:0.023544,(((('Thor dobkini EVm002400t1':3.0E-6,'Thor dobkini EVm002400t2':0.049788)[&label="1/100"]:0.049774,'Lysmata amboinensis EVm001747t1':0.103247)[&label="0.999/83"]:0.024673,('Glyphocrangon aculeata EVm002086t1':3.0E-6,'Glyphocrangon aculeata EVm002086t2':0.043742)[&label="1/100"]:0.118042)[&label="0.745/55"]:0.010089,(('Plesionika acanthonotus EVm002951t1':0.016612,'Stylopandalus richardi EVm002976t1':0.039691)[&label="0.634/52"]:0.004005,'Heterocarpus oryx EVm001768t1':0.024623)[&label="1/81"]:0.013693)[&label="0.999/81"]:0.01475)[&label="0.99/72"]:0.015902,('Alpheus viridari EVm002885t1':0.021637,'Metabetaeus lohena EVm003671t1':0.02299)[&label="0.999/90"]:0.016035)[&label="1/95"]:0.02323,('Cuapetes americanus EVm002275t1':0.013569,('Macrobrachium rosenbergii EVm001169t1':2.0E-6,'Macrobrachium rosenbergii EVm001169t2':2.0E-6)[&label="1/96"]:0.02645)[&label="0.624/45"]:0.008964)[&label="0.333/47"]:2.0E-6,'Palaemon carinicauda EVm002120t2':0.033126)[&label="1/100"]:1.497321,(((((('Blatella germanica EVm005419t1':0.616739,((('Drosophila melanogaster EVm003519t1':2.0E-6,'Drosophila_melanogaster__Photolyase.2':2.0E-6)[&label="1/100"]:0.80572,((((((('Eulimnogammarus cruentus EVm001055t1':0.011361,('Eulimnogammarus viridulus EVm002836t1':0.004679,'Baikalogammarus pullus EVm002366t1':0.129808)[&label="0.985/71"]:0.013881)[&label="0.528/77"]:0.008889,((((('Hyalellopsis setosa EVm001853t3':3.0E-6,'Hyalellopsis setosa EVm001853t2':3.0E-6)[&label="0.333/51"]:2.0E-6,'Hyalellopsis setosa EVm001853t1':3.0E-6)[&label="0.452/63"]:0.005979,'Hyalellopsis setosa EVm001853t5':2.0E-6)[&label="1/93"]:0.021946,'Hyalellopsis carinata EVm001918t1':0.027943)[&label="0.985/79"]:0.00941,('Hyalellopsis stebbingi EVm002495t1':3.0E-6,'Hyalellopsis stebbingi EVm002495t2':2.0E-6)[&label="0.969/66"]:0.010397)[&label="1/95"]:0.023148)[&label="0.979/70"]:0.019444,'Pallaseopsis cancelloides EVm002859t1':0.056788)[&label="0.99/98"]:0.051662,(('Linevichella vortex EVm000874t1':0.014289,('Linevichella vortex EVm000874t2':0.001443,'Linevichella vortex EVm000874t5':0.046535)[&label="0.433/47"]:0.010903)[&label="1/100"]:0.071968,('Micruropus wahlii EVm001346t1':0.028298,'Gmelinoides fasciatus EVm002191t1':2.0E-6)[&label="0.999/79"]:0.020414)[&label="1/100"]:0.054236)[&label="1/99"]:0.100145,'Gammarus chevreuxi EVm003417t1':0.169434)[&label="1/97"]:0.087354,('Echinogammarus veneris EVm001444t3':0.026199,'Echinogammarus veneris EVm001444t1':0.012289)[&label="0.999/100"]:0.139946)[&label="1/99"]:0.27593,'Hyalella azteca EVm009596t1':0.552825)[&label="1/100"]:0.705674)[&label="0.98/74"]:0.14771,'Bombyx mori EVm005983t1':0.809701)[&label="0.999/72"]:0.15623)[&label="0.999/63"]:0.150493,((((((((('Gecarcinus lateralis YEVm004913t1':2.0E-6,'Gecarcinus lateralis YEVm004913t2':0.012171)[&label="1/100"]:0.082152,('Leptuca pugilator EVm004779t1':0.091133,'Eriocheir sinensis EVm004997t3':0.113095)[&label="1/91"]:0.049563)[&label="1/98"]:0.080651,((((('Callinectes sapidus 1 EVm005075t1':3.0E-6,'Callinectes sapidus 2 EVm007197t1':2.0E-6)[&label="0.333/100"]:3.0E-6,'Callinectes sapidus 2 EVm008151t1':2.0E-6)[&label="0.623/100"]:0.046485,'Scylla paramamosain EVm002934t1':0.085203)[&label="1/99"]:0.101242,(('Carcinus maenas Y EVm004379t1':2.0E-6,'Carcinus maenas CNS EVm004895t1':2.0E-6)[&label="0.333/100"]:2.0E-6,('Carcinus maenas Y EVm004379t2':3.0E-6,'Carcinus maenas CNS EVm004895t2':2.0E-6)[&label="1/100"]:0.023105)[&label="1/100"]:0.187365)[&label="0.998/70"]:0.056109,(('Metacarcinus magister EVm002708t1':0.01965,'Cancer borealis EVm005283t1':0.05269)[&label="1/100"]:0.201526,'Calappa philargius EVm007120t1':0.170779)[&label="0.738/55"]:0.021275)[&label="1/94"]:0.056995)[&label="1/100"]:0.215999,((((('Procambarus clarkii 1EVm003532t1':3.0E-6,'Procambarus clarkii 2EVm006021t1':0.004473)[&label="1/100"]:0.273109,('Cherax quadricarinatus EVm009850t1':2.0E-6,'Cherax quadricarinatus EVm009935t1':0.007943)[&label="0.982/91"]:0.298585)[&label="0.996/77"]:0.067203,'Homarus americanus EVm004924t1':0.280381)[&label="0.958/59"]:0.049108,('Panulirus argus EVm003965t1':2.0E-6,'Panulirus argus EVm005461t1':2.0E-6)[&label="1/100"]:0.337277)[&label="1/83"]:0.085208,((('Coenobita clypeata EVm000924t1':0.131814,(('Clibanarius tricolor EVm002248t1':0.198129,'Clibanarius antillensis EVm002153t1':0.154422)[&label="1/100"]:0.35354,'Clibanarius vittatus EVm003270t1':0.134782)[&label="1/100"]:0.224448)[&label="0.965/80"]:0.109587,'Uroptychus nitidus EVm007308t1':0.238987)[&label="0.513/54"]:0.065206,(((('Munidopsis serricornis EVm005145t1':3.0E-6,'Munidopsis serricornis EVm005145t3':2.0E-6)[&label="0.333/85"]:2.0E-6,'Munidopsis transtridens EVm010376t1':2.0E-6)[&label="0.342/75"]:0.01005,'Munidopsis serricornis EVm005145t2':0.114694)[&label="0.566/79"]:0.035677,'Munidopsis similis EVm011378t1':3.0E-6)[&label="1/100"]:0.314758)[&label="1/100"]:0.25259)[&label="0.661/44"]:0.050115)[&label="1/97"]:0.132553,(((('Paratya australiensis EVm005816t1':0.107992,'Neocaridina denticulata EVm011490t1':0.273366)[&label="0.467/85"]:0.046179,'Acanthephyra stylorostrata EVm014457t1':0.193672)[&label="0.98/74"]:0.067403,('Paratya australiensis EVm004652t1':0.732027,'Stylopandalus richardi EVm003503t1':0.810334)[&label="1/95"]:0.261906)[&label="0.944/57"]:0.029207,((('Bathypalaemonella texana EVm002754t1':3.0E-6,'Bathypalaemonella texana EVm002754t2':0.078223)[&label="0.843/78"]:0.006653,('Bathypalaemonella serratipalma EVm001872t1':2.0E-6,'Bathypalaemonella serratipalma EVm001872t3':0.102995)[&label="1/100"]:0.043562)[&label="1/100"]:0.300077,((('Alpheus viridari EVm003055t1':0.198511,'Metabetaeus lohena EVm002272t1':0.205844)[&label="1/100"]:0.181235,'Cuapetes americanus EVm003650t1':0.384792)[&label="1/89"]:0.085486,(((('Glyphocrangon aculeata EVm002461t1':0.397592,'Plesionika acanthonotus EVm003735t1':0.307396)[&label="0.83/79"]:0.039921,'Lysmata amboinensis EVm003680t1':0.303467)[&label="0.933/78"]:0.07366,('Thor dobkini EVm002882t1':0.658747,'Thor dobkini EVm007749t1':0.298102)[&label="1/95"]:0.135229)[&label="1/82"]:0.06167,((((('Plesionika acanthonotus EVm004483t1':0.031597,'Stylopandalus richardi EVm010219t1':0.68218)[&label="0.333/94"]:3.0E-6,'Plesionika acanthonotus EVm004483t3':2.0E-6)[&label="0.721/82"]:0.007043,'Plesionika acanthonotus EVm004483t4':2.0E-6)[&label="0.815/88"]:0.049889,'Heterocarpus oryx EVm009800t1':3.0E-6)[&label="0.647/91"]:0.06556,'Stylopandalus richardi EVm008785t1':0.110979)[&label="1/99"]:0.122255)[&label="1/74"]:0.055025)[&label="1/95"]:0.089512)[&label="0.999/78"]:0.057538)[&label="1/100"]:0.169673)[&label="0.994/72"]:0.065462,(('Thysanoessa inermis EVm005511t1':0.29163,'Euphausia superba EVm003733t1':0.16774)[&label="1/100"]:0.501026,'Litopenaeus vannamei EVm005616t1':0.397509)[&label="0.824/63"]:0.063694)[&label="1/100"]:0.203787,(('Asellus aquaticus SEVm004548t1':0.012332,'Asellus aquaticus CEVm004756t1':2.0E-6)[&label="1/100"]:0.3981,(((((('Proasellus jaloniacus EVm001365t1':0.030185,'Proasellus beticus EVm004439t1':0.014354)[&label="0.865/65"]:0.01095,'Proasellus escolai EVm005622t1':0.008177)[&label="0.449/81"]:0.017535,'Proasellus granadensis EVm003899t1':0.060872)[&label="1/88"]:0.029105,((('Proasellus rectus EVm002016t1':0.033044,'Proasellus ibericus EVm004667t1':0.054175)[&label="0.77/61"]:0.008721,'Proasellus meridianus EVm007194t1':0.05509)[&label="0.957/71"]:0.006073,('Proasellus aragonensis EVm001504t1':2.0E-6,('Proasellus aragonensis EVm001504t2':3.0E-6,'Proasellus aragonensis EVm001504t3':0.070542)[&label="0.333/98"]:3.0E-6)[&label="1/100"]:0.039403)[&label="0.614/54"]:0.005024)[&label="0.938/56"]:0.015673,'Proasellus ibericus EVm005606t1':2.0E-6)[&label="1/100"]:0.204951,('Proasellus coxalis EVm001494t1':0.184706,('Proasellus karamani EVm005005t1':2.0E-6,('Proasellus karamani EVm005005t2':2.0E-6,'Proasellus karamani EVm005005t3':2.0E-6)[&label="0.584/100"]:0.076923)[&label="1/100"]:0.201403)[&label="0.999/92"]:0.085545)[&label="1/100"]:0.294385)[&label="1/100"]:0.431387)[&label="1/93"]:0.138045,('Amphibalanus amphitrite EVm004375t1':3.0E-6,('Amphibalanus amphitrite EVm004375t2':2.0E-6,'Amphibalanus amphitrite EVm004375t5':0.059318)[&label="0.918/99"]:0.026543)[&label="1/100"]:0.779044)[&label="0.999/53"]:0.091998,(('Branchinella herrodi EVm001255t3':0.572567,((('Daphnia magna EVm004823t3':2.0E-6,(('Daphnia magna EVm004823t4':3.0E-6,('Daphnia magna EVm004823t2':3.0E-6,'Daphnia magna EVm004823t11':0.006342)[&label="0.333/98"]:3.0E-6)[&label="0.334/84"]:0.003311,'Daphnia magna EVm004823t9':2.0E-6)[&label="0.333/63"]:5.37E-4)[&label="0.333/95"]:3.0E-6,'Daphnia magna EVm004823t8':2.0E-6)[&label="0.333/84"]:2.0E-6,'Daphnia magna EVm004823t10':0.137326)[&label="1/100"]:0.949797)[&label="0.957/75"]:0.131577,'Ramazzottius varieornatus EVm003049t1':1.625693)[&label="0.914/66"]:0.101626)[&label="1/61"]:0.101514)[&label="0.992/57"]:0.069508,(((('Eurytemora affinis EVm006840t1':0.517811,('Acartia fossae EVm007678t1':0.254342,'Acartia fossae EVm025496t1':0.234737)[&label="1/100"]:0.298422)[&label="1/99"]:0.248885,('Calanus sinicus EVm005316t4':3.0E-6,'Calanus sinicus EVm005316t2':0.022752)[&label="1/100"]:0.481087)[&label="1/100"]:0.389913,'Lepeophtheirus salmonis EVm004211t1':1.383797)[&label="0.971/73"]:0.196951,((('Eucyclops serrulatus EVm005037t1':0.390062,('Eucyclops serrulatus EVm011429t2':2.0E-6,'Eucyclops serrulatus EVm011429t1':0.081345)[&label="1/100"]:0.367131)[&label="1/99"]:0.269117,((('Lernaea cyprinacea EVm003861t1':2.0E-6,'Lernaea cyprinacea EVm003861t2':0.092996)[&label="0.333/95"]:3.0E-6,'Lernaea cyprinacea EVm003861t3':0.095618)[&label="0.469/90"]:0.03328,'Lernaea cyprinacea EVm003861t4':0.07287)[&label="1/100"]:0.896013)[&label="1/99"]:0.290136,('Paracyclopina nana EVm005585t1':0.932059,'Paracyclopina nana EVm005146t1':1.478945)[&label="0.992/83"]:0.18708)[&label="0.995/73"]:0.114093)[&label="1/97"]:0.425187)[&label="0.846/53"]:0.094709,Apis_mellifera:1.293572)[&label="0.691/67"]:0.104515,('Leptotrombidium pallidum EVm004148t1':0.960107,'Eotetranychus kankitus EVm002427t1':0.960154)[&label="0.357/52"]:0.050961)[&label="1/100"]:10.146384,((((((((('Leptuca pugilator EVm005162t2':0.041727,'Leptuca pugilator EVm005162t1':3.0E-6)[&label="1/100"]:0.170011,(('Gecarcinus lateralis YEVm004717t1':0.005826,'Gecarcinus lateralis YEVm004717t2':0.156846)[&label="1/100"]:0.092127,'Eriocheir sinensis EVm004798t1':0.138617)[&label="0.999/81"]:0.052164)[&label="1/99"]:0.113708,((((('Callinectes sapidus 2 EVm003211t1':1.0E-6,'Callinectes sapidus 1 EVm005559t1':1.0E-6)[&label="0.373/100"]:0.005608,'Callinectes sapidus 2 EVm003211t3':0.209353)[&label="1/100"]:0.101631,'Scylla paramamosain EVm003286t1':0.091833)[&label="1/98"]:0.0665,('Carcinus maenas Y EVm004718t1':1.0E-6,'Carcinus maenas CNS EVm005217t1':2.0E-6)[&label="1/100"]:0.406255)[&label="0.858/51"]:0.044179,(('Metacarcinus magister EVm002955t1':3.0E-6,('Metacarcinus magister EVm002955t2':2.0E-6,('Metacarcinus magister EVm002955t3':2.0E-6,('Anatolikos japonicus EVm003249t2':0.051629,'Cancer borealis EVm009559t1':0.024515)[&label="0.985/72"]:0.019025)[&label="1/99"]:0.13507)[&label="1/99"]:0.250709)[&label="0.973/75"]:0.01407,'Anatolikos japonicus EVm003249t1':0.036008)[&label="1/100"]:0.145327)[&label="1/91"]:0.07613)[&label="0.996/82"]:0.136321,'Calappa philargius EVm000965t1':0.463575)[&label="1/100"]:0.406926,(((('Homarus americanus EVm005056t1':0.490912,(('Panulirus argus EVm003741t1':2.0E-6,'Panulirus argus EVm005149t1':2.0E-6)[&label="0.333/100"]:2.0E-6,'Panulirus argus EVm003741t2':0.049871)[&label="1/100"]:0.454166)[&label="0.595/43"]:0.114693,'Litopenaeus vannamei EVm006407t1':0.405319)[&label="0.486/74"]:0.069651,'Litopenaeus vannamei EVm008824t1':0.384098)[&label="0.874/58"]:0.097869,('Thysanoessa inermis EVm006042t1':0.195652,('Euphausia superba EVm003477t1':3.0E-6,'Euphausia superba EVm003477t2':0.159172)[&label="1/100"]:0.254118)[&label="1/100"]:0.441611)[&label="1/83"]:0.145783)[&label="0.995/76"]:0.120074,((('Clibanarius antillensis EVm002188t1':0.03009,'Clibanarius tricolor EVm007964t1':0.044844)[&label="1/100"]:0.135515,'Clibanarius vittatus EVm002971t1':0.114063)[&label="1/100"]:0.511682,'Emerita talpoidea EVm003303t1':0.54413)[&label="1/95"]:0.254053)[&label="1/91"]:0.224149,(('Amphibalanus amphitrite EVm004613t1':0.016451,'Amphibalanus amphitrite EVm004613t2':0.013082)[&label="1/100"]:0.855337,Strongylocentrotus_purpuratus__CRY-DASH:1.417466)[&label="0.963/67"]:0.218828)[&label="1/63"]:0.134802,((((((('Daphnia magna EVm004349t2':0.054168,(('Daphnia magna EVm004349t8':2.0E-6,'Daphnia magna EVm004349t9':0.016286)[&label="0.986/100"]:0.074408,('Daphnia magna EVm004349t6':0.216253,'Daphnia magna EVm004349t12':0.135793)[&label="1/100"]:0.255126)[&label="1/99"]:0.123751)[&label="0.541/80"]:0.06061,'Daphnia magna EVm004349t18':0.016011)[&label="0.333/51"]:3.0E-6,'Daphnia magna EVm004349t13':2.0E-6)[&label="0.333/53"]:2.0E-6,((('Daphnia magna EVm004349t5':2.0E-6,'Daphnia magna EVm004349t17':2.0E-6)[&label="0.333/16"]:2.0E-6,'Daphnia magna EVm004349t1':2.0E-6)[&label="0.333/13"]:3.0E-6,'Daphnia magna EVm004349t4':2.0E-6)[&label="0.333/34"]:2.0E-6)[&label="0.333/45"]:2.0E-6,'Daphnia magna EVm004349t14':0.022305)[&label="1/100"]:0.904694,'Hypsibius dujardini EVm007054t1':2.158891)[&label="0.763/69"]:0.169858,'Branchinella herrodi EVm002043t1':0.718282)[&label="0.963/51"]:0.19282)[&label="0.721/55"]:0.145929,((((('Eurytemora affinis EVm006095t2':2.0E-6,'Eurytemora affinis EVm006095t1':2.0E-6)[&label="0.652/100"]:0.020258,'Eurytemora affinis EVm006095t3':0.01557)[&label="1/100"]:0.628674,('Acartia fossae EVm006623t4':0.284709,'Acartia fossae EVm027859t1':0.281085)[&label="1/100"]:0.421094)[&label="1/97"]:0.265217,((((('Calanus sinicus EVm002225t1':0.023986,'Calanus sinicus EVm002225t3':0.019715)[&label="0.491/87"]:0.028983,'Calanus sinicus EVm010454t1':3.0E-6)[&label="1/99"]:0.110518,'Calanus finmarchicus EVm019369t3':0.023002)[&label="0.627/50"]:0.012168,'Calanus finmarchicus EVm019369t4':0.069285)[&label="0.501/72"]:0.016348,'Calanus finmarchicus EVm019369t2':0.06136)[&label="1/100"]:0.587667)[&label="0.999/87"]:0.208064,'Eucyclops serrulatus EVm002150t1':1.133475)[&label="0.729/64"]:0.122496)[&label="1/100"]:4.168778)[&label="1/100"]:1.986299)[&label="1/99"]:1.290785)[&label="0.827/57"]:0.183579,'Amphibalanus amphitrite EVm003784t1':1.792862)[&label="0.957/59"]:0.124445,('Daphnia magna EVm005335t1':0.006731,'Daphnia magna EVm005335t3':3.0E-6)[&label="1/100"]:1.696097)[&label="1/86"]:0.181517,((('Acartia fossae EVm006511t3':0.75697,('Eurytemora affinis EVm006018t1':0.541863,'Eurytemora affinis EVm004226t1':0.888531)[&label="0.997/75"]:0.197287)[&label="0.976/76"]:0.171986,'Calanus sinicus EVm009086t1':0.720235)[&label="1/100"]:0.654497,('Paracyclopina nana EVm004811t1':0.921342,('Lepeophtheirus salmonis EVm003727t1':2.0E-6,'Lepeophtheirus salmonis EVm003727t2':0.056444)[&label="1/100"]:1.891281)[&label="0.803/59"]:0.225137)[&label="1/100"]:0.440052)[&label="1/99"]:0.300726)[&label="1/97"]:0.268889,(('Bombyx mori EVm001994t1':0.184187,Antheraea_pernyi__CRY1:0.246374)[&label="0.99/82"]:0.152691,Danaus_plexippus:0.197023)[&label="1/100"]:0.659503)[&label="1/100"]:0.386489,Anopheles_gambiae__CRY1:0.760092)[&label="1/100"]:1.016157,Drosophila_melanogaster__CRY1:1.0E-6);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=2.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="Adobe Devanagari";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=596;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="label";
+	set nodeLabels.fontName="Adobe Devanagari";
+	set nodeLabels.fontSize=6;
+	set nodeLabels.fontStyle=1;
+	set nodeLabels.isShown=true;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute=null;
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute=null;
+	set nodeShapeInternal.colourAttribute="User selection";
+	set nodeShapeInternal.isShown=true;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=3.0;
+	set nodeShapeInternal.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=323;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=2.5;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="Adobe Devanagari";
+	set tipLabels.fontSize=10;
+	set tipLabels.fontStyle=3;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="decreasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
