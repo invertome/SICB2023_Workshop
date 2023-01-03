@@ -1,0 +1,512 @@
+CalsaE_EVm001599t1:14-2722	transdecoder	gene	1	2709	.	+	.	ID=GENE.CalsaE_EVm001599t1:14-2722~~CalsaE_EVm001599t1:14-2722.p1;Name=ORF%20type%3A3prime_partial%20len%3A904%20%28%2B%29
+CalsaE_EVm001599t1:14-2722	transdecoder	mRNA	1	2709	.	+	.	ID=CalsaE_EVm001599t1:14-2722.p1;Parent=GENE.CalsaE_EVm001599t1:14-2722~~CalsaE_EVm001599t1:14-2722.p1;Name=ORF%20type%3A3prime_partial%20len%3A904%20%28%2B%29
+CalsaE_EVm001599t1:14-2722	transdecoder	exon	1	2709	.	+	.	ID=CalsaE_EVm001599t1:14-2722.p1.exon1;Parent=CalsaE_EVm001599t1:14-2722.p1
+CalsaE_EVm001599t1:14-2722	transdecoder	CDS	1	2709	.	+	0	ID=cds.CalsaE_EVm001599t1:14-2722.p1;Parent=CalsaE_EVm001599t1:14-2722.p1;3_prime_partial=true
+
+CalsaE_EVm001599t1:14-2722	transdecoder	gene	1	2709	.	-	.	ID=GENE.CalsaE_EVm001599t1:14-2722~~CalsaE_EVm001599t1:14-2722.p2;Name=ORF%20type%3Acomplete%20len%3A243%20%28-%29
+CalsaE_EVm001599t1:14-2722	transdecoder	mRNA	1	2709	.	-	.	ID=CalsaE_EVm001599t1:14-2722.p2;Parent=GENE.CalsaE_EVm001599t1:14-2722~~CalsaE_EVm001599t1:14-2722.p2;Name=ORF%20type%3Acomplete%20len%3A243%20%28-%29
+CalsaE_EVm001599t1:14-2722	transdecoder	five_prime_UTR	883	2709	.	-	.	ID=CalsaE_EVm001599t1:14-2722.p2.utr5p1;Parent=CalsaE_EVm001599t1:14-2722.p2
+CalsaE_EVm001599t1:14-2722	transdecoder	exon	1	2709	.	-	.	ID=CalsaE_EVm001599t1:14-2722.p2.exon1;Parent=CalsaE_EVm001599t1:14-2722.p2
+CalsaE_EVm001599t1:14-2722	transdecoder	CDS	154	882	.	-	0	ID=cds.CalsaE_EVm001599t1:14-2722.p2;Parent=CalsaE_EVm001599t1:14-2722.p2
+CalsaE_EVm001599t1:14-2722	transdecoder	three_prime_UTR	1	153	.	-	.	ID=CalsaE_EVm001599t1:14-2722.p2.utr3p1;Parent=CalsaE_EVm001599t1:14-2722.p2
+
+CalsaE_EVm001599t1:14-2722	transdecoder	gene	1	2709	.	-	.	ID=GENE.CalsaE_EVm001599t1:14-2722~~CalsaE_EVm001599t1:14-2722.p3;Name=ORF%20type%3A5prime_partial%20len%3A221%20%28-%29
+CalsaE_EVm001599t1:14-2722	transdecoder	mRNA	1	2709	.	-	.	ID=CalsaE_EVm001599t1:14-2722.p3;Parent=GENE.CalsaE_EVm001599t1:14-2722~~CalsaE_EVm001599t1:14-2722.p3;Name=ORF%20type%3A5prime_partial%20len%3A221%20%28-%29
+CalsaE_EVm001599t1:14-2722	transdecoder	exon	1	2709	.	-	.	ID=CalsaE_EVm001599t1:14-2722.p3.exon1;Parent=CalsaE_EVm001599t1:14-2722.p3
+CalsaE_EVm001599t1:14-2722	transdecoder	CDS	2047	2709	.	-	0	ID=cds.CalsaE_EVm001599t1:14-2722.p3;Parent=CalsaE_EVm001599t1:14-2722.p3;5_prime_partial=true
+CalsaE_EVm001599t1:14-2722	transdecoder	three_prime_UTR	1	2046	.	-	.	ID=CalsaE_EVm001599t1:14-2722.p3.utr3p1;Parent=CalsaE_EVm001599t1:14-2722.p3
+
+CalsaE_EVm001599t1:14-2722	transdecoder	gene	1	2709	.	-	.	ID=GENE.CalsaE_EVm001599t1:14-2722~~CalsaE_EVm001599t1:14-2722.p4;Name=ORF%20type%3Acomplete%20len%3A153%20%28-%29
+CalsaE_EVm001599t1:14-2722	transdecoder	mRNA	1	2709	.	-	.	ID=CalsaE_EVm001599t1:14-2722.p4;Parent=GENE.CalsaE_EVm001599t1:14-2722~~CalsaE_EVm001599t1:14-2722.p4;Name=ORF%20type%3Acomplete%20len%3A153%20%28-%29
+CalsaE_EVm001599t1:14-2722	transdecoder	five_prime_UTR	1654	2709	.	-	.	ID=CalsaE_EVm001599t1:14-2722.p4.utr5p1;Parent=CalsaE_EVm001599t1:14-2722.p4
+CalsaE_EVm001599t1:14-2722	transdecoder	exon	1	2709	.	-	.	ID=CalsaE_EVm001599t1:14-2722.p4.exon1;Parent=CalsaE_EVm001599t1:14-2722.p4
+CalsaE_EVm001599t1:14-2722	transdecoder	CDS	1195	1653	.	-	0	ID=cds.CalsaE_EVm001599t1:14-2722.p4;Parent=CalsaE_EVm001599t1:14-2722.p4
+CalsaE_EVm001599t1:14-2722	transdecoder	three_prime_UTR	1	1194	.	-	.	ID=CalsaE_EVm001599t1:14-2722.p4.utr3p1;Parent=CalsaE_EVm001599t1:14-2722.p4
+
+CalsaE_EVm001599t1:14-2722	transdecoder	gene	1	2709	.	-	.	ID=GENE.CalsaE_EVm001599t1:14-2722~~CalsaE_EVm001599t1:14-2722.p5;Name=ORF%20type%3Acomplete%20len%3A138%20%28-%29
+CalsaE_EVm001599t1:14-2722	transdecoder	mRNA	1	2709	.	-	.	ID=CalsaE_EVm001599t1:14-2722.p5;Parent=GENE.CalsaE_EVm001599t1:14-2722~~CalsaE_EVm001599t1:14-2722.p5;Name=ORF%20type%3Acomplete%20len%3A138%20%28-%29
+CalsaE_EVm001599t1:14-2722	transdecoder	five_prime_UTR	1548	2709	.	-	.	ID=CalsaE_EVm001599t1:14-2722.p5.utr5p1;Parent=CalsaE_EVm001599t1:14-2722.p5
+CalsaE_EVm001599t1:14-2722	transdecoder	exon	1	2709	.	-	.	ID=CalsaE_EVm001599t1:14-2722.p5.exon1;Parent=CalsaE_EVm001599t1:14-2722.p5
+CalsaE_EVm001599t1:14-2722	transdecoder	CDS	1134	1547	.	-	0	ID=cds.CalsaE_EVm001599t1:14-2722.p5;Parent=CalsaE_EVm001599t1:14-2722.p5
+CalsaE_EVm001599t1:14-2722	transdecoder	three_prime_UTR	1	1133	.	-	.	ID=CalsaE_EVm001599t1:14-2722.p5.utr3p1;Parent=CalsaE_EVm001599t1:14-2722.p5
+
+CalsaE_EVm001599t1:14-2722	transdecoder	gene	1	2709	.	-	.	ID=GENE.CalsaE_EVm001599t1:14-2722~~CalsaE_EVm001599t1:14-2722.p6;Name=ORF%20type%3Acomplete%20len%3A130%20%28-%29
+CalsaE_EVm001599t1:14-2722	transdecoder	mRNA	1	2709	.	-	.	ID=CalsaE_EVm001599t1:14-2722.p6;Parent=GENE.CalsaE_EVm001599t1:14-2722~~CalsaE_EVm001599t1:14-2722.p6;Name=ORF%20type%3Acomplete%20len%3A130%20%28-%29
+CalsaE_EVm001599t1:14-2722	transdecoder	five_prime_UTR	2394	2709	.	-	.	ID=CalsaE_EVm001599t1:14-2722.p6.utr5p1;Parent=CalsaE_EVm001599t1:14-2722.p6
+CalsaE_EVm001599t1:14-2722	transdecoder	exon	1	2709	.	-	.	ID=CalsaE_EVm001599t1:14-2722.p6.exon1;Parent=CalsaE_EVm001599t1:14-2722.p6
+CalsaE_EVm001599t1:14-2722	transdecoder	CDS	2004	2393	.	-	0	ID=cds.CalsaE_EVm001599t1:14-2722.p6;Parent=CalsaE_EVm001599t1:14-2722.p6
+CalsaE_EVm001599t1:14-2722	transdecoder	three_prime_UTR	1	2003	.	-	.	ID=CalsaE_EVm001599t1:14-2722.p6.utr3p1;Parent=CalsaE_EVm001599t1:14-2722.p6
+
+CalsaE_EVm001599t1:14-2722	transdecoder	gene	1	2709	.	-	.	ID=GENE.CalsaE_EVm001599t1:14-2722~~CalsaE_EVm001599t1:14-2722.p7;Name=ORF%20type%3Acomplete%20len%3A107%20%28-%29
+CalsaE_EVm001599t1:14-2722	transdecoder	mRNA	1	2709	.	-	.	ID=CalsaE_EVm001599t1:14-2722.p7;Parent=GENE.CalsaE_EVm001599t1:14-2722~~CalsaE_EVm001599t1:14-2722.p7;Name=ORF%20type%3Acomplete%20len%3A107%20%28-%29
+CalsaE_EVm001599t1:14-2722	transdecoder	five_prime_UTR	717	2709	.	-	.	ID=CalsaE_EVm001599t1:14-2722.p7.utr5p1;Parent=CalsaE_EVm001599t1:14-2722.p7
+CalsaE_EVm001599t1:14-2722	transdecoder	exon	1	2709	.	-	.	ID=CalsaE_EVm001599t1:14-2722.p7.exon1;Parent=CalsaE_EVm001599t1:14-2722.p7
+CalsaE_EVm001599t1:14-2722	transdecoder	CDS	396	716	.	-	0	ID=cds.CalsaE_EVm001599t1:14-2722.p7;Parent=CalsaE_EVm001599t1:14-2722.p7
+CalsaE_EVm001599t1:14-2722	transdecoder	three_prime_UTR	1	395	.	-	.	ID=CalsaE_EVm001599t1:14-2722.p7.utr3p1;Parent=CalsaE_EVm001599t1:14-2722.p7
+
+CalsaE_EVm001599t1:14-2722	transdecoder	gene	1	2709	.	+	.	ID=GENE.CalsaE_EVm001599t1:14-2722~~CalsaE_EVm001599t1:14-2722.p8;Name=ORF%20type%3Acomplete%20len%3A104%20%28%2B%29
+CalsaE_EVm001599t1:14-2722	transdecoder	mRNA	1	2709	.	+	.	ID=CalsaE_EVm001599t1:14-2722.p8;Parent=GENE.CalsaE_EVm001599t1:14-2722~~CalsaE_EVm001599t1:14-2722.p8;Name=ORF%20type%3Acomplete%20len%3A104%20%28%2B%29
+CalsaE_EVm001599t1:14-2722	transdecoder	five_prime_UTR	1	1483	.	+	.	ID=CalsaE_EVm001599t1:14-2722.p8.utr5p1;Parent=CalsaE_EVm001599t1:14-2722.p8
+CalsaE_EVm001599t1:14-2722	transdecoder	exon	1	2709	.	+	.	ID=CalsaE_EVm001599t1:14-2722.p8.exon1;Parent=CalsaE_EVm001599t1:14-2722.p8
+CalsaE_EVm001599t1:14-2722	transdecoder	CDS	1484	1795	.	+	0	ID=cds.CalsaE_EVm001599t1:14-2722.p8;Parent=CalsaE_EVm001599t1:14-2722.p8
+CalsaE_EVm001599t1:14-2722	transdecoder	three_prime_UTR	1796	2709	.	+	.	ID=CalsaE_EVm001599t1:14-2722.p8.utr3p1;Parent=CalsaE_EVm001599t1:14-2722.p8
+
+CalsaE_EVm001199t1:467-3802	transdecoder	gene	1	3336	.	+	.	ID=GENE.CalsaE_EVm001199t1:467-3802~~CalsaE_EVm001199t1:467-3802.p1;Name=ORF%20type%3Ainternal%20len%3A1113%20%28%2B%29
+CalsaE_EVm001199t1:467-3802	transdecoder	mRNA	1	3336	.	+	.	ID=CalsaE_EVm001199t1:467-3802.p1;Parent=GENE.CalsaE_EVm001199t1:467-3802~~CalsaE_EVm001199t1:467-3802.p1;Name=ORF%20type%3Ainternal%20len%3A1113%20%28%2B%29
+CalsaE_EVm001199t1:467-3802	transdecoder	exon	1	3336	.	+	.	ID=CalsaE_EVm001199t1:467-3802.p1.exon1;Parent=CalsaE_EVm001199t1:467-3802.p1
+CalsaE_EVm001199t1:467-3802	transdecoder	CDS	1	3336	.	+	0	ID=cds.CalsaE_EVm001199t1:467-3802.p1;Parent=CalsaE_EVm001199t1:467-3802.p1;5_prime_partial=true;3_prime_partial=true
+
+CalsaE_EVm001199t1:467-3802	transdecoder	gene	1	3336	.	-	.	ID=GENE.CalsaE_EVm001199t1:467-3802~~CalsaE_EVm001199t1:467-3802.p2;Name=ORF%20type%3Acomplete%20len%3A123%20%28-%29
+CalsaE_EVm001199t1:467-3802	transdecoder	mRNA	1	3336	.	-	.	ID=CalsaE_EVm001199t1:467-3802.p2;Parent=GENE.CalsaE_EVm001199t1:467-3802~~CalsaE_EVm001199t1:467-3802.p2;Name=ORF%20type%3Acomplete%20len%3A123%20%28-%29
+CalsaE_EVm001199t1:467-3802	transdecoder	five_prime_UTR	1966	3336	.	-	.	ID=CalsaE_EVm001199t1:467-3802.p2.utr5p1;Parent=CalsaE_EVm001199t1:467-3802.p2
+CalsaE_EVm001199t1:467-3802	transdecoder	exon	1	3336	.	-	.	ID=CalsaE_EVm001199t1:467-3802.p2.exon1;Parent=CalsaE_EVm001199t1:467-3802.p2
+CalsaE_EVm001199t1:467-3802	transdecoder	CDS	1597	1965	.	-	0	ID=cds.CalsaE_EVm001199t1:467-3802.p2;Parent=CalsaE_EVm001199t1:467-3802.p2
+CalsaE_EVm001199t1:467-3802	transdecoder	three_prime_UTR	1	1596	.	-	.	ID=CalsaE_EVm001199t1:467-3802.p2.utr3p1;Parent=CalsaE_EVm001199t1:467-3802.p2
+
+CalsaE_EVm001199t1:467-3802	transdecoder	gene	1	3336	.	-	.	ID=GENE.CalsaE_EVm001199t1:467-3802~~CalsaE_EVm001199t1:467-3802.p3;Name=ORF%20type%3Acomplete%20len%3A113%20%28-%29
+CalsaE_EVm001199t1:467-3802	transdecoder	mRNA	1	3336	.	-	.	ID=CalsaE_EVm001199t1:467-3802.p3;Parent=GENE.CalsaE_EVm001199t1:467-3802~~CalsaE_EVm001199t1:467-3802.p3;Name=ORF%20type%3Acomplete%20len%3A113%20%28-%29
+CalsaE_EVm001199t1:467-3802	transdecoder	five_prime_UTR	2301	3336	.	-	.	ID=CalsaE_EVm001199t1:467-3802.p3.utr5p1;Parent=CalsaE_EVm001199t1:467-3802.p3
+CalsaE_EVm001199t1:467-3802	transdecoder	exon	1	3336	.	-	.	ID=CalsaE_EVm001199t1:467-3802.p3.exon1;Parent=CalsaE_EVm001199t1:467-3802.p3
+CalsaE_EVm001199t1:467-3802	transdecoder	CDS	1962	2300	.	-	0	ID=cds.CalsaE_EVm001199t1:467-3802.p3;Parent=CalsaE_EVm001199t1:467-3802.p3
+CalsaE_EVm001199t1:467-3802	transdecoder	three_prime_UTR	1	1961	.	-	.	ID=CalsaE_EVm001199t1:467-3802.p3.utr3p1;Parent=CalsaE_EVm001199t1:467-3802.p3
+
+CalsaE_EVm001114t1:96-3587	transdecoder	gene	1	3492	.	+	.	ID=GENE.CalsaE_EVm001114t1:96-3587~~CalsaE_EVm001114t1:96-3587.p1;Name=ORF%20type%3A3prime_partial%20len%3A1165%20%28%2B%29
+CalsaE_EVm001114t1:96-3587	transdecoder	mRNA	1	3492	.	+	.	ID=CalsaE_EVm001114t1:96-3587.p1;Parent=GENE.CalsaE_EVm001114t1:96-3587~~CalsaE_EVm001114t1:96-3587.p1;Name=ORF%20type%3A3prime_partial%20len%3A1165%20%28%2B%29
+CalsaE_EVm001114t1:96-3587	transdecoder	exon	1	3492	.	+	.	ID=CalsaE_EVm001114t1:96-3587.p1.exon1;Parent=CalsaE_EVm001114t1:96-3587.p1
+CalsaE_EVm001114t1:96-3587	transdecoder	CDS	1	3492	.	+	0	ID=cds.CalsaE_EVm001114t1:96-3587.p1;Parent=CalsaE_EVm001114t1:96-3587.p1;3_prime_partial=true
+
+CalsaE_EVm001114t1:96-3587	transdecoder	gene	1	3492	.	-	.	ID=GENE.CalsaE_EVm001114t1:96-3587~~CalsaE_EVm001114t1:96-3587.p2;Name=ORF%20type%3Acomplete%20len%3A145%20%28-%29
+CalsaE_EVm001114t1:96-3587	transdecoder	mRNA	1	3492	.	-	.	ID=CalsaE_EVm001114t1:96-3587.p2;Parent=GENE.CalsaE_EVm001114t1:96-3587~~CalsaE_EVm001114t1:96-3587.p2;Name=ORF%20type%3Acomplete%20len%3A145%20%28-%29
+CalsaE_EVm001114t1:96-3587	transdecoder	five_prime_UTR	3208	3492	.	-	.	ID=CalsaE_EVm001114t1:96-3587.p2.utr5p1;Parent=CalsaE_EVm001114t1:96-3587.p2
+CalsaE_EVm001114t1:96-3587	transdecoder	exon	1	3492	.	-	.	ID=CalsaE_EVm001114t1:96-3587.p2.exon1;Parent=CalsaE_EVm001114t1:96-3587.p2
+CalsaE_EVm001114t1:96-3587	transdecoder	CDS	2773	3207	.	-	0	ID=cds.CalsaE_EVm001114t1:96-3587.p2;Parent=CalsaE_EVm001114t1:96-3587.p2
+CalsaE_EVm001114t1:96-3587	transdecoder	three_prime_UTR	1	2772	.	-	.	ID=CalsaE_EVm001114t1:96-3587.p2.utr3p1;Parent=CalsaE_EVm001114t1:96-3587.p2
+
+CalsaE_EVm001114t1:96-3587	transdecoder	gene	1	3492	.	-	.	ID=GENE.CalsaE_EVm001114t1:96-3587~~CalsaE_EVm001114t1:96-3587.p3;Name=ORF%20type%3Acomplete%20len%3A142%20%28-%29
+CalsaE_EVm001114t1:96-3587	transdecoder	mRNA	1	3492	.	-	.	ID=CalsaE_EVm001114t1:96-3587.p3;Parent=GENE.CalsaE_EVm001114t1:96-3587~~CalsaE_EVm001114t1:96-3587.p3;Name=ORF%20type%3Acomplete%20len%3A142%20%28-%29
+CalsaE_EVm001114t1:96-3587	transdecoder	five_prime_UTR	1942	3492	.	-	.	ID=CalsaE_EVm001114t1:96-3587.p3.utr5p1;Parent=CalsaE_EVm001114t1:96-3587.p3
+CalsaE_EVm001114t1:96-3587	transdecoder	exon	1	3492	.	-	.	ID=CalsaE_EVm001114t1:96-3587.p3.exon1;Parent=CalsaE_EVm001114t1:96-3587.p3
+CalsaE_EVm001114t1:96-3587	transdecoder	CDS	1516	1941	.	-	0	ID=cds.CalsaE_EVm001114t1:96-3587.p3;Parent=CalsaE_EVm001114t1:96-3587.p3
+CalsaE_EVm001114t1:96-3587	transdecoder	three_prime_UTR	1	1515	.	-	.	ID=CalsaE_EVm001114t1:96-3587.p3.utr3p1;Parent=CalsaE_EVm001114t1:96-3587.p3
+
+CalsaE_EVm001273t1:147-3281	transdecoder	gene	1	3135	.	+	.	ID=GENE.CalsaE_EVm001273t1:147-3281~~CalsaE_EVm001273t1:147-3281.p1;Name=ORF%20type%3Ainternal%20len%3A1046%20%28%2B%29
+CalsaE_EVm001273t1:147-3281	transdecoder	mRNA	1	3135	.	+	.	ID=CalsaE_EVm001273t1:147-3281.p1;Parent=GENE.CalsaE_EVm001273t1:147-3281~~CalsaE_EVm001273t1:147-3281.p1;Name=ORF%20type%3Ainternal%20len%3A1046%20%28%2B%29
+CalsaE_EVm001273t1:147-3281	transdecoder	exon	1	3135	.	+	.	ID=CalsaE_EVm001273t1:147-3281.p1.exon1;Parent=CalsaE_EVm001273t1:147-3281.p1
+CalsaE_EVm001273t1:147-3281	transdecoder	CDS	1	3135	.	+	0	ID=cds.CalsaE_EVm001273t1:147-3281.p1;Parent=CalsaE_EVm001273t1:147-3281.p1;5_prime_partial=true;3_prime_partial=true
+
+CalsaE_EVm001273t1:147-3281	transdecoder	gene	1	3135	.	-	.	ID=GENE.CalsaE_EVm001273t1:147-3281~~CalsaE_EVm001273t1:147-3281.p2;Name=ORF%20type%3A3prime_partial%20len%3A144%20%28-%29
+CalsaE_EVm001273t1:147-3281	transdecoder	mRNA	1	3135	.	-	.	ID=CalsaE_EVm001273t1:147-3281.p2;Parent=GENE.CalsaE_EVm001273t1:147-3281~~CalsaE_EVm001273t1:147-3281.p2;Name=ORF%20type%3A3prime_partial%20len%3A144%20%28-%29
+CalsaE_EVm001273t1:147-3281	transdecoder	five_prime_UTR	432	3135	.	-	.	ID=CalsaE_EVm001273t1:147-3281.p2.utr5p1;Parent=CalsaE_EVm001273t1:147-3281.p2
+CalsaE_EVm001273t1:147-3281	transdecoder	exon	1	3135	.	-	.	ID=CalsaE_EVm001273t1:147-3281.p2.exon1;Parent=CalsaE_EVm001273t1:147-3281.p2
+CalsaE_EVm001273t1:147-3281	transdecoder	CDS	3	431	.	-	0	ID=cds.CalsaE_EVm001273t1:147-3281.p2;Parent=CalsaE_EVm001273t1:147-3281.p2;3_prime_partial=true
+
+CalsaE_EVm001007t1:141-3710	transdecoder	gene	1	3570	.	+	.	ID=GENE.CalsaE_EVm001007t1:141-3710~~CalsaE_EVm001007t1:141-3710.p1;Name=ORF%20type%3Ainternal%20len%3A1191%20%28%2B%29
+CalsaE_EVm001007t1:141-3710	transdecoder	mRNA	1	3570	.	+	.	ID=CalsaE_EVm001007t1:141-3710.p1;Parent=GENE.CalsaE_EVm001007t1:141-3710~~CalsaE_EVm001007t1:141-3710.p1;Name=ORF%20type%3Ainternal%20len%3A1191%20%28%2B%29
+CalsaE_EVm001007t1:141-3710	transdecoder	exon	1	3570	.	+	.	ID=CalsaE_EVm001007t1:141-3710.p1.exon1;Parent=CalsaE_EVm001007t1:141-3710.p1
+CalsaE_EVm001007t1:141-3710	transdecoder	CDS	1	3570	.	+	0	ID=cds.CalsaE_EVm001007t1:141-3710.p1;Parent=CalsaE_EVm001007t1:141-3710.p1;5_prime_partial=true;3_prime_partial=true
+
+CalsaE_EVm001007t1:141-3710	transdecoder	gene	1	3570	.	-	.	ID=GENE.CalsaE_EVm001007t1:141-3710~~CalsaE_EVm001007t1:141-3710.p2;Name=ORF%20type%3Acomplete%20len%3A119%20%28-%29
+CalsaE_EVm001007t1:141-3710	transdecoder	mRNA	1	3570	.	-	.	ID=CalsaE_EVm001007t1:141-3710.p2;Parent=GENE.CalsaE_EVm001007t1:141-3710~~CalsaE_EVm001007t1:141-3710.p2;Name=ORF%20type%3Acomplete%20len%3A119%20%28-%29
+CalsaE_EVm001007t1:141-3710	transdecoder	five_prime_UTR	3493	3570	.	-	.	ID=CalsaE_EVm001007t1:141-3710.p2.utr5p1;Parent=CalsaE_EVm001007t1:141-3710.p2
+CalsaE_EVm001007t1:141-3710	transdecoder	exon	1	3570	.	-	.	ID=CalsaE_EVm001007t1:141-3710.p2.exon1;Parent=CalsaE_EVm001007t1:141-3710.p2
+CalsaE_EVm001007t1:141-3710	transdecoder	CDS	3136	3492	.	-	0	ID=cds.CalsaE_EVm001007t1:141-3710.p2;Parent=CalsaE_EVm001007t1:141-3710.p2
+CalsaE_EVm001007t1:141-3710	transdecoder	three_prime_UTR	1	3135	.	-	.	ID=CalsaE_EVm001007t1:141-3710.p2.utr3p1;Parent=CalsaE_EVm001007t1:141-3710.p2
+
+CalsaE_EVm000094t1:159-8705	transdecoder	gene	1	8547	.	+	.	ID=GENE.CalsaE_EVm000094t1:159-8705~~CalsaE_EVm000094t1:159-8705.p1;Name=ORF%20type%3Ainternal%20len%3A2850%20%28%2B%29
+CalsaE_EVm000094t1:159-8705	transdecoder	mRNA	1	8547	.	+	.	ID=CalsaE_EVm000094t1:159-8705.p1;Parent=GENE.CalsaE_EVm000094t1:159-8705~~CalsaE_EVm000094t1:159-8705.p1;Name=ORF%20type%3Ainternal%20len%3A2850%20%28%2B%29
+CalsaE_EVm000094t1:159-8705	transdecoder	exon	1	8547	.	+	.	ID=CalsaE_EVm000094t1:159-8705.p1.exon1;Parent=CalsaE_EVm000094t1:159-8705.p1
+CalsaE_EVm000094t1:159-8705	transdecoder	CDS	1	8547	.	+	0	ID=cds.CalsaE_EVm000094t1:159-8705.p1;Parent=CalsaE_EVm000094t1:159-8705.p1;5_prime_partial=true;3_prime_partial=true
+
+CalsaE_EVm000094t1:159-8705	transdecoder	gene	1	8547	.	-	.	ID=GENE.CalsaE_EVm000094t1:159-8705~~CalsaE_EVm000094t1:159-8705.p2;Name=ORF%20type%3Acomplete%20len%3A124%20%28-%29
+CalsaE_EVm000094t1:159-8705	transdecoder	mRNA	1	8547	.	-	.	ID=CalsaE_EVm000094t1:159-8705.p2;Parent=GENE.CalsaE_EVm000094t1:159-8705~~CalsaE_EVm000094t1:159-8705.p2;Name=ORF%20type%3Acomplete%20len%3A124%20%28-%29
+CalsaE_EVm000094t1:159-8705	transdecoder	five_prime_UTR	3747	8547	.	-	.	ID=CalsaE_EVm000094t1:159-8705.p2.utr5p1;Parent=CalsaE_EVm000094t1:159-8705.p2
+CalsaE_EVm000094t1:159-8705	transdecoder	exon	1	8547	.	-	.	ID=CalsaE_EVm000094t1:159-8705.p2.exon1;Parent=CalsaE_EVm000094t1:159-8705.p2
+CalsaE_EVm000094t1:159-8705	transdecoder	CDS	3375	3746	.	-	0	ID=cds.CalsaE_EVm000094t1:159-8705.p2;Parent=CalsaE_EVm000094t1:159-8705.p2
+CalsaE_EVm000094t1:159-8705	transdecoder	three_prime_UTR	1	3374	.	-	.	ID=CalsaE_EVm000094t1:159-8705.p2.utr3p1;Parent=CalsaE_EVm000094t1:159-8705.p2
+
+CalsaE_EVm000094t1:159-8705	transdecoder	gene	1	8547	.	-	.	ID=GENE.CalsaE_EVm000094t1:159-8705~~CalsaE_EVm000094t1:159-8705.p3;Name=ORF%20type%3Acomplete%20len%3A115%20%28-%29
+CalsaE_EVm000094t1:159-8705	transdecoder	mRNA	1	8547	.	-	.	ID=CalsaE_EVm000094t1:159-8705.p3;Parent=GENE.CalsaE_EVm000094t1:159-8705~~CalsaE_EVm000094t1:159-8705.p3;Name=ORF%20type%3Acomplete%20len%3A115%20%28-%29
+CalsaE_EVm000094t1:159-8705	transdecoder	five_prime_UTR	3075	8547	.	-	.	ID=CalsaE_EVm000094t1:159-8705.p3.utr5p1;Parent=CalsaE_EVm000094t1:159-8705.p3
+CalsaE_EVm000094t1:159-8705	transdecoder	exon	1	8547	.	-	.	ID=CalsaE_EVm000094t1:159-8705.p3.exon1;Parent=CalsaE_EVm000094t1:159-8705.p3
+CalsaE_EVm000094t1:159-8705	transdecoder	CDS	2730	3074	.	-	0	ID=cds.CalsaE_EVm000094t1:159-8705.p3;Parent=CalsaE_EVm000094t1:159-8705.p3
+CalsaE_EVm000094t1:159-8705	transdecoder	three_prime_UTR	1	2729	.	-	.	ID=CalsaE_EVm000094t1:159-8705.p3.utr3p1;Parent=CalsaE_EVm000094t1:159-8705.p3
+
+CalsaE_EVm000094t1:159-8705	transdecoder	gene	1	8547	.	-	.	ID=GENE.CalsaE_EVm000094t1:159-8705~~CalsaE_EVm000094t1:159-8705.p4;Name=ORF%20type%3Acomplete%20len%3A111%20%28-%29
+CalsaE_EVm000094t1:159-8705	transdecoder	mRNA	1	8547	.	-	.	ID=CalsaE_EVm000094t1:159-8705.p4;Parent=GENE.CalsaE_EVm000094t1:159-8705~~CalsaE_EVm000094t1:159-8705.p4;Name=ORF%20type%3Acomplete%20len%3A111%20%28-%29
+CalsaE_EVm000094t1:159-8705	transdecoder	five_prime_UTR	5268	8547	.	-	.	ID=CalsaE_EVm000094t1:159-8705.p4.utr5p1;Parent=CalsaE_EVm000094t1:159-8705.p4
+CalsaE_EVm000094t1:159-8705	transdecoder	exon	1	8547	.	-	.	ID=CalsaE_EVm000094t1:159-8705.p4.exon1;Parent=CalsaE_EVm000094t1:159-8705.p4
+CalsaE_EVm000094t1:159-8705	transdecoder	CDS	4935	5267	.	-	0	ID=cds.CalsaE_EVm000094t1:159-8705.p4;Parent=CalsaE_EVm000094t1:159-8705.p4
+CalsaE_EVm000094t1:159-8705	transdecoder	three_prime_UTR	1	4934	.	-	.	ID=CalsaE_EVm000094t1:159-8705.p4.utr3p1;Parent=CalsaE_EVm000094t1:159-8705.p4
+
+CalsaE_EVm000094t1:159-8705	transdecoder	gene	1	8547	.	-	.	ID=GENE.CalsaE_EVm000094t1:159-8705~~CalsaE_EVm000094t1:159-8705.p5;Name=ORF%20type%3Acomplete%20len%3A104%20%28-%29
+CalsaE_EVm000094t1:159-8705	transdecoder	mRNA	1	8547	.	-	.	ID=CalsaE_EVm000094t1:159-8705.p5;Parent=GENE.CalsaE_EVm000094t1:159-8705~~CalsaE_EVm000094t1:159-8705.p5;Name=ORF%20type%3Acomplete%20len%3A104%20%28-%29
+CalsaE_EVm000094t1:159-8705	transdecoder	five_prime_UTR	4727	8547	.	-	.	ID=CalsaE_EVm000094t1:159-8705.p5.utr5p1;Parent=CalsaE_EVm000094t1:159-8705.p5
+CalsaE_EVm000094t1:159-8705	transdecoder	exon	1	8547	.	-	.	ID=CalsaE_EVm000094t1:159-8705.p5.exon1;Parent=CalsaE_EVm000094t1:159-8705.p5
+CalsaE_EVm000094t1:159-8705	transdecoder	CDS	4415	4726	.	-	0	ID=cds.CalsaE_EVm000094t1:159-8705.p5;Parent=CalsaE_EVm000094t1:159-8705.p5
+CalsaE_EVm000094t1:159-8705	transdecoder	three_prime_UTR	1	4414	.	-	.	ID=CalsaE_EVm000094t1:159-8705.p5.utr3p1;Parent=CalsaE_EVm000094t1:159-8705.p5
+
+CalsaE_EVm001353t1:88-3270	transdecoder	gene	1	3183	.	+	.	ID=GENE.CalsaE_EVm001353t1:88-3270~~CalsaE_EVm001353t1:88-3270.p1;Name=ORF%20type%3A3prime_partial%20len%3A1062%20%28%2B%29
+CalsaE_EVm001353t1:88-3270	transdecoder	mRNA	1	3183	.	+	.	ID=CalsaE_EVm001353t1:88-3270.p1;Parent=GENE.CalsaE_EVm001353t1:88-3270~~CalsaE_EVm001353t1:88-3270.p1;Name=ORF%20type%3A3prime_partial%20len%3A1062%20%28%2B%29
+CalsaE_EVm001353t1:88-3270	transdecoder	exon	1	3183	.	+	.	ID=CalsaE_EVm001353t1:88-3270.p1.exon1;Parent=CalsaE_EVm001353t1:88-3270.p1
+CalsaE_EVm001353t1:88-3270	transdecoder	CDS	1	3183	.	+	0	ID=cds.CalsaE_EVm001353t1:88-3270.p1;Parent=CalsaE_EVm001353t1:88-3270.p1;3_prime_partial=true
+
+CalsaE_EVm001353t1:88-3270	transdecoder	gene	1	3183	.	-	.	ID=GENE.CalsaE_EVm001353t1:88-3270~~CalsaE_EVm001353t1:88-3270.p2;Name=ORF%20type%3Acomplete%20len%3A141%20%28-%29
+CalsaE_EVm001353t1:88-3270	transdecoder	mRNA	1	3183	.	-	.	ID=CalsaE_EVm001353t1:88-3270.p2;Parent=GENE.CalsaE_EVm001353t1:88-3270~~CalsaE_EVm001353t1:88-3270.p2;Name=ORF%20type%3Acomplete%20len%3A141%20%28-%29
+CalsaE_EVm001353t1:88-3270	transdecoder	five_prime_UTR	2316	3183	.	-	.	ID=CalsaE_EVm001353t1:88-3270.p2.utr5p1;Parent=CalsaE_EVm001353t1:88-3270.p2
+CalsaE_EVm001353t1:88-3270	transdecoder	exon	1	3183	.	-	.	ID=CalsaE_EVm001353t1:88-3270.p2.exon1;Parent=CalsaE_EVm001353t1:88-3270.p2
+CalsaE_EVm001353t1:88-3270	transdecoder	CDS	1893	2315	.	-	0	ID=cds.CalsaE_EVm001353t1:88-3270.p2;Parent=CalsaE_EVm001353t1:88-3270.p2
+CalsaE_EVm001353t1:88-3270	transdecoder	three_prime_UTR	1	1892	.	-	.	ID=CalsaE_EVm001353t1:88-3270.p2.utr3p1;Parent=CalsaE_EVm001353t1:88-3270.p2
+
+CalsaE_EVm001353t1:88-3270	transdecoder	gene	1	3183	.	-	.	ID=GENE.CalsaE_EVm001353t1:88-3270~~CalsaE_EVm001353t1:88-3270.p3;Name=ORF%20type%3A3prime_partial%20len%3A122%20%28-%29
+CalsaE_EVm001353t1:88-3270	transdecoder	mRNA	1	3183	.	-	.	ID=CalsaE_EVm001353t1:88-3270.p3;Parent=GENE.CalsaE_EVm001353t1:88-3270~~CalsaE_EVm001353t1:88-3270.p3;Name=ORF%20type%3A3prime_partial%20len%3A122%20%28-%29
+CalsaE_EVm001353t1:88-3270	transdecoder	five_prime_UTR	366	3183	.	-	.	ID=CalsaE_EVm001353t1:88-3270.p3.utr5p1;Parent=CalsaE_EVm001353t1:88-3270.p3
+CalsaE_EVm001353t1:88-3270	transdecoder	exon	1	3183	.	-	.	ID=CalsaE_EVm001353t1:88-3270.p3.exon1;Parent=CalsaE_EVm001353t1:88-3270.p3
+CalsaE_EVm001353t1:88-3270	transdecoder	CDS	3	365	.	-	0	ID=cds.CalsaE_EVm001353t1:88-3270.p3;Parent=CalsaE_EVm001353t1:88-3270.p3;3_prime_partial=true
+
+CalsaE_EVm001353t1:88-3270	transdecoder	gene	1	3183	.	-	.	ID=GENE.CalsaE_EVm001353t1:88-3270~~CalsaE_EVm001353t1:88-3270.p4;Name=ORF%20type%3Acomplete%20len%3A112%20%28-%29
+CalsaE_EVm001353t1:88-3270	transdecoder	mRNA	1	3183	.	-	.	ID=CalsaE_EVm001353t1:88-3270.p4;Parent=GENE.CalsaE_EVm001353t1:88-3270~~CalsaE_EVm001353t1:88-3270.p4;Name=ORF%20type%3Acomplete%20len%3A112%20%28-%29
+CalsaE_EVm001353t1:88-3270	transdecoder	five_prime_UTR	1353	3183	.	-	.	ID=CalsaE_EVm001353t1:88-3270.p4.utr5p1;Parent=CalsaE_EVm001353t1:88-3270.p4
+CalsaE_EVm001353t1:88-3270	transdecoder	exon	1	3183	.	-	.	ID=CalsaE_EVm001353t1:88-3270.p4.exon1;Parent=CalsaE_EVm001353t1:88-3270.p4
+CalsaE_EVm001353t1:88-3270	transdecoder	CDS	1017	1352	.	-	0	ID=cds.CalsaE_EVm001353t1:88-3270.p4;Parent=CalsaE_EVm001353t1:88-3270.p4
+CalsaE_EVm001353t1:88-3270	transdecoder	three_prime_UTR	1	1016	.	-	.	ID=CalsaE_EVm001353t1:88-3270.p4.utr3p1;Parent=CalsaE_EVm001353t1:88-3270.p4
+
+CalsaE_EVm000125t1:400-8376	transdecoder	gene	1	7977	.	+	.	ID=GENE.CalsaE_EVm000125t1:400-8376~~CalsaE_EVm000125t1:400-8376.p1;Name=ORF%20type%3A3prime_partial%20len%3A2660%20%28%2B%29
+CalsaE_EVm000125t1:400-8376	transdecoder	mRNA	1	7977	.	+	.	ID=CalsaE_EVm000125t1:400-8376.p1;Parent=GENE.CalsaE_EVm000125t1:400-8376~~CalsaE_EVm000125t1:400-8376.p1;Name=ORF%20type%3A3prime_partial%20len%3A2660%20%28%2B%29
+CalsaE_EVm000125t1:400-8376	transdecoder	exon	1	7977	.	+	.	ID=CalsaE_EVm000125t1:400-8376.p1.exon1;Parent=CalsaE_EVm000125t1:400-8376.p1
+CalsaE_EVm000125t1:400-8376	transdecoder	CDS	1	7977	.	+	0	ID=cds.CalsaE_EVm000125t1:400-8376.p1;Parent=CalsaE_EVm000125t1:400-8376.p1;3_prime_partial=true
+
+CalsaE_EVm000125t1:400-8376	transdecoder	gene	1	7977	.	-	.	ID=GENE.CalsaE_EVm000125t1:400-8376~~CalsaE_EVm000125t1:400-8376.p2;Name=ORF%20type%3Acomplete%20len%3A150%20%28-%29
+CalsaE_EVm000125t1:400-8376	transdecoder	mRNA	1	7977	.	-	.	ID=CalsaE_EVm000125t1:400-8376.p2;Parent=GENE.CalsaE_EVm000125t1:400-8376~~CalsaE_EVm000125t1:400-8376.p2;Name=ORF%20type%3Acomplete%20len%3A150%20%28-%29
+CalsaE_EVm000125t1:400-8376	transdecoder	five_prime_UTR	4878	7977	.	-	.	ID=CalsaE_EVm000125t1:400-8376.p2.utr5p1;Parent=CalsaE_EVm000125t1:400-8376.p2
+CalsaE_EVm000125t1:400-8376	transdecoder	exon	1	7977	.	-	.	ID=CalsaE_EVm000125t1:400-8376.p2.exon1;Parent=CalsaE_EVm000125t1:400-8376.p2
+CalsaE_EVm000125t1:400-8376	transdecoder	CDS	4428	4877	.	-	0	ID=cds.CalsaE_EVm000125t1:400-8376.p2;Parent=CalsaE_EVm000125t1:400-8376.p2
+CalsaE_EVm000125t1:400-8376	transdecoder	three_prime_UTR	1	4427	.	-	.	ID=CalsaE_EVm000125t1:400-8376.p2.utr3p1;Parent=CalsaE_EVm000125t1:400-8376.p2
+
+CalsaE_EVm000125t1:400-8376	transdecoder	gene	1	7977	.	-	.	ID=GENE.CalsaE_EVm000125t1:400-8376~~CalsaE_EVm000125t1:400-8376.p3;Name=ORF%20type%3Acomplete%20len%3A122%20%28-%29
+CalsaE_EVm000125t1:400-8376	transdecoder	mRNA	1	7977	.	-	.	ID=CalsaE_EVm000125t1:400-8376.p3;Parent=GENE.CalsaE_EVm000125t1:400-8376~~CalsaE_EVm000125t1:400-8376.p3;Name=ORF%20type%3Acomplete%20len%3A122%20%28-%29
+CalsaE_EVm000125t1:400-8376	transdecoder	five_prime_UTR	1189	7977	.	-	.	ID=CalsaE_EVm000125t1:400-8376.p3.utr5p1;Parent=CalsaE_EVm000125t1:400-8376.p3
+CalsaE_EVm000125t1:400-8376	transdecoder	exon	1	7977	.	-	.	ID=CalsaE_EVm000125t1:400-8376.p3.exon1;Parent=CalsaE_EVm000125t1:400-8376.p3
+CalsaE_EVm000125t1:400-8376	transdecoder	CDS	823	1188	.	-	0	ID=cds.CalsaE_EVm000125t1:400-8376.p3;Parent=CalsaE_EVm000125t1:400-8376.p3
+CalsaE_EVm000125t1:400-8376	transdecoder	three_prime_UTR	1	822	.	-	.	ID=CalsaE_EVm000125t1:400-8376.p3.utr3p1;Parent=CalsaE_EVm000125t1:400-8376.p3
+
+CalsaE_EVm000125t1:400-8376	transdecoder	gene	1	7977	.	-	.	ID=GENE.CalsaE_EVm000125t1:400-8376~~CalsaE_EVm000125t1:400-8376.p4;Name=ORF%20type%3Acomplete%20len%3A111%20%28-%29
+CalsaE_EVm000125t1:400-8376	transdecoder	mRNA	1	7977	.	-	.	ID=CalsaE_EVm000125t1:400-8376.p4;Parent=GENE.CalsaE_EVm000125t1:400-8376~~CalsaE_EVm000125t1:400-8376.p4;Name=ORF%20type%3Acomplete%20len%3A111%20%28-%29
+CalsaE_EVm000125t1:400-8376	transdecoder	five_prime_UTR	3795	7977	.	-	.	ID=CalsaE_EVm000125t1:400-8376.p4.utr5p1;Parent=CalsaE_EVm000125t1:400-8376.p4
+CalsaE_EVm000125t1:400-8376	transdecoder	exon	1	7977	.	-	.	ID=CalsaE_EVm000125t1:400-8376.p4.exon1;Parent=CalsaE_EVm000125t1:400-8376.p4
+CalsaE_EVm000125t1:400-8376	transdecoder	CDS	3462	3794	.	-	0	ID=cds.CalsaE_EVm000125t1:400-8376.p4;Parent=CalsaE_EVm000125t1:400-8376.p4
+CalsaE_EVm000125t1:400-8376	transdecoder	three_prime_UTR	1	3461	.	-	.	ID=CalsaE_EVm000125t1:400-8376.p4.utr3p1;Parent=CalsaE_EVm000125t1:400-8376.p4
+
+CalsaE_EVm000125t1:400-8376	transdecoder	gene	1	7977	.	-	.	ID=GENE.CalsaE_EVm000125t1:400-8376~~CalsaE_EVm000125t1:400-8376.p5;Name=ORF%20type%3Acomplete%20len%3A109%20%28-%29
+CalsaE_EVm000125t1:400-8376	transdecoder	mRNA	1	7977	.	-	.	ID=CalsaE_EVm000125t1:400-8376.p5;Parent=GENE.CalsaE_EVm000125t1:400-8376~~CalsaE_EVm000125t1:400-8376.p5;Name=ORF%20type%3Acomplete%20len%3A109%20%28-%29
+CalsaE_EVm000125t1:400-8376	transdecoder	five_prime_UTR	6888	7977	.	-	.	ID=CalsaE_EVm000125t1:400-8376.p5.utr5p1;Parent=CalsaE_EVm000125t1:400-8376.p5
+CalsaE_EVm000125t1:400-8376	transdecoder	exon	1	7977	.	-	.	ID=CalsaE_EVm000125t1:400-8376.p5.exon1;Parent=CalsaE_EVm000125t1:400-8376.p5
+CalsaE_EVm000125t1:400-8376	transdecoder	CDS	6561	6887	.	-	0	ID=cds.CalsaE_EVm000125t1:400-8376.p5;Parent=CalsaE_EVm000125t1:400-8376.p5
+CalsaE_EVm000125t1:400-8376	transdecoder	three_prime_UTR	1	6560	.	-	.	ID=CalsaE_EVm000125t1:400-8376.p5.utr3p1;Parent=CalsaE_EVm000125t1:400-8376.p5
+
+CalsaE_EVm000125t1:400-8376	transdecoder	gene	1	7977	.	-	.	ID=GENE.CalsaE_EVm000125t1:400-8376~~CalsaE_EVm000125t1:400-8376.p6;Name=ORF%20type%3Acomplete%20len%3A106%20%28-%29
+CalsaE_EVm000125t1:400-8376	transdecoder	mRNA	1	7977	.	-	.	ID=CalsaE_EVm000125t1:400-8376.p6;Parent=GENE.CalsaE_EVm000125t1:400-8376~~CalsaE_EVm000125t1:400-8376.p6;Name=ORF%20type%3Acomplete%20len%3A106%20%28-%29
+CalsaE_EVm000125t1:400-8376	transdecoder	five_prime_UTR	6084	7977	.	-	.	ID=CalsaE_EVm000125t1:400-8376.p6.utr5p1;Parent=CalsaE_EVm000125t1:400-8376.p6
+CalsaE_EVm000125t1:400-8376	transdecoder	exon	1	7977	.	-	.	ID=CalsaE_EVm000125t1:400-8376.p6.exon1;Parent=CalsaE_EVm000125t1:400-8376.p6
+CalsaE_EVm000125t1:400-8376	transdecoder	CDS	5766	6083	.	-	0	ID=cds.CalsaE_EVm000125t1:400-8376.p6;Parent=CalsaE_EVm000125t1:400-8376.p6
+CalsaE_EVm000125t1:400-8376	transdecoder	three_prime_UTR	1	5765	.	-	.	ID=CalsaE_EVm000125t1:400-8376.p6.utr3p1;Parent=CalsaE_EVm000125t1:400-8376.p6
+
+CalsaE_EVm001054t1:324-3665	transdecoder	gene	1	3342	.	+	.	ID=GENE.CalsaE_EVm001054t1:324-3665~~CalsaE_EVm001054t1:324-3665.p1;Name=ORF%20type%3Ainternal%20len%3A1115%20%28%2B%29
+CalsaE_EVm001054t1:324-3665	transdecoder	mRNA	1	3342	.	+	.	ID=CalsaE_EVm001054t1:324-3665.p1;Parent=GENE.CalsaE_EVm001054t1:324-3665~~CalsaE_EVm001054t1:324-3665.p1;Name=ORF%20type%3Ainternal%20len%3A1115%20%28%2B%29
+CalsaE_EVm001054t1:324-3665	transdecoder	exon	1	3342	.	+	.	ID=CalsaE_EVm001054t1:324-3665.p1.exon1;Parent=CalsaE_EVm001054t1:324-3665.p1
+CalsaE_EVm001054t1:324-3665	transdecoder	CDS	1	3342	.	+	0	ID=cds.CalsaE_EVm001054t1:324-3665.p1;Parent=CalsaE_EVm001054t1:324-3665.p1;5_prime_partial=true;3_prime_partial=true
+
+CalsaE_EVm001054t1:324-3665	transdecoder	gene	1	3342	.	-	.	ID=GENE.CalsaE_EVm001054t1:324-3665~~CalsaE_EVm001054t1:324-3665.p2;Name=ORF%20type%3Acomplete%20len%3A176%20%28-%29
+CalsaE_EVm001054t1:324-3665	transdecoder	mRNA	1	3342	.	-	.	ID=CalsaE_EVm001054t1:324-3665.p2;Parent=GENE.CalsaE_EVm001054t1:324-3665~~CalsaE_EVm001054t1:324-3665.p2;Name=ORF%20type%3Acomplete%20len%3A176%20%28-%29
+CalsaE_EVm001054t1:324-3665	transdecoder	five_prime_UTR	1713	3342	.	-	.	ID=CalsaE_EVm001054t1:324-3665.p2.utr5p1;Parent=CalsaE_EVm001054t1:324-3665.p2
+CalsaE_EVm001054t1:324-3665	transdecoder	exon	1	3342	.	-	.	ID=CalsaE_EVm001054t1:324-3665.p2.exon1;Parent=CalsaE_EVm001054t1:324-3665.p2
+CalsaE_EVm001054t1:324-3665	transdecoder	CDS	1185	1712	.	-	0	ID=cds.CalsaE_EVm001054t1:324-3665.p2;Parent=CalsaE_EVm001054t1:324-3665.p2
+CalsaE_EVm001054t1:324-3665	transdecoder	three_prime_UTR	1	1184	.	-	.	ID=CalsaE_EVm001054t1:324-3665.p2.utr3p1;Parent=CalsaE_EVm001054t1:324-3665.p2
+
+CalsaE_EVm001054t1:324-3665	transdecoder	gene	1	3342	.	-	.	ID=GENE.CalsaE_EVm001054t1:324-3665~~CalsaE_EVm001054t1:324-3665.p3;Name=ORF%20type%3Acomplete%20len%3A112%20%28-%29
+CalsaE_EVm001054t1:324-3665	transdecoder	mRNA	1	3342	.	-	.	ID=CalsaE_EVm001054t1:324-3665.p3;Parent=GENE.CalsaE_EVm001054t1:324-3665~~CalsaE_EVm001054t1:324-3665.p3;Name=ORF%20type%3Acomplete%20len%3A112%20%28-%29
+CalsaE_EVm001054t1:324-3665	transdecoder	five_prime_UTR	3072	3342	.	-	.	ID=CalsaE_EVm001054t1:324-3665.p3.utr5p1;Parent=CalsaE_EVm001054t1:324-3665.p3
+CalsaE_EVm001054t1:324-3665	transdecoder	exon	1	3342	.	-	.	ID=CalsaE_EVm001054t1:324-3665.p3.exon1;Parent=CalsaE_EVm001054t1:324-3665.p3
+CalsaE_EVm001054t1:324-3665	transdecoder	CDS	2736	3071	.	-	0	ID=cds.CalsaE_EVm001054t1:324-3665.p3;Parent=CalsaE_EVm001054t1:324-3665.p3
+CalsaE_EVm001054t1:324-3665	transdecoder	three_prime_UTR	1	2735	.	-	.	ID=CalsaE_EVm001054t1:324-3665.p3.utr3p1;Parent=CalsaE_EVm001054t1:324-3665.p3
+
+CalsaE_EVm000403t1:3620-5206	transdecoder	gene	1	1587	.	+	.	ID=GENE.CalsaE_EVm000403t1:3620-5206~~CalsaE_EVm000403t1:3620-5206.p1;Name=ORF%20type%3Ainternal%20len%3A530%20%28%2B%29
+CalsaE_EVm000403t1:3620-5206	transdecoder	mRNA	1	1587	.	+	.	ID=CalsaE_EVm000403t1:3620-5206.p1;Parent=GENE.CalsaE_EVm000403t1:3620-5206~~CalsaE_EVm000403t1:3620-5206.p1;Name=ORF%20type%3Ainternal%20len%3A530%20%28%2B%29
+CalsaE_EVm000403t1:3620-5206	transdecoder	exon	1	1587	.	+	.	ID=CalsaE_EVm000403t1:3620-5206.p1.exon1;Parent=CalsaE_EVm000403t1:3620-5206.p1
+CalsaE_EVm000403t1:3620-5206	transdecoder	CDS	1	1587	.	+	0	ID=cds.CalsaE_EVm000403t1:3620-5206.p1;Parent=CalsaE_EVm000403t1:3620-5206.p1;5_prime_partial=true;3_prime_partial=true
+
+CalsaE_EVm000403t1:3620-5206	transdecoder	gene	1	1587	.	-	.	ID=GENE.CalsaE_EVm000403t1:3620-5206~~CalsaE_EVm000403t1:3620-5206.p2;Name=ORF%20type%3Acomplete%20len%3A195%20%28-%29
+CalsaE_EVm000403t1:3620-5206	transdecoder	mRNA	1	1587	.	-	.	ID=CalsaE_EVm000403t1:3620-5206.p2;Parent=GENE.CalsaE_EVm000403t1:3620-5206~~CalsaE_EVm000403t1:3620-5206.p2;Name=ORF%20type%3Acomplete%20len%3A195%20%28-%29
+CalsaE_EVm000403t1:3620-5206	transdecoder	five_prime_UTR	1329	1587	.	-	.	ID=CalsaE_EVm000403t1:3620-5206.p2.utr5p1;Parent=CalsaE_EVm000403t1:3620-5206.p2
+CalsaE_EVm000403t1:3620-5206	transdecoder	exon	1	1587	.	-	.	ID=CalsaE_EVm000403t1:3620-5206.p2.exon1;Parent=CalsaE_EVm000403t1:3620-5206.p2
+CalsaE_EVm000403t1:3620-5206	transdecoder	CDS	744	1328	.	-	0	ID=cds.CalsaE_EVm000403t1:3620-5206.p2;Parent=CalsaE_EVm000403t1:3620-5206.p2
+CalsaE_EVm000403t1:3620-5206	transdecoder	three_prime_UTR	1	743	.	-	.	ID=CalsaE_EVm000403t1:3620-5206.p2.utr3p1;Parent=CalsaE_EVm000403t1:3620-5206.p2
+
+CalsaE_EVm001051t1:101-3652	transdecoder	gene	1	3552	.	+	.	ID=GENE.CalsaE_EVm001051t1:101-3652~~CalsaE_EVm001051t1:101-3652.p1;Name=ORF%20type%3A3prime_partial%20len%3A1185%20%28%2B%29
+CalsaE_EVm001051t1:101-3652	transdecoder	mRNA	1	3552	.	+	.	ID=CalsaE_EVm001051t1:101-3652.p1;Parent=GENE.CalsaE_EVm001051t1:101-3652~~CalsaE_EVm001051t1:101-3652.p1;Name=ORF%20type%3A3prime_partial%20len%3A1185%20%28%2B%29
+CalsaE_EVm001051t1:101-3652	transdecoder	exon	1	3552	.	+	.	ID=CalsaE_EVm001051t1:101-3652.p1.exon1;Parent=CalsaE_EVm001051t1:101-3652.p1
+CalsaE_EVm001051t1:101-3652	transdecoder	CDS	1	3552	.	+	0	ID=cds.CalsaE_EVm001051t1:101-3652.p1;Parent=CalsaE_EVm001051t1:101-3652.p1;3_prime_partial=true
+
+CalsaE_EVm001051t1:101-3652	transdecoder	gene	1	3552	.	-	.	ID=GENE.CalsaE_EVm001051t1:101-3652~~CalsaE_EVm001051t1:101-3652.p2;Name=ORF%20type%3Acomplete%20len%3A149%20%28-%29
+CalsaE_EVm001051t1:101-3652	transdecoder	mRNA	1	3552	.	-	.	ID=CalsaE_EVm001051t1:101-3652.p2;Parent=GENE.CalsaE_EVm001051t1:101-3652~~CalsaE_EVm001051t1:101-3652.p2;Name=ORF%20type%3Acomplete%20len%3A149%20%28-%29
+CalsaE_EVm001051t1:101-3652	transdecoder	five_prime_UTR	2031	3552	.	-	.	ID=CalsaE_EVm001051t1:101-3652.p2.utr5p1;Parent=CalsaE_EVm001051t1:101-3652.p2
+CalsaE_EVm001051t1:101-3652	transdecoder	exon	1	3552	.	-	.	ID=CalsaE_EVm001051t1:101-3652.p2.exon1;Parent=CalsaE_EVm001051t1:101-3652.p2
+CalsaE_EVm001051t1:101-3652	transdecoder	CDS	1584	2030	.	-	0	ID=cds.CalsaE_EVm001051t1:101-3652.p2;Parent=CalsaE_EVm001051t1:101-3652.p2
+CalsaE_EVm001051t1:101-3652	transdecoder	three_prime_UTR	1	1583	.	-	.	ID=CalsaE_EVm001051t1:101-3652.p2.utr3p1;Parent=CalsaE_EVm001051t1:101-3652.p2
+
+CalsaE_EVm001051t1:101-3652	transdecoder	gene	1	3552	.	-	.	ID=GENE.CalsaE_EVm001051t1:101-3652~~CalsaE_EVm001051t1:101-3652.p3;Name=ORF%20type%3Acomplete%20len%3A129%20%28-%29
+CalsaE_EVm001051t1:101-3652	transdecoder	mRNA	1	3552	.	-	.	ID=CalsaE_EVm001051t1:101-3652.p3;Parent=GENE.CalsaE_EVm001051t1:101-3652~~CalsaE_EVm001051t1:101-3652.p3;Name=ORF%20type%3Acomplete%20len%3A129%20%28-%29
+CalsaE_EVm001051t1:101-3652	transdecoder	five_prime_UTR	753	3552	.	-	.	ID=CalsaE_EVm001051t1:101-3652.p3.utr5p1;Parent=CalsaE_EVm001051t1:101-3652.p3
+CalsaE_EVm001051t1:101-3652	transdecoder	exon	1	3552	.	-	.	ID=CalsaE_EVm001051t1:101-3652.p3.exon1;Parent=CalsaE_EVm001051t1:101-3652.p3
+CalsaE_EVm001051t1:101-3652	transdecoder	CDS	366	752	.	-	0	ID=cds.CalsaE_EVm001051t1:101-3652.p3;Parent=CalsaE_EVm001051t1:101-3652.p3
+CalsaE_EVm001051t1:101-3652	transdecoder	three_prime_UTR	1	365	.	-	.	ID=CalsaE_EVm001051t1:101-3652.p3.utr3p1;Parent=CalsaE_EVm001051t1:101-3652.p3
+
+CalsaE_EVm001051t1:101-3652	transdecoder	gene	1	3552	.	-	.	ID=GENE.CalsaE_EVm001051t1:101-3652~~CalsaE_EVm001051t1:101-3652.p4;Name=ORF%20type%3Acomplete%20len%3A113%20%28-%29
+CalsaE_EVm001051t1:101-3652	transdecoder	mRNA	1	3552	.	-	.	ID=CalsaE_EVm001051t1:101-3652.p4;Parent=GENE.CalsaE_EVm001051t1:101-3652~~CalsaE_EVm001051t1:101-3652.p4;Name=ORF%20type%3Acomplete%20len%3A113%20%28-%29
+CalsaE_EVm001051t1:101-3652	transdecoder	five_prime_UTR	2677	3552	.	-	.	ID=CalsaE_EVm001051t1:101-3652.p4.utr5p1;Parent=CalsaE_EVm001051t1:101-3652.p4
+CalsaE_EVm001051t1:101-3652	transdecoder	exon	1	3552	.	-	.	ID=CalsaE_EVm001051t1:101-3652.p4.exon1;Parent=CalsaE_EVm001051t1:101-3652.p4
+CalsaE_EVm001051t1:101-3652	transdecoder	CDS	2338	2676	.	-	0	ID=cds.CalsaE_EVm001051t1:101-3652.p4;Parent=CalsaE_EVm001051t1:101-3652.p4
+CalsaE_EVm001051t1:101-3652	transdecoder	three_prime_UTR	1	2337	.	-	.	ID=CalsaE_EVm001051t1:101-3652.p4.utr3p1;Parent=CalsaE_EVm001051t1:101-3652.p4
+
+CalsaE_EVm001853t1:62-2713	transdecoder	gene	1	2652	.	+	.	ID=GENE.CalsaE_EVm001853t1:62-2713~~CalsaE_EVm001853t1:62-2713.p1;Name=ORF%20type%3A3prime_partial%20len%3A885%20%28%2B%29
+CalsaE_EVm001853t1:62-2713	transdecoder	mRNA	1	2652	.	+	.	ID=CalsaE_EVm001853t1:62-2713.p1;Parent=GENE.CalsaE_EVm001853t1:62-2713~~CalsaE_EVm001853t1:62-2713.p1;Name=ORF%20type%3A3prime_partial%20len%3A885%20%28%2B%29
+CalsaE_EVm001853t1:62-2713	transdecoder	exon	1	2652	.	+	.	ID=CalsaE_EVm001853t1:62-2713.p1.exon1;Parent=CalsaE_EVm001853t1:62-2713.p1
+CalsaE_EVm001853t1:62-2713	transdecoder	CDS	1	2652	.	+	0	ID=cds.CalsaE_EVm001853t1:62-2713.p1;Parent=CalsaE_EVm001853t1:62-2713.p1;3_prime_partial=true
+
+CalsaE_EVm001853t1:62-2713	transdecoder	gene	1	2652	.	-	.	ID=GENE.CalsaE_EVm001853t1:62-2713~~CalsaE_EVm001853t1:62-2713.p2;Name=ORF%20type%3Acomplete%20len%3A106%20%28-%29
+CalsaE_EVm001853t1:62-2713	transdecoder	mRNA	1	2652	.	-	.	ID=CalsaE_EVm001853t1:62-2713.p2;Parent=GENE.CalsaE_EVm001853t1:62-2713~~CalsaE_EVm001853t1:62-2713.p2;Name=ORF%20type%3Acomplete%20len%3A106%20%28-%29
+CalsaE_EVm001853t1:62-2713	transdecoder	five_prime_UTR	1848	2652	.	-	.	ID=CalsaE_EVm001853t1:62-2713.p2.utr5p1;Parent=CalsaE_EVm001853t1:62-2713.p2
+CalsaE_EVm001853t1:62-2713	transdecoder	exon	1	2652	.	-	.	ID=CalsaE_EVm001853t1:62-2713.p2.exon1;Parent=CalsaE_EVm001853t1:62-2713.p2
+CalsaE_EVm001853t1:62-2713	transdecoder	CDS	1530	1847	.	-	0	ID=cds.CalsaE_EVm001853t1:62-2713.p2;Parent=CalsaE_EVm001853t1:62-2713.p2
+CalsaE_EVm001853t1:62-2713	transdecoder	three_prime_UTR	1	1529	.	-	.	ID=CalsaE_EVm001853t1:62-2713.p2.utr3p1;Parent=CalsaE_EVm001853t1:62-2713.p2
+
+CalsaE_EVm001853t1:62-2713	transdecoder	gene	1	2652	.	+	.	ID=GENE.CalsaE_EVm001853t1:62-2713~~CalsaE_EVm001853t1:62-2713.p3;Name=ORF%20type%3Acomplete%20len%3A102%20%28%2B%29
+CalsaE_EVm001853t1:62-2713	transdecoder	mRNA	1	2652	.	+	.	ID=CalsaE_EVm001853t1:62-2713.p3;Parent=GENE.CalsaE_EVm001853t1:62-2713~~CalsaE_EVm001853t1:62-2713.p3;Name=ORF%20type%3Acomplete%20len%3A102%20%28%2B%29
+CalsaE_EVm001853t1:62-2713	transdecoder	five_prime_UTR	1	640	.	+	.	ID=CalsaE_EVm001853t1:62-2713.p3.utr5p1;Parent=CalsaE_EVm001853t1:62-2713.p3
+CalsaE_EVm001853t1:62-2713	transdecoder	exon	1	2652	.	+	.	ID=CalsaE_EVm001853t1:62-2713.p3.exon1;Parent=CalsaE_EVm001853t1:62-2713.p3
+CalsaE_EVm001853t1:62-2713	transdecoder	CDS	641	946	.	+	0	ID=cds.CalsaE_EVm001853t1:62-2713.p3;Parent=CalsaE_EVm001853t1:62-2713.p3
+CalsaE_EVm001853t1:62-2713	transdecoder	three_prime_UTR	947	2652	.	+	.	ID=CalsaE_EVm001853t1:62-2713.p3.utr3p1;Parent=CalsaE_EVm001853t1:62-2713.p3
+
+CalsaE_EVm001598t1:2-2947	transdecoder	gene	1	2946	.	+	.	ID=GENE.CalsaE_EVm001598t1:2-2947~~CalsaE_EVm001598t1:2-2947.p1;Name=ORF%20type%3A3prime_partial%20len%3A983%20%28%2B%29
+CalsaE_EVm001598t1:2-2947	transdecoder	mRNA	1	2946	.	+	.	ID=CalsaE_EVm001598t1:2-2947.p1;Parent=GENE.CalsaE_EVm001598t1:2-2947~~CalsaE_EVm001598t1:2-2947.p1;Name=ORF%20type%3A3prime_partial%20len%3A983%20%28%2B%29
+CalsaE_EVm001598t1:2-2947	transdecoder	exon	1	2946	.	+	.	ID=CalsaE_EVm001598t1:2-2947.p1.exon1;Parent=CalsaE_EVm001598t1:2-2947.p1
+CalsaE_EVm001598t1:2-2947	transdecoder	CDS	1	2946	.	+	0	ID=cds.CalsaE_EVm001598t1:2-2947.p1;Parent=CalsaE_EVm001598t1:2-2947.p1;3_prime_partial=true
+
+CalsaE_EVm001640t1:196-3108	transdecoder	gene	1	2913	.	+	.	ID=GENE.CalsaE_EVm001640t1:196-3108~~CalsaE_EVm001640t1:196-3108.p1;Name=ORF%20type%3A3prime_partial%20len%3A972%20%28%2B%29
+CalsaE_EVm001640t1:196-3108	transdecoder	mRNA	1	2913	.	+	.	ID=CalsaE_EVm001640t1:196-3108.p1;Parent=GENE.CalsaE_EVm001640t1:196-3108~~CalsaE_EVm001640t1:196-3108.p1;Name=ORF%20type%3A3prime_partial%20len%3A972%20%28%2B%29
+CalsaE_EVm001640t1:196-3108	transdecoder	exon	1	2913	.	+	.	ID=CalsaE_EVm001640t1:196-3108.p1.exon1;Parent=CalsaE_EVm001640t1:196-3108.p1
+CalsaE_EVm001640t1:196-3108	transdecoder	CDS	1	2913	.	+	0	ID=cds.CalsaE_EVm001640t1:196-3108.p1;Parent=CalsaE_EVm001640t1:196-3108.p1;3_prime_partial=true
+
+CalsaE_EVm001640t1:196-3108	transdecoder	gene	1	2913	.	-	.	ID=GENE.CalsaE_EVm001640t1:196-3108~~CalsaE_EVm001640t1:196-3108.p2;Name=ORF%20type%3Acomplete%20len%3A171%20%28-%29
+CalsaE_EVm001640t1:196-3108	transdecoder	mRNA	1	2913	.	-	.	ID=CalsaE_EVm001640t1:196-3108.p2;Parent=GENE.CalsaE_EVm001640t1:196-3108~~CalsaE_EVm001640t1:196-3108.p2;Name=ORF%20type%3Acomplete%20len%3A171%20%28-%29
+CalsaE_EVm001640t1:196-3108	transdecoder	five_prime_UTR	583	2913	.	-	.	ID=CalsaE_EVm001640t1:196-3108.p2.utr5p1;Parent=CalsaE_EVm001640t1:196-3108.p2
+CalsaE_EVm001640t1:196-3108	transdecoder	exon	1	2913	.	-	.	ID=CalsaE_EVm001640t1:196-3108.p2.exon1;Parent=CalsaE_EVm001640t1:196-3108.p2
+CalsaE_EVm001640t1:196-3108	transdecoder	CDS	70	582	.	-	0	ID=cds.CalsaE_EVm001640t1:196-3108.p2;Parent=CalsaE_EVm001640t1:196-3108.p2
+CalsaE_EVm001640t1:196-3108	transdecoder	three_prime_UTR	1	69	.	-	.	ID=CalsaE_EVm001640t1:196-3108.p2.utr3p1;Parent=CalsaE_EVm001640t1:196-3108.p2
+
+CalsaE_EVm003791t1:57-1925	transdecoder	gene	1	1869	.	+	.	ID=GENE.CalsaE_EVm003791t1:57-1925~~CalsaE_EVm003791t1:57-1925.p1;Name=ORF%20type%3Ainternal%20len%3A624%20%28%2B%29
+CalsaE_EVm003791t1:57-1925	transdecoder	mRNA	1	1869	.	+	.	ID=CalsaE_EVm003791t1:57-1925.p1;Parent=GENE.CalsaE_EVm003791t1:57-1925~~CalsaE_EVm003791t1:57-1925.p1;Name=ORF%20type%3Ainternal%20len%3A624%20%28%2B%29
+CalsaE_EVm003791t1:57-1925	transdecoder	exon	1	1869	.	+	.	ID=CalsaE_EVm003791t1:57-1925.p1.exon1;Parent=CalsaE_EVm003791t1:57-1925.p1
+CalsaE_EVm003791t1:57-1925	transdecoder	CDS	1	1869	.	+	0	ID=cds.CalsaE_EVm003791t1:57-1925.p1;Parent=CalsaE_EVm003791t1:57-1925.p1;5_prime_partial=true;3_prime_partial=true
+
+CalsaE_EVm003791t1:57-1925	transdecoder	gene	1	1869	.	+	.	ID=GENE.CalsaE_EVm003791t1:57-1925~~CalsaE_EVm003791t1:57-1925.p2;Name=ORF%20type%3Acomplete%20len%3A321%20%28%2B%29
+CalsaE_EVm003791t1:57-1925	transdecoder	mRNA	1	1869	.	+	.	ID=CalsaE_EVm003791t1:57-1925.p2;Parent=GENE.CalsaE_EVm003791t1:57-1925~~CalsaE_EVm003791t1:57-1925.p2;Name=ORF%20type%3Acomplete%20len%3A321%20%28%2B%29
+CalsaE_EVm003791t1:57-1925	transdecoder	five_prime_UTR	1	286	.	+	.	ID=CalsaE_EVm003791t1:57-1925.p2.utr5p1;Parent=CalsaE_EVm003791t1:57-1925.p2
+CalsaE_EVm003791t1:57-1925	transdecoder	exon	1	1869	.	+	.	ID=CalsaE_EVm003791t1:57-1925.p2.exon1;Parent=CalsaE_EVm003791t1:57-1925.p2
+CalsaE_EVm003791t1:57-1925	transdecoder	CDS	287	1249	.	+	0	ID=cds.CalsaE_EVm003791t1:57-1925.p2;Parent=CalsaE_EVm003791t1:57-1925.p2
+CalsaE_EVm003791t1:57-1925	transdecoder	three_prime_UTR	1250	1869	.	+	.	ID=CalsaE_EVm003791t1:57-1925.p2.utr3p1;Parent=CalsaE_EVm003791t1:57-1925.p2
+
+CalsaE_EVm003791t1:57-1925	transdecoder	gene	1	1869	.	+	.	ID=GENE.CalsaE_EVm003791t1:57-1925~~CalsaE_EVm003791t1:57-1925.p3;Name=ORF%20type%3Acomplete%20len%3A125%20%28%2B%29
+CalsaE_EVm003791t1:57-1925	transdecoder	mRNA	1	1869	.	+	.	ID=CalsaE_EVm003791t1:57-1925.p3;Parent=GENE.CalsaE_EVm003791t1:57-1925~~CalsaE_EVm003791t1:57-1925.p3;Name=ORF%20type%3Acomplete%20len%3A125%20%28%2B%29
+CalsaE_EVm003791t1:57-1925	transdecoder	five_prime_UTR	1	1436	.	+	.	ID=CalsaE_EVm003791t1:57-1925.p3.utr5p1;Parent=CalsaE_EVm003791t1:57-1925.p3
+CalsaE_EVm003791t1:57-1925	transdecoder	exon	1	1869	.	+	.	ID=CalsaE_EVm003791t1:57-1925.p3.exon1;Parent=CalsaE_EVm003791t1:57-1925.p3
+CalsaE_EVm003791t1:57-1925	transdecoder	CDS	1437	1811	.	+	0	ID=cds.CalsaE_EVm003791t1:57-1925.p3;Parent=CalsaE_EVm003791t1:57-1925.p3
+CalsaE_EVm003791t1:57-1925	transdecoder	three_prime_UTR	1812	1869	.	+	.	ID=CalsaE_EVm003791t1:57-1925.p3.utr3p1;Parent=CalsaE_EVm003791t1:57-1925.p3
+
+CalsaE_EVm003791t1:57-1925	transdecoder	gene	1	1869	.	-	.	ID=GENE.CalsaE_EVm003791t1:57-1925~~CalsaE_EVm003791t1:57-1925.p4;Name=ORF%20type%3Acomplete%20len%3A117%20%28-%29
+CalsaE_EVm003791t1:57-1925	transdecoder	mRNA	1	1869	.	-	.	ID=CalsaE_EVm003791t1:57-1925.p4;Parent=GENE.CalsaE_EVm003791t1:57-1925~~CalsaE_EVm003791t1:57-1925.p4;Name=ORF%20type%3Acomplete%20len%3A117%20%28-%29
+CalsaE_EVm003791t1:57-1925	transdecoder	five_prime_UTR	1594	1869	.	-	.	ID=CalsaE_EVm003791t1:57-1925.p4.utr5p1;Parent=CalsaE_EVm003791t1:57-1925.p4
+CalsaE_EVm003791t1:57-1925	transdecoder	exon	1	1869	.	-	.	ID=CalsaE_EVm003791t1:57-1925.p4.exon1;Parent=CalsaE_EVm003791t1:57-1925.p4
+CalsaE_EVm003791t1:57-1925	transdecoder	CDS	1243	1593	.	-	0	ID=cds.CalsaE_EVm003791t1:57-1925.p4;Parent=CalsaE_EVm003791t1:57-1925.p4
+CalsaE_EVm003791t1:57-1925	transdecoder	three_prime_UTR	1	1242	.	-	.	ID=CalsaE_EVm003791t1:57-1925.p4.utr3p1;Parent=CalsaE_EVm003791t1:57-1925.p4
+
+CalsaE_EVm003791t1:57-1925	transdecoder	gene	1	1869	.	-	.	ID=GENE.CalsaE_EVm003791t1:57-1925~~CalsaE_EVm003791t1:57-1925.p5;Name=ORF%20type%3Acomplete%20len%3A103%20%28-%29
+CalsaE_EVm003791t1:57-1925	transdecoder	mRNA	1	1869	.	-	.	ID=CalsaE_EVm003791t1:57-1925.p5;Parent=GENE.CalsaE_EVm003791t1:57-1925~~CalsaE_EVm003791t1:57-1925.p5;Name=ORF%20type%3Acomplete%20len%3A103%20%28-%29
+CalsaE_EVm003791t1:57-1925	transdecoder	five_prime_UTR	946	1869	.	-	.	ID=CalsaE_EVm003791t1:57-1925.p5.utr5p1;Parent=CalsaE_EVm003791t1:57-1925.p5
+CalsaE_EVm003791t1:57-1925	transdecoder	exon	1	1869	.	-	.	ID=CalsaE_EVm003791t1:57-1925.p5.exon1;Parent=CalsaE_EVm003791t1:57-1925.p5
+CalsaE_EVm003791t1:57-1925	transdecoder	CDS	637	945	.	-	0	ID=cds.CalsaE_EVm003791t1:57-1925.p5;Parent=CalsaE_EVm003791t1:57-1925.p5
+CalsaE_EVm003791t1:57-1925	transdecoder	three_prime_UTR	1	636	.	-	.	ID=CalsaE_EVm003791t1:57-1925.p5.utr3p1;Parent=CalsaE_EVm003791t1:57-1925.p5
+
+CalsaE_EVm003181t1:208-2139	transdecoder	gene	1	1932	.	+	.	ID=GENE.CalsaE_EVm003181t1:208-2139~~CalsaE_EVm003181t1:208-2139.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29
+CalsaE_EVm003181t1:208-2139	transdecoder	mRNA	1	1932	.	+	.	ID=CalsaE_EVm003181t1:208-2139.p1;Parent=GENE.CalsaE_EVm003181t1:208-2139~~CalsaE_EVm003181t1:208-2139.p1;Name=ORF%20type%3Ainternal%20len%3A645%20%28%2B%29
+CalsaE_EVm003181t1:208-2139	transdecoder	exon	1	1932	.	+	.	ID=CalsaE_EVm003181t1:208-2139.p1.exon1;Parent=CalsaE_EVm003181t1:208-2139.p1
+CalsaE_EVm003181t1:208-2139	transdecoder	CDS	1	1932	.	+	0	ID=cds.CalsaE_EVm003181t1:208-2139.p1;Parent=CalsaE_EVm003181t1:208-2139.p1;5_prime_partial=true;3_prime_partial=true
+
+CalsaE_EVm003181t1:208-2139	transdecoder	gene	1	1932	.	-	.	ID=GENE.CalsaE_EVm003181t1:208-2139~~CalsaE_EVm003181t1:208-2139.p2;Name=ORF%20type%3Acomplete%20len%3A150%20%28-%29
+CalsaE_EVm003181t1:208-2139	transdecoder	mRNA	1	1932	.	-	.	ID=CalsaE_EVm003181t1:208-2139.p2;Parent=GENE.CalsaE_EVm003181t1:208-2139~~CalsaE_EVm003181t1:208-2139.p2;Name=ORF%20type%3Acomplete%20len%3A150%20%28-%29
+CalsaE_EVm003181t1:208-2139	transdecoder	five_prime_UTR	894	1932	.	-	.	ID=CalsaE_EVm003181t1:208-2139.p2.utr5p1;Parent=CalsaE_EVm003181t1:208-2139.p2
+CalsaE_EVm003181t1:208-2139	transdecoder	exon	1	1932	.	-	.	ID=CalsaE_EVm003181t1:208-2139.p2.exon1;Parent=CalsaE_EVm003181t1:208-2139.p2
+CalsaE_EVm003181t1:208-2139	transdecoder	CDS	444	893	.	-	0	ID=cds.CalsaE_EVm003181t1:208-2139.p2;Parent=CalsaE_EVm003181t1:208-2139.p2
+CalsaE_EVm003181t1:208-2139	transdecoder	three_prime_UTR	1	443	.	-	.	ID=CalsaE_EVm003181t1:208-2139.p2.utr3p1;Parent=CalsaE_EVm003181t1:208-2139.p2
+
+CalsaE_EVm000626t1:104-4411	transdecoder	gene	1	4308	.	+	.	ID=GENE.CalsaE_EVm000626t1:104-4411~~CalsaE_EVm000626t1:104-4411.p1;Name=ORF%20type%3Ainternal%20len%3A1437%20%28%2B%29
+CalsaE_EVm000626t1:104-4411	transdecoder	mRNA	1	4308	.	+	.	ID=CalsaE_EVm000626t1:104-4411.p1;Parent=GENE.CalsaE_EVm000626t1:104-4411~~CalsaE_EVm000626t1:104-4411.p1;Name=ORF%20type%3Ainternal%20len%3A1437%20%28%2B%29
+CalsaE_EVm000626t1:104-4411	transdecoder	exon	1	4308	.	+	.	ID=CalsaE_EVm000626t1:104-4411.p1.exon1;Parent=CalsaE_EVm000626t1:104-4411.p1
+CalsaE_EVm000626t1:104-4411	transdecoder	CDS	1	4308	.	+	0	ID=cds.CalsaE_EVm000626t1:104-4411.p1;Parent=CalsaE_EVm000626t1:104-4411.p1;5_prime_partial=true;3_prime_partial=true
+
+CalsaE_EVm001268t1:9-3287	transdecoder	gene	1	3279	.	+	.	ID=GENE.CalsaE_EVm001268t1:9-3287~~CalsaE_EVm001268t1:9-3287.p1;Name=ORF%20type%3A3prime_partial%20len%3A1094%20%28%2B%29
+CalsaE_EVm001268t1:9-3287	transdecoder	mRNA	1	3279	.	+	.	ID=CalsaE_EVm001268t1:9-3287.p1;Parent=GENE.CalsaE_EVm001268t1:9-3287~~CalsaE_EVm001268t1:9-3287.p1;Name=ORF%20type%3A3prime_partial%20len%3A1094%20%28%2B%29
+CalsaE_EVm001268t1:9-3287	transdecoder	exon	1	3279	.	+	.	ID=CalsaE_EVm001268t1:9-3287.p1.exon1;Parent=CalsaE_EVm001268t1:9-3287.p1
+CalsaE_EVm001268t1:9-3287	transdecoder	CDS	1	3279	.	+	0	ID=cds.CalsaE_EVm001268t1:9-3287.p1;Parent=CalsaE_EVm001268t1:9-3287.p1;3_prime_partial=true
+
+CalsaE_EVm001268t1:9-3287	transdecoder	gene	1	3279	.	-	.	ID=GENE.CalsaE_EVm001268t1:9-3287~~CalsaE_EVm001268t1:9-3287.p2;Name=ORF%20type%3Acomplete%20len%3A184%20%28-%29
+CalsaE_EVm001268t1:9-3287	transdecoder	mRNA	1	3279	.	-	.	ID=CalsaE_EVm001268t1:9-3287.p2;Parent=GENE.CalsaE_EVm001268t1:9-3287~~CalsaE_EVm001268t1:9-3287.p2;Name=ORF%20type%3Acomplete%20len%3A184%20%28-%29
+CalsaE_EVm001268t1:9-3287	transdecoder	five_prime_UTR	3031	3279	.	-	.	ID=CalsaE_EVm001268t1:9-3287.p2.utr5p1;Parent=CalsaE_EVm001268t1:9-3287.p2
+CalsaE_EVm001268t1:9-3287	transdecoder	exon	1	3279	.	-	.	ID=CalsaE_EVm001268t1:9-3287.p2.exon1;Parent=CalsaE_EVm001268t1:9-3287.p2
+CalsaE_EVm001268t1:9-3287	transdecoder	CDS	2479	3030	.	-	0	ID=cds.CalsaE_EVm001268t1:9-3287.p2;Parent=CalsaE_EVm001268t1:9-3287.p2
+CalsaE_EVm001268t1:9-3287	transdecoder	three_prime_UTR	1	2478	.	-	.	ID=CalsaE_EVm001268t1:9-3287.p2.utr3p1;Parent=CalsaE_EVm001268t1:9-3287.p2
+
+CalsaE_EVm000163t1:54-7178	transdecoder	gene	1	7125	.	+	.	ID=GENE.CalsaE_EVm000163t1:54-7178~~CalsaE_EVm000163t1:54-7178.p1;Name=ORF%20type%3A3prime_partial%20len%3A2376%20%28%2B%29
+CalsaE_EVm000163t1:54-7178	transdecoder	mRNA	1	7125	.	+	.	ID=CalsaE_EVm000163t1:54-7178.p1;Parent=GENE.CalsaE_EVm000163t1:54-7178~~CalsaE_EVm000163t1:54-7178.p1;Name=ORF%20type%3A3prime_partial%20len%3A2376%20%28%2B%29
+CalsaE_EVm000163t1:54-7178	transdecoder	exon	1	7125	.	+	.	ID=CalsaE_EVm000163t1:54-7178.p1.exon1;Parent=CalsaE_EVm000163t1:54-7178.p1
+CalsaE_EVm000163t1:54-7178	transdecoder	CDS	1	7125	.	+	0	ID=cds.CalsaE_EVm000163t1:54-7178.p1;Parent=CalsaE_EVm000163t1:54-7178.p1;3_prime_partial=true
+
+CalsaE_EVm000163t1:54-7178	transdecoder	gene	1	7125	.	-	.	ID=GENE.CalsaE_EVm000163t1:54-7178~~CalsaE_EVm000163t1:54-7178.p2;Name=ORF%20type%3Acomplete%20len%3A161%20%28-%29
+CalsaE_EVm000163t1:54-7178	transdecoder	mRNA	1	7125	.	-	.	ID=CalsaE_EVm000163t1:54-7178.p2;Parent=GENE.CalsaE_EVm000163t1:54-7178~~CalsaE_EVm000163t1:54-7178.p2;Name=ORF%20type%3Acomplete%20len%3A161%20%28-%29
+CalsaE_EVm000163t1:54-7178	transdecoder	five_prime_UTR	1039	7125	.	-	.	ID=CalsaE_EVm000163t1:54-7178.p2.utr5p1;Parent=CalsaE_EVm000163t1:54-7178.p2
+CalsaE_EVm000163t1:54-7178	transdecoder	exon	1	7125	.	-	.	ID=CalsaE_EVm000163t1:54-7178.p2.exon1;Parent=CalsaE_EVm000163t1:54-7178.p2
+CalsaE_EVm000163t1:54-7178	transdecoder	CDS	556	1038	.	-	0	ID=cds.CalsaE_EVm000163t1:54-7178.p2;Parent=CalsaE_EVm000163t1:54-7178.p2
+CalsaE_EVm000163t1:54-7178	transdecoder	three_prime_UTR	1	555	.	-	.	ID=CalsaE_EVm000163t1:54-7178.p2.utr3p1;Parent=CalsaE_EVm000163t1:54-7178.p2
+
+CalsaE_EVm000163t1:54-7178	transdecoder	gene	1	7125	.	-	.	ID=GENE.CalsaE_EVm000163t1:54-7178~~CalsaE_EVm000163t1:54-7178.p3;Name=ORF%20type%3Acomplete%20len%3A156%20%28-%29
+CalsaE_EVm000163t1:54-7178	transdecoder	mRNA	1	7125	.	-	.	ID=CalsaE_EVm000163t1:54-7178.p3;Parent=GENE.CalsaE_EVm000163t1:54-7178~~CalsaE_EVm000163t1:54-7178.p3;Name=ORF%20type%3Acomplete%20len%3A156%20%28-%29
+CalsaE_EVm000163t1:54-7178	transdecoder	five_prime_UTR	2623	7125	.	-	.	ID=CalsaE_EVm000163t1:54-7178.p3.utr5p1;Parent=CalsaE_EVm000163t1:54-7178.p3
+CalsaE_EVm000163t1:54-7178	transdecoder	exon	1	7125	.	-	.	ID=CalsaE_EVm000163t1:54-7178.p3.exon1;Parent=CalsaE_EVm000163t1:54-7178.p3
+CalsaE_EVm000163t1:54-7178	transdecoder	CDS	2155	2622	.	-	0	ID=cds.CalsaE_EVm000163t1:54-7178.p3;Parent=CalsaE_EVm000163t1:54-7178.p3
+CalsaE_EVm000163t1:54-7178	transdecoder	three_prime_UTR	1	2154	.	-	.	ID=CalsaE_EVm000163t1:54-7178.p3.utr3p1;Parent=CalsaE_EVm000163t1:54-7178.p3
+
+CalsaE_EVm000163t1:54-7178	transdecoder	gene	1	7125	.	-	.	ID=GENE.CalsaE_EVm000163t1:54-7178~~CalsaE_EVm000163t1:54-7178.p4;Name=ORF%20type%3Acomplete%20len%3A147%20%28-%29
+CalsaE_EVm000163t1:54-7178	transdecoder	mRNA	1	7125	.	-	.	ID=CalsaE_EVm000163t1:54-7178.p4;Parent=GENE.CalsaE_EVm000163t1:54-7178~~CalsaE_EVm000163t1:54-7178.p4;Name=ORF%20type%3Acomplete%20len%3A147%20%28-%29
+CalsaE_EVm000163t1:54-7178	transdecoder	five_prime_UTR	1804	7125	.	-	.	ID=CalsaE_EVm000163t1:54-7178.p4.utr5p1;Parent=CalsaE_EVm000163t1:54-7178.p4
+CalsaE_EVm000163t1:54-7178	transdecoder	exon	1	7125	.	-	.	ID=CalsaE_EVm000163t1:54-7178.p4.exon1;Parent=CalsaE_EVm000163t1:54-7178.p4
+CalsaE_EVm000163t1:54-7178	transdecoder	CDS	1363	1803	.	-	0	ID=cds.CalsaE_EVm000163t1:54-7178.p4;Parent=CalsaE_EVm000163t1:54-7178.p4
+CalsaE_EVm000163t1:54-7178	transdecoder	three_prime_UTR	1	1362	.	-	.	ID=CalsaE_EVm000163t1:54-7178.p4.utr3p1;Parent=CalsaE_EVm000163t1:54-7178.p4
+
+CalsaE_EVm000163t1:54-7178	transdecoder	gene	1	7125	.	-	.	ID=GENE.CalsaE_EVm000163t1:54-7178~~CalsaE_EVm000163t1:54-7178.p5;Name=ORF%20type%3Acomplete%20len%3A122%20%28-%29
+CalsaE_EVm000163t1:54-7178	transdecoder	mRNA	1	7125	.	-	.	ID=CalsaE_EVm000163t1:54-7178.p5;Parent=GENE.CalsaE_EVm000163t1:54-7178~~CalsaE_EVm000163t1:54-7178.p5;Name=ORF%20type%3Acomplete%20len%3A122%20%28-%29
+CalsaE_EVm000163t1:54-7178	transdecoder	five_prime_UTR	6271	7125	.	-	.	ID=CalsaE_EVm000163t1:54-7178.p5.utr5p1;Parent=CalsaE_EVm000163t1:54-7178.p5
+CalsaE_EVm000163t1:54-7178	transdecoder	exon	1	7125	.	-	.	ID=CalsaE_EVm000163t1:54-7178.p5.exon1;Parent=CalsaE_EVm000163t1:54-7178.p5
+CalsaE_EVm000163t1:54-7178	transdecoder	CDS	5905	6270	.	-	0	ID=cds.CalsaE_EVm000163t1:54-7178.p5;Parent=CalsaE_EVm000163t1:54-7178.p5
+CalsaE_EVm000163t1:54-7178	transdecoder	three_prime_UTR	1	5904	.	-	.	ID=CalsaE_EVm000163t1:54-7178.p5.utr3p1;Parent=CalsaE_EVm000163t1:54-7178.p5
+
+CalsaE_EVm000163t1:54-7178	transdecoder	gene	1	7125	.	-	.	ID=GENE.CalsaE_EVm000163t1:54-7178~~CalsaE_EVm000163t1:54-7178.p6;Name=ORF%20type%3Acomplete%20len%3A122%20%28-%29
+CalsaE_EVm000163t1:54-7178	transdecoder	mRNA	1	7125	.	-	.	ID=CalsaE_EVm000163t1:54-7178.p6;Parent=GENE.CalsaE_EVm000163t1:54-7178~~CalsaE_EVm000163t1:54-7178.p6;Name=ORF%20type%3Acomplete%20len%3A122%20%28-%29
+CalsaE_EVm000163t1:54-7178	transdecoder	five_prime_UTR	408	7125	.	-	.	ID=CalsaE_EVm000163t1:54-7178.p6.utr5p1;Parent=CalsaE_EVm000163t1:54-7178.p6
+CalsaE_EVm000163t1:54-7178	transdecoder	exon	1	7125	.	-	.	ID=CalsaE_EVm000163t1:54-7178.p6.exon1;Parent=CalsaE_EVm000163t1:54-7178.p6
+CalsaE_EVm000163t1:54-7178	transdecoder	CDS	42	407	.	-	0	ID=cds.CalsaE_EVm000163t1:54-7178.p6;Parent=CalsaE_EVm000163t1:54-7178.p6
+CalsaE_EVm000163t1:54-7178	transdecoder	three_prime_UTR	1	41	.	-	.	ID=CalsaE_EVm000163t1:54-7178.p6.utr3p1;Parent=CalsaE_EVm000163t1:54-7178.p6
+
+CalsaE_EVm000163t1:54-7178	transdecoder	gene	1	7125	.	-	.	ID=GENE.CalsaE_EVm000163t1:54-7178~~CalsaE_EVm000163t1:54-7178.p7;Name=ORF%20type%3Acomplete%20len%3A105%20%28-%29
+CalsaE_EVm000163t1:54-7178	transdecoder	mRNA	1	7125	.	-	.	ID=CalsaE_EVm000163t1:54-7178.p7;Parent=GENE.CalsaE_EVm000163t1:54-7178~~CalsaE_EVm000163t1:54-7178.p7;Name=ORF%20type%3Acomplete%20len%3A105%20%28-%29
+CalsaE_EVm000163t1:54-7178	transdecoder	five_prime_UTR	4842	7125	.	-	.	ID=CalsaE_EVm000163t1:54-7178.p7.utr5p1;Parent=CalsaE_EVm000163t1:54-7178.p7
+CalsaE_EVm000163t1:54-7178	transdecoder	exon	1	7125	.	-	.	ID=CalsaE_EVm000163t1:54-7178.p7.exon1;Parent=CalsaE_EVm000163t1:54-7178.p7
+CalsaE_EVm000163t1:54-7178	transdecoder	CDS	4527	4841	.	-	0	ID=cds.CalsaE_EVm000163t1:54-7178.p7;Parent=CalsaE_EVm000163t1:54-7178.p7
+CalsaE_EVm000163t1:54-7178	transdecoder	three_prime_UTR	1	4526	.	-	.	ID=CalsaE_EVm000163t1:54-7178.p7.utr3p1;Parent=CalsaE_EVm000163t1:54-7178.p7
+
+CalsaE_EVm000958t1:401-3562	transdecoder	gene	1	3162	.	+	.	ID=GENE.CalsaE_EVm000958t1:401-3562~~CalsaE_EVm000958t1:401-3562.p1;Name=ORF%20type%3Ainternal%20len%3A1055%20%28%2B%29
+CalsaE_EVm000958t1:401-3562	transdecoder	mRNA	1	3162	.	+	.	ID=CalsaE_EVm000958t1:401-3562.p1;Parent=GENE.CalsaE_EVm000958t1:401-3562~~CalsaE_EVm000958t1:401-3562.p1;Name=ORF%20type%3Ainternal%20len%3A1055%20%28%2B%29
+CalsaE_EVm000958t1:401-3562	transdecoder	exon	1	3162	.	+	.	ID=CalsaE_EVm000958t1:401-3562.p1.exon1;Parent=CalsaE_EVm000958t1:401-3562.p1
+CalsaE_EVm000958t1:401-3562	transdecoder	CDS	1	3162	.	+	0	ID=cds.CalsaE_EVm000958t1:401-3562.p1;Parent=CalsaE_EVm000958t1:401-3562.p1;5_prime_partial=true;3_prime_partial=true
+
+CalsaE_EVm000958t1:401-3562	transdecoder	gene	1	3162	.	-	.	ID=GENE.CalsaE_EVm000958t1:401-3562~~CalsaE_EVm000958t1:401-3562.p2;Name=ORF%20type%3A5prime_partial%20len%3A109%20%28-%29
+CalsaE_EVm000958t1:401-3562	transdecoder	mRNA	1	3162	.	-	.	ID=CalsaE_EVm000958t1:401-3562.p2;Parent=GENE.CalsaE_EVm000958t1:401-3562~~CalsaE_EVm000958t1:401-3562.p2;Name=ORF%20type%3A5prime_partial%20len%3A109%20%28-%29
+CalsaE_EVm000958t1:401-3562	transdecoder	exon	1	3162	.	-	.	ID=CalsaE_EVm000958t1:401-3562.p2.exon1;Parent=CalsaE_EVm000958t1:401-3562.p2
+CalsaE_EVm000958t1:401-3562	transdecoder	CDS	2836	3162	.	-	0	ID=cds.CalsaE_EVm000958t1:401-3562.p2;Parent=CalsaE_EVm000958t1:401-3562.p2;5_prime_partial=true
+CalsaE_EVm000958t1:401-3562	transdecoder	three_prime_UTR	1	2835	.	-	.	ID=CalsaE_EVm000958t1:401-3562.p2.utr3p1;Parent=CalsaE_EVm000958t1:401-3562.p2
+
+CalsaE_EVm001177t1:70-3468	transdecoder	gene	1	3399	.	+	.	ID=GENE.CalsaE_EVm001177t1:70-3468~~CalsaE_EVm001177t1:70-3468.p1;Name=ORF%20type%3Ainternal%20len%3A1134%20%28%2B%29
+CalsaE_EVm001177t1:70-3468	transdecoder	mRNA	1	3399	.	+	.	ID=CalsaE_EVm001177t1:70-3468.p1;Parent=GENE.CalsaE_EVm001177t1:70-3468~~CalsaE_EVm001177t1:70-3468.p1;Name=ORF%20type%3Ainternal%20len%3A1134%20%28%2B%29
+CalsaE_EVm001177t1:70-3468	transdecoder	exon	1	3399	.	+	.	ID=CalsaE_EVm001177t1:70-3468.p1.exon1;Parent=CalsaE_EVm001177t1:70-3468.p1
+CalsaE_EVm001177t1:70-3468	transdecoder	CDS	1	3399	.	+	0	ID=cds.CalsaE_EVm001177t1:70-3468.p1;Parent=CalsaE_EVm001177t1:70-3468.p1;5_prime_partial=true;3_prime_partial=true
+
+CalsaE_EVm001177t1:70-3468	transdecoder	gene	1	3399	.	-	.	ID=GENE.CalsaE_EVm001177t1:70-3468~~CalsaE_EVm001177t1:70-3468.p2;Name=ORF%20type%3Acomplete%20len%3A156%20%28-%29
+CalsaE_EVm001177t1:70-3468	transdecoder	mRNA	1	3399	.	-	.	ID=CalsaE_EVm001177t1:70-3468.p2;Parent=GENE.CalsaE_EVm001177t1:70-3468~~CalsaE_EVm001177t1:70-3468.p2;Name=ORF%20type%3Acomplete%20len%3A156%20%28-%29
+CalsaE_EVm001177t1:70-3468	transdecoder	exon	1	3399	.	-	.	ID=CalsaE_EVm001177t1:70-3468.p2.exon1;Parent=CalsaE_EVm001177t1:70-3468.p2
+CalsaE_EVm001177t1:70-3468	transdecoder	CDS	2932	3399	.	-	0	ID=cds.CalsaE_EVm001177t1:70-3468.p2;Parent=CalsaE_EVm001177t1:70-3468.p2
+CalsaE_EVm001177t1:70-3468	transdecoder	three_prime_UTR	1	2931	.	-	.	ID=CalsaE_EVm001177t1:70-3468.p2.utr3p1;Parent=CalsaE_EVm001177t1:70-3468.p2
+
+CalsaE_EVm001177t1:70-3468	transdecoder	gene	1	3399	.	-	.	ID=GENE.CalsaE_EVm001177t1:70-3468~~CalsaE_EVm001177t1:70-3468.p3;Name=ORF%20type%3Acomplete%20len%3A102%20%28-%29
+CalsaE_EVm001177t1:70-3468	transdecoder	mRNA	1	3399	.	-	.	ID=CalsaE_EVm001177t1:70-3468.p3;Parent=GENE.CalsaE_EVm001177t1:70-3468~~CalsaE_EVm001177t1:70-3468.p3;Name=ORF%20type%3Acomplete%20len%3A102%20%28-%29
+CalsaE_EVm001177t1:70-3468	transdecoder	five_prime_UTR	366	3399	.	-	.	ID=CalsaE_EVm001177t1:70-3468.p3.utr5p1;Parent=CalsaE_EVm001177t1:70-3468.p3
+CalsaE_EVm001177t1:70-3468	transdecoder	exon	1	3399	.	-	.	ID=CalsaE_EVm001177t1:70-3468.p3.exon1;Parent=CalsaE_EVm001177t1:70-3468.p3
+CalsaE_EVm001177t1:70-3468	transdecoder	CDS	60	365	.	-	0	ID=cds.CalsaE_EVm001177t1:70-3468.p3;Parent=CalsaE_EVm001177t1:70-3468.p3
+CalsaE_EVm001177t1:70-3468	transdecoder	three_prime_UTR	1	59	.	-	.	ID=CalsaE_EVm001177t1:70-3468.p3.utr3p1;Parent=CalsaE_EVm001177t1:70-3468.p3
+
+CalsaE_EVm000683t1:262-4464	transdecoder	gene	1	4203	.	+	.	ID=GENE.CalsaE_EVm000683t1:262-4464~~CalsaE_EVm000683t1:262-4464.p1;Name=ORF%20type%3A3prime_partial%20len%3A1402%20%28%2B%29
+CalsaE_EVm000683t1:262-4464	transdecoder	mRNA	1	4203	.	+	.	ID=CalsaE_EVm000683t1:262-4464.p1;Parent=GENE.CalsaE_EVm000683t1:262-4464~~CalsaE_EVm000683t1:262-4464.p1;Name=ORF%20type%3A3prime_partial%20len%3A1402%20%28%2B%29
+CalsaE_EVm000683t1:262-4464	transdecoder	exon	1	4203	.	+	.	ID=CalsaE_EVm000683t1:262-4464.p1.exon1;Parent=CalsaE_EVm000683t1:262-4464.p1
+CalsaE_EVm000683t1:262-4464	transdecoder	CDS	1	4203	.	+	0	ID=cds.CalsaE_EVm000683t1:262-4464.p1;Parent=CalsaE_EVm000683t1:262-4464.p1;3_prime_partial=true
+
+CalsaE_EVm000683t1:262-4464	transdecoder	gene	1	4203	.	-	.	ID=GENE.CalsaE_EVm000683t1:262-4464~~CalsaE_EVm000683t1:262-4464.p2;Name=ORF%20type%3Acomplete%20len%3A111%20%28-%29
+CalsaE_EVm000683t1:262-4464	transdecoder	mRNA	1	4203	.	-	.	ID=CalsaE_EVm000683t1:262-4464.p2;Parent=GENE.CalsaE_EVm000683t1:262-4464~~CalsaE_EVm000683t1:262-4464.p2;Name=ORF%20type%3Acomplete%20len%3A111%20%28-%29
+CalsaE_EVm000683t1:262-4464	transdecoder	five_prime_UTR	1728	4203	.	-	.	ID=CalsaE_EVm000683t1:262-4464.p2.utr5p1;Parent=CalsaE_EVm000683t1:262-4464.p2
+CalsaE_EVm000683t1:262-4464	transdecoder	exon	1	4203	.	-	.	ID=CalsaE_EVm000683t1:262-4464.p2.exon1;Parent=CalsaE_EVm000683t1:262-4464.p2
+CalsaE_EVm000683t1:262-4464	transdecoder	CDS	1395	1727	.	-	0	ID=cds.CalsaE_EVm000683t1:262-4464.p2;Parent=CalsaE_EVm000683t1:262-4464.p2
+CalsaE_EVm000683t1:262-4464	transdecoder	three_prime_UTR	1	1394	.	-	.	ID=CalsaE_EVm000683t1:262-4464.p2.utr3p1;Parent=CalsaE_EVm000683t1:262-4464.p2
+
+CalsaE_EVm000683t1:262-4464	transdecoder	gene	1	4203	.	-	.	ID=GENE.CalsaE_EVm000683t1:262-4464~~CalsaE_EVm000683t1:262-4464.p3;Name=ORF%20type%3Acomplete%20len%3A108%20%28-%29
+CalsaE_EVm000683t1:262-4464	transdecoder	mRNA	1	4203	.	-	.	ID=CalsaE_EVm000683t1:262-4464.p3;Parent=GENE.CalsaE_EVm000683t1:262-4464~~CalsaE_EVm000683t1:262-4464.p3;Name=ORF%20type%3Acomplete%20len%3A108%20%28-%29
+CalsaE_EVm000683t1:262-4464	transdecoder	five_prime_UTR	3457	4203	.	-	.	ID=CalsaE_EVm000683t1:262-4464.p3.utr5p1;Parent=CalsaE_EVm000683t1:262-4464.p3
+CalsaE_EVm000683t1:262-4464	transdecoder	exon	1	4203	.	-	.	ID=CalsaE_EVm000683t1:262-4464.p3.exon1;Parent=CalsaE_EVm000683t1:262-4464.p3
+CalsaE_EVm000683t1:262-4464	transdecoder	CDS	3133	3456	.	-	0	ID=cds.CalsaE_EVm000683t1:262-4464.p3;Parent=CalsaE_EVm000683t1:262-4464.p3
+CalsaE_EVm000683t1:262-4464	transdecoder	three_prime_UTR	1	3132	.	-	.	ID=CalsaE_EVm000683t1:262-4464.p3.utr3p1;Parent=CalsaE_EVm000683t1:262-4464.p3
+
+CalsaE_EVm000663t1:99-4331	transdecoder	gene	1	4233	.	+	.	ID=GENE.CalsaE_EVm000663t1:99-4331~~CalsaE_EVm000663t1:99-4331.p1;Name=ORF%20type%3A3prime_partial%20len%3A1412%20%28%2B%29
+CalsaE_EVm000663t1:99-4331	transdecoder	mRNA	1	4233	.	+	.	ID=CalsaE_EVm000663t1:99-4331.p1;Parent=GENE.CalsaE_EVm000663t1:99-4331~~CalsaE_EVm000663t1:99-4331.p1;Name=ORF%20type%3A3prime_partial%20len%3A1412%20%28%2B%29
+CalsaE_EVm000663t1:99-4331	transdecoder	exon	1	4233	.	+	.	ID=CalsaE_EVm000663t1:99-4331.p1.exon1;Parent=CalsaE_EVm000663t1:99-4331.p1
+CalsaE_EVm000663t1:99-4331	transdecoder	CDS	1	4233	.	+	0	ID=cds.CalsaE_EVm000663t1:99-4331.p1;Parent=CalsaE_EVm000663t1:99-4331.p1;3_prime_partial=true
+
+CalsaE_EVm000663t1:99-4331	transdecoder	gene	1	4233	.	-	.	ID=GENE.CalsaE_EVm000663t1:99-4331~~CalsaE_EVm000663t1:99-4331.p2;Name=ORF%20type%3Acomplete%20len%3A149%20%28-%29
+CalsaE_EVm000663t1:99-4331	transdecoder	mRNA	1	4233	.	-	.	ID=CalsaE_EVm000663t1:99-4331.p2;Parent=GENE.CalsaE_EVm000663t1:99-4331~~CalsaE_EVm000663t1:99-4331.p2;Name=ORF%20type%3Acomplete%20len%3A149%20%28-%29
+CalsaE_EVm000663t1:99-4331	transdecoder	five_prime_UTR	2179	4233	.	-	.	ID=CalsaE_EVm000663t1:99-4331.p2.utr5p1;Parent=CalsaE_EVm000663t1:99-4331.p2
+CalsaE_EVm000663t1:99-4331	transdecoder	exon	1	4233	.	-	.	ID=CalsaE_EVm000663t1:99-4331.p2.exon1;Parent=CalsaE_EVm000663t1:99-4331.p2
+CalsaE_EVm000663t1:99-4331	transdecoder	CDS	1732	2178	.	-	0	ID=cds.CalsaE_EVm000663t1:99-4331.p2;Parent=CalsaE_EVm000663t1:99-4331.p2
+CalsaE_EVm000663t1:99-4331	transdecoder	three_prime_UTR	1	1731	.	-	.	ID=CalsaE_EVm000663t1:99-4331.p2.utr3p1;Parent=CalsaE_EVm000663t1:99-4331.p2
+
+CalsaE_EVm001119t1:272-3742	transdecoder	gene	1	3471	.	+	.	ID=GENE.CalsaE_EVm001119t1:272-3742~~CalsaE_EVm001119t1:272-3742.p1;Name=ORF%20type%3Ainternal%20len%3A1158%20%28%2B%29
+CalsaE_EVm001119t1:272-3742	transdecoder	mRNA	1	3471	.	+	.	ID=CalsaE_EVm001119t1:272-3742.p1;Parent=GENE.CalsaE_EVm001119t1:272-3742~~CalsaE_EVm001119t1:272-3742.p1;Name=ORF%20type%3Ainternal%20len%3A1158%20%28%2B%29
+CalsaE_EVm001119t1:272-3742	transdecoder	exon	1	3471	.	+	.	ID=CalsaE_EVm001119t1:272-3742.p1.exon1;Parent=CalsaE_EVm001119t1:272-3742.p1
+CalsaE_EVm001119t1:272-3742	transdecoder	CDS	1	3471	.	+	0	ID=cds.CalsaE_EVm001119t1:272-3742.p1;Parent=CalsaE_EVm001119t1:272-3742.p1;5_prime_partial=true;3_prime_partial=true
+
+CalsaE_EVm001119t1:272-3742	transdecoder	gene	1	3471	.	-	.	ID=GENE.CalsaE_EVm001119t1:272-3742~~CalsaE_EVm001119t1:272-3742.p2;Name=ORF%20type%3Acomplete%20len%3A124%20%28-%29
+CalsaE_EVm001119t1:272-3742	transdecoder	mRNA	1	3471	.	-	.	ID=CalsaE_EVm001119t1:272-3742.p2;Parent=GENE.CalsaE_EVm001119t1:272-3742~~CalsaE_EVm001119t1:272-3742.p2;Name=ORF%20type%3Acomplete%20len%3A124%20%28-%29
+CalsaE_EVm001119t1:272-3742	transdecoder	five_prime_UTR	1653	3471	.	-	.	ID=CalsaE_EVm001119t1:272-3742.p2.utr5p1;Parent=CalsaE_EVm001119t1:272-3742.p2
+CalsaE_EVm001119t1:272-3742	transdecoder	exon	1	3471	.	-	.	ID=CalsaE_EVm001119t1:272-3742.p2.exon1;Parent=CalsaE_EVm001119t1:272-3742.p2
+CalsaE_EVm001119t1:272-3742	transdecoder	CDS	1281	1652	.	-	0	ID=cds.CalsaE_EVm001119t1:272-3742.p2;Parent=CalsaE_EVm001119t1:272-3742.p2
+CalsaE_EVm001119t1:272-3742	transdecoder	three_prime_UTR	1	1280	.	-	.	ID=CalsaE_EVm001119t1:272-3742.p2.utr3p1;Parent=CalsaE_EVm001119t1:272-3742.p2
+
+CalsaE_EVm001678t1:47-2914	transdecoder	gene	1	2868	.	+	.	ID=GENE.CalsaE_EVm001678t1:47-2914~~CalsaE_EVm001678t1:47-2914.p1;Name=ORF%20type%3Ainternal%20len%3A957%20%28%2B%29
+CalsaE_EVm001678t1:47-2914	transdecoder	mRNA	1	2868	.	+	.	ID=CalsaE_EVm001678t1:47-2914.p1;Parent=GENE.CalsaE_EVm001678t1:47-2914~~CalsaE_EVm001678t1:47-2914.p1;Name=ORF%20type%3Ainternal%20len%3A957%20%28%2B%29
+CalsaE_EVm001678t1:47-2914	transdecoder	exon	1	2868	.	+	.	ID=CalsaE_EVm001678t1:47-2914.p1.exon1;Parent=CalsaE_EVm001678t1:47-2914.p1
+CalsaE_EVm001678t1:47-2914	transdecoder	CDS	1	2868	.	+	0	ID=cds.CalsaE_EVm001678t1:47-2914.p1;Parent=CalsaE_EVm001678t1:47-2914.p1;5_prime_partial=true;3_prime_partial=true
+
+CalsaE_EVm001678t1:47-2914	transdecoder	gene	1	2868	.	-	.	ID=GENE.CalsaE_EVm001678t1:47-2914~~CalsaE_EVm001678t1:47-2914.p2;Name=ORF%20type%3Acomplete%20len%3A196%20%28-%29
+CalsaE_EVm001678t1:47-2914	transdecoder	mRNA	1	2868	.	-	.	ID=CalsaE_EVm001678t1:47-2914.p2;Parent=GENE.CalsaE_EVm001678t1:47-2914~~CalsaE_EVm001678t1:47-2914.p2;Name=ORF%20type%3Acomplete%20len%3A196%20%28-%29
+CalsaE_EVm001678t1:47-2914	transdecoder	five_prime_UTR	837	2868	.	-	.	ID=CalsaE_EVm001678t1:47-2914.p2.utr5p1;Parent=CalsaE_EVm001678t1:47-2914.p2
+CalsaE_EVm001678t1:47-2914	transdecoder	exon	1	2868	.	-	.	ID=CalsaE_EVm001678t1:47-2914.p2.exon1;Parent=CalsaE_EVm001678t1:47-2914.p2
+CalsaE_EVm001678t1:47-2914	transdecoder	CDS	249	836	.	-	0	ID=cds.CalsaE_EVm001678t1:47-2914.p2;Parent=CalsaE_EVm001678t1:47-2914.p2
+CalsaE_EVm001678t1:47-2914	transdecoder	three_prime_UTR	1	248	.	-	.	ID=CalsaE_EVm001678t1:47-2914.p2.utr3p1;Parent=CalsaE_EVm001678t1:47-2914.p2
+
+CalsaE_EVm001678t1:47-2914	transdecoder	gene	1	2868	.	-	.	ID=GENE.CalsaE_EVm001678t1:47-2914~~CalsaE_EVm001678t1:47-2914.p3;Name=ORF%20type%3Acomplete%20len%3A144%20%28-%29
+CalsaE_EVm001678t1:47-2914	transdecoder	mRNA	1	2868	.	-	.	ID=CalsaE_EVm001678t1:47-2914.p3;Parent=GENE.CalsaE_EVm001678t1:47-2914~~CalsaE_EVm001678t1:47-2914.p3;Name=ORF%20type%3Acomplete%20len%3A144%20%28-%29
+CalsaE_EVm001678t1:47-2914	transdecoder	five_prime_UTR	2343	2868	.	-	.	ID=CalsaE_EVm001678t1:47-2914.p3.utr5p1;Parent=CalsaE_EVm001678t1:47-2914.p3
+CalsaE_EVm001678t1:47-2914	transdecoder	exon	1	2868	.	-	.	ID=CalsaE_EVm001678t1:47-2914.p3.exon1;Parent=CalsaE_EVm001678t1:47-2914.p3
+CalsaE_EVm001678t1:47-2914	transdecoder	CDS	1911	2342	.	-	0	ID=cds.CalsaE_EVm001678t1:47-2914.p3;Parent=CalsaE_EVm001678t1:47-2914.p3
+CalsaE_EVm001678t1:47-2914	transdecoder	three_prime_UTR	1	1910	.	-	.	ID=CalsaE_EVm001678t1:47-2914.p3.utr3p1;Parent=CalsaE_EVm001678t1:47-2914.p3
+
+CalsaE_EVm001678t1:47-2914	transdecoder	gene	1	2868	.	-	.	ID=GENE.CalsaE_EVm001678t1:47-2914~~CalsaE_EVm001678t1:47-2914.p4;Name=ORF%20type%3Acomplete%20len%3A131%20%28-%29
+CalsaE_EVm001678t1:47-2914	transdecoder	mRNA	1	2868	.	-	.	ID=CalsaE_EVm001678t1:47-2914.p4;Parent=GENE.CalsaE_EVm001678t1:47-2914~~CalsaE_EVm001678t1:47-2914.p4;Name=ORF%20type%3Acomplete%20len%3A131%20%28-%29
+CalsaE_EVm001678t1:47-2914	transdecoder	five_prime_UTR	1576	2868	.	-	.	ID=CalsaE_EVm001678t1:47-2914.p4.utr5p1;Parent=CalsaE_EVm001678t1:47-2914.p4
+CalsaE_EVm001678t1:47-2914	transdecoder	exon	1	2868	.	-	.	ID=CalsaE_EVm001678t1:47-2914.p4.exon1;Parent=CalsaE_EVm001678t1:47-2914.p4
+CalsaE_EVm001678t1:47-2914	transdecoder	CDS	1183	1575	.	-	0	ID=cds.CalsaE_EVm001678t1:47-2914.p4;Parent=CalsaE_EVm001678t1:47-2914.p4
+CalsaE_EVm001678t1:47-2914	transdecoder	three_prime_UTR	1	1182	.	-	.	ID=CalsaE_EVm001678t1:47-2914.p4.utr3p1;Parent=CalsaE_EVm001678t1:47-2914.p4
+
