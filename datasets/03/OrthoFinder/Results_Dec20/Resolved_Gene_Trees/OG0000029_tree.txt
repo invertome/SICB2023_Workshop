@@ -1,0 +1,1 @@
+((species02.transcriptome.dna.fa.transdecoder.pep|BommorEVm000400t1_111-3059.p1:0.754831,species11.transcriptome.dna.fa.transdecoder.pep|GamcheEVm000961t1_46-2964.p1:0.44562)n1:0.085656,(species05.transcriptome.dna.fa.transdecoder.pep|ChequaEVm001082t1_204-3116.p1:0.142568,species12.transcriptome.dna.fa.transdecoder.pep|PenvanEVm000537t1_210-3110.p1:0.143487)n2:0.085656)n0;
