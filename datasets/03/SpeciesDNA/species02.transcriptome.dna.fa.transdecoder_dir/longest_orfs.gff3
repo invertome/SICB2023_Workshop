@@ -1,0 +1,504 @@
+BommorEVm000471t1:91-2877	transdecoder	gene	1	2787	.	+	.	ID=GENE.BommorEVm000471t1:91-2877~~BommorEVm000471t1:91-2877.p1;Name=ORF%20type%3A3prime_partial%20len%3A930%20%28%2B%29
+BommorEVm000471t1:91-2877	transdecoder	mRNA	1	2787	.	+	.	ID=BommorEVm000471t1:91-2877.p1;Parent=GENE.BommorEVm000471t1:91-2877~~BommorEVm000471t1:91-2877.p1;Name=ORF%20type%3A3prime_partial%20len%3A930%20%28%2B%29
+BommorEVm000471t1:91-2877	transdecoder	exon	1	2787	.	+	.	ID=BommorEVm000471t1:91-2877.p1.exon1;Parent=BommorEVm000471t1:91-2877.p1
+BommorEVm000471t1:91-2877	transdecoder	CDS	1	2787	.	+	0	ID=cds.BommorEVm000471t1:91-2877.p1;Parent=BommorEVm000471t1:91-2877.p1;3_prime_partial=true
+
+BommorEVm000471t1:91-2877	transdecoder	gene	1	2787	.	-	.	ID=GENE.BommorEVm000471t1:91-2877~~BommorEVm000471t1:91-2877.p2;Name=ORF%20type%3Acomplete%20len%3A114%20%28-%29
+BommorEVm000471t1:91-2877	transdecoder	mRNA	1	2787	.	-	.	ID=BommorEVm000471t1:91-2877.p2;Parent=GENE.BommorEVm000471t1:91-2877~~BommorEVm000471t1:91-2877.p2;Name=ORF%20type%3Acomplete%20len%3A114%20%28-%29
+BommorEVm000471t1:91-2877	transdecoder	five_prime_UTR	2049	2787	.	-	.	ID=BommorEVm000471t1:91-2877.p2.utr5p1;Parent=BommorEVm000471t1:91-2877.p2
+BommorEVm000471t1:91-2877	transdecoder	exon	1	2787	.	-	.	ID=BommorEVm000471t1:91-2877.p2.exon1;Parent=BommorEVm000471t1:91-2877.p2
+BommorEVm000471t1:91-2877	transdecoder	CDS	1707	2048	.	-	0	ID=cds.BommorEVm000471t1:91-2877.p2;Parent=BommorEVm000471t1:91-2877.p2
+BommorEVm000471t1:91-2877	transdecoder	three_prime_UTR	1	1706	.	-	.	ID=BommorEVm000471t1:91-2877.p2.utr3p1;Parent=BommorEVm000471t1:91-2877.p2
+
+BommorEVm000471t1:91-2877	transdecoder	gene	1	2787	.	-	.	ID=GENE.BommorEVm000471t1:91-2877~~BommorEVm000471t1:91-2877.p3;Name=ORF%20type%3Acomplete%20len%3A109%20%28-%29
+BommorEVm000471t1:91-2877	transdecoder	mRNA	1	2787	.	-	.	ID=BommorEVm000471t1:91-2877.p3;Parent=GENE.BommorEVm000471t1:91-2877~~BommorEVm000471t1:91-2877.p3;Name=ORF%20type%3Acomplete%20len%3A109%20%28-%29
+BommorEVm000471t1:91-2877	transdecoder	five_prime_UTR	1480	2787	.	-	.	ID=BommorEVm000471t1:91-2877.p3.utr5p1;Parent=BommorEVm000471t1:91-2877.p3
+BommorEVm000471t1:91-2877	transdecoder	exon	1	2787	.	-	.	ID=BommorEVm000471t1:91-2877.p3.exon1;Parent=BommorEVm000471t1:91-2877.p3
+BommorEVm000471t1:91-2877	transdecoder	CDS	1153	1479	.	-	0	ID=cds.BommorEVm000471t1:91-2877.p3;Parent=BommorEVm000471t1:91-2877.p3
+BommorEVm000471t1:91-2877	transdecoder	three_prime_UTR	1	1152	.	-	.	ID=BommorEVm000471t1:91-2877.p3.utr3p1;Parent=BommorEVm000471t1:91-2877.p3
+
+BommorEVm000273t1:134-3442	transdecoder	gene	1	3309	.	+	.	ID=GENE.BommorEVm000273t1:134-3442~~BommorEVm000273t1:134-3442.p1;Name=ORF%20type%3A3prime_partial%20len%3A1104%20%28%2B%29
+BommorEVm000273t1:134-3442	transdecoder	mRNA	1	3309	.	+	.	ID=BommorEVm000273t1:134-3442.p1;Parent=GENE.BommorEVm000273t1:134-3442~~BommorEVm000273t1:134-3442.p1;Name=ORF%20type%3A3prime_partial%20len%3A1104%20%28%2B%29
+BommorEVm000273t1:134-3442	transdecoder	exon	1	3309	.	+	.	ID=BommorEVm000273t1:134-3442.p1.exon1;Parent=BommorEVm000273t1:134-3442.p1
+BommorEVm000273t1:134-3442	transdecoder	CDS	1	3309	.	+	0	ID=cds.BommorEVm000273t1:134-3442.p1;Parent=BommorEVm000273t1:134-3442.p1;3_prime_partial=true
+
+BommorEVm000273t1:134-3442	transdecoder	gene	1	3309	.	-	.	ID=GENE.BommorEVm000273t1:134-3442~~BommorEVm000273t1:134-3442.p2;Name=ORF%20type%3Acomplete%20len%3A104%20%28-%29
+BommorEVm000273t1:134-3442	transdecoder	mRNA	1	3309	.	-	.	ID=BommorEVm000273t1:134-3442.p2;Parent=GENE.BommorEVm000273t1:134-3442~~BommorEVm000273t1:134-3442.p2;Name=ORF%20type%3Acomplete%20len%3A104%20%28-%29
+BommorEVm000273t1:134-3442	transdecoder	five_prime_UTR	2808	3309	.	-	.	ID=BommorEVm000273t1:134-3442.p2.utr5p1;Parent=BommorEVm000273t1:134-3442.p2
+BommorEVm000273t1:134-3442	transdecoder	exon	1	3309	.	-	.	ID=BommorEVm000273t1:134-3442.p2.exon1;Parent=BommorEVm000273t1:134-3442.p2
+BommorEVm000273t1:134-3442	transdecoder	CDS	2496	2807	.	-	0	ID=cds.BommorEVm000273t1:134-3442.p2;Parent=BommorEVm000273t1:134-3442.p2
+BommorEVm000273t1:134-3442	transdecoder	three_prime_UTR	1	2495	.	-	.	ID=BommorEVm000273t1:134-3442.p2.utr3p1;Parent=BommorEVm000273t1:134-3442.p2
+
+BommorEVm000229t1:94-3615	transdecoder	gene	1	3522	.	+	.	ID=GENE.BommorEVm000229t1:94-3615~~BommorEVm000229t1:94-3615.p1;Name=ORF%20type%3A3prime_partial%20len%3A1175%20%28%2B%29
+BommorEVm000229t1:94-3615	transdecoder	mRNA	1	3522	.	+	.	ID=BommorEVm000229t1:94-3615.p1;Parent=GENE.BommorEVm000229t1:94-3615~~BommorEVm000229t1:94-3615.p1;Name=ORF%20type%3A3prime_partial%20len%3A1175%20%28%2B%29
+BommorEVm000229t1:94-3615	transdecoder	exon	1	3522	.	+	.	ID=BommorEVm000229t1:94-3615.p1.exon1;Parent=BommorEVm000229t1:94-3615.p1
+BommorEVm000229t1:94-3615	transdecoder	CDS	1	3522	.	+	0	ID=cds.BommorEVm000229t1:94-3615.p1;Parent=BommorEVm000229t1:94-3615.p1;3_prime_partial=true
+
+BommorEVm000474t1:180-3044	transdecoder	gene	1	2865	.	+	.	ID=GENE.BommorEVm000474t1:180-3044~~BommorEVm000474t1:180-3044.p1;Name=ORF%20type%3Ainternal%20len%3A956%20%28%2B%29
+BommorEVm000474t1:180-3044	transdecoder	mRNA	1	2865	.	+	.	ID=BommorEVm000474t1:180-3044.p1;Parent=GENE.BommorEVm000474t1:180-3044~~BommorEVm000474t1:180-3044.p1;Name=ORF%20type%3Ainternal%20len%3A956%20%28%2B%29
+BommorEVm000474t1:180-3044	transdecoder	exon	1	2865	.	+	.	ID=BommorEVm000474t1:180-3044.p1.exon1;Parent=BommorEVm000474t1:180-3044.p1
+BommorEVm000474t1:180-3044	transdecoder	CDS	1	2865	.	+	0	ID=cds.BommorEVm000474t1:180-3044.p1;Parent=BommorEVm000474t1:180-3044.p1;5_prime_partial=true;3_prime_partial=true
+
+BommorEVm000474t1:180-3044	transdecoder	gene	1	2865	.	-	.	ID=GENE.BommorEVm000474t1:180-3044~~BommorEVm000474t1:180-3044.p2;Name=ORF%20type%3A5prime_partial%20len%3A198%20%28-%29
+BommorEVm000474t1:180-3044	transdecoder	mRNA	1	2865	.	-	.	ID=BommorEVm000474t1:180-3044.p2;Parent=GENE.BommorEVm000474t1:180-3044~~BommorEVm000474t1:180-3044.p2;Name=ORF%20type%3A5prime_partial%20len%3A198%20%28-%29
+BommorEVm000474t1:180-3044	transdecoder	exon	1	2865	.	-	.	ID=BommorEVm000474t1:180-3044.p2.exon1;Parent=BommorEVm000474t1:180-3044.p2
+BommorEVm000474t1:180-3044	transdecoder	CDS	2271	2864	.	-	0	ID=cds.BommorEVm000474t1:180-3044.p2;Parent=BommorEVm000474t1:180-3044.p2;5_prime_partial=true
+BommorEVm000474t1:180-3044	transdecoder	three_prime_UTR	1	2270	.	-	.	ID=BommorEVm000474t1:180-3044.p2.utr3p1;Parent=BommorEVm000474t1:180-3044.p2
+
+BommorEVm000474t1:180-3044	transdecoder	gene	1	2865	.	-	.	ID=GENE.BommorEVm000474t1:180-3044~~BommorEVm000474t1:180-3044.p3;Name=ORF%20type%3Acomplete%20len%3A180%20%28-%29
+BommorEVm000474t1:180-3044	transdecoder	mRNA	1	2865	.	-	.	ID=BommorEVm000474t1:180-3044.p3;Parent=GENE.BommorEVm000474t1:180-3044~~BommorEVm000474t1:180-3044.p3;Name=ORF%20type%3Acomplete%20len%3A180%20%28-%29
+BommorEVm000474t1:180-3044	transdecoder	five_prime_UTR	1698	2865	.	-	.	ID=BommorEVm000474t1:180-3044.p3.utr5p1;Parent=BommorEVm000474t1:180-3044.p3
+BommorEVm000474t1:180-3044	transdecoder	exon	1	2865	.	-	.	ID=BommorEVm000474t1:180-3044.p3.exon1;Parent=BommorEVm000474t1:180-3044.p3
+BommorEVm000474t1:180-3044	transdecoder	CDS	1158	1697	.	-	0	ID=cds.BommorEVm000474t1:180-3044.p3;Parent=BommorEVm000474t1:180-3044.p3
+BommorEVm000474t1:180-3044	transdecoder	three_prime_UTR	1	1157	.	-	.	ID=BommorEVm000474t1:180-3044.p3.utr3p1;Parent=BommorEVm000474t1:180-3044.p3
+
+BommorEVm000204t1:165-3773	transdecoder	gene	1	3609	.	+	.	ID=GENE.BommorEVm000204t1:165-3773~~BommorEVm000204t1:165-3773.p1;Name=ORF%20type%3A3prime_partial%20len%3A1204%20%28%2B%29
+BommorEVm000204t1:165-3773	transdecoder	mRNA	1	3609	.	+	.	ID=BommorEVm000204t1:165-3773.p1;Parent=GENE.BommorEVm000204t1:165-3773~~BommorEVm000204t1:165-3773.p1;Name=ORF%20type%3A3prime_partial%20len%3A1204%20%28%2B%29
+BommorEVm000204t1:165-3773	transdecoder	exon	1	3609	.	+	.	ID=BommorEVm000204t1:165-3773.p1.exon1;Parent=BommorEVm000204t1:165-3773.p1
+BommorEVm000204t1:165-3773	transdecoder	CDS	1	3609	.	+	0	ID=cds.BommorEVm000204t1:165-3773.p1;Parent=BommorEVm000204t1:165-3773.p1;3_prime_partial=true
+
+BommorEVm000204t1:165-3773	transdecoder	gene	1	3609	.	-	.	ID=GENE.BommorEVm000204t1:165-3773~~BommorEVm000204t1:165-3773.p2;Name=ORF%20type%3Acomplete%20len%3A121%20%28-%29
+BommorEVm000204t1:165-3773	transdecoder	mRNA	1	3609	.	-	.	ID=BommorEVm000204t1:165-3773.p2;Parent=GENE.BommorEVm000204t1:165-3773~~BommorEVm000204t1:165-3773.p2;Name=ORF%20type%3Acomplete%20len%3A121%20%28-%29
+BommorEVm000204t1:165-3773	transdecoder	five_prime_UTR	3327	3609	.	-	.	ID=BommorEVm000204t1:165-3773.p2.utr5p1;Parent=BommorEVm000204t1:165-3773.p2
+BommorEVm000204t1:165-3773	transdecoder	exon	1	3609	.	-	.	ID=BommorEVm000204t1:165-3773.p2.exon1;Parent=BommorEVm000204t1:165-3773.p2
+BommorEVm000204t1:165-3773	transdecoder	CDS	2964	3326	.	-	0	ID=cds.BommorEVm000204t1:165-3773.p2;Parent=BommorEVm000204t1:165-3773.p2
+BommorEVm000204t1:165-3773	transdecoder	three_prime_UTR	1	2963	.	-	.	ID=BommorEVm000204t1:165-3773.p2.utr3p1;Parent=BommorEVm000204t1:165-3773.p2
+
+BommorEVm000204t1:165-3773	transdecoder	gene	1	3609	.	-	.	ID=GENE.BommorEVm000204t1:165-3773~~BommorEVm000204t1:165-3773.p3;Name=ORF%20type%3A5prime_partial%20len%3A111%20%28-%29
+BommorEVm000204t1:165-3773	transdecoder	mRNA	1	3609	.	-	.	ID=BommorEVm000204t1:165-3773.p3;Parent=GENE.BommorEVm000204t1:165-3773~~BommorEVm000204t1:165-3773.p3;Name=ORF%20type%3A5prime_partial%20len%3A111%20%28-%29
+BommorEVm000204t1:165-3773	transdecoder	exon	1	3609	.	-	.	ID=BommorEVm000204t1:165-3773.p3.exon1;Parent=BommorEVm000204t1:165-3773.p3
+BommorEVm000204t1:165-3773	transdecoder	CDS	3277	3609	.	-	0	ID=cds.BommorEVm000204t1:165-3773.p3;Parent=BommorEVm000204t1:165-3773.p3;5_prime_partial=true
+BommorEVm000204t1:165-3773	transdecoder	three_prime_UTR	1	3276	.	-	.	ID=BommorEVm000204t1:165-3773.p3.utr3p1;Parent=BommorEVm000204t1:165-3773.p3
+
+BommorEVm000008t1:176-8755	transdecoder	gene	1	8580	.	+	.	ID=GENE.BommorEVm000008t1:176-8755~~BommorEVm000008t1:176-8755.p1;Name=ORF%20type%3A3prime_partial%20len%3A2861%20%28%2B%29
+BommorEVm000008t1:176-8755	transdecoder	mRNA	1	8580	.	+	.	ID=BommorEVm000008t1:176-8755.p1;Parent=GENE.BommorEVm000008t1:176-8755~~BommorEVm000008t1:176-8755.p1;Name=ORF%20type%3A3prime_partial%20len%3A2861%20%28%2B%29
+BommorEVm000008t1:176-8755	transdecoder	exon	1	8580	.	+	.	ID=BommorEVm000008t1:176-8755.p1.exon1;Parent=BommorEVm000008t1:176-8755.p1
+BommorEVm000008t1:176-8755	transdecoder	CDS	1	8580	.	+	0	ID=cds.BommorEVm000008t1:176-8755.p1;Parent=BommorEVm000008t1:176-8755.p1;3_prime_partial=true
+
+BommorEVm000008t1:176-8755	transdecoder	gene	1	8580	.	-	.	ID=GENE.BommorEVm000008t1:176-8755~~BommorEVm000008t1:176-8755.p2;Name=ORF%20type%3Acomplete%20len%3A224%20%28-%29
+BommorEVm000008t1:176-8755	transdecoder	mRNA	1	8580	.	-	.	ID=BommorEVm000008t1:176-8755.p2;Parent=GENE.BommorEVm000008t1:176-8755~~BommorEVm000008t1:176-8755.p2;Name=ORF%20type%3Acomplete%20len%3A224%20%28-%29
+BommorEVm000008t1:176-8755	transdecoder	five_prime_UTR	4437	8580	.	-	.	ID=BommorEVm000008t1:176-8755.p2.utr5p1;Parent=BommorEVm000008t1:176-8755.p2
+BommorEVm000008t1:176-8755	transdecoder	exon	1	8580	.	-	.	ID=BommorEVm000008t1:176-8755.p2.exon1;Parent=BommorEVm000008t1:176-8755.p2
+BommorEVm000008t1:176-8755	transdecoder	CDS	3765	4436	.	-	0	ID=cds.BommorEVm000008t1:176-8755.p2;Parent=BommorEVm000008t1:176-8755.p2
+BommorEVm000008t1:176-8755	transdecoder	three_prime_UTR	1	3764	.	-	.	ID=BommorEVm000008t1:176-8755.p2.utr3p1;Parent=BommorEVm000008t1:176-8755.p2
+
+BommorEVm000008t1:176-8755	transdecoder	gene	1	8580	.	+	.	ID=GENE.BommorEVm000008t1:176-8755~~BommorEVm000008t1:176-8755.p3;Name=ORF%20type%3Acomplete%20len%3A138%20%28%2B%29
+BommorEVm000008t1:176-8755	transdecoder	mRNA	1	8580	.	+	.	ID=BommorEVm000008t1:176-8755.p3;Parent=GENE.BommorEVm000008t1:176-8755~~BommorEVm000008t1:176-8755.p3;Name=ORF%20type%3Acomplete%20len%3A138%20%28%2B%29
+BommorEVm000008t1:176-8755	transdecoder	five_prime_UTR	1	619	.	+	.	ID=BommorEVm000008t1:176-8755.p3.utr5p1;Parent=BommorEVm000008t1:176-8755.p3
+BommorEVm000008t1:176-8755	transdecoder	exon	1	8580	.	+	.	ID=BommorEVm000008t1:176-8755.p3.exon1;Parent=BommorEVm000008t1:176-8755.p3
+BommorEVm000008t1:176-8755	transdecoder	CDS	620	1033	.	+	0	ID=cds.BommorEVm000008t1:176-8755.p3;Parent=BommorEVm000008t1:176-8755.p3
+BommorEVm000008t1:176-8755	transdecoder	three_prime_UTR	1034	8580	.	+	.	ID=BommorEVm000008t1:176-8755.p3.utr3p1;Parent=BommorEVm000008t1:176-8755.p3
+
+BommorEVm000008t1:176-8755	transdecoder	gene	1	8580	.	+	.	ID=GENE.BommorEVm000008t1:176-8755~~BommorEVm000008t1:176-8755.p4;Name=ORF%20type%3Acomplete%20len%3A132%20%28%2B%29
+BommorEVm000008t1:176-8755	transdecoder	mRNA	1	8580	.	+	.	ID=BommorEVm000008t1:176-8755.p4;Parent=GENE.BommorEVm000008t1:176-8755~~BommorEVm000008t1:176-8755.p4;Name=ORF%20type%3Acomplete%20len%3A132%20%28%2B%29
+BommorEVm000008t1:176-8755	transdecoder	five_prime_UTR	1	7075	.	+	.	ID=BommorEVm000008t1:176-8755.p4.utr5p1;Parent=BommorEVm000008t1:176-8755.p4
+BommorEVm000008t1:176-8755	transdecoder	exon	1	8580	.	+	.	ID=BommorEVm000008t1:176-8755.p4.exon1;Parent=BommorEVm000008t1:176-8755.p4
+BommorEVm000008t1:176-8755	transdecoder	CDS	7076	7471	.	+	0	ID=cds.BommorEVm000008t1:176-8755.p4;Parent=BommorEVm000008t1:176-8755.p4
+BommorEVm000008t1:176-8755	transdecoder	three_prime_UTR	7472	8580	.	+	.	ID=BommorEVm000008t1:176-8755.p4.utr3p1;Parent=BommorEVm000008t1:176-8755.p4
+
+BommorEVm000008t1:176-8755	transdecoder	gene	1	8580	.	-	.	ID=GENE.BommorEVm000008t1:176-8755~~BommorEVm000008t1:176-8755.p5;Name=ORF%20type%3A5prime_partial%20len%3A107%20%28-%29
+BommorEVm000008t1:176-8755	transdecoder	mRNA	1	8580	.	-	.	ID=BommorEVm000008t1:176-8755.p5;Parent=GENE.BommorEVm000008t1:176-8755~~BommorEVm000008t1:176-8755.p5;Name=ORF%20type%3A5prime_partial%20len%3A107%20%28-%29
+BommorEVm000008t1:176-8755	transdecoder	exon	1	8580	.	-	.	ID=BommorEVm000008t1:176-8755.p5.exon1;Parent=BommorEVm000008t1:176-8755.p5
+BommorEVm000008t1:176-8755	transdecoder	CDS	8259	8579	.	-	0	ID=cds.BommorEVm000008t1:176-8755.p5;Parent=BommorEVm000008t1:176-8755.p5;5_prime_partial=true
+BommorEVm000008t1:176-8755	transdecoder	three_prime_UTR	1	8258	.	-	.	ID=BommorEVm000008t1:176-8755.p5.utr3p1;Parent=BommorEVm000008t1:176-8755.p5
+
+BommorEVm000415t1:140-3058	transdecoder	gene	1	2919	.	+	.	ID=GENE.BommorEVm000415t1:140-3058~~BommorEVm000415t1:140-3058.p1;Name=ORF%20type%3A3prime_partial%20len%3A974%20%28%2B%29
+BommorEVm000415t1:140-3058	transdecoder	mRNA	1	2919	.	+	.	ID=BommorEVm000415t1:140-3058.p1;Parent=GENE.BommorEVm000415t1:140-3058~~BommorEVm000415t1:140-3058.p1;Name=ORF%20type%3A3prime_partial%20len%3A974%20%28%2B%29
+BommorEVm000415t1:140-3058	transdecoder	exon	1	2919	.	+	.	ID=BommorEVm000415t1:140-3058.p1.exon1;Parent=BommorEVm000415t1:140-3058.p1
+BommorEVm000415t1:140-3058	transdecoder	CDS	1	2919	.	+	0	ID=cds.BommorEVm000415t1:140-3058.p1;Parent=BommorEVm000415t1:140-3058.p1;3_prime_partial=true
+
+BommorEVm000415t1:140-3058	transdecoder	gene	1	2919	.	-	.	ID=GENE.BommorEVm000415t1:140-3058~~BommorEVm000415t1:140-3058.p2;Name=ORF%20type%3Acomplete%20len%3A127%20%28-%29
+BommorEVm000415t1:140-3058	transdecoder	mRNA	1	2919	.	-	.	ID=BommorEVm000415t1:140-3058.p2;Parent=GENE.BommorEVm000415t1:140-3058~~BommorEVm000415t1:140-3058.p2;Name=ORF%20type%3Acomplete%20len%3A127%20%28-%29
+BommorEVm000415t1:140-3058	transdecoder	five_prime_UTR	1137	2919	.	-	.	ID=BommorEVm000415t1:140-3058.p2.utr5p1;Parent=BommorEVm000415t1:140-3058.p2
+BommorEVm000415t1:140-3058	transdecoder	exon	1	2919	.	-	.	ID=BommorEVm000415t1:140-3058.p2.exon1;Parent=BommorEVm000415t1:140-3058.p2
+BommorEVm000415t1:140-3058	transdecoder	CDS	756	1136	.	-	0	ID=cds.BommorEVm000415t1:140-3058.p2;Parent=BommorEVm000415t1:140-3058.p2
+BommorEVm000415t1:140-3058	transdecoder	three_prime_UTR	1	755	.	-	.	ID=BommorEVm000415t1:140-3058.p2.utr3p1;Parent=BommorEVm000415t1:140-3058.p2
+
+BommorEVm000415t1:140-3058	transdecoder	gene	1	2919	.	-	.	ID=GENE.BommorEVm000415t1:140-3058~~BommorEVm000415t1:140-3058.p3;Name=ORF%20type%3Acomplete%20len%3A125%20%28-%29
+BommorEVm000415t1:140-3058	transdecoder	mRNA	1	2919	.	-	.	ID=BommorEVm000415t1:140-3058.p3;Parent=GENE.BommorEVm000415t1:140-3058~~BommorEVm000415t1:140-3058.p3;Name=ORF%20type%3Acomplete%20len%3A125%20%28-%29
+BommorEVm000415t1:140-3058	transdecoder	five_prime_UTR	2550	2919	.	-	.	ID=BommorEVm000415t1:140-3058.p3.utr5p1;Parent=BommorEVm000415t1:140-3058.p3
+BommorEVm000415t1:140-3058	transdecoder	exon	1	2919	.	-	.	ID=BommorEVm000415t1:140-3058.p3.exon1;Parent=BommorEVm000415t1:140-3058.p3
+BommorEVm000415t1:140-3058	transdecoder	CDS	2175	2549	.	-	0	ID=cds.BommorEVm000415t1:140-3058.p3;Parent=BommorEVm000415t1:140-3058.p3
+BommorEVm000415t1:140-3058	transdecoder	three_prime_UTR	1	2174	.	-	.	ID=BommorEVm000415t1:140-3058.p3.utr3p1;Parent=BommorEVm000415t1:140-3058.p3
+
+BommorEVm000415t1:140-3058	transdecoder	gene	1	2919	.	-	.	ID=GENE.BommorEVm000415t1:140-3058~~BommorEVm000415t1:140-3058.p4;Name=ORF%20type%3Acomplete%20len%3A115%20%28-%29
+BommorEVm000415t1:140-3058	transdecoder	mRNA	1	2919	.	-	.	ID=BommorEVm000415t1:140-3058.p4;Parent=GENE.BommorEVm000415t1:140-3058~~BommorEVm000415t1:140-3058.p4;Name=ORF%20type%3Acomplete%20len%3A115%20%28-%29
+BommorEVm000415t1:140-3058	transdecoder	five_prime_UTR	2166	2919	.	-	.	ID=BommorEVm000415t1:140-3058.p4.utr5p1;Parent=BommorEVm000415t1:140-3058.p4
+BommorEVm000415t1:140-3058	transdecoder	exon	1	2919	.	-	.	ID=BommorEVm000415t1:140-3058.p4.exon1;Parent=BommorEVm000415t1:140-3058.p4
+BommorEVm000415t1:140-3058	transdecoder	CDS	1821	2165	.	-	0	ID=cds.BommorEVm000415t1:140-3058.p4;Parent=BommorEVm000415t1:140-3058.p4
+BommorEVm000415t1:140-3058	transdecoder	three_prime_UTR	1	1820	.	-	.	ID=BommorEVm000415t1:140-3058.p4.utr3p1;Parent=BommorEVm000415t1:140-3058.p4
+
+BommorEVm000009t1:62-7585	transdecoder	gene	1	7524	.	+	.	ID=GENE.BommorEVm000009t1:62-7585~~BommorEVm000009t1:62-7585.p1;Name=ORF%20type%3A3prime_partial%20len%3A2509%20%28%2B%29
+BommorEVm000009t1:62-7585	transdecoder	mRNA	1	7524	.	+	.	ID=BommorEVm000009t1:62-7585.p1;Parent=GENE.BommorEVm000009t1:62-7585~~BommorEVm000009t1:62-7585.p1;Name=ORF%20type%3A3prime_partial%20len%3A2509%20%28%2B%29
+BommorEVm000009t1:62-7585	transdecoder	exon	1	7524	.	+	.	ID=BommorEVm000009t1:62-7585.p1.exon1;Parent=BommorEVm000009t1:62-7585.p1
+BommorEVm000009t1:62-7585	transdecoder	CDS	1	7524	.	+	0	ID=cds.BommorEVm000009t1:62-7585.p1;Parent=BommorEVm000009t1:62-7585.p1;3_prime_partial=true
+
+BommorEVm000009t1:62-7585	transdecoder	gene	1	7524	.	+	.	ID=GENE.BommorEVm000009t1:62-7585~~BommorEVm000009t1:62-7585.p2;Name=ORF%20type%3Acomplete%20len%3A350%20%28%2B%29
+BommorEVm000009t1:62-7585	transdecoder	mRNA	1	7524	.	+	.	ID=BommorEVm000009t1:62-7585.p2;Parent=GENE.BommorEVm000009t1:62-7585~~BommorEVm000009t1:62-7585.p2;Name=ORF%20type%3Acomplete%20len%3A350%20%28%2B%29
+BommorEVm000009t1:62-7585	transdecoder	five_prime_UTR	1	5762	.	+	.	ID=BommorEVm000009t1:62-7585.p2.utr5p1;Parent=BommorEVm000009t1:62-7585.p2
+BommorEVm000009t1:62-7585	transdecoder	exon	1	7524	.	+	.	ID=BommorEVm000009t1:62-7585.p2.exon1;Parent=BommorEVm000009t1:62-7585.p2
+BommorEVm000009t1:62-7585	transdecoder	CDS	5763	6812	.	+	0	ID=cds.BommorEVm000009t1:62-7585.p2;Parent=BommorEVm000009t1:62-7585.p2
+BommorEVm000009t1:62-7585	transdecoder	three_prime_UTR	6813	7524	.	+	.	ID=BommorEVm000009t1:62-7585.p2.utr3p1;Parent=BommorEVm000009t1:62-7585.p2
+
+BommorEVm000009t1:62-7585	transdecoder	gene	1	7524	.	-	.	ID=GENE.BommorEVm000009t1:62-7585~~BommorEVm000009t1:62-7585.p3;Name=ORF%20type%3Acomplete%20len%3A249%20%28-%29
+BommorEVm000009t1:62-7585	transdecoder	mRNA	1	7524	.	-	.	ID=BommorEVm000009t1:62-7585.p3;Parent=GENE.BommorEVm000009t1:62-7585~~BommorEVm000009t1:62-7585.p3;Name=ORF%20type%3Acomplete%20len%3A249%20%28-%29
+BommorEVm000009t1:62-7585	transdecoder	five_prime_UTR	1617	7524	.	-	.	ID=BommorEVm000009t1:62-7585.p3.utr5p1;Parent=BommorEVm000009t1:62-7585.p3
+BommorEVm000009t1:62-7585	transdecoder	exon	1	7524	.	-	.	ID=BommorEVm000009t1:62-7585.p3.exon1;Parent=BommorEVm000009t1:62-7585.p3
+BommorEVm000009t1:62-7585	transdecoder	CDS	870	1616	.	-	0	ID=cds.BommorEVm000009t1:62-7585.p3;Parent=BommorEVm000009t1:62-7585.p3
+BommorEVm000009t1:62-7585	transdecoder	three_prime_UTR	1	869	.	-	.	ID=BommorEVm000009t1:62-7585.p3.utr3p1;Parent=BommorEVm000009t1:62-7585.p3
+
+BommorEVm000009t1:62-7585	transdecoder	gene	1	7524	.	-	.	ID=GENE.BommorEVm000009t1:62-7585~~BommorEVm000009t1:62-7585.p4;Name=ORF%20type%3Acomplete%20len%3A211%20%28-%29
+BommorEVm000009t1:62-7585	transdecoder	mRNA	1	7524	.	-	.	ID=BommorEVm000009t1:62-7585.p4;Parent=GENE.BommorEVm000009t1:62-7585~~BommorEVm000009t1:62-7585.p4;Name=ORF%20type%3Acomplete%20len%3A211%20%28-%29
+BommorEVm000009t1:62-7585	transdecoder	five_prime_UTR	4893	7524	.	-	.	ID=BommorEVm000009t1:62-7585.p4.utr5p1;Parent=BommorEVm000009t1:62-7585.p4
+BommorEVm000009t1:62-7585	transdecoder	exon	1	7524	.	-	.	ID=BommorEVm000009t1:62-7585.p4.exon1;Parent=BommorEVm000009t1:62-7585.p4
+BommorEVm000009t1:62-7585	transdecoder	CDS	4260	4892	.	-	0	ID=cds.BommorEVm000009t1:62-7585.p4;Parent=BommorEVm000009t1:62-7585.p4
+BommorEVm000009t1:62-7585	transdecoder	three_prime_UTR	1	4259	.	-	.	ID=BommorEVm000009t1:62-7585.p4.utr3p1;Parent=BommorEVm000009t1:62-7585.p4
+
+BommorEVm000009t1:62-7585	transdecoder	gene	1	7524	.	-	.	ID=GENE.BommorEVm000009t1:62-7585~~BommorEVm000009t1:62-7585.p5;Name=ORF%20type%3Acomplete%20len%3A171%20%28-%29
+BommorEVm000009t1:62-7585	transdecoder	mRNA	1	7524	.	-	.	ID=BommorEVm000009t1:62-7585.p5;Parent=GENE.BommorEVm000009t1:62-7585~~BommorEVm000009t1:62-7585.p5;Name=ORF%20type%3Acomplete%20len%3A171%20%28-%29
+BommorEVm000009t1:62-7585	transdecoder	five_prime_UTR	7215	7524	.	-	.	ID=BommorEVm000009t1:62-7585.p5.utr5p1;Parent=BommorEVm000009t1:62-7585.p5
+BommorEVm000009t1:62-7585	transdecoder	exon	1	7524	.	-	.	ID=BommorEVm000009t1:62-7585.p5.exon1;Parent=BommorEVm000009t1:62-7585.p5
+BommorEVm000009t1:62-7585	transdecoder	CDS	6702	7214	.	-	0	ID=cds.BommorEVm000009t1:62-7585.p5;Parent=BommorEVm000009t1:62-7585.p5
+BommorEVm000009t1:62-7585	transdecoder	three_prime_UTR	1	6701	.	-	.	ID=BommorEVm000009t1:62-7585.p5.utr3p1;Parent=BommorEVm000009t1:62-7585.p5
+
+BommorEVm000009t1:62-7585	transdecoder	gene	1	7524	.	-	.	ID=GENE.BommorEVm000009t1:62-7585~~BommorEVm000009t1:62-7585.p6;Name=ORF%20type%3Acomplete%20len%3A167%20%28-%29
+BommorEVm000009t1:62-7585	transdecoder	mRNA	1	7524	.	-	.	ID=BommorEVm000009t1:62-7585.p6;Parent=GENE.BommorEVm000009t1:62-7585~~BommorEVm000009t1:62-7585.p6;Name=ORF%20type%3Acomplete%20len%3A167%20%28-%29
+BommorEVm000009t1:62-7585	transdecoder	five_prime_UTR	4621	7524	.	-	.	ID=BommorEVm000009t1:62-7585.p6.utr5p1;Parent=BommorEVm000009t1:62-7585.p6
+BommorEVm000009t1:62-7585	transdecoder	exon	1	7524	.	-	.	ID=BommorEVm000009t1:62-7585.p6.exon1;Parent=BommorEVm000009t1:62-7585.p6
+BommorEVm000009t1:62-7585	transdecoder	CDS	4120	4620	.	-	0	ID=cds.BommorEVm000009t1:62-7585.p6;Parent=BommorEVm000009t1:62-7585.p6
+BommorEVm000009t1:62-7585	transdecoder	three_prime_UTR	1	4119	.	-	.	ID=BommorEVm000009t1:62-7585.p6.utr3p1;Parent=BommorEVm000009t1:62-7585.p6
+
+BommorEVm000009t1:62-7585	transdecoder	gene	1	7524	.	-	.	ID=GENE.BommorEVm000009t1:62-7585~~BommorEVm000009t1:62-7585.p7;Name=ORF%20type%3Acomplete%20len%3A136%20%28-%29
+BommorEVm000009t1:62-7585	transdecoder	mRNA	1	7524	.	-	.	ID=BommorEVm000009t1:62-7585.p7;Parent=GENE.BommorEVm000009t1:62-7585~~BommorEVm000009t1:62-7585.p7;Name=ORF%20type%3Acomplete%20len%3A136%20%28-%29
+BommorEVm000009t1:62-7585	transdecoder	five_prime_UTR	6615	7524	.	-	.	ID=BommorEVm000009t1:62-7585.p7.utr5p1;Parent=BommorEVm000009t1:62-7585.p7
+BommorEVm000009t1:62-7585	transdecoder	exon	1	7524	.	-	.	ID=BommorEVm000009t1:62-7585.p7.exon1;Parent=BommorEVm000009t1:62-7585.p7
+BommorEVm000009t1:62-7585	transdecoder	CDS	6207	6614	.	-	0	ID=cds.BommorEVm000009t1:62-7585.p7;Parent=BommorEVm000009t1:62-7585.p7
+BommorEVm000009t1:62-7585	transdecoder	three_prime_UTR	1	6206	.	-	.	ID=BommorEVm000009t1:62-7585.p7.utr3p1;Parent=BommorEVm000009t1:62-7585.p7
+
+BommorEVm000009t1:62-7585	transdecoder	gene	1	7524	.	-	.	ID=GENE.BommorEVm000009t1:62-7585~~BommorEVm000009t1:62-7585.p8;Name=ORF%20type%3Acomplete%20len%3A106%20%28-%29
+BommorEVm000009t1:62-7585	transdecoder	mRNA	1	7524	.	-	.	ID=BommorEVm000009t1:62-7585.p8;Parent=GENE.BommorEVm000009t1:62-7585~~BommorEVm000009t1:62-7585.p8;Name=ORF%20type%3Acomplete%20len%3A106%20%28-%29
+BommorEVm000009t1:62-7585	transdecoder	five_prime_UTR	6099	7524	.	-	.	ID=BommorEVm000009t1:62-7585.p8.utr5p1;Parent=BommorEVm000009t1:62-7585.p8
+BommorEVm000009t1:62-7585	transdecoder	exon	1	7524	.	-	.	ID=BommorEVm000009t1:62-7585.p8.exon1;Parent=BommorEVm000009t1:62-7585.p8
+BommorEVm000009t1:62-7585	transdecoder	CDS	5781	6098	.	-	0	ID=cds.BommorEVm000009t1:62-7585.p8;Parent=BommorEVm000009t1:62-7585.p8
+BommorEVm000009t1:62-7585	transdecoder	three_prime_UTR	1	5780	.	-	.	ID=BommorEVm000009t1:62-7585.p8.utr3p1;Parent=BommorEVm000009t1:62-7585.p8
+
+BommorEVm000009t1:62-7585	transdecoder	gene	1	7524	.	-	.	ID=GENE.BommorEVm000009t1:62-7585~~BommorEVm000009t1:62-7585.p9;Name=ORF%20type%3Acomplete%20len%3A105%20%28-%29
+BommorEVm000009t1:62-7585	transdecoder	mRNA	1	7524	.	-	.	ID=BommorEVm000009t1:62-7585.p9;Parent=GENE.BommorEVm000009t1:62-7585~~BommorEVm000009t1:62-7585.p9;Name=ORF%20type%3Acomplete%20len%3A105%20%28-%29
+BommorEVm000009t1:62-7585	transdecoder	five_prime_UTR	1601	7524	.	-	.	ID=BommorEVm000009t1:62-7585.p9.utr5p1;Parent=BommorEVm000009t1:62-7585.p9
+BommorEVm000009t1:62-7585	transdecoder	exon	1	7524	.	-	.	ID=BommorEVm000009t1:62-7585.p9.exon1;Parent=BommorEVm000009t1:62-7585.p9
+BommorEVm000009t1:62-7585	transdecoder	CDS	1286	1600	.	-	0	ID=cds.BommorEVm000009t1:62-7585.p9;Parent=BommorEVm000009t1:62-7585.p9
+BommorEVm000009t1:62-7585	transdecoder	three_prime_UTR	1	1285	.	-	.	ID=BommorEVm000009t1:62-7585.p9.utr3p1;Parent=BommorEVm000009t1:62-7585.p9
+
+BommorEVm000325t1:100-3249	transdecoder	gene	1	3150	.	+	.	ID=GENE.BommorEVm000325t1:100-3249~~BommorEVm000325t1:100-3249.p1;Name=ORF%20type%3A3prime_partial%20len%3A1051%20%28%2B%29
+BommorEVm000325t1:100-3249	transdecoder	mRNA	1	3150	.	+	.	ID=BommorEVm000325t1:100-3249.p1;Parent=GENE.BommorEVm000325t1:100-3249~~BommorEVm000325t1:100-3249.p1;Name=ORF%20type%3A3prime_partial%20len%3A1051%20%28%2B%29
+BommorEVm000325t1:100-3249	transdecoder	exon	1	3150	.	+	.	ID=BommorEVm000325t1:100-3249.p1.exon1;Parent=BommorEVm000325t1:100-3249.p1
+BommorEVm000325t1:100-3249	transdecoder	CDS	1	3150	.	+	0	ID=cds.BommorEVm000325t1:100-3249.p1;Parent=BommorEVm000325t1:100-3249.p1;3_prime_partial=true
+
+BommorEVm000325t1:100-3249	transdecoder	gene	1	3150	.	-	.	ID=GENE.BommorEVm000325t1:100-3249~~BommorEVm000325t1:100-3249.p2;Name=ORF%20type%3A5prime_partial%20len%3A162%20%28-%29
+BommorEVm000325t1:100-3249	transdecoder	mRNA	1	3150	.	-	.	ID=BommorEVm000325t1:100-3249.p2;Parent=GENE.BommorEVm000325t1:100-3249~~BommorEVm000325t1:100-3249.p2;Name=ORF%20type%3A5prime_partial%20len%3A162%20%28-%29
+BommorEVm000325t1:100-3249	transdecoder	exon	1	3150	.	-	.	ID=BommorEVm000325t1:100-3249.p2.exon1;Parent=BommorEVm000325t1:100-3249.p2
+BommorEVm000325t1:100-3249	transdecoder	CDS	2665	3150	.	-	0	ID=cds.BommorEVm000325t1:100-3249.p2;Parent=BommorEVm000325t1:100-3249.p2;5_prime_partial=true
+BommorEVm000325t1:100-3249	transdecoder	three_prime_UTR	1	2664	.	-	.	ID=BommorEVm000325t1:100-3249.p2.utr3p1;Parent=BommorEVm000325t1:100-3249.p2
+
+BommorEVm000325t1:100-3249	transdecoder	gene	1	3150	.	-	.	ID=GENE.BommorEVm000325t1:100-3249~~BommorEVm000325t1:100-3249.p3;Name=ORF%20type%3Acomplete%20len%3A112%20%28-%29
+BommorEVm000325t1:100-3249	transdecoder	mRNA	1	3150	.	-	.	ID=BommorEVm000325t1:100-3249.p3;Parent=GENE.BommorEVm000325t1:100-3249~~BommorEVm000325t1:100-3249.p3;Name=ORF%20type%3Acomplete%20len%3A112%20%28-%29
+BommorEVm000325t1:100-3249	transdecoder	five_prime_UTR	2353	3150	.	-	.	ID=BommorEVm000325t1:100-3249.p3.utr5p1;Parent=BommorEVm000325t1:100-3249.p3
+BommorEVm000325t1:100-3249	transdecoder	exon	1	3150	.	-	.	ID=BommorEVm000325t1:100-3249.p3.exon1;Parent=BommorEVm000325t1:100-3249.p3
+BommorEVm000325t1:100-3249	transdecoder	CDS	2017	2352	.	-	0	ID=cds.BommorEVm000325t1:100-3249.p3;Parent=BommorEVm000325t1:100-3249.p3
+BommorEVm000325t1:100-3249	transdecoder	three_prime_UTR	1	2016	.	-	.	ID=BommorEVm000325t1:100-3249.p3.utr3p1;Parent=BommorEVm000325t1:100-3249.p3
+
+BommorEVm000400t1:111-3059	transdecoder	gene	1	2949	.	+	.	ID=GENE.BommorEVm000400t1:111-3059~~BommorEVm000400t1:111-3059.p1;Name=ORF%20type%3A3prime_partial%20len%3A984%20%28%2B%29
+BommorEVm000400t1:111-3059	transdecoder	mRNA	1	2949	.	+	.	ID=BommorEVm000400t1:111-3059.p1;Parent=GENE.BommorEVm000400t1:111-3059~~BommorEVm000400t1:111-3059.p1;Name=ORF%20type%3A3prime_partial%20len%3A984%20%28%2B%29
+BommorEVm000400t1:111-3059	transdecoder	exon	1	2949	.	+	.	ID=BommorEVm000400t1:111-3059.p1.exon1;Parent=BommorEVm000400t1:111-3059.p1
+BommorEVm000400t1:111-3059	transdecoder	CDS	1	2949	.	+	0	ID=cds.BommorEVm000400t1:111-3059.p1;Parent=BommorEVm000400t1:111-3059.p1;3_prime_partial=true
+
+BommorEVm000538t1:78-2753	transdecoder	gene	1	2676	.	+	.	ID=GENE.BommorEVm000538t1:78-2753~~BommorEVm000538t1:78-2753.p1;Name=ORF%20type%3A3prime_partial%20len%3A893%20%28%2B%29
+BommorEVm000538t1:78-2753	transdecoder	mRNA	1	2676	.	+	.	ID=BommorEVm000538t1:78-2753.p1;Parent=GENE.BommorEVm000538t1:78-2753~~BommorEVm000538t1:78-2753.p1;Name=ORF%20type%3A3prime_partial%20len%3A893%20%28%2B%29
+BommorEVm000538t1:78-2753	transdecoder	exon	1	2676	.	+	.	ID=BommorEVm000538t1:78-2753.p1.exon1;Parent=BommorEVm000538t1:78-2753.p1
+BommorEVm000538t1:78-2753	transdecoder	CDS	1	2676	.	+	0	ID=cds.BommorEVm000538t1:78-2753.p1;Parent=BommorEVm000538t1:78-2753.p1;3_prime_partial=true
+
+BommorEVm000538t1:78-2753	transdecoder	gene	1	2676	.	-	.	ID=GENE.BommorEVm000538t1:78-2753~~BommorEVm000538t1:78-2753.p2;Name=ORF%20type%3A5prime_partial%20len%3A111%20%28-%29
+BommorEVm000538t1:78-2753	transdecoder	mRNA	1	2676	.	-	.	ID=BommorEVm000538t1:78-2753.p2;Parent=GENE.BommorEVm000538t1:78-2753~~BommorEVm000538t1:78-2753.p2;Name=ORF%20type%3A5prime_partial%20len%3A111%20%28-%29
+BommorEVm000538t1:78-2753	transdecoder	exon	1	2676	.	-	.	ID=BommorEVm000538t1:78-2753.p2.exon1;Parent=BommorEVm000538t1:78-2753.p2
+BommorEVm000538t1:78-2753	transdecoder	CDS	2343	2675	.	-	0	ID=cds.BommorEVm000538t1:78-2753.p2;Parent=BommorEVm000538t1:78-2753.p2;5_prime_partial=true
+BommorEVm000538t1:78-2753	transdecoder	three_prime_UTR	1	2342	.	-	.	ID=BommorEVm000538t1:78-2753.p2.utr3p1;Parent=BommorEVm000538t1:78-2753.p2
+
+BommorEVm000538t1:78-2753	transdecoder	gene	1	2676	.	-	.	ID=GENE.BommorEVm000538t1:78-2753~~BommorEVm000538t1:78-2753.p3;Name=ORF%20type%3A5prime_partial%20len%3A110%20%28-%29
+BommorEVm000538t1:78-2753	transdecoder	mRNA	1	2676	.	-	.	ID=BommorEVm000538t1:78-2753.p3;Parent=GENE.BommorEVm000538t1:78-2753~~BommorEVm000538t1:78-2753.p3;Name=ORF%20type%3A5prime_partial%20len%3A110%20%28-%29
+BommorEVm000538t1:78-2753	transdecoder	exon	1	2676	.	-	.	ID=BommorEVm000538t1:78-2753.p3.exon1;Parent=BommorEVm000538t1:78-2753.p3
+BommorEVm000538t1:78-2753	transdecoder	CDS	2347	2676	.	-	0	ID=cds.BommorEVm000538t1:78-2753.p3;Parent=BommorEVm000538t1:78-2753.p3;5_prime_partial=true
+BommorEVm000538t1:78-2753	transdecoder	three_prime_UTR	1	2346	.	-	.	ID=BommorEVm000538t1:78-2753.p3.utr3p1;Parent=BommorEVm000538t1:78-2753.p3
+
+BommorEVm000538t1:78-2753	transdecoder	gene	1	2676	.	-	.	ID=GENE.BommorEVm000538t1:78-2753~~BommorEVm000538t1:78-2753.p4;Name=ORF%20type%3Acomplete%20len%3A110%20%28-%29
+BommorEVm000538t1:78-2753	transdecoder	mRNA	1	2676	.	-	.	ID=BommorEVm000538t1:78-2753.p4;Parent=GENE.BommorEVm000538t1:78-2753~~BommorEVm000538t1:78-2753.p4;Name=ORF%20type%3Acomplete%20len%3A110%20%28-%29
+BommorEVm000538t1:78-2753	transdecoder	five_prime_UTR	1845	2676	.	-	.	ID=BommorEVm000538t1:78-2753.p4.utr5p1;Parent=BommorEVm000538t1:78-2753.p4
+BommorEVm000538t1:78-2753	transdecoder	exon	1	2676	.	-	.	ID=BommorEVm000538t1:78-2753.p4.exon1;Parent=BommorEVm000538t1:78-2753.p4
+BommorEVm000538t1:78-2753	transdecoder	CDS	1515	1844	.	-	0	ID=cds.BommorEVm000538t1:78-2753.p4;Parent=BommorEVm000538t1:78-2753.p4
+BommorEVm000538t1:78-2753	transdecoder	three_prime_UTR	1	1514	.	-	.	ID=BommorEVm000538t1:78-2753.p4.utr3p1;Parent=BommorEVm000538t1:78-2753.p4
+
+BommorEVm000538t1:78-2753	transdecoder	gene	1	2676	.	-	.	ID=GENE.BommorEVm000538t1:78-2753~~BommorEVm000538t1:78-2753.p5;Name=ORF%20type%3Acomplete%20len%3A105%20%28-%29
+BommorEVm000538t1:78-2753	transdecoder	mRNA	1	2676	.	-	.	ID=BommorEVm000538t1:78-2753.p5;Parent=GENE.BommorEVm000538t1:78-2753~~BommorEVm000538t1:78-2753.p5;Name=ORF%20type%3Acomplete%20len%3A105%20%28-%29
+BommorEVm000538t1:78-2753	transdecoder	five_prime_UTR	1414	2676	.	-	.	ID=BommorEVm000538t1:78-2753.p5.utr5p1;Parent=BommorEVm000538t1:78-2753.p5
+BommorEVm000538t1:78-2753	transdecoder	exon	1	2676	.	-	.	ID=BommorEVm000538t1:78-2753.p5.exon1;Parent=BommorEVm000538t1:78-2753.p5
+BommorEVm000538t1:78-2753	transdecoder	CDS	1099	1413	.	-	0	ID=cds.BommorEVm000538t1:78-2753.p5;Parent=BommorEVm000538t1:78-2753.p5
+BommorEVm000538t1:78-2753	transdecoder	three_prime_UTR	1	1098	.	-	.	ID=BommorEVm000538t1:78-2753.p5.utr3p1;Parent=BommorEVm000538t1:78-2753.p5
+
+BommorEVm000208t1:110-3703	transdecoder	gene	1	3594	.	+	.	ID=GENE.BommorEVm000208t1:110-3703~~BommorEVm000208t1:110-3703.p1;Name=ORF%20type%3A3prime_partial%20len%3A1199%20%28%2B%29
+BommorEVm000208t1:110-3703	transdecoder	mRNA	1	3594	.	+	.	ID=BommorEVm000208t1:110-3703.p1;Parent=GENE.BommorEVm000208t1:110-3703~~BommorEVm000208t1:110-3703.p1;Name=ORF%20type%3A3prime_partial%20len%3A1199%20%28%2B%29
+BommorEVm000208t1:110-3703	transdecoder	exon	1	3594	.	+	.	ID=BommorEVm000208t1:110-3703.p1.exon1;Parent=BommorEVm000208t1:110-3703.p1
+BommorEVm000208t1:110-3703	transdecoder	CDS	1	3594	.	+	0	ID=cds.BommorEVm000208t1:110-3703.p1;Parent=BommorEVm000208t1:110-3703.p1;3_prime_partial=true
+
+BommorEVm000208t1:110-3703	transdecoder	gene	1	3594	.	-	.	ID=GENE.BommorEVm000208t1:110-3703~~BommorEVm000208t1:110-3703.p2;Name=ORF%20type%3Acomplete%20len%3A155%20%28-%29
+BommorEVm000208t1:110-3703	transdecoder	mRNA	1	3594	.	-	.	ID=BommorEVm000208t1:110-3703.p2;Parent=GENE.BommorEVm000208t1:110-3703~~BommorEVm000208t1:110-3703.p2;Name=ORF%20type%3Acomplete%20len%3A155%20%28-%29
+BommorEVm000208t1:110-3703	transdecoder	five_prime_UTR	672	3594	.	-	.	ID=BommorEVm000208t1:110-3703.p2.utr5p1;Parent=BommorEVm000208t1:110-3703.p2
+BommorEVm000208t1:110-3703	transdecoder	exon	1	3594	.	-	.	ID=BommorEVm000208t1:110-3703.p2.exon1;Parent=BommorEVm000208t1:110-3703.p2
+BommorEVm000208t1:110-3703	transdecoder	CDS	207	671	.	-	0	ID=cds.BommorEVm000208t1:110-3703.p2;Parent=BommorEVm000208t1:110-3703.p2
+BommorEVm000208t1:110-3703	transdecoder	three_prime_UTR	1	206	.	-	.	ID=BommorEVm000208t1:110-3703.p2.utr3p1;Parent=BommorEVm000208t1:110-3703.p2
+
+BommorEVm000495t1:162-2912	transdecoder	gene	1	2751	.	+	.	ID=GENE.BommorEVm000495t1:162-2912~~BommorEVm000495t1:162-2912.p1;Name=ORF%20type%3A3prime_partial%20len%3A918%20%28%2B%29
+BommorEVm000495t1:162-2912	transdecoder	mRNA	1	2751	.	+	.	ID=BommorEVm000495t1:162-2912.p1;Parent=GENE.BommorEVm000495t1:162-2912~~BommorEVm000495t1:162-2912.p1;Name=ORF%20type%3A3prime_partial%20len%3A918%20%28%2B%29
+BommorEVm000495t1:162-2912	transdecoder	exon	1	2751	.	+	.	ID=BommorEVm000495t1:162-2912.p1.exon1;Parent=BommorEVm000495t1:162-2912.p1
+BommorEVm000495t1:162-2912	transdecoder	CDS	1	2751	.	+	0	ID=cds.BommorEVm000495t1:162-2912.p1;Parent=BommorEVm000495t1:162-2912.p1;3_prime_partial=true
+
+BommorEVm000495t1:162-2912	transdecoder	gene	1	2751	.	-	.	ID=GENE.BommorEVm000495t1:162-2912~~BommorEVm000495t1:162-2912.p2;Name=ORF%20type%3Acomplete%20len%3A159%20%28-%29
+BommorEVm000495t1:162-2912	transdecoder	mRNA	1	2751	.	-	.	ID=BommorEVm000495t1:162-2912.p2;Parent=GENE.BommorEVm000495t1:162-2912~~BommorEVm000495t1:162-2912.p2;Name=ORF%20type%3Acomplete%20len%3A159%20%28-%29
+BommorEVm000495t1:162-2912	transdecoder	five_prime_UTR	2430	2751	.	-	.	ID=BommorEVm000495t1:162-2912.p2.utr5p1;Parent=BommorEVm000495t1:162-2912.p2
+BommorEVm000495t1:162-2912	transdecoder	exon	1	2751	.	-	.	ID=BommorEVm000495t1:162-2912.p2.exon1;Parent=BommorEVm000495t1:162-2912.p2
+BommorEVm000495t1:162-2912	transdecoder	CDS	1953	2429	.	-	0	ID=cds.BommorEVm000495t1:162-2912.p2;Parent=BommorEVm000495t1:162-2912.p2
+BommorEVm000495t1:162-2912	transdecoder	three_prime_UTR	1	1952	.	-	.	ID=BommorEVm000495t1:162-2912.p2.utr3p1;Parent=BommorEVm000495t1:162-2912.p2
+
+BommorEVm000495t1:162-2912	transdecoder	gene	1	2751	.	+	.	ID=GENE.BommorEVm000495t1:162-2912~~BommorEVm000495t1:162-2912.p3;Name=ORF%20type%3Acomplete%20len%3A107%20%28%2B%29
+BommorEVm000495t1:162-2912	transdecoder	mRNA	1	2751	.	+	.	ID=BommorEVm000495t1:162-2912.p3;Parent=GENE.BommorEVm000495t1:162-2912~~BommorEVm000495t1:162-2912.p3;Name=ORF%20type%3Acomplete%20len%3A107%20%28%2B%29
+BommorEVm000495t1:162-2912	transdecoder	five_prime_UTR	1	1373	.	+	.	ID=BommorEVm000495t1:162-2912.p3.utr5p1;Parent=BommorEVm000495t1:162-2912.p3
+BommorEVm000495t1:162-2912	transdecoder	exon	1	2751	.	+	.	ID=BommorEVm000495t1:162-2912.p3.exon1;Parent=BommorEVm000495t1:162-2912.p3
+BommorEVm000495t1:162-2912	transdecoder	CDS	1374	1694	.	+	0	ID=cds.BommorEVm000495t1:162-2912.p3;Parent=BommorEVm000495t1:162-2912.p3
+BommorEVm000495t1:162-2912	transdecoder	three_prime_UTR	1695	2751	.	+	.	ID=BommorEVm000495t1:162-2912.p3.utr3p1;Parent=BommorEVm000495t1:162-2912.p3
+
+BommorEVm000529t1:98-2788	transdecoder	gene	1	2691	.	+	.	ID=GENE.BommorEVm000529t1:98-2788~~BommorEVm000529t1:98-2788.p1;Name=ORF%20type%3A3prime_partial%20len%3A898%20%28%2B%29
+BommorEVm000529t1:98-2788	transdecoder	mRNA	1	2691	.	+	.	ID=BommorEVm000529t1:98-2788.p1;Parent=GENE.BommorEVm000529t1:98-2788~~BommorEVm000529t1:98-2788.p1;Name=ORF%20type%3A3prime_partial%20len%3A898%20%28%2B%29
+BommorEVm000529t1:98-2788	transdecoder	exon	1	2691	.	+	.	ID=BommorEVm000529t1:98-2788.p1.exon1;Parent=BommorEVm000529t1:98-2788.p1
+BommorEVm000529t1:98-2788	transdecoder	CDS	1	2691	.	+	0	ID=cds.BommorEVm000529t1:98-2788.p1;Parent=BommorEVm000529t1:98-2788.p1;3_prime_partial=true
+
+BommorEVm000418t1:146-3058	transdecoder	gene	1	2913	.	+	.	ID=GENE.BommorEVm000418t1:146-3058~~BommorEVm000418t1:146-3058.p1;Name=ORF%20type%3A3prime_partial%20len%3A972%20%28%2B%29
+BommorEVm000418t1:146-3058	transdecoder	mRNA	1	2913	.	+	.	ID=BommorEVm000418t1:146-3058.p1;Parent=GENE.BommorEVm000418t1:146-3058~~BommorEVm000418t1:146-3058.p1;Name=ORF%20type%3A3prime_partial%20len%3A972%20%28%2B%29
+BommorEVm000418t1:146-3058	transdecoder	exon	1	2913	.	+	.	ID=BommorEVm000418t1:146-3058.p1.exon1;Parent=BommorEVm000418t1:146-3058.p1
+BommorEVm000418t1:146-3058	transdecoder	CDS	1	2913	.	+	0	ID=cds.BommorEVm000418t1:146-3058.p1;Parent=BommorEVm000418t1:146-3058.p1;3_prime_partial=true
+
+BommorEVm000418t1:146-3058	transdecoder	gene	1	2913	.	-	.	ID=GENE.BommorEVm000418t1:146-3058~~BommorEVm000418t1:146-3058.p2;Name=ORF%20type%3Acomplete%20len%3A218%20%28-%29
+BommorEVm000418t1:146-3058	transdecoder	mRNA	1	2913	.	-	.	ID=BommorEVm000418t1:146-3058.p2;Parent=GENE.BommorEVm000418t1:146-3058~~BommorEVm000418t1:146-3058.p2;Name=ORF%20type%3Acomplete%20len%3A218%20%28-%29
+BommorEVm000418t1:146-3058	transdecoder	five_prime_UTR	2419	2913	.	-	.	ID=BommorEVm000418t1:146-3058.p2.utr5p1;Parent=BommorEVm000418t1:146-3058.p2
+BommorEVm000418t1:146-3058	transdecoder	exon	1	2913	.	-	.	ID=BommorEVm000418t1:146-3058.p2.exon1;Parent=BommorEVm000418t1:146-3058.p2
+BommorEVm000418t1:146-3058	transdecoder	CDS	1765	2418	.	-	0	ID=cds.BommorEVm000418t1:146-3058.p2;Parent=BommorEVm000418t1:146-3058.p2
+BommorEVm000418t1:146-3058	transdecoder	three_prime_UTR	1	1764	.	-	.	ID=BommorEVm000418t1:146-3058.p2.utr3p1;Parent=BommorEVm000418t1:146-3058.p2
+
+BommorEVm000201t1:65-3682	transdecoder	gene	1	3618	.	+	.	ID=GENE.BommorEVm000201t1:65-3682~~BommorEVm000201t1:65-3682.p1;Name=ORF%20type%3A3prime_partial%20len%3A1207%20%28%2B%29
+BommorEVm000201t1:65-3682	transdecoder	mRNA	1	3618	.	+	.	ID=BommorEVm000201t1:65-3682.p1;Parent=GENE.BommorEVm000201t1:65-3682~~BommorEVm000201t1:65-3682.p1;Name=ORF%20type%3A3prime_partial%20len%3A1207%20%28%2B%29
+BommorEVm000201t1:65-3682	transdecoder	exon	1	3618	.	+	.	ID=BommorEVm000201t1:65-3682.p1.exon1;Parent=BommorEVm000201t1:65-3682.p1
+BommorEVm000201t1:65-3682	transdecoder	CDS	1	3618	.	+	0	ID=cds.BommorEVm000201t1:65-3682.p1;Parent=BommorEVm000201t1:65-3682.p1;3_prime_partial=true
+
+BommorEVm000201t1:65-3682	transdecoder	gene	1	3618	.	-	.	ID=GENE.BommorEVm000201t1:65-3682~~BommorEVm000201t1:65-3682.p2;Name=ORF%20type%3A3prime_partial%20len%3A111%20%28-%29
+BommorEVm000201t1:65-3682	transdecoder	mRNA	1	3618	.	-	.	ID=BommorEVm000201t1:65-3682.p2;Parent=GENE.BommorEVm000201t1:65-3682~~BommorEVm000201t1:65-3682.p2;Name=ORF%20type%3A3prime_partial%20len%3A111%20%28-%29
+BommorEVm000201t1:65-3682	transdecoder	five_prime_UTR	333	3618	.	-	.	ID=BommorEVm000201t1:65-3682.p2.utr5p1;Parent=BommorEVm000201t1:65-3682.p2
+BommorEVm000201t1:65-3682	transdecoder	exon	1	3618	.	-	.	ID=BommorEVm000201t1:65-3682.p2.exon1;Parent=BommorEVm000201t1:65-3682.p2
+BommorEVm000201t1:65-3682	transdecoder	CDS	3	332	.	-	0	ID=cds.BommorEVm000201t1:65-3682.p2;Parent=BommorEVm000201t1:65-3682.p2;3_prime_partial=true
+
+BommorEVm000201t1:65-3682	transdecoder	gene	1	3618	.	-	.	ID=GENE.BommorEVm000201t1:65-3682~~BommorEVm000201t1:65-3682.p3;Name=ORF%20type%3Acomplete%20len%3A104%20%28-%29
+BommorEVm000201t1:65-3682	transdecoder	mRNA	1	3618	.	-	.	ID=BommorEVm000201t1:65-3682.p3;Parent=GENE.BommorEVm000201t1:65-3682~~BommorEVm000201t1:65-3682.p3;Name=ORF%20type%3Acomplete%20len%3A104%20%28-%29
+BommorEVm000201t1:65-3682	transdecoder	five_prime_UTR	2550	3618	.	-	.	ID=BommorEVm000201t1:65-3682.p3.utr5p1;Parent=BommorEVm000201t1:65-3682.p3
+BommorEVm000201t1:65-3682	transdecoder	exon	1	3618	.	-	.	ID=BommorEVm000201t1:65-3682.p3.exon1;Parent=BommorEVm000201t1:65-3682.p3
+BommorEVm000201t1:65-3682	transdecoder	CDS	2238	2549	.	-	0	ID=cds.BommorEVm000201t1:65-3682.p3;Parent=BommorEVm000201t1:65-3682.p3
+BommorEVm000201t1:65-3682	transdecoder	three_prime_UTR	1	2237	.	-	.	ID=BommorEVm000201t1:65-3682.p3.utr3p1;Parent=BommorEVm000201t1:65-3682.p3
+
+BommorEVm000606t1:219-3940	transdecoder	gene	1	2751	.	+	.	ID=GENE.BommorEVm000606t1:219-3940~~BommorEVm000606t1:219-3940.p1;Name=ORF%20type%3A3prime_partial%20len%3A918%20%28%2B%29
+BommorEVm000606t1:219-3940	transdecoder	mRNA	1	2751	.	+	.	ID=BommorEVm000606t1:219-3940.p1;Parent=GENE.BommorEVm000606t1:219-3940~~BommorEVm000606t1:219-3940.p1;Name=ORF%20type%3A3prime_partial%20len%3A918%20%28%2B%29
+BommorEVm000606t1:219-3940	transdecoder	exon	1	2751	.	+	.	ID=BommorEVm000606t1:219-3940.p1.exon1;Parent=BommorEVm000606t1:219-3940.p1
+BommorEVm000606t1:219-3940	transdecoder	CDS	1	2751	.	+	0	ID=cds.BommorEVm000606t1:219-3940.p1;Parent=BommorEVm000606t1:219-3940.p1;3_prime_partial=true
+
+BommorEVm000606t1:219-3940	transdecoder	gene	1	2751	.	-	.	ID=GENE.BommorEVm000606t1:219-3940~~BommorEVm000606t1:219-3940.p2;Name=ORF%20type%3A5prime_partial%20len%3A154%20%28-%29
+BommorEVm000606t1:219-3940	transdecoder	mRNA	1	2751	.	-	.	ID=BommorEVm000606t1:219-3940.p2;Parent=GENE.BommorEVm000606t1:219-3940~~BommorEVm000606t1:219-3940.p2;Name=ORF%20type%3A5prime_partial%20len%3A154%20%28-%29
+BommorEVm000606t1:219-3940	transdecoder	exon	1	2751	.	-	.	ID=BommorEVm000606t1:219-3940.p2.exon1;Parent=BommorEVm000606t1:219-3940.p2
+BommorEVm000606t1:219-3940	transdecoder	CDS	2290	2751	.	-	0	ID=cds.BommorEVm000606t1:219-3940.p2;Parent=BommorEVm000606t1:219-3940.p2;5_prime_partial=true
+BommorEVm000606t1:219-3940	transdecoder	three_prime_UTR	1	2289	.	-	.	ID=BommorEVm000606t1:219-3940.p2.utr3p1;Parent=BommorEVm000606t1:219-3940.p2
+
+BommorEVm000606t1:219-3940	transdecoder	gene	1	2751	.	-	.	ID=GENE.BommorEVm000606t1:219-3940~~BommorEVm000606t1:219-3940.p3;Name=ORF%20type%3Acomplete%20len%3A105%20%28-%29
+BommorEVm000606t1:219-3940	transdecoder	mRNA	1	2751	.	-	.	ID=BommorEVm000606t1:219-3940.p3;Parent=GENE.BommorEVm000606t1:219-3940~~BommorEVm000606t1:219-3940.p3;Name=ORF%20type%3Acomplete%20len%3A105%20%28-%29
+BommorEVm000606t1:219-3940	transdecoder	five_prime_UTR	2058	2751	.	-	.	ID=BommorEVm000606t1:219-3940.p3.utr5p1;Parent=BommorEVm000606t1:219-3940.p3
+BommorEVm000606t1:219-3940	transdecoder	exon	1	2751	.	-	.	ID=BommorEVm000606t1:219-3940.p3.exon1;Parent=BommorEVm000606t1:219-3940.p3
+BommorEVm000606t1:219-3940	transdecoder	CDS	1743	2057	.	-	0	ID=cds.BommorEVm000606t1:219-3940.p3;Parent=BommorEVm000606t1:219-3940.p3
+BommorEVm000606t1:219-3940	transdecoder	three_prime_UTR	1	1742	.	-	.	ID=BommorEVm000606t1:219-3940.p3.utr3p1;Parent=BommorEVm000606t1:219-3940.p3
+
+BommorEVm001111t1:109-3811	transdecoder	gene	1	3681	.	+	.	ID=GENE.BommorEVm001111t1:109-3811~~BommorEVm001111t1:109-3811.p1;Name=ORF%20type%3Ainternal%20len%3A1228%20%28%2B%29
+BommorEVm001111t1:109-3811	transdecoder	mRNA	1	3681	.	+	.	ID=BommorEVm001111t1:109-3811.p1;Parent=GENE.BommorEVm001111t1:109-3811~~BommorEVm001111t1:109-3811.p1;Name=ORF%20type%3Ainternal%20len%3A1228%20%28%2B%29
+BommorEVm001111t1:109-3811	transdecoder	exon	1	3681	.	+	.	ID=BommorEVm001111t1:109-3811.p1.exon1;Parent=BommorEVm001111t1:109-3811.p1
+BommorEVm001111t1:109-3811	transdecoder	CDS	1	3681	.	+	0	ID=cds.BommorEVm001111t1:109-3811.p1;Parent=BommorEVm001111t1:109-3811.p1;5_prime_partial=true;3_prime_partial=true
+
+BommorEVm000507t1:112-2835	transdecoder	gene	1	2724	.	+	.	ID=GENE.BommorEVm000507t1:112-2835~~BommorEVm000507t1:112-2835.p1;Name=ORF%20type%3A3prime_partial%20len%3A909%20%28%2B%29
+BommorEVm000507t1:112-2835	transdecoder	mRNA	1	2724	.	+	.	ID=BommorEVm000507t1:112-2835.p1;Parent=GENE.BommorEVm000507t1:112-2835~~BommorEVm000507t1:112-2835.p1;Name=ORF%20type%3A3prime_partial%20len%3A909%20%28%2B%29
+BommorEVm000507t1:112-2835	transdecoder	exon	1	2724	.	+	.	ID=BommorEVm000507t1:112-2835.p1.exon1;Parent=BommorEVm000507t1:112-2835.p1
+BommorEVm000507t1:112-2835	transdecoder	CDS	1	2724	.	+	0	ID=cds.BommorEVm000507t1:112-2835.p1;Parent=BommorEVm000507t1:112-2835.p1;3_prime_partial=true
+
+BommorEVm000507t1:112-2835	transdecoder	gene	1	2724	.	-	.	ID=GENE.BommorEVm000507t1:112-2835~~BommorEVm000507t1:112-2835.p2;Name=ORF%20type%3Acomplete%20len%3A185%20%28-%29
+BommorEVm000507t1:112-2835	transdecoder	mRNA	1	2724	.	-	.	ID=BommorEVm000507t1:112-2835.p2;Parent=GENE.BommorEVm000507t1:112-2835~~BommorEVm000507t1:112-2835.p2;Name=ORF%20type%3Acomplete%20len%3A185%20%28-%29
+BommorEVm000507t1:112-2835	transdecoder	five_prime_UTR	1788	2724	.	-	.	ID=BommorEVm000507t1:112-2835.p2.utr5p1;Parent=BommorEVm000507t1:112-2835.p2
+BommorEVm000507t1:112-2835	transdecoder	exon	1	2724	.	-	.	ID=BommorEVm000507t1:112-2835.p2.exon1;Parent=BommorEVm000507t1:112-2835.p2
+BommorEVm000507t1:112-2835	transdecoder	CDS	1233	1787	.	-	0	ID=cds.BommorEVm000507t1:112-2835.p2;Parent=BommorEVm000507t1:112-2835.p2
+BommorEVm000507t1:112-2835	transdecoder	three_prime_UTR	1	1232	.	-	.	ID=BommorEVm000507t1:112-2835.p2.utr3p1;Parent=BommorEVm000507t1:112-2835.p2
+
+BommorEVm000278t1:62-3343	transdecoder	gene	1	3282	.	+	.	ID=GENE.BommorEVm000278t1:62-3343~~BommorEVm000278t1:62-3343.p1;Name=ORF%20type%3A3prime_partial%20len%3A1095%20%28%2B%29
+BommorEVm000278t1:62-3343	transdecoder	mRNA	1	3282	.	+	.	ID=BommorEVm000278t1:62-3343.p1;Parent=GENE.BommorEVm000278t1:62-3343~~BommorEVm000278t1:62-3343.p1;Name=ORF%20type%3A3prime_partial%20len%3A1095%20%28%2B%29
+BommorEVm000278t1:62-3343	transdecoder	exon	1	3282	.	+	.	ID=BommorEVm000278t1:62-3343.p1.exon1;Parent=BommorEVm000278t1:62-3343.p1
+BommorEVm000278t1:62-3343	transdecoder	CDS	1	3282	.	+	0	ID=cds.BommorEVm000278t1:62-3343.p1;Parent=BommorEVm000278t1:62-3343.p1;3_prime_partial=true
+
+BommorEVm000278t1:62-3343	transdecoder	gene	1	3282	.	-	.	ID=GENE.BommorEVm000278t1:62-3343~~BommorEVm000278t1:62-3343.p2;Name=ORF%20type%3Acomplete%20len%3A134%20%28-%29
+BommorEVm000278t1:62-3343	transdecoder	mRNA	1	3282	.	-	.	ID=BommorEVm000278t1:62-3343.p2;Parent=GENE.BommorEVm000278t1:62-3343~~BommorEVm000278t1:62-3343.p2;Name=ORF%20type%3Acomplete%20len%3A134%20%28-%29
+BommorEVm000278t1:62-3343	transdecoder	five_prime_UTR	966	3282	.	-	.	ID=BommorEVm000278t1:62-3343.p2.utr5p1;Parent=BommorEVm000278t1:62-3343.p2
+BommorEVm000278t1:62-3343	transdecoder	exon	1	3282	.	-	.	ID=BommorEVm000278t1:62-3343.p2.exon1;Parent=BommorEVm000278t1:62-3343.p2
+BommorEVm000278t1:62-3343	transdecoder	CDS	564	965	.	-	0	ID=cds.BommorEVm000278t1:62-3343.p2;Parent=BommorEVm000278t1:62-3343.p2
+BommorEVm000278t1:62-3343	transdecoder	three_prime_UTR	1	563	.	-	.	ID=BommorEVm000278t1:62-3343.p2.utr3p1;Parent=BommorEVm000278t1:62-3343.p2
+
+BommorEVm001044t1:155-3857	transdecoder	gene	1	3138	.	+	.	ID=GENE.BommorEVm001044t1:155-3857~~BommorEVm001044t1:155-3857.p1;Name=ORF%20type%3A3prime_partial%20len%3A1047%20%28%2B%29
+BommorEVm001044t1:155-3857	transdecoder	mRNA	1	3138	.	+	.	ID=BommorEVm001044t1:155-3857.p1;Parent=GENE.BommorEVm001044t1:155-3857~~BommorEVm001044t1:155-3857.p1;Name=ORF%20type%3A3prime_partial%20len%3A1047%20%28%2B%29
+BommorEVm001044t1:155-3857	transdecoder	exon	1	3138	.	+	.	ID=BommorEVm001044t1:155-3857.p1.exon1;Parent=BommorEVm001044t1:155-3857.p1
+BommorEVm001044t1:155-3857	transdecoder	CDS	1	3138	.	+	0	ID=cds.BommorEVm001044t1:155-3857.p1;Parent=BommorEVm001044t1:155-3857.p1;3_prime_partial=true
+
+BommorEVm001044t1:155-3857	transdecoder	gene	1	3138	.	-	.	ID=GENE.BommorEVm001044t1:155-3857~~BommorEVm001044t1:155-3857.p2;Name=ORF%20type%3Acomplete%20len%3A109%20%28-%29
+BommorEVm001044t1:155-3857	transdecoder	mRNA	1	3138	.	-	.	ID=BommorEVm001044t1:155-3857.p2;Parent=GENE.BommorEVm001044t1:155-3857~~BommorEVm001044t1:155-3857.p2;Name=ORF%20type%3Acomplete%20len%3A109%20%28-%29
+BommorEVm001044t1:155-3857	transdecoder	five_prime_UTR	1461	3138	.	-	.	ID=BommorEVm001044t1:155-3857.p2.utr5p1;Parent=BommorEVm001044t1:155-3857.p2
+BommorEVm001044t1:155-3857	transdecoder	exon	1	3138	.	-	.	ID=BommorEVm001044t1:155-3857.p2.exon1;Parent=BommorEVm001044t1:155-3857.p2
+BommorEVm001044t1:155-3857	transdecoder	CDS	1134	1460	.	-	0	ID=cds.BommorEVm001044t1:155-3857.p2;Parent=BommorEVm001044t1:155-3857.p2
+BommorEVm001044t1:155-3857	transdecoder	three_prime_UTR	1	1133	.	-	.	ID=BommorEVm001044t1:155-3857.p2.utr3p1;Parent=BommorEVm001044t1:155-3857.p2
+
+BommorEVm000015t1:133-7224	transdecoder	gene	1	7092	.	+	.	ID=GENE.BommorEVm000015t1:133-7224~~BommorEVm000015t1:133-7224.p1;Name=ORF%20type%3A3prime_partial%20len%3A2365%20%28%2B%29
+BommorEVm000015t1:133-7224	transdecoder	mRNA	1	7092	.	+	.	ID=BommorEVm000015t1:133-7224.p1;Parent=GENE.BommorEVm000015t1:133-7224~~BommorEVm000015t1:133-7224.p1;Name=ORF%20type%3A3prime_partial%20len%3A2365%20%28%2B%29
+BommorEVm000015t1:133-7224	transdecoder	exon	1	7092	.	+	.	ID=BommorEVm000015t1:133-7224.p1.exon1;Parent=BommorEVm000015t1:133-7224.p1
+BommorEVm000015t1:133-7224	transdecoder	CDS	1	7092	.	+	0	ID=cds.BommorEVm000015t1:133-7224.p1;Parent=BommorEVm000015t1:133-7224.p1;3_prime_partial=true
+
+BommorEVm000015t1:133-7224	transdecoder	gene	1	7092	.	-	.	ID=GENE.BommorEVm000015t1:133-7224~~BommorEVm000015t1:133-7224.p2;Name=ORF%20type%3Acomplete%20len%3A125%20%28-%29
+BommorEVm000015t1:133-7224	transdecoder	mRNA	1	7092	.	-	.	ID=BommorEVm000015t1:133-7224.p2;Parent=GENE.BommorEVm000015t1:133-7224~~BommorEVm000015t1:133-7224.p2;Name=ORF%20type%3Acomplete%20len%3A125%20%28-%29
+BommorEVm000015t1:133-7224	transdecoder	five_prime_UTR	2295	7092	.	-	.	ID=BommorEVm000015t1:133-7224.p2.utr5p1;Parent=BommorEVm000015t1:133-7224.p2
+BommorEVm000015t1:133-7224	transdecoder	exon	1	7092	.	-	.	ID=BommorEVm000015t1:133-7224.p2.exon1;Parent=BommorEVm000015t1:133-7224.p2
+BommorEVm000015t1:133-7224	transdecoder	CDS	1920	2294	.	-	0	ID=cds.BommorEVm000015t1:133-7224.p2;Parent=BommorEVm000015t1:133-7224.p2
+BommorEVm000015t1:133-7224	transdecoder	three_prime_UTR	1	1919	.	-	.	ID=BommorEVm000015t1:133-7224.p2.utr3p1;Parent=BommorEVm000015t1:133-7224.p2
+
+BommorEVm000137t1:122-4129	transdecoder	gene	1	4008	.	+	.	ID=GENE.BommorEVm000137t1:122-4129~~BommorEVm000137t1:122-4129.p1;Name=ORF%20type%3A3prime_partial%20len%3A1337%20%28%2B%29
+BommorEVm000137t1:122-4129	transdecoder	mRNA	1	4008	.	+	.	ID=BommorEVm000137t1:122-4129.p1;Parent=GENE.BommorEVm000137t1:122-4129~~BommorEVm000137t1:122-4129.p1;Name=ORF%20type%3A3prime_partial%20len%3A1337%20%28%2B%29
+BommorEVm000137t1:122-4129	transdecoder	exon	1	4008	.	+	.	ID=BommorEVm000137t1:122-4129.p1.exon1;Parent=BommorEVm000137t1:122-4129.p1
+BommorEVm000137t1:122-4129	transdecoder	CDS	1	4008	.	+	0	ID=cds.BommorEVm000137t1:122-4129.p1;Parent=BommorEVm000137t1:122-4129.p1;3_prime_partial=true
+
+BommorEVm000137t1:122-4129	transdecoder	gene	1	4008	.	+	.	ID=GENE.BommorEVm000137t1:122-4129~~BommorEVm000137t1:122-4129.p2;Name=ORF%20type%3Acomplete%20len%3A156%20%28%2B%29
+BommorEVm000137t1:122-4129	transdecoder	mRNA	1	4008	.	+	.	ID=BommorEVm000137t1:122-4129.p2;Parent=GENE.BommorEVm000137t1:122-4129~~BommorEVm000137t1:122-4129.p2;Name=ORF%20type%3Acomplete%20len%3A156%20%28%2B%29
+BommorEVm000137t1:122-4129	transdecoder	five_prime_UTR	1	688	.	+	.	ID=BommorEVm000137t1:122-4129.p2.utr5p1;Parent=BommorEVm000137t1:122-4129.p2
+BommorEVm000137t1:122-4129	transdecoder	exon	1	4008	.	+	.	ID=BommorEVm000137t1:122-4129.p2.exon1;Parent=BommorEVm000137t1:122-4129.p2
+BommorEVm000137t1:122-4129	transdecoder	CDS	689	1156	.	+	0	ID=cds.BommorEVm000137t1:122-4129.p2;Parent=BommorEVm000137t1:122-4129.p2
+BommorEVm000137t1:122-4129	transdecoder	three_prime_UTR	1157	4008	.	+	.	ID=BommorEVm000137t1:122-4129.p2.utr3p1;Parent=BommorEVm000137t1:122-4129.p2
+
+BommorEVm000137t1:122-4129	transdecoder	gene	1	4008	.	-	.	ID=GENE.BommorEVm000137t1:122-4129~~BommorEVm000137t1:122-4129.p3;Name=ORF%20type%3Acomplete%20len%3A112%20%28-%29
+BommorEVm000137t1:122-4129	transdecoder	mRNA	1	4008	.	-	.	ID=BommorEVm000137t1:122-4129.p3;Parent=GENE.BommorEVm000137t1:122-4129~~BommorEVm000137t1:122-4129.p3;Name=ORF%20type%3Acomplete%20len%3A112%20%28-%29
+BommorEVm000137t1:122-4129	transdecoder	five_prime_UTR	579	4008	.	-	.	ID=BommorEVm000137t1:122-4129.p3.utr5p1;Parent=BommorEVm000137t1:122-4129.p3
+BommorEVm000137t1:122-4129	transdecoder	exon	1	4008	.	-	.	ID=BommorEVm000137t1:122-4129.p3.exon1;Parent=BommorEVm000137t1:122-4129.p3
+BommorEVm000137t1:122-4129	transdecoder	CDS	243	578	.	-	0	ID=cds.BommorEVm000137t1:122-4129.p3;Parent=BommorEVm000137t1:122-4129.p3
+BommorEVm000137t1:122-4129	transdecoder	three_prime_UTR	1	242	.	-	.	ID=BommorEVm000137t1:122-4129.p3.utr3p1;Parent=BommorEVm000137t1:122-4129.p3
+
+BommorEVm000469t1:2-3019	transdecoder	gene	1	3018	.	+	.	ID=GENE.BommorEVm000469t1:2-3019~~BommorEVm000469t1:2-3019.p1;Name=ORF%20type%3Ainternal%20len%3A1007%20%28%2B%29
+BommorEVm000469t1:2-3019	transdecoder	mRNA	1	3018	.	+	.	ID=BommorEVm000469t1:2-3019.p1;Parent=GENE.BommorEVm000469t1:2-3019~~BommorEVm000469t1:2-3019.p1;Name=ORF%20type%3Ainternal%20len%3A1007%20%28%2B%29
+BommorEVm000469t1:2-3019	transdecoder	exon	1	3018	.	+	.	ID=BommorEVm000469t1:2-3019.p1.exon1;Parent=BommorEVm000469t1:2-3019.p1
+BommorEVm000469t1:2-3019	transdecoder	CDS	1	3018	.	+	0	ID=cds.BommorEVm000469t1:2-3019.p1;Parent=BommorEVm000469t1:2-3019.p1;5_prime_partial=true;3_prime_partial=true
+
+BommorEVm000469t1:2-3019	transdecoder	gene	1	3018	.	-	.	ID=GENE.BommorEVm000469t1:2-3019~~BommorEVm000469t1:2-3019.p2;Name=ORF%20type%3Acomplete%20len%3A157%20%28-%29
+BommorEVm000469t1:2-3019	transdecoder	mRNA	1	3018	.	-	.	ID=BommorEVm000469t1:2-3019.p2;Parent=GENE.BommorEVm000469t1:2-3019~~BommorEVm000469t1:2-3019.p2;Name=ORF%20type%3Acomplete%20len%3A157%20%28-%29
+BommorEVm000469t1:2-3019	transdecoder	five_prime_UTR	2466	3018	.	-	.	ID=BommorEVm000469t1:2-3019.p2.utr5p1;Parent=BommorEVm000469t1:2-3019.p2
+BommorEVm000469t1:2-3019	transdecoder	exon	1	3018	.	-	.	ID=BommorEVm000469t1:2-3019.p2.exon1;Parent=BommorEVm000469t1:2-3019.p2
+BommorEVm000469t1:2-3019	transdecoder	CDS	1995	2465	.	-	0	ID=cds.BommorEVm000469t1:2-3019.p2;Parent=BommorEVm000469t1:2-3019.p2
+BommorEVm000469t1:2-3019	transdecoder	three_prime_UTR	1	1994	.	-	.	ID=BommorEVm000469t1:2-3019.p2.utr3p1;Parent=BommorEVm000469t1:2-3019.p2
+
+BommorEVm000270t1:162-3485	transdecoder	gene	1	3324	.	+	.	ID=GENE.BommorEVm000270t1:162-3485~~BommorEVm000270t1:162-3485.p1;Name=ORF%20type%3A3prime_partial%20len%3A1109%20%28%2B%29
+BommorEVm000270t1:162-3485	transdecoder	mRNA	1	3324	.	+	.	ID=BommorEVm000270t1:162-3485.p1;Parent=GENE.BommorEVm000270t1:162-3485~~BommorEVm000270t1:162-3485.p1;Name=ORF%20type%3A3prime_partial%20len%3A1109%20%28%2B%29
+BommorEVm000270t1:162-3485	transdecoder	exon	1	3324	.	+	.	ID=BommorEVm000270t1:162-3485.p1.exon1;Parent=BommorEVm000270t1:162-3485.p1
+BommorEVm000270t1:162-3485	transdecoder	CDS	1	3324	.	+	0	ID=cds.BommorEVm000270t1:162-3485.p1;Parent=BommorEVm000270t1:162-3485.p1;3_prime_partial=true
+
+BommorEVm000270t1:162-3485	transdecoder	gene	1	3324	.	+	.	ID=GENE.BommorEVm000270t1:162-3485~~BommorEVm000270t1:162-3485.p2;Name=ORF%20type%3Acomplete%20len%3A347%20%28%2B%29
+BommorEVm000270t1:162-3485	transdecoder	mRNA	1	3324	.	+	.	ID=BommorEVm000270t1:162-3485.p2;Parent=GENE.BommorEVm000270t1:162-3485~~BommorEVm000270t1:162-3485.p2;Name=ORF%20type%3Acomplete%20len%3A347%20%28%2B%29
+BommorEVm000270t1:162-3485	transdecoder	five_prime_UTR	1	1391	.	+	.	ID=BommorEVm000270t1:162-3485.p2.utr5p1;Parent=BommorEVm000270t1:162-3485.p2
+BommorEVm000270t1:162-3485	transdecoder	exon	1	3324	.	+	.	ID=BommorEVm000270t1:162-3485.p2.exon1;Parent=BommorEVm000270t1:162-3485.p2
+BommorEVm000270t1:162-3485	transdecoder	CDS	1392	2432	.	+	0	ID=cds.BommorEVm000270t1:162-3485.p2;Parent=BommorEVm000270t1:162-3485.p2
+BommorEVm000270t1:162-3485	transdecoder	three_prime_UTR	2433	3324	.	+	.	ID=BommorEVm000270t1:162-3485.p2.utr3p1;Parent=BommorEVm000270t1:162-3485.p2
+
+BommorEVm000270t1:162-3485	transdecoder	gene	1	3324	.	-	.	ID=GENE.BommorEVm000270t1:162-3485~~BommorEVm000270t1:162-3485.p3;Name=ORF%20type%3Acomplete%20len%3A140%20%28-%29
+BommorEVm000270t1:162-3485	transdecoder	mRNA	1	3324	.	-	.	ID=BommorEVm000270t1:162-3485.p3;Parent=GENE.BommorEVm000270t1:162-3485~~BommorEVm000270t1:162-3485.p3;Name=ORF%20type%3Acomplete%20len%3A140%20%28-%29
+BommorEVm000270t1:162-3485	transdecoder	five_prime_UTR	1233	3324	.	-	.	ID=BommorEVm000270t1:162-3485.p3.utr5p1;Parent=BommorEVm000270t1:162-3485.p3
+BommorEVm000270t1:162-3485	transdecoder	exon	1	3324	.	-	.	ID=BommorEVm000270t1:162-3485.p3.exon1;Parent=BommorEVm000270t1:162-3485.p3
+BommorEVm000270t1:162-3485	transdecoder	CDS	813	1232	.	-	0	ID=cds.BommorEVm000270t1:162-3485.p3;Parent=BommorEVm000270t1:162-3485.p3
+BommorEVm000270t1:162-3485	transdecoder	three_prime_UTR	1	812	.	-	.	ID=BommorEVm000270t1:162-3485.p3.utr3p1;Parent=BommorEVm000270t1:162-3485.p3
+
+BommorEVm000270t1:162-3485	transdecoder	gene	1	3324	.	-	.	ID=GENE.BommorEVm000270t1:162-3485~~BommorEVm000270t1:162-3485.p4;Name=ORF%20type%3Acomplete%20len%3A128%20%28-%29
+BommorEVm000270t1:162-3485	transdecoder	mRNA	1	3324	.	-	.	ID=BommorEVm000270t1:162-3485.p4;Parent=GENE.BommorEVm000270t1:162-3485~~BommorEVm000270t1:162-3485.p4;Name=ORF%20type%3Acomplete%20len%3A128%20%28-%29
+BommorEVm000270t1:162-3485	transdecoder	five_prime_UTR	396	3324	.	-	.	ID=BommorEVm000270t1:162-3485.p4.utr5p1;Parent=BommorEVm000270t1:162-3485.p4
+BommorEVm000270t1:162-3485	transdecoder	exon	1	3324	.	-	.	ID=BommorEVm000270t1:162-3485.p4.exon1;Parent=BommorEVm000270t1:162-3485.p4
+BommorEVm000270t1:162-3485	transdecoder	CDS	12	395	.	-	0	ID=cds.BommorEVm000270t1:162-3485.p4;Parent=BommorEVm000270t1:162-3485.p4
+BommorEVm000270t1:162-3485	transdecoder	three_prime_UTR	1	11	.	-	.	ID=BommorEVm000270t1:162-3485.p4.utr3p1;Parent=BommorEVm000270t1:162-3485.p4
+
+BommorEVm000102t1:63-4367	transdecoder	gene	1	4305	.	+	.	ID=GENE.BommorEVm000102t1:63-4367~~BommorEVm000102t1:63-4367.p1;Name=ORF%20type%3A3prime_partial%20len%3A1436%20%28%2B%29
+BommorEVm000102t1:63-4367	transdecoder	mRNA	1	4305	.	+	.	ID=BommorEVm000102t1:63-4367.p1;Parent=GENE.BommorEVm000102t1:63-4367~~BommorEVm000102t1:63-4367.p1;Name=ORF%20type%3A3prime_partial%20len%3A1436%20%28%2B%29
+BommorEVm000102t1:63-4367	transdecoder	exon	1	4305	.	+	.	ID=BommorEVm000102t1:63-4367.p1.exon1;Parent=BommorEVm000102t1:63-4367.p1
+BommorEVm000102t1:63-4367	transdecoder	CDS	1	4305	.	+	0	ID=cds.BommorEVm000102t1:63-4367.p1;Parent=BommorEVm000102t1:63-4367.p1;3_prime_partial=true
+
+BommorEVm000102t1:63-4367	transdecoder	gene	1	4305	.	+	.	ID=GENE.BommorEVm000102t1:63-4367~~BommorEVm000102t1:63-4367.p2;Name=ORF%20type%3Acomplete%20len%3A116%20%28%2B%29
+BommorEVm000102t1:63-4367	transdecoder	mRNA	1	4305	.	+	.	ID=BommorEVm000102t1:63-4367.p2;Parent=GENE.BommorEVm000102t1:63-4367~~BommorEVm000102t1:63-4367.p2;Name=ORF%20type%3Acomplete%20len%3A116%20%28%2B%29
+BommorEVm000102t1:63-4367	transdecoder	five_prime_UTR	1	2048	.	+	.	ID=BommorEVm000102t1:63-4367.p2.utr5p1;Parent=BommorEVm000102t1:63-4367.p2
+BommorEVm000102t1:63-4367	transdecoder	exon	1	4305	.	+	.	ID=BommorEVm000102t1:63-4367.p2.exon1;Parent=BommorEVm000102t1:63-4367.p2
+BommorEVm000102t1:63-4367	transdecoder	CDS	2049	2396	.	+	0	ID=cds.BommorEVm000102t1:63-4367.p2;Parent=BommorEVm000102t1:63-4367.p2
+BommorEVm000102t1:63-4367	transdecoder	three_prime_UTR	2397	4305	.	+	.	ID=BommorEVm000102t1:63-4367.p2.utr3p1;Parent=BommorEVm000102t1:63-4367.p2
+
+BommorEVm000202t1:1-3915	transdecoder	gene	1	3915	.	+	.	ID=GENE.BommorEVm000202t1:1-3915~~BommorEVm000202t1:1-3915.p1;Name=ORF%20type%3Ainternal%20len%3A1306%20%28%2B%29
+BommorEVm000202t1:1-3915	transdecoder	mRNA	1	3915	.	+	.	ID=BommorEVm000202t1:1-3915.p1;Parent=GENE.BommorEVm000202t1:1-3915~~BommorEVm000202t1:1-3915.p1;Name=ORF%20type%3Ainternal%20len%3A1306%20%28%2B%29
+BommorEVm000202t1:1-3915	transdecoder	exon	1	3915	.	+	.	ID=BommorEVm000202t1:1-3915.p1.exon1;Parent=BommorEVm000202t1:1-3915.p1
+BommorEVm000202t1:1-3915	transdecoder	CDS	1	3915	.	+	0	ID=cds.BommorEVm000202t1:1-3915.p1;Parent=BommorEVm000202t1:1-3915.p1;5_prime_partial=true;3_prime_partial=true
+
+BommorEVm000202t1:1-3915	transdecoder	gene	1	3915	.	-	.	ID=GENE.BommorEVm000202t1:1-3915~~BommorEVm000202t1:1-3915.p2;Name=ORF%20type%3Acomplete%20len%3A149%20%28-%29
+BommorEVm000202t1:1-3915	transdecoder	mRNA	1	3915	.	-	.	ID=BommorEVm000202t1:1-3915.p2;Parent=GENE.BommorEVm000202t1:1-3915~~BommorEVm000202t1:1-3915.p2;Name=ORF%20type%3Acomplete%20len%3A149%20%28-%29
+BommorEVm000202t1:1-3915	transdecoder	five_prime_UTR	2005	3915	.	-	.	ID=BommorEVm000202t1:1-3915.p2.utr5p1;Parent=BommorEVm000202t1:1-3915.p2
+BommorEVm000202t1:1-3915	transdecoder	exon	1	3915	.	-	.	ID=BommorEVm000202t1:1-3915.p2.exon1;Parent=BommorEVm000202t1:1-3915.p2
+BommorEVm000202t1:1-3915	transdecoder	CDS	1558	2004	.	-	0	ID=cds.BommorEVm000202t1:1-3915.p2;Parent=BommorEVm000202t1:1-3915.p2
+BommorEVm000202t1:1-3915	transdecoder	three_prime_UTR	1	1557	.	-	.	ID=BommorEVm000202t1:1-3915.p2.utr3p1;Parent=BommorEVm000202t1:1-3915.p2
+
+BommorEVm000202t1:1-3915	transdecoder	gene	1	3915	.	-	.	ID=GENE.BommorEVm000202t1:1-3915~~BommorEVm000202t1:1-3915.p3;Name=ORF%20type%3Acomplete%20len%3A102%20%28-%29
+BommorEVm000202t1:1-3915	transdecoder	mRNA	1	3915	.	-	.	ID=BommorEVm000202t1:1-3915.p3;Parent=GENE.BommorEVm000202t1:1-3915~~BommorEVm000202t1:1-3915.p3;Name=ORF%20type%3Acomplete%20len%3A102%20%28-%29
+BommorEVm000202t1:1-3915	transdecoder	five_prime_UTR	3751	3915	.	-	.	ID=BommorEVm000202t1:1-3915.p3.utr5p1;Parent=BommorEVm000202t1:1-3915.p3
+BommorEVm000202t1:1-3915	transdecoder	exon	1	3915	.	-	.	ID=BommorEVm000202t1:1-3915.p3.exon1;Parent=BommorEVm000202t1:1-3915.p3
+BommorEVm000202t1:1-3915	transdecoder	CDS	3445	3750	.	-	0	ID=cds.BommorEVm000202t1:1-3915.p3;Parent=BommorEVm000202t1:1-3915.p3
+BommorEVm000202t1:1-3915	transdecoder	three_prime_UTR	1	3444	.	-	.	ID=BommorEVm000202t1:1-3915.p3.utr3p1;Parent=BommorEVm000202t1:1-3915.p3
+
+BommorEVm000389t1:139-3123	transdecoder	gene	1	2985	.	+	.	ID=GENE.BommorEVm000389t1:139-3123~~BommorEVm000389t1:139-3123.p1;Name=ORF%20type%3A3prime_partial%20len%3A996%20%28%2B%29
+BommorEVm000389t1:139-3123	transdecoder	mRNA	1	2985	.	+	.	ID=BommorEVm000389t1:139-3123.p1;Parent=GENE.BommorEVm000389t1:139-3123~~BommorEVm000389t1:139-3123.p1;Name=ORF%20type%3A3prime_partial%20len%3A996%20%28%2B%29
+BommorEVm000389t1:139-3123	transdecoder	exon	1	2985	.	+	.	ID=BommorEVm000389t1:139-3123.p1.exon1;Parent=BommorEVm000389t1:139-3123.p1
+BommorEVm000389t1:139-3123	transdecoder	CDS	1	2985	.	+	0	ID=cds.BommorEVm000389t1:139-3123.p1;Parent=BommorEVm000389t1:139-3123.p1;3_prime_partial=true
+
+BommorEVm000389t1:139-3123	transdecoder	gene	1	2985	.	-	.	ID=GENE.BommorEVm000389t1:139-3123~~BommorEVm000389t1:139-3123.p2;Name=ORF%20type%3A5prime_partial%20len%3A111%20%28-%29
+BommorEVm000389t1:139-3123	transdecoder	mRNA	1	2985	.	-	.	ID=BommorEVm000389t1:139-3123.p2;Parent=GENE.BommorEVm000389t1:139-3123~~BommorEVm000389t1:139-3123.p2;Name=ORF%20type%3A5prime_partial%20len%3A111%20%28-%29
+BommorEVm000389t1:139-3123	transdecoder	exon	1	2985	.	-	.	ID=BommorEVm000389t1:139-3123.p2.exon1;Parent=BommorEVm000389t1:139-3123.p2
+BommorEVm000389t1:139-3123	transdecoder	CDS	2652	2984	.	-	0	ID=cds.BommorEVm000389t1:139-3123.p2;Parent=BommorEVm000389t1:139-3123.p2;5_prime_partial=true
+BommorEVm000389t1:139-3123	transdecoder	three_prime_UTR	1	2651	.	-	.	ID=BommorEVm000389t1:139-3123.p2.utr3p1;Parent=BommorEVm000389t1:139-3123.p2
+
+BommorEVm000300t1:21-3717	transdecoder	gene	1	3354	.	+	.	ID=GENE.BommorEVm000300t1:21-3717~~BommorEVm000300t1:21-3717.p1;Name=ORF%20type%3A3prime_partial%20len%3A1119%20%28%2B%29
+BommorEVm000300t1:21-3717	transdecoder	mRNA	1	3354	.	+	.	ID=BommorEVm000300t1:21-3717.p1;Parent=GENE.BommorEVm000300t1:21-3717~~BommorEVm000300t1:21-3717.p1;Name=ORF%20type%3A3prime_partial%20len%3A1119%20%28%2B%29
+BommorEVm000300t1:21-3717	transdecoder	exon	1	3354	.	+	.	ID=BommorEVm000300t1:21-3717.p1.exon1;Parent=BommorEVm000300t1:21-3717.p1
+BommorEVm000300t1:21-3717	transdecoder	CDS	1	3354	.	+	0	ID=cds.BommorEVm000300t1:21-3717.p1;Parent=BommorEVm000300t1:21-3717.p1;3_prime_partial=true
+
+BommorEVm000485t1:109-2877	transdecoder	gene	1	2769	.	+	.	ID=GENE.BommorEVm000485t1:109-2877~~BommorEVm000485t1:109-2877.p1;Name=ORF%20type%3A3prime_partial%20len%3A924%20%28%2B%29
+BommorEVm000485t1:109-2877	transdecoder	mRNA	1	2769	.	+	.	ID=BommorEVm000485t1:109-2877.p1;Parent=GENE.BommorEVm000485t1:109-2877~~BommorEVm000485t1:109-2877.p1;Name=ORF%20type%3A3prime_partial%20len%3A924%20%28%2B%29
+BommorEVm000485t1:109-2877	transdecoder	exon	1	2769	.	+	.	ID=BommorEVm000485t1:109-2877.p1.exon1;Parent=BommorEVm000485t1:109-2877.p1
+BommorEVm000485t1:109-2877	transdecoder	CDS	1	2769	.	+	0	ID=cds.BommorEVm000485t1:109-2877.p1;Parent=BommorEVm000485t1:109-2877.p1;3_prime_partial=true
+
+BommorEVm000485t1:109-2877	transdecoder	gene	1	2769	.	-	.	ID=GENE.BommorEVm000485t1:109-2877~~BommorEVm000485t1:109-2877.p2;Name=ORF%20type%3A3prime_partial%20len%3A164%20%28-%29
+BommorEVm000485t1:109-2877	transdecoder	mRNA	1	2769	.	-	.	ID=BommorEVm000485t1:109-2877.p2;Parent=GENE.BommorEVm000485t1:109-2877~~BommorEVm000485t1:109-2877.p2;Name=ORF%20type%3A3prime_partial%20len%3A164%20%28-%29
+BommorEVm000485t1:109-2877	transdecoder	five_prime_UTR	492	2769	.	-	.	ID=BommorEVm000485t1:109-2877.p2.utr5p1;Parent=BommorEVm000485t1:109-2877.p2
+BommorEVm000485t1:109-2877	transdecoder	exon	1	2769	.	-	.	ID=BommorEVm000485t1:109-2877.p2.exon1;Parent=BommorEVm000485t1:109-2877.p2
+BommorEVm000485t1:109-2877	transdecoder	CDS	3	491	.	-	0	ID=cds.BommorEVm000485t1:109-2877.p2;Parent=BommorEVm000485t1:109-2877.p2;3_prime_partial=true
+
+BommorEVm000485t1:109-2877	transdecoder	gene	1	2769	.	-	.	ID=GENE.BommorEVm000485t1:109-2877~~BommorEVm000485t1:109-2877.p3;Name=ORF%20type%3Acomplete%20len%3A159%20%28-%29
+BommorEVm000485t1:109-2877	transdecoder	mRNA	1	2769	.	-	.	ID=BommorEVm000485t1:109-2877.p3;Parent=GENE.BommorEVm000485t1:109-2877~~BommorEVm000485t1:109-2877.p3;Name=ORF%20type%3Acomplete%20len%3A159%20%28-%29
+BommorEVm000485t1:109-2877	transdecoder	five_prime_UTR	2158	2769	.	-	.	ID=BommorEVm000485t1:109-2877.p3.utr5p1;Parent=BommorEVm000485t1:109-2877.p3
+BommorEVm000485t1:109-2877	transdecoder	exon	1	2769	.	-	.	ID=BommorEVm000485t1:109-2877.p3.exon1;Parent=BommorEVm000485t1:109-2877.p3
+BommorEVm000485t1:109-2877	transdecoder	CDS	1681	2157	.	-	0	ID=cds.BommorEVm000485t1:109-2877.p3;Parent=BommorEVm000485t1:109-2877.p3
+BommorEVm000485t1:109-2877	transdecoder	three_prime_UTR	1	1680	.	-	.	ID=BommorEVm000485t1:109-2877.p3.utr3p1;Parent=BommorEVm000485t1:109-2877.p3
+

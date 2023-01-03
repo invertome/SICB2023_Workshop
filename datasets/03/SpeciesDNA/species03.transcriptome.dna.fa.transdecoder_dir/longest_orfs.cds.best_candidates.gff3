@@ -1,0 +1,140 @@
+MetmagEVm000032t1:28-7995	transdecoder	gene	1	7968	.	+	.	ID=GENE.MetmagEVm000032t1:28-7995~~MetmagEVm000032t1:28-7995.p1;Name=ORF%20type%3Ainternal%20len%3A2657%20%28%2B%29%2Cscore%3D723.18
+MetmagEVm000032t1:28-7995	transdecoder	mRNA	1	7968	.	+	.	ID=MetmagEVm000032t1:28-7995.p1;Parent=GENE.MetmagEVm000032t1:28-7995~~MetmagEVm000032t1:28-7995.p1;Name=ORF%20type%3Ainternal%20len%3A2657%20%28%2B%29%2Cscore%3D723.18
+MetmagEVm000032t1:28-7995	transdecoder	exon	1	7968	.	+	.	ID=MetmagEVm000032t1:28-7995.p1.exon1;Parent=MetmagEVm000032t1:28-7995.p1
+MetmagEVm000032t1:28-7995	transdecoder	CDS	1	7968	.	+	0	ID=cds.MetmagEVm000032t1:28-7995.p1;Parent=MetmagEVm000032t1:28-7995.p1
+
+MetmagEVm000046t1:109-7233	transdecoder	gene	1	7125	.	+	.	ID=GENE.MetmagEVm000046t1:109-7233~~MetmagEVm000046t1:109-7233.p1;Name=ORF%20type%3A3prime_partial%20len%3A2376%20%28%2B%29%2Cscore%3D453.72
+MetmagEVm000046t1:109-7233	transdecoder	mRNA	1	7125	.	+	.	ID=MetmagEVm000046t1:109-7233.p1;Parent=GENE.MetmagEVm000046t1:109-7233~~MetmagEVm000046t1:109-7233.p1;Name=ORF%20type%3A3prime_partial%20len%3A2376%20%28%2B%29%2Cscore%3D453.72
+MetmagEVm000046t1:109-7233	transdecoder	exon	1	7125	.	+	.	ID=MetmagEVm000046t1:109-7233.p1.exon1;Parent=MetmagEVm000046t1:109-7233.p1
+MetmagEVm000046t1:109-7233	transdecoder	CDS	1	7125	.	+	0	ID=cds.MetmagEVm000046t1:109-7233.p1;Parent=MetmagEVm000046t1:109-7233.p1
+
+MetmagEVm000051t1:352-7110	transdecoder	gene	1	6759	.	+	.	ID=GENE.MetmagEVm000051t1:352-7110~~MetmagEVm000051t1:352-7110.p1;Name=ORF%20type%3Ainternal%20len%3A2254%20%28%2B%29%2Cscore%3D392.06
+MetmagEVm000051t1:352-7110	transdecoder	mRNA	1	6759	.	+	.	ID=MetmagEVm000051t1:352-7110.p1;Parent=GENE.MetmagEVm000051t1:352-7110~~MetmagEVm000051t1:352-7110.p1;Name=ORF%20type%3Ainternal%20len%3A2254%20%28%2B%29%2Cscore%3D392.06
+MetmagEVm000051t1:352-7110	transdecoder	exon	1	6759	.	+	.	ID=MetmagEVm000051t1:352-7110.p1.exon1;Parent=MetmagEVm000051t1:352-7110.p1
+MetmagEVm000051t1:352-7110	transdecoder	CDS	1	6759	.	+	0	ID=cds.MetmagEVm000051t1:352-7110.p1;Parent=MetmagEVm000051t1:352-7110.p1
+
+MetmagEVm000281t1:171-4394	transdecoder	gene	1	4224	.	+	.	ID=GENE.MetmagEVm000281t1:171-4394~~MetmagEVm000281t1:171-4394.p1;Name=ORF%20type%3A3prime_partial%20len%3A1409%20%28%2B%29%2Cscore%3D371.45
+MetmagEVm000281t1:171-4394	transdecoder	mRNA	1	4224	.	+	.	ID=MetmagEVm000281t1:171-4394.p1;Parent=GENE.MetmagEVm000281t1:171-4394~~MetmagEVm000281t1:171-4394.p1;Name=ORF%20type%3A3prime_partial%20len%3A1409%20%28%2B%29%2Cscore%3D371.45
+MetmagEVm000281t1:171-4394	transdecoder	exon	1	4224	.	+	.	ID=MetmagEVm000281t1:171-4394.p1.exon1;Parent=MetmagEVm000281t1:171-4394.p1
+MetmagEVm000281t1:171-4394	transdecoder	CDS	1	4224	.	+	0	ID=cds.MetmagEVm000281t1:171-4394.p1;Parent=MetmagEVm000281t1:171-4394.p1
+
+MetmagEVm000444t1:150-3797	transdecoder	gene	1	3648	.	+	.	ID=GENE.MetmagEVm000444t1:150-3797~~MetmagEVm000444t1:150-3797.p1;Name=ORF%20type%3A3prime_partial%20len%3A1217%20%28%2B%29%2Cscore%3D466.20
+MetmagEVm000444t1:150-3797	transdecoder	mRNA	1	3648	.	+	.	ID=MetmagEVm000444t1:150-3797.p1;Parent=GENE.MetmagEVm000444t1:150-3797~~MetmagEVm000444t1:150-3797.p1;Name=ORF%20type%3A3prime_partial%20len%3A1217%20%28%2B%29%2Cscore%3D466.20
+MetmagEVm000444t1:150-3797	transdecoder	exon	1	3648	.	+	.	ID=MetmagEVm000444t1:150-3797.p1.exon1;Parent=MetmagEVm000444t1:150-3797.p1
+MetmagEVm000444t1:150-3797	transdecoder	CDS	1	3648	.	+	0	ID=cds.MetmagEVm000444t1:150-3797.p1;Parent=MetmagEVm000444t1:150-3797.p1
+
+MetmagEVm000448t1:267-3896	transdecoder	gene	1	3630	.	+	.	ID=GENE.MetmagEVm000448t1:267-3896~~MetmagEVm000448t1:267-3896.p1;Name=ORF%20type%3A3prime_partial%20len%3A1211%20%28%2B%29%2Cscore%3D552.01
+MetmagEVm000448t1:267-3896	transdecoder	mRNA	1	3630	.	+	.	ID=MetmagEVm000448t1:267-3896.p1;Parent=GENE.MetmagEVm000448t1:267-3896~~MetmagEVm000448t1:267-3896.p1;Name=ORF%20type%3A3prime_partial%20len%3A1211%20%28%2B%29%2Cscore%3D552.01
+MetmagEVm000448t1:267-3896	transdecoder	exon	1	3630	.	+	.	ID=MetmagEVm000448t1:267-3896.p1.exon1;Parent=MetmagEVm000448t1:267-3896.p1
+MetmagEVm000448t1:267-3896	transdecoder	CDS	1	3630	.	+	0	ID=cds.MetmagEVm000448t1:267-3896.p1;Parent=MetmagEVm000448t1:267-3896.p1
+
+MetmagEVm000463t1:93-3686	transdecoder	gene	1	3594	.	+	.	ID=GENE.MetmagEVm000463t1:93-3686~~MetmagEVm000463t1:93-3686.p1;Name=ORF%20type%3Ainternal%20len%3A1199%20%28%2B%29%2Cscore%3D475.88
+MetmagEVm000463t1:93-3686	transdecoder	mRNA	1	3594	.	+	.	ID=MetmagEVm000463t1:93-3686.p1;Parent=GENE.MetmagEVm000463t1:93-3686~~MetmagEVm000463t1:93-3686.p1;Name=ORF%20type%3Ainternal%20len%3A1199%20%28%2B%29%2Cscore%3D475.88
+MetmagEVm000463t1:93-3686	transdecoder	exon	1	3594	.	+	.	ID=MetmagEVm000463t1:93-3686.p1.exon1;Parent=MetmagEVm000463t1:93-3686.p1
+MetmagEVm000463t1:93-3686	transdecoder	CDS	1	3594	.	+	0	ID=cds.MetmagEVm000463t1:93-3686.p1;Parent=MetmagEVm000463t1:93-3686.p1
+
+MetmagEVm000474t1:86-3604	transdecoder	gene	1	3519	.	+	.	ID=GENE.MetmagEVm000474t1:86-3604~~MetmagEVm000474t1:86-3604.p1;Name=ORF%20type%3A3prime_partial%20len%3A1174%20%28%2B%29%2Cscore%3D393.86
+MetmagEVm000474t1:86-3604	transdecoder	mRNA	1	3519	.	+	.	ID=MetmagEVm000474t1:86-3604.p1;Parent=GENE.MetmagEVm000474t1:86-3604~~MetmagEVm000474t1:86-3604.p1;Name=ORF%20type%3A3prime_partial%20len%3A1174%20%28%2B%29%2Cscore%3D393.86
+MetmagEVm000474t1:86-3604	transdecoder	exon	1	3519	.	+	.	ID=MetmagEVm000474t1:86-3604.p1.exon1;Parent=MetmagEVm000474t1:86-3604.p1
+MetmagEVm000474t1:86-3604	transdecoder	CDS	1	3519	.	+	0	ID=cds.MetmagEVm000474t1:86-3604.p1;Parent=MetmagEVm000474t1:86-3604.p1
+
+MetmagEVm000513t1:154-3480	transdecoder	gene	1	3327	.	+	.	ID=GENE.MetmagEVm000513t1:154-3480~~MetmagEVm000513t1:154-3480.p1;Name=ORF%20type%3Ainternal%20len%3A1110%20%28%2B%29%2Cscore%3D380.12
+MetmagEVm000513t1:154-3480	transdecoder	mRNA	1	3327	.	+	.	ID=MetmagEVm000513t1:154-3480.p1;Parent=GENE.MetmagEVm000513t1:154-3480~~MetmagEVm000513t1:154-3480.p1;Name=ORF%20type%3Ainternal%20len%3A1110%20%28%2B%29%2Cscore%3D380.12
+MetmagEVm000513t1:154-3480	transdecoder	exon	1	3327	.	+	.	ID=MetmagEVm000513t1:154-3480.p1.exon1;Parent=MetmagEVm000513t1:154-3480.p1
+MetmagEVm000513t1:154-3480	transdecoder	CDS	1	3327	.	+	0	ID=cds.MetmagEVm000513t1:154-3480.p1;Parent=MetmagEVm000513t1:154-3480.p1
+
+MetmagEVm000529t1:69-3467	transdecoder	gene	1	3399	.	+	.	ID=GENE.MetmagEVm000529t1:69-3467~~MetmagEVm000529t1:69-3467.p1;Name=ORF%20type%3Ainternal%20len%3A1134%20%28%2B%29%2Cscore%3D404.93
+MetmagEVm000529t1:69-3467	transdecoder	mRNA	1	3399	.	+	.	ID=MetmagEVm000529t1:69-3467.p1;Parent=GENE.MetmagEVm000529t1:69-3467~~MetmagEVm000529t1:69-3467.p1;Name=ORF%20type%3Ainternal%20len%3A1134%20%28%2B%29%2Cscore%3D404.93
+MetmagEVm000529t1:69-3467	transdecoder	exon	1	3399	.	+	.	ID=MetmagEVm000529t1:69-3467.p1.exon1;Parent=MetmagEVm000529t1:69-3467.p1
+MetmagEVm000529t1:69-3467	transdecoder	CDS	1	3399	.	+	0	ID=cds.MetmagEVm000529t1:69-3467.p1;Parent=MetmagEVm000529t1:69-3467.p1
+
+MetmagEVm000540t1:122-3457	transdecoder	gene	1	3336	.	+	.	ID=GENE.MetmagEVm000540t1:122-3457~~MetmagEVm000540t1:122-3457.p1;Name=ORF%20type%3Ainternal%20len%3A1113%20%28%2B%29%2Cscore%3D344.77
+MetmagEVm000540t1:122-3457	transdecoder	mRNA	1	3336	.	+	.	ID=MetmagEVm000540t1:122-3457.p1;Parent=GENE.MetmagEVm000540t1:122-3457~~MetmagEVm000540t1:122-3457.p1;Name=ORF%20type%3Ainternal%20len%3A1113%20%28%2B%29%2Cscore%3D344.77
+MetmagEVm000540t1:122-3457	transdecoder	exon	1	3336	.	+	.	ID=MetmagEVm000540t1:122-3457.p1.exon1;Parent=MetmagEVm000540t1:122-3457.p1
+MetmagEVm000540t1:122-3457	transdecoder	CDS	1	3336	.	+	0	ID=cds.MetmagEVm000540t1:122-3457.p1;Parent=MetmagEVm000540t1:122-3457.p1
+
+MetmagEVm000583t1:6-3284	transdecoder	gene	1	3279	.	+	.	ID=GENE.MetmagEVm000583t1:6-3284~~MetmagEVm000583t1:6-3284.p1;Name=ORF%20type%3A3prime_partial%20len%3A1094%20%28%2B%29%2Cscore%3D403.48
+MetmagEVm000583t1:6-3284	transdecoder	mRNA	1	3279	.	+	.	ID=MetmagEVm000583t1:6-3284.p1;Parent=GENE.MetmagEVm000583t1:6-3284~~MetmagEVm000583t1:6-3284.p1;Name=ORF%20type%3A3prime_partial%20len%3A1094%20%28%2B%29%2Cscore%3D403.48
+MetmagEVm000583t1:6-3284	transdecoder	exon	1	3279	.	+	.	ID=MetmagEVm000583t1:6-3284.p1.exon1;Parent=MetmagEVm000583t1:6-3284.p1
+MetmagEVm000583t1:6-3284	transdecoder	CDS	1	3279	.	+	0	ID=cds.MetmagEVm000583t1:6-3284.p1;Parent=MetmagEVm000583t1:6-3284.p1
+
+MetmagEVm000592t1:1093-4455	transdecoder	gene	1	3363	.	+	.	ID=GENE.MetmagEVm000592t1:1093-4455~~MetmagEVm000592t1:1093-4455.p1;Name=ORF%20type%3Ainternal%20len%3A1122%20%28%2B%29%2Cscore%3D367.04
+MetmagEVm000592t1:1093-4455	transdecoder	mRNA	1	3363	.	+	.	ID=MetmagEVm000592t1:1093-4455.p1;Parent=GENE.MetmagEVm000592t1:1093-4455~~MetmagEVm000592t1:1093-4455.p1;Name=ORF%20type%3Ainternal%20len%3A1122%20%28%2B%29%2Cscore%3D367.04
+MetmagEVm000592t1:1093-4455	transdecoder	exon	1	3363	.	+	.	ID=MetmagEVm000592t1:1093-4455.p1.exon1;Parent=MetmagEVm000592t1:1093-4455.p1
+MetmagEVm000592t1:1093-4455	transdecoder	CDS	1	3363	.	+	0	ID=cds.MetmagEVm000592t1:1093-4455.p1;Parent=MetmagEVm000592t1:1093-4455.p1
+
+MetmagEVm000600t1:116-3253	transdecoder	gene	1	3138	.	+	.	ID=GENE.MetmagEVm000600t1:116-3253~~MetmagEVm000600t1:116-3253.p1;Name=ORF%20type%3Ainternal%20len%3A1047%20%28%2B%29%2Cscore%3D411.70
+MetmagEVm000600t1:116-3253	transdecoder	mRNA	1	3138	.	+	.	ID=MetmagEVm000600t1:116-3253.p1;Parent=GENE.MetmagEVm000600t1:116-3253~~MetmagEVm000600t1:116-3253.p1;Name=ORF%20type%3Ainternal%20len%3A1047%20%28%2B%29%2Cscore%3D411.70
+MetmagEVm000600t1:116-3253	transdecoder	exon	1	3138	.	+	.	ID=MetmagEVm000600t1:116-3253.p1.exon1;Parent=MetmagEVm000600t1:116-3253.p1
+MetmagEVm000600t1:116-3253	transdecoder	CDS	1	3138	.	+	0	ID=cds.MetmagEVm000600t1:116-3253.p1;Parent=MetmagEVm000600t1:116-3253.p1
+
+MetmagEVm000672t1:63-3540	transdecoder	gene	1	3471	.	+	.	ID=GENE.MetmagEVm000672t1:63-3540~~MetmagEVm000672t1:63-3540.p1;Name=ORF%20type%3A3prime_partial%20len%3A1158%20%28%2B%29%2Cscore%3D405.14
+MetmagEVm000672t1:63-3540	transdecoder	mRNA	1	3471	.	+	.	ID=MetmagEVm000672t1:63-3540.p1;Parent=GENE.MetmagEVm000672t1:63-3540~~MetmagEVm000672t1:63-3540.p1;Name=ORF%20type%3A3prime_partial%20len%3A1158%20%28%2B%29%2Cscore%3D405.14
+MetmagEVm000672t1:63-3540	transdecoder	exon	1	3471	.	+	.	ID=MetmagEVm000672t1:63-3540.p1.exon1;Parent=MetmagEVm000672t1:63-3540.p1
+MetmagEVm000672t1:63-3540	transdecoder	CDS	1	3471	.	+	0	ID=cds.MetmagEVm000672t1:63-3540.p1;Parent=MetmagEVm000672t1:63-3540.p1
+
+MetmagEVm000721t1:33-3047	transdecoder	gene	1	3015	.	+	.	ID=GENE.MetmagEVm000721t1:33-3047~~MetmagEVm000721t1:33-3047.p1;Name=ORF%20type%3A3prime_partial%20len%3A1006%20%28%2B%29%2Cscore%3D506.49
+MetmagEVm000721t1:33-3047	transdecoder	mRNA	1	3015	.	+	.	ID=MetmagEVm000721t1:33-3047.p1;Parent=GENE.MetmagEVm000721t1:33-3047~~MetmagEVm000721t1:33-3047.p1;Name=ORF%20type%3A3prime_partial%20len%3A1006%20%28%2B%29%2Cscore%3D506.49
+MetmagEVm000721t1:33-3047	transdecoder	exon	1	3015	.	+	.	ID=MetmagEVm000721t1:33-3047.p1.exon1;Parent=MetmagEVm000721t1:33-3047.p1
+MetmagEVm000721t1:33-3047	transdecoder	CDS	1	3015	.	+	0	ID=cds.MetmagEVm000721t1:33-3047.p1;Parent=MetmagEVm000721t1:33-3047.p1
+
+MetmagEVm000769t1:136-2562	transdecoder	gene	1	2427	.	+	.	ID=GENE.MetmagEVm000769t1:136-2562~~MetmagEVm000769t1:136-2562.p1;Name=ORF%20type%3Ainternal%20len%3A810%20%28%2B%29%2Cscore%3D316.47
+MetmagEVm000769t1:136-2562	transdecoder	mRNA	1	2427	.	+	.	ID=MetmagEVm000769t1:136-2562.p1;Parent=GENE.MetmagEVm000769t1:136-2562~~MetmagEVm000769t1:136-2562.p1;Name=ORF%20type%3Ainternal%20len%3A810%20%28%2B%29%2Cscore%3D316.47
+MetmagEVm000769t1:136-2562	transdecoder	exon	1	2427	.	+	.	ID=MetmagEVm000769t1:136-2562.p1.exon1;Parent=MetmagEVm000769t1:136-2562.p1
+MetmagEVm000769t1:136-2562	transdecoder	CDS	1	2427	.	+	0	ID=cds.MetmagEVm000769t1:136-2562.p1;Parent=MetmagEVm000769t1:136-2562.p1
+
+MetmagEVm000782t1:198-3110	transdecoder	gene	1	2913	.	+	.	ID=GENE.MetmagEVm000782t1:198-3110~~MetmagEVm000782t1:198-3110.p1;Name=ORF%20type%3A3prime_partial%20len%3A972%20%28%2B%29%2Cscore%3D305.64
+MetmagEVm000782t1:198-3110	transdecoder	mRNA	1	2913	.	+	.	ID=MetmagEVm000782t1:198-3110.p1;Parent=GENE.MetmagEVm000782t1:198-3110~~MetmagEVm000782t1:198-3110.p1;Name=ORF%20type%3A3prime_partial%20len%3A972%20%28%2B%29%2Cscore%3D305.64
+MetmagEVm000782t1:198-3110	transdecoder	exon	1	2913	.	+	.	ID=MetmagEVm000782t1:198-3110.p1.exon1;Parent=MetmagEVm000782t1:198-3110.p1
+MetmagEVm000782t1:198-3110	transdecoder	CDS	1	2913	.	+	0	ID=cds.MetmagEVm000782t1:198-3110.p1;Parent=MetmagEVm000782t1:198-3110.p1
+
+MetmagEVm000791t1:541-3030	transdecoder	gene	1	2490	.	+	.	ID=GENE.MetmagEVm000791t1:541-3030~~MetmagEVm000791t1:541-3030.p1;Name=ORF%20type%3Ainternal%20len%3A831%20%28%2B%29%2Cscore%3D357.34
+MetmagEVm000791t1:541-3030	transdecoder	mRNA	1	2490	.	+	.	ID=MetmagEVm000791t1:541-3030.p1;Parent=GENE.MetmagEVm000791t1:541-3030~~MetmagEVm000791t1:541-3030.p1;Name=ORF%20type%3Ainternal%20len%3A831%20%28%2B%29%2Cscore%3D357.34
+MetmagEVm000791t1:541-3030	transdecoder	exon	1	2490	.	+	.	ID=MetmagEVm000791t1:541-3030.p1.exon1;Parent=MetmagEVm000791t1:541-3030.p1
+MetmagEVm000791t1:541-3030	transdecoder	CDS	1	2490	.	+	0	ID=cds.MetmagEVm000791t1:541-3030.p1;Parent=MetmagEVm000791t1:541-3030.p1
+
+MetmagEVm000813t1:139-3003	transdecoder	gene	1	2865	.	+	.	ID=GENE.MetmagEVm000813t1:139-3003~~MetmagEVm000813t1:139-3003.p1;Name=ORF%20type%3Ainternal%20len%3A956%20%28%2B%29%2Cscore%3D399.46
+MetmagEVm000813t1:139-3003	transdecoder	mRNA	1	2865	.	+	.	ID=MetmagEVm000813t1:139-3003.p1;Parent=GENE.MetmagEVm000813t1:139-3003~~MetmagEVm000813t1:139-3003.p1;Name=ORF%20type%3Ainternal%20len%3A956%20%28%2B%29%2Cscore%3D399.46
+MetmagEVm000813t1:139-3003	transdecoder	exon	1	2865	.	+	.	ID=MetmagEVm000813t1:139-3003.p1.exon1;Parent=MetmagEVm000813t1:139-3003.p1
+MetmagEVm000813t1:139-3003	transdecoder	CDS	1	2865	.	+	0	ID=cds.MetmagEVm000813t1:139-3003.p1;Parent=MetmagEVm000813t1:139-3003.p1
+
+MetmagEVm000822t1:2-2941	transdecoder	gene	1	2940	.	+	.	ID=GENE.MetmagEVm000822t1:2-2941~~MetmagEVm000822t1:2-2941.p1;Name=ORF%20type%3Ainternal%20len%3A981%20%28%2B%29%2Cscore%3D414.26
+MetmagEVm000822t1:2-2941	transdecoder	mRNA	1	2940	.	+	.	ID=MetmagEVm000822t1:2-2941.p1;Parent=GENE.MetmagEVm000822t1:2-2941~~MetmagEVm000822t1:2-2941.p1;Name=ORF%20type%3Ainternal%20len%3A981%20%28%2B%29%2Cscore%3D414.26
+MetmagEVm000822t1:2-2941	transdecoder	exon	1	2940	.	+	.	ID=MetmagEVm000822t1:2-2941.p1.exon1;Parent=MetmagEVm000822t1:2-2941.p1
+MetmagEVm000822t1:2-2941	transdecoder	CDS	1	2940	.	+	0	ID=cds.MetmagEVm000822t1:2-2941.p1;Parent=MetmagEVm000822t1:2-2941.p1
+
+MetmagEVm000900t1:231-2882	transdecoder	gene	1	2652	.	+	.	ID=GENE.MetmagEVm000900t1:231-2882~~MetmagEVm000900t1:231-2882.p1;Name=ORF%20type%3A3prime_partial%20len%3A885%20%28%2B%29%2Cscore%3D319.71
+MetmagEVm000900t1:231-2882	transdecoder	mRNA	1	2652	.	+	.	ID=MetmagEVm000900t1:231-2882.p1;Parent=GENE.MetmagEVm000900t1:231-2882~~MetmagEVm000900t1:231-2882.p1;Name=ORF%20type%3A3prime_partial%20len%3A885%20%28%2B%29%2Cscore%3D319.71
+MetmagEVm000900t1:231-2882	transdecoder	exon	1	2652	.	+	.	ID=MetmagEVm000900t1:231-2882.p1.exon1;Parent=MetmagEVm000900t1:231-2882.p1
+MetmagEVm000900t1:231-2882	transdecoder	CDS	1	2652	.	+	0	ID=cds.MetmagEVm000900t1:231-2882.p1;Parent=MetmagEVm000900t1:231-2882.p1
+
+MetmagEVm000913t1:81-2753	transdecoder	gene	1	2673	.	+	.	ID=GENE.MetmagEVm000913t1:81-2753~~MetmagEVm000913t1:81-2753.p1;Name=ORF%20type%3Ainternal%20len%3A892%20%28%2B%29%2Cscore%3D215.81
+MetmagEVm000913t1:81-2753	transdecoder	mRNA	1	2673	.	+	.	ID=MetmagEVm000913t1:81-2753.p1;Parent=GENE.MetmagEVm000913t1:81-2753~~MetmagEVm000913t1:81-2753.p1;Name=ORF%20type%3Ainternal%20len%3A892%20%28%2B%29%2Cscore%3D215.81
+MetmagEVm000913t1:81-2753	transdecoder	exon	1	2673	.	+	.	ID=MetmagEVm000913t1:81-2753.p1.exon1;Parent=MetmagEVm000913t1:81-2753.p1
+MetmagEVm000913t1:81-2753	transdecoder	CDS	1	2673	.	+	0	ID=cds.MetmagEVm000913t1:81-2753.p1;Parent=MetmagEVm000913t1:81-2753.p1
+
+MetmagEVm000942t1:251-2869	transdecoder	gene	1	2619	.	+	.	ID=GENE.MetmagEVm000942t1:251-2869~~MetmagEVm000942t1:251-2869.p1;Name=ORF%20type%3Ainternal%20len%3A874%20%28%2B%29%2Cscore%3D381.40
+MetmagEVm000942t1:251-2869	transdecoder	mRNA	1	2619	.	+	.	ID=MetmagEVm000942t1:251-2869.p1;Parent=GENE.MetmagEVm000942t1:251-2869~~MetmagEVm000942t1:251-2869.p1;Name=ORF%20type%3Ainternal%20len%3A874%20%28%2B%29%2Cscore%3D381.40
+MetmagEVm000942t1:251-2869	transdecoder	exon	1	2619	.	+	.	ID=MetmagEVm000942t1:251-2869.p1.exon1;Parent=MetmagEVm000942t1:251-2869.p1
+MetmagEVm000942t1:251-2869	transdecoder	CDS	1	2619	.	+	0	ID=cds.MetmagEVm000942t1:251-2869.p1;Parent=MetmagEVm000942t1:251-2869.p1
+
+MetmagEVm001121t1:225-2444	transdecoder	gene	1	2220	.	+	.	ID=GENE.MetmagEVm001121t1:225-2444~~MetmagEVm001121t1:225-2444.p1;Name=ORF%20type%3Ainternal%20len%3A741%20%28%2B%29%2Cscore%3D263.66
+MetmagEVm001121t1:225-2444	transdecoder	mRNA	1	2220	.	+	.	ID=MetmagEVm001121t1:225-2444.p1;Parent=GENE.MetmagEVm001121t1:225-2444~~MetmagEVm001121t1:225-2444.p1;Name=ORF%20type%3Ainternal%20len%3A741%20%28%2B%29%2Cscore%3D263.66
+MetmagEVm001121t1:225-2444	transdecoder	exon	1	2220	.	+	.	ID=MetmagEVm001121t1:225-2444.p1.exon1;Parent=MetmagEVm001121t1:225-2444.p1
+MetmagEVm001121t1:225-2444	transdecoder	CDS	1	2220	.	+	0	ID=cds.MetmagEVm001121t1:225-2444.p1;Parent=MetmagEVm001121t1:225-2444.p1
+
+MetmagEVm001716t1:50-2035	transdecoder	gene	1	1986	.	+	.	ID=GENE.MetmagEVm001716t1:50-2035~~MetmagEVm001716t1:50-2035.p1;Name=ORF%20type%3A3prime_partial%20len%3A663%20%28%2B%29%2Cscore%3D293.52
+MetmagEVm001716t1:50-2035	transdecoder	mRNA	1	1986	.	+	.	ID=MetmagEVm001716t1:50-2035.p1;Parent=GENE.MetmagEVm001716t1:50-2035~~MetmagEVm001716t1:50-2035.p1;Name=ORF%20type%3A3prime_partial%20len%3A663%20%28%2B%29%2Cscore%3D293.52
+MetmagEVm001716t1:50-2035	transdecoder	exon	1	1986	.	+	.	ID=MetmagEVm001716t1:50-2035.p1.exon1;Parent=MetmagEVm001716t1:50-2035.p1
+MetmagEVm001716t1:50-2035	transdecoder	CDS	1	1986	.	+	0	ID=cds.MetmagEVm001716t1:50-2035.p1;Parent=MetmagEVm001716t1:50-2035.p1
+
+MetmagEVm001781t1:138-3639	transdecoder	gene	1	3477	.	+	.	ID=GENE.MetmagEVm001781t1:138-3639~~MetmagEVm001781t1:138-3639.p1;Name=ORF%20type%3Ainternal%20len%3A1160%20%28%2B%29%2Cscore%3D529.58
+MetmagEVm001781t1:138-3639	transdecoder	mRNA	1	3477	.	+	.	ID=MetmagEVm001781t1:138-3639.p1;Parent=GENE.MetmagEVm001781t1:138-3639~~MetmagEVm001781t1:138-3639.p1;Name=ORF%20type%3Ainternal%20len%3A1160%20%28%2B%29%2Cscore%3D529.58
+MetmagEVm001781t1:138-3639	transdecoder	exon	1	3477	.	+	.	ID=MetmagEVm001781t1:138-3639.p1.exon1;Parent=MetmagEVm001781t1:138-3639.p1
+MetmagEVm001781t1:138-3639	transdecoder	CDS	1	3477	.	+	0	ID=cds.MetmagEVm001781t1:138-3639.p1;Parent=MetmagEVm001781t1:138-3639.p1
+
+MetmagEVm003758t1:0-1376	transdecoder	gene	1	1377	.	+	.	ID=GENE.MetmagEVm003758t1:0-1376~~MetmagEVm003758t1:0-1376.p1;Name=ORF%20type%3Ainternal%20len%3A460%20%28%2B%29%2Cscore%3D172.07
+MetmagEVm003758t1:0-1376	transdecoder	mRNA	1	1377	.	+	.	ID=MetmagEVm003758t1:0-1376.p1;Parent=GENE.MetmagEVm003758t1:0-1376~~MetmagEVm003758t1:0-1376.p1;Name=ORF%20type%3Ainternal%20len%3A460%20%28%2B%29%2Cscore%3D172.07
+MetmagEVm003758t1:0-1376	transdecoder	exon	1	1377	.	+	.	ID=MetmagEVm003758t1:0-1376.p1.exon1;Parent=MetmagEVm003758t1:0-1376.p1
+MetmagEVm003758t1:0-1376	transdecoder	CDS	1	1377	.	+	0	ID=cds.MetmagEVm003758t1:0-1376.p1;Parent=MetmagEVm003758t1:0-1376.p1
+
