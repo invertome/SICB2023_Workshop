@@ -1,0 +1,99 @@
+Cuaame_EVm000082t1:2-4888	transdecoder	gene	1	4887	.	+	.	ID=GENE.Cuaame_EVm000082t1:2-4888~~Cuaame_EVm000082t1:2-4888.p1;Name=ORF%20type%3Ainternal%20len%3A1630%20%28%2B%29%2Cscore%3D646.38
+Cuaame_EVm000082t1:2-4888	transdecoder	mRNA	1	4887	.	+	.	ID=Cuaame_EVm000082t1:2-4888.p1;Parent=GENE.Cuaame_EVm000082t1:2-4888~~Cuaame_EVm000082t1:2-4888.p1;Name=ORF%20type%3Ainternal%20len%3A1630%20%28%2B%29%2Cscore%3D646.38
+Cuaame_EVm000082t1:2-4888	transdecoder	exon	1	4887	.	+	.	ID=Cuaame_EVm000082t1:2-4888.p1.exon1;Parent=Cuaame_EVm000082t1:2-4888.p1
+Cuaame_EVm000082t1:2-4888	transdecoder	CDS	1	4887	.	+	0	ID=cds.Cuaame_EVm000082t1:2-4888.p1;Parent=Cuaame_EVm000082t1:2-4888.p1
+
+Cuaame_EVm000147t1:127-4323	transdecoder	gene	1	4197	.	+	.	ID=GENE.Cuaame_EVm000147t1:127-4323~~Cuaame_EVm000147t1:127-4323.p1;Name=ORF%20type%3A3prime_partial%20len%3A1400%20%28%2B%29%2Cscore%3D534.85
+Cuaame_EVm000147t1:127-4323	transdecoder	mRNA	1	4197	.	+	.	ID=Cuaame_EVm000147t1:127-4323.p1;Parent=GENE.Cuaame_EVm000147t1:127-4323~~Cuaame_EVm000147t1:127-4323.p1;Name=ORF%20type%3A3prime_partial%20len%3A1400%20%28%2B%29%2Cscore%3D534.85
+Cuaame_EVm000147t1:127-4323	transdecoder	exon	1	4197	.	+	.	ID=Cuaame_EVm000147t1:127-4323.p1.exon1;Parent=Cuaame_EVm000147t1:127-4323.p1
+Cuaame_EVm000147t1:127-4323	transdecoder	CDS	1	4197	.	+	0	ID=cds.Cuaame_EVm000147t1:127-4323.p1;Parent=Cuaame_EVm000147t1:127-4323.p1
+
+Cuaame_EVm000155t1:453-4658	transdecoder	gene	1	4206	.	+	.	ID=GENE.Cuaame_EVm000155t1:453-4658~~Cuaame_EVm000155t1:453-4658.p1;Name=ORF%20type%3A3prime_partial%20len%3A1403%20%28%2B%29%2Cscore%3D473.63
+Cuaame_EVm000155t1:453-4658	transdecoder	mRNA	1	4206	.	+	.	ID=Cuaame_EVm000155t1:453-4658.p1;Parent=GENE.Cuaame_EVm000155t1:453-4658~~Cuaame_EVm000155t1:453-4658.p1;Name=ORF%20type%3A3prime_partial%20len%3A1403%20%28%2B%29%2Cscore%3D473.63
+Cuaame_EVm000155t1:453-4658	transdecoder	exon	1	4206	.	+	.	ID=Cuaame_EVm000155t1:453-4658.p1.exon1;Parent=Cuaame_EVm000155t1:453-4658.p1
+Cuaame_EVm000155t1:453-4658	transdecoder	CDS	1	4206	.	+	0	ID=cds.Cuaame_EVm000155t1:453-4658.p1;Parent=Cuaame_EVm000155t1:453-4658.p1
+
+Cuaame_EVm000197t1:341-3970	transdecoder	gene	1	3630	.	+	.	ID=GENE.Cuaame_EVm000197t1:341-3970~~Cuaame_EVm000197t1:341-3970.p1;Name=ORF%20type%3A3prime_partial%20len%3A1211%20%28%2B%29%2Cscore%3D551.13
+Cuaame_EVm000197t1:341-3970	transdecoder	mRNA	1	3630	.	+	.	ID=Cuaame_EVm000197t1:341-3970.p1;Parent=GENE.Cuaame_EVm000197t1:341-3970~~Cuaame_EVm000197t1:341-3970.p1;Name=ORF%20type%3A3prime_partial%20len%3A1211%20%28%2B%29%2Cscore%3D551.13
+Cuaame_EVm000197t1:341-3970	transdecoder	exon	1	3630	.	+	.	ID=Cuaame_EVm000197t1:341-3970.p1.exon1;Parent=Cuaame_EVm000197t1:341-3970.p1
+Cuaame_EVm000197t1:341-3970	transdecoder	CDS	1	3630	.	+	0	ID=cds.Cuaame_EVm000197t1:341-3970.p1;Parent=Cuaame_EVm000197t1:341-3970.p1
+
+Cuaame_EVm000278t1:131-3778	transdecoder	gene	1	3648	.	+	.	ID=GENE.Cuaame_EVm000278t1:131-3778~~Cuaame_EVm000278t1:131-3778.p1;Name=ORF%20type%3A3prime_partial%20len%3A1217%20%28%2B%29%2Cscore%3D483.07
+Cuaame_EVm000278t1:131-3778	transdecoder	mRNA	1	3648	.	+	.	ID=Cuaame_EVm000278t1:131-3778.p1;Parent=GENE.Cuaame_EVm000278t1:131-3778~~Cuaame_EVm000278t1:131-3778.p1;Name=ORF%20type%3A3prime_partial%20len%3A1217%20%28%2B%29%2Cscore%3D483.07
+Cuaame_EVm000278t1:131-3778	transdecoder	exon	1	3648	.	+	.	ID=Cuaame_EVm000278t1:131-3778.p1.exon1;Parent=Cuaame_EVm000278t1:131-3778.p1
+Cuaame_EVm000278t1:131-3778	transdecoder	CDS	1	3648	.	+	0	ID=cds.Cuaame_EVm000278t1:131-3778.p1;Parent=Cuaame_EVm000278t1:131-3778.p1
+
+Cuaame_EVm000318t1:254-3760	transdecoder	gene	1	3507	.	+	.	ID=GENE.Cuaame_EVm000318t1:254-3760~~Cuaame_EVm000318t1:254-3760.p1;Name=ORF%20type%3A3prime_partial%20len%3A1170%20%28%2B%29%2Cscore%3D467.34
+Cuaame_EVm000318t1:254-3760	transdecoder	mRNA	1	3507	.	+	.	ID=Cuaame_EVm000318t1:254-3760.p1;Parent=GENE.Cuaame_EVm000318t1:254-3760~~Cuaame_EVm000318t1:254-3760.p1;Name=ORF%20type%3A3prime_partial%20len%3A1170%20%28%2B%29%2Cscore%3D467.34
+Cuaame_EVm000318t1:254-3760	transdecoder	exon	1	3507	.	+	.	ID=Cuaame_EVm000318t1:254-3760.p1.exon1;Parent=Cuaame_EVm000318t1:254-3760.p1
+Cuaame_EVm000318t1:254-3760	transdecoder	CDS	1	3507	.	+	0	ID=cds.Cuaame_EVm000318t1:254-3760.p1;Parent=Cuaame_EVm000318t1:254-3760.p1
+
+# refined start codon: 1 -> 187 (score: 1.204)
+Cuaame_EVm000363t1:31-3429	transdecoder	gene	1	3399	.	+	.	ID=GENE.Cuaame_EVm000363t1:31-3429~~Cuaame_EVm000363t1:31-3429.p1;Name=ORF%20type%3A3prime_partial%20len%3A1134%20%28%2B%29%2Cscore%3D448.48
+Cuaame_EVm000363t1:31-3429	transdecoder	mRNA	1	3399	.	+	.	ID=Cuaame_EVm000363t1:31-3429.p1;Parent=GENE.Cuaame_EVm000363t1:31-3429~~Cuaame_EVm000363t1:31-3429.p1;Name=ORF%20type%3A3prime_partial%20len%3A1134%20%28%2B%29%2Cscore%3D448.48
+Cuaame_EVm000363t1:31-3429	transdecoder	five_prime_UTR	1	186	.	+	.	ID=Cuaame_EVm000363t1:31-3429.p1.utr5p1;Parent=Cuaame_EVm000363t1:31-3429.p1
+Cuaame_EVm000363t1:31-3429	transdecoder	exon	1	3399	.	+	.	ID=Cuaame_EVm000363t1:31-3429.p1.exon1;Parent=Cuaame_EVm000363t1:31-3429.p1
+Cuaame_EVm000363t1:31-3429	transdecoder	CDS	187	3399	.	+	0	ID=cds.Cuaame_EVm000363t1:31-3429.p1;Parent=Cuaame_EVm000363t1:31-3429.p1
+
+Cuaame_EVm000372t1:276-3620	transdecoder	gene	1	3345	.	+	.	ID=GENE.Cuaame_EVm000372t1:276-3620~~Cuaame_EVm000372t1:276-3620.p1;Name=ORF%20type%3Ainternal%20len%3A1116%20%28%2B%29%2Cscore%3D419.79
+Cuaame_EVm000372t1:276-3620	transdecoder	mRNA	1	3345	.	+	.	ID=Cuaame_EVm000372t1:276-3620.p1;Parent=GENE.Cuaame_EVm000372t1:276-3620~~Cuaame_EVm000372t1:276-3620.p1;Name=ORF%20type%3Ainternal%20len%3A1116%20%28%2B%29%2Cscore%3D419.79
+Cuaame_EVm000372t1:276-3620	transdecoder	exon	1	3345	.	+	.	ID=Cuaame_EVm000372t1:276-3620.p1.exon1;Parent=Cuaame_EVm000372t1:276-3620.p1
+Cuaame_EVm000372t1:276-3620	transdecoder	CDS	1	3345	.	+	0	ID=cds.Cuaame_EVm000372t1:276-3620.p1;Parent=Cuaame_EVm000372t1:276-3620.p1
+
+Cuaame_EVm000407t1:17-3295	transdecoder	gene	1	3279	.	+	.	ID=GENE.Cuaame_EVm000407t1:17-3295~~Cuaame_EVm000407t1:17-3295.p1;Name=ORF%20type%3A3prime_partial%20len%3A1094%20%28%2B%29%2Cscore%3D461.50
+Cuaame_EVm000407t1:17-3295	transdecoder	mRNA	1	3279	.	+	.	ID=Cuaame_EVm000407t1:17-3295.p1;Parent=GENE.Cuaame_EVm000407t1:17-3295~~Cuaame_EVm000407t1:17-3295.p1;Name=ORF%20type%3A3prime_partial%20len%3A1094%20%28%2B%29%2Cscore%3D461.50
+Cuaame_EVm000407t1:17-3295	transdecoder	exon	1	3279	.	+	.	ID=Cuaame_EVm000407t1:17-3295.p1.exon1;Parent=Cuaame_EVm000407t1:17-3295.p1
+Cuaame_EVm000407t1:17-3295	transdecoder	CDS	1	3279	.	+	0	ID=cds.Cuaame_EVm000407t1:17-3295.p1;Parent=Cuaame_EVm000407t1:17-3295.p1
+
+Cuaame_EVm000480t1:135-3236	transdecoder	gene	1	3102	.	+	.	ID=GENE.Cuaame_EVm000480t1:135-3236~~Cuaame_EVm000480t1:135-3236.p1;Name=ORF%20type%3A3prime_partial%20len%3A1035%20%28%2B%29%2Cscore%3D413.24
+Cuaame_EVm000480t1:135-3236	transdecoder	mRNA	1	3102	.	+	.	ID=Cuaame_EVm000480t1:135-3236.p1;Parent=GENE.Cuaame_EVm000480t1:135-3236~~Cuaame_EVm000480t1:135-3236.p1;Name=ORF%20type%3A3prime_partial%20len%3A1035%20%28%2B%29%2Cscore%3D413.24
+Cuaame_EVm000480t1:135-3236	transdecoder	exon	1	3102	.	+	.	ID=Cuaame_EVm000480t1:135-3236.p1.exon1;Parent=Cuaame_EVm000480t1:135-3236.p1
+Cuaame_EVm000480t1:135-3236	transdecoder	CDS	1	3102	.	+	0	ID=cds.Cuaame_EVm000480t1:135-3236.p1;Parent=Cuaame_EVm000480t1:135-3236.p1
+
+Cuaame_EVm000600t1:400-3300	transdecoder	gene	1	2901	.	+	.	ID=GENE.Cuaame_EVm000600t1:400-3300~~Cuaame_EVm000600t1:400-3300.p1;Name=ORF%20type%3A3prime_partial%20len%3A968%20%28%2B%29%2Cscore%3D336.55
+Cuaame_EVm000600t1:400-3300	transdecoder	mRNA	1	2901	.	+	.	ID=Cuaame_EVm000600t1:400-3300.p1;Parent=GENE.Cuaame_EVm000600t1:400-3300~~Cuaame_EVm000600t1:400-3300.p1;Name=ORF%20type%3A3prime_partial%20len%3A968%20%28%2B%29%2Cscore%3D336.55
+Cuaame_EVm000600t1:400-3300	transdecoder	exon	1	2901	.	+	.	ID=Cuaame_EVm000600t1:400-3300.p1.exon1;Parent=Cuaame_EVm000600t1:400-3300.p1
+Cuaame_EVm000600t1:400-3300	transdecoder	CDS	1	2901	.	+	0	ID=cds.Cuaame_EVm000600t1:400-3300.p1;Parent=Cuaame_EVm000600t1:400-3300.p1
+
+Cuaame_EVm000662t1:98-2878	transdecoder	gene	1	2781	.	+	.	ID=GENE.Cuaame_EVm000662t1:98-2878~~Cuaame_EVm000662t1:98-2878.p1;Name=ORF%20type%3A3prime_partial%20len%3A928%20%28%2B%29%2Cscore%3D383.88
+Cuaame_EVm000662t1:98-2878	transdecoder	mRNA	1	2781	.	+	.	ID=Cuaame_EVm000662t1:98-2878.p1;Parent=GENE.Cuaame_EVm000662t1:98-2878~~Cuaame_EVm000662t1:98-2878.p1;Name=ORF%20type%3A3prime_partial%20len%3A928%20%28%2B%29%2Cscore%3D383.88
+Cuaame_EVm000662t1:98-2878	transdecoder	exon	1	2781	.	+	.	ID=Cuaame_EVm000662t1:98-2878.p1.exon1;Parent=Cuaame_EVm000662t1:98-2878.p1
+Cuaame_EVm000662t1:98-2878	transdecoder	CDS	1	2781	.	+	0	ID=cds.Cuaame_EVm000662t1:98-2878.p1;Parent=Cuaame_EVm000662t1:98-2878.p1
+
+Cuaame_EVm000718t1:30-2684	transdecoder	gene	1	2655	.	+	.	ID=GENE.Cuaame_EVm000718t1:30-2684~~Cuaame_EVm000718t1:30-2684.p1;Name=ORF%20type%3A3prime_partial%20len%3A886%20%28%2B%29%2Cscore%3D358.75
+Cuaame_EVm000718t1:30-2684	transdecoder	mRNA	1	2655	.	+	.	ID=Cuaame_EVm000718t1:30-2684.p1;Parent=GENE.Cuaame_EVm000718t1:30-2684~~Cuaame_EVm000718t1:30-2684.p1;Name=ORF%20type%3A3prime_partial%20len%3A886%20%28%2B%29%2Cscore%3D358.75
+Cuaame_EVm000718t1:30-2684	transdecoder	exon	1	2655	.	+	.	ID=Cuaame_EVm000718t1:30-2684.p1.exon1;Parent=Cuaame_EVm000718t1:30-2684.p1
+Cuaame_EVm000718t1:30-2684	transdecoder	CDS	1	2655	.	+	0	ID=cds.Cuaame_EVm000718t1:30-2684.p1;Parent=Cuaame_EVm000718t1:30-2684.p1
+
+# refined start codon: 1 -> 172 (score: 0.915)
+Cuaame_EVm000780t1:500-2674	transdecoder	gene	1	2175	.	+	.	ID=GENE.Cuaame_EVm000780t1:500-2674~~Cuaame_EVm000780t1:500-2674.p1;Name=ORF%20type%3A3prime_partial%20len%3A726%20%28%2B%29%2Cscore%3D314.04
+Cuaame_EVm000780t1:500-2674	transdecoder	mRNA	1	2175	.	+	.	ID=Cuaame_EVm000780t1:500-2674.p1;Parent=GENE.Cuaame_EVm000780t1:500-2674~~Cuaame_EVm000780t1:500-2674.p1;Name=ORF%20type%3A3prime_partial%20len%3A726%20%28%2B%29%2Cscore%3D314.04
+Cuaame_EVm000780t1:500-2674	transdecoder	five_prime_UTR	1	171	.	+	.	ID=Cuaame_EVm000780t1:500-2674.p1.utr5p1;Parent=Cuaame_EVm000780t1:500-2674.p1
+Cuaame_EVm000780t1:500-2674	transdecoder	exon	1	2175	.	+	.	ID=Cuaame_EVm000780t1:500-2674.p1.exon1;Parent=Cuaame_EVm000780t1:500-2674.p1
+Cuaame_EVm000780t1:500-2674	transdecoder	CDS	172	2175	.	+	0	ID=cds.Cuaame_EVm000780t1:500-2674.p1;Parent=Cuaame_EVm000780t1:500-2674.p1
+
+Cuaame_EVm000811t1:189-2747	transdecoder	gene	1	2559	.	+	.	ID=GENE.Cuaame_EVm000811t1:189-2747~~Cuaame_EVm000811t1:189-2747.p1;Name=ORF%20type%3Ainternal%20len%3A854%20%28%2B%29%2Cscore%3D340.42
+Cuaame_EVm000811t1:189-2747	transdecoder	mRNA	1	2559	.	+	.	ID=Cuaame_EVm000811t1:189-2747.p1;Parent=GENE.Cuaame_EVm000811t1:189-2747~~Cuaame_EVm000811t1:189-2747.p1;Name=ORF%20type%3Ainternal%20len%3A854%20%28%2B%29%2Cscore%3D340.42
+Cuaame_EVm000811t1:189-2747	transdecoder	exon	1	2559	.	+	.	ID=Cuaame_EVm000811t1:189-2747.p1.exon1;Parent=Cuaame_EVm000811t1:189-2747.p1
+Cuaame_EVm000811t1:189-2747	transdecoder	CDS	1	2559	.	+	0	ID=cds.Cuaame_EVm000811t1:189-2747.p1;Parent=Cuaame_EVm000811t1:189-2747.p1
+
+Cuaame_EVm000990t1:1-2583	transdecoder	gene	1	2583	.	+	.	ID=GENE.Cuaame_EVm000990t1:1-2583~~Cuaame_EVm000990t1:1-2583.p1;Name=ORF%20type%3Ainternal%20len%3A862%20%28%2B%29%2Cscore%3D348.28
+Cuaame_EVm000990t1:1-2583	transdecoder	mRNA	1	2583	.	+	.	ID=Cuaame_EVm000990t1:1-2583.p1;Parent=GENE.Cuaame_EVm000990t1:1-2583~~Cuaame_EVm000990t1:1-2583.p1;Name=ORF%20type%3Ainternal%20len%3A862%20%28%2B%29%2Cscore%3D348.28
+Cuaame_EVm000990t1:1-2583	transdecoder	exon	1	2583	.	+	.	ID=Cuaame_EVm000990t1:1-2583.p1.exon1;Parent=Cuaame_EVm000990t1:1-2583.p1
+Cuaame_EVm000990t1:1-2583	transdecoder	CDS	1	2583	.	+	0	ID=cds.Cuaame_EVm000990t1:1-2583.p1;Parent=Cuaame_EVm000990t1:1-2583.p1
+
+Cuaame_EVm001369t1:599-2272	transdecoder	gene	1	1674	.	+	.	ID=GENE.Cuaame_EVm001369t1:599-2272~~Cuaame_EVm001369t1:599-2272.p1;Name=ORF%20type%3Ainternal%20len%3A559%20%28%2B%29%2Cscore%3D198.54
+Cuaame_EVm001369t1:599-2272	transdecoder	mRNA	1	1674	.	+	.	ID=Cuaame_EVm001369t1:599-2272.p1;Parent=GENE.Cuaame_EVm001369t1:599-2272~~Cuaame_EVm001369t1:599-2272.p1;Name=ORF%20type%3Ainternal%20len%3A559%20%28%2B%29%2Cscore%3D198.54
+Cuaame_EVm001369t1:599-2272	transdecoder	exon	1	1674	.	+	.	ID=Cuaame_EVm001369t1:599-2272.p1.exon1;Parent=Cuaame_EVm001369t1:599-2272.p1
+Cuaame_EVm001369t1:599-2272	transdecoder	CDS	1	1674	.	+	0	ID=cds.Cuaame_EVm001369t1:599-2272.p1;Parent=Cuaame_EVm001369t1:599-2272.p1
+
+Cuaame_EVm001818t1:1-1827	transdecoder	gene	1	1827	.	+	.	ID=GENE.Cuaame_EVm001818t1:1-1827~~Cuaame_EVm001818t1:1-1827.p1;Name=ORF%20type%3A3prime_partial%20len%3A610%20%28%2B%29%2Cscore%3D236.01
+Cuaame_EVm001818t1:1-1827	transdecoder	mRNA	1	1827	.	+	.	ID=Cuaame_EVm001818t1:1-1827.p1;Parent=GENE.Cuaame_EVm001818t1:1-1827~~Cuaame_EVm001818t1:1-1827.p1;Name=ORF%20type%3A3prime_partial%20len%3A610%20%28%2B%29%2Cscore%3D236.01
+Cuaame_EVm001818t1:1-1827	transdecoder	exon	1	1827	.	+	.	ID=Cuaame_EVm001818t1:1-1827.p1.exon1;Parent=Cuaame_EVm001818t1:1-1827.p1
+Cuaame_EVm001818t1:1-1827	transdecoder	CDS	1	1827	.	+	0	ID=cds.Cuaame_EVm001818t1:1-1827.p1;Parent=Cuaame_EVm001818t1:1-1827.p1
+
+Cuaame_EVm004251t1:220-1146	transdecoder	gene	1	927	.	+	.	ID=GENE.Cuaame_EVm004251t1:220-1146~~Cuaame_EVm004251t1:220-1146.p1;Name=ORF%20type%3Ainternal%20len%3A310%20%28%2B%29%2Cscore%3D108.40
+Cuaame_EVm004251t1:220-1146	transdecoder	mRNA	1	927	.	+	.	ID=Cuaame_EVm004251t1:220-1146.p1;Parent=GENE.Cuaame_EVm004251t1:220-1146~~Cuaame_EVm004251t1:220-1146.p1;Name=ORF%20type%3Ainternal%20len%3A310%20%28%2B%29%2Cscore%3D108.40
+Cuaame_EVm004251t1:220-1146	transdecoder	exon	1	927	.	+	.	ID=Cuaame_EVm004251t1:220-1146.p1.exon1;Parent=Cuaame_EVm004251t1:220-1146.p1
+Cuaame_EVm004251t1:220-1146	transdecoder	CDS	1	927	.	+	0	ID=cds.Cuaame_EVm004251t1:220-1146.p1;Parent=Cuaame_EVm004251t1:220-1146.p1
+

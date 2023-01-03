@@ -1,0 +1,80 @@
+# refined start codon: 1 -> 1147 (score: 2.197)
+GeclaM_EVm000089t1:110-8077	transdecoder	gene	1	7968	.	+	.	ID=GENE.GeclaM_EVm000089t1:110-8077~~GeclaM_EVm000089t1:110-8077.p1;Name=ORF%20type%3A3prime_partial%20len%3A2657%20%28%2B%29%2Cscore%3D643.62
+GeclaM_EVm000089t1:110-8077	transdecoder	mRNA	1	7968	.	+	.	ID=GeclaM_EVm000089t1:110-8077.p1;Parent=GENE.GeclaM_EVm000089t1:110-8077~~GeclaM_EVm000089t1:110-8077.p1;Name=ORF%20type%3A3prime_partial%20len%3A2657%20%28%2B%29%2Cscore%3D643.62
+GeclaM_EVm000089t1:110-8077	transdecoder	five_prime_UTR	1	1146	.	+	.	ID=GeclaM_EVm000089t1:110-8077.p1.utr5p1;Parent=GeclaM_EVm000089t1:110-8077.p1
+GeclaM_EVm000089t1:110-8077	transdecoder	exon	1	7968	.	+	.	ID=GeclaM_EVm000089t1:110-8077.p1.exon1;Parent=GeclaM_EVm000089t1:110-8077.p1
+GeclaM_EVm000089t1:110-8077	transdecoder	CDS	1147	7968	.	+	0	ID=cds.GeclaM_EVm000089t1:110-8077.p1;Parent=GeclaM_EVm000089t1:110-8077.p1
+
+# refined start codon: 1 -> 91 (score: 3.116)
+GeclaM_EVm000169t1:1-6654	transdecoder	gene	1	6654	.	+	.	ID=GENE.GeclaM_EVm000169t1:1-6654~~GeclaM_EVm000169t1:1-6654.p1;Name=ORF%20type%3A3prime_partial%20len%3A2219%20%28%2B%29%2Cscore%3D435.77
+GeclaM_EVm000169t1:1-6654	transdecoder	mRNA	1	6654	.	+	.	ID=GeclaM_EVm000169t1:1-6654.p1;Parent=GENE.GeclaM_EVm000169t1:1-6654~~GeclaM_EVm000169t1:1-6654.p1;Name=ORF%20type%3A3prime_partial%20len%3A2219%20%28%2B%29%2Cscore%3D435.77
+GeclaM_EVm000169t1:1-6654	transdecoder	five_prime_UTR	1	90	.	+	.	ID=GeclaM_EVm000169t1:1-6654.p1.utr5p1;Parent=GeclaM_EVm000169t1:1-6654.p1
+GeclaM_EVm000169t1:1-6654	transdecoder	exon	1	6654	.	+	.	ID=GeclaM_EVm000169t1:1-6654.p1.exon1;Parent=GeclaM_EVm000169t1:1-6654.p1
+GeclaM_EVm000169t1:1-6654	transdecoder	CDS	91	6654	.	+	0	ID=cds.GeclaM_EVm000169t1:1-6654.p1;Parent=GeclaM_EVm000169t1:1-6654.p1
+
+GeclaM_EVm000299t1:3741-5498	transdecoder	gene	1	1758	.	+	.	ID=GENE.GeclaM_EVm000299t1:3741-5498~~GeclaM_EVm000299t1:3741-5498.p1;Name=ORF%20type%3Ainternal%20len%3A587%20%28%2B%29%2Cscore%3D249.30
+GeclaM_EVm000299t1:3741-5498	transdecoder	mRNA	1	1758	.	+	.	ID=GeclaM_EVm000299t1:3741-5498.p1;Parent=GENE.GeclaM_EVm000299t1:3741-5498~~GeclaM_EVm000299t1:3741-5498.p1;Name=ORF%20type%3Ainternal%20len%3A587%20%28%2B%29%2Cscore%3D249.30
+GeclaM_EVm000299t1:3741-5498	transdecoder	exon	1	1758	.	+	.	ID=GeclaM_EVm000299t1:3741-5498.p1.exon1;Parent=GeclaM_EVm000299t1:3741-5498.p1
+GeclaM_EVm000299t1:3741-5498	transdecoder	CDS	1	1758	.	+	0	ID=cds.GeclaM_EVm000299t1:3741-5498.p1;Parent=GeclaM_EVm000299t1:3741-5498.p1
+
+GeclaM_EVm000508t1:72-4466	transdecoder	gene	1	4395	.	+	.	ID=GENE.GeclaM_EVm000508t1:72-4466~~GeclaM_EVm000508t1:72-4466.p1;Name=ORF%20type%3A3prime_partial%20len%3A1466%20%28%2B%29%2Cscore%3D683.52
+GeclaM_EVm000508t1:72-4466	transdecoder	mRNA	1	4395	.	+	.	ID=GeclaM_EVm000508t1:72-4466.p1;Parent=GENE.GeclaM_EVm000508t1:72-4466~~GeclaM_EVm000508t1:72-4466.p1;Name=ORF%20type%3A3prime_partial%20len%3A1466%20%28%2B%29%2Cscore%3D683.52
+GeclaM_EVm000508t1:72-4466	transdecoder	exon	1	4395	.	+	.	ID=GeclaM_EVm000508t1:72-4466.p1.exon1;Parent=GeclaM_EVm000508t1:72-4466.p1
+GeclaM_EVm000508t1:72-4466	transdecoder	CDS	1	4395	.	+	0	ID=cds.GeclaM_EVm000508t1:72-4466.p1;Parent=GeclaM_EVm000508t1:72-4466.p1
+
+GeclaM_EVm000588t1:485-4690	transdecoder	gene	1	4206	.	+	.	ID=GENE.GeclaM_EVm000588t1:485-4690~~GeclaM_EVm000588t1:485-4690.p1;Name=ORF%20type%3A3prime_partial%20len%3A1403%20%28%2B%29%2Cscore%3D569.65
+GeclaM_EVm000588t1:485-4690	transdecoder	mRNA	1	4206	.	+	.	ID=GeclaM_EVm000588t1:485-4690.p1;Parent=GENE.GeclaM_EVm000588t1:485-4690~~GeclaM_EVm000588t1:485-4690.p1;Name=ORF%20type%3A3prime_partial%20len%3A1403%20%28%2B%29%2Cscore%3D569.65
+GeclaM_EVm000588t1:485-4690	transdecoder	exon	1	4206	.	+	.	ID=GeclaM_EVm000588t1:485-4690.p1.exon1;Parent=GeclaM_EVm000588t1:485-4690.p1
+GeclaM_EVm000588t1:485-4690	transdecoder	CDS	1	4206	.	+	0	ID=cds.GeclaM_EVm000588t1:485-4690.p1;Parent=GeclaM_EVm000588t1:485-4690.p1
+
+GeclaM_EVm000858t1:249-3878	transdecoder	gene	1	3630	.	+	.	ID=GENE.GeclaM_EVm000858t1:249-3878~~GeclaM_EVm000858t1:249-3878.p1;Name=ORF%20type%3A3prime_partial%20len%3A1211%20%28%2B%29%2Cscore%3D636.15
+GeclaM_EVm000858t1:249-3878	transdecoder	mRNA	1	3630	.	+	.	ID=GeclaM_EVm000858t1:249-3878.p1;Parent=GENE.GeclaM_EVm000858t1:249-3878~~GeclaM_EVm000858t1:249-3878.p1;Name=ORF%20type%3A3prime_partial%20len%3A1211%20%28%2B%29%2Cscore%3D636.15
+GeclaM_EVm000858t1:249-3878	transdecoder	exon	1	3630	.	+	.	ID=GeclaM_EVm000858t1:249-3878.p1.exon1;Parent=GeclaM_EVm000858t1:249-3878.p1
+GeclaM_EVm000858t1:249-3878	transdecoder	CDS	1	3630	.	+	0	ID=cds.GeclaM_EVm000858t1:249-3878.p1;Parent=GeclaM_EVm000858t1:249-3878.p1
+
+# refined start codon: 1 -> 337 (score: 3.201)
+GeclaM_EVm000860t1:848-4342	transdecoder	gene	1	3495	.	+	.	ID=GENE.GeclaM_EVm000860t1:848-4342~~GeclaM_EVm000860t1:848-4342.p1;Name=ORF%20type%3A3prime_partial%20len%3A1166%20%28%2B%29%2Cscore%3D492.63
+GeclaM_EVm000860t1:848-4342	transdecoder	mRNA	1	3495	.	+	.	ID=GeclaM_EVm000860t1:848-4342.p1;Parent=GENE.GeclaM_EVm000860t1:848-4342~~GeclaM_EVm000860t1:848-4342.p1;Name=ORF%20type%3A3prime_partial%20len%3A1166%20%28%2B%29%2Cscore%3D492.63
+GeclaM_EVm000860t1:848-4342	transdecoder	five_prime_UTR	1	336	.	+	.	ID=GeclaM_EVm000860t1:848-4342.p1.utr5p1;Parent=GeclaM_EVm000860t1:848-4342.p1
+GeclaM_EVm000860t1:848-4342	transdecoder	exon	1	3495	.	+	.	ID=GeclaM_EVm000860t1:848-4342.p1.exon1;Parent=GeclaM_EVm000860t1:848-4342.p1
+GeclaM_EVm000860t1:848-4342	transdecoder	CDS	337	3495	.	+	0	ID=cds.GeclaM_EVm000860t1:848-4342.p1;Parent=GeclaM_EVm000860t1:848-4342.p1
+
+GeclaM_EVm000865t1:94-3681	transdecoder	gene	1	3588	.	+	.	ID=GENE.GeclaM_EVm000865t1:94-3681~~GeclaM_EVm000865t1:94-3681.p1;Name=ORF%20type%3A3prime_partial%20len%3A1197%20%28%2B%29%2Cscore%3D608.05
+GeclaM_EVm000865t1:94-3681	transdecoder	mRNA	1	3588	.	+	.	ID=GeclaM_EVm000865t1:94-3681.p1;Parent=GENE.GeclaM_EVm000865t1:94-3681~~GeclaM_EVm000865t1:94-3681.p1;Name=ORF%20type%3A3prime_partial%20len%3A1197%20%28%2B%29%2Cscore%3D608.05
+GeclaM_EVm000865t1:94-3681	transdecoder	exon	1	3588	.	+	.	ID=GeclaM_EVm000865t1:94-3681.p1.exon1;Parent=GeclaM_EVm000865t1:94-3681.p1
+GeclaM_EVm000865t1:94-3681	transdecoder	CDS	1	3588	.	+	0	ID=cds.GeclaM_EVm000865t1:94-3681.p1;Parent=GeclaM_EVm000865t1:94-3681.p1
+
+# refined start codon: 1 -> 136 (score: 1.883)
+GeclaM_EVm000918t1:337-3663	transdecoder	gene	1	3327	.	+	.	ID=GENE.GeclaM_EVm000918t1:337-3663~~GeclaM_EVm000918t1:337-3663.p1;Name=ORF%20type%3A3prime_partial%20len%3A1110%20%28%2B%29%2Cscore%3D466.43
+GeclaM_EVm000918t1:337-3663	transdecoder	mRNA	1	3327	.	+	.	ID=GeclaM_EVm000918t1:337-3663.p1;Parent=GENE.GeclaM_EVm000918t1:337-3663~~GeclaM_EVm000918t1:337-3663.p1;Name=ORF%20type%3A3prime_partial%20len%3A1110%20%28%2B%29%2Cscore%3D466.43
+GeclaM_EVm000918t1:337-3663	transdecoder	five_prime_UTR	1	135	.	+	.	ID=GeclaM_EVm000918t1:337-3663.p1.utr5p1;Parent=GeclaM_EVm000918t1:337-3663.p1
+GeclaM_EVm000918t1:337-3663	transdecoder	exon	1	3327	.	+	.	ID=GeclaM_EVm000918t1:337-3663.p1.exon1;Parent=GeclaM_EVm000918t1:337-3663.p1
+GeclaM_EVm000918t1:337-3663	transdecoder	CDS	136	3327	.	+	0	ID=cds.GeclaM_EVm000918t1:337-3663.p1;Parent=GeclaM_EVm000918t1:337-3663.p1
+
+# refined start codon: 1 -> 58 (score: 0.945)
+GeclaM_EVm000996t1:216-3527	transdecoder	gene	1	3312	.	+	.	ID=GENE.GeclaM_EVm000996t1:216-3527~~GeclaM_EVm000996t1:216-3527.p1;Name=ORF%20type%3A3prime_partial%20len%3A1105%20%28%2B%29%2Cscore%3D451.57
+GeclaM_EVm000996t1:216-3527	transdecoder	mRNA	1	3312	.	+	.	ID=GeclaM_EVm000996t1:216-3527.p1;Parent=GENE.GeclaM_EVm000996t1:216-3527~~GeclaM_EVm000996t1:216-3527.p1;Name=ORF%20type%3A3prime_partial%20len%3A1105%20%28%2B%29%2Cscore%3D451.57
+GeclaM_EVm000996t1:216-3527	transdecoder	five_prime_UTR	1	57	.	+	.	ID=GeclaM_EVm000996t1:216-3527.p1.utr5p1;Parent=GeclaM_EVm000996t1:216-3527.p1
+GeclaM_EVm000996t1:216-3527	transdecoder	exon	1	3312	.	+	.	ID=GeclaM_EVm000996t1:216-3527.p1.exon1;Parent=GeclaM_EVm000996t1:216-3527.p1
+GeclaM_EVm000996t1:216-3527	transdecoder	CDS	58	3312	.	+	0	ID=cds.GeclaM_EVm000996t1:216-3527.p1;Parent=GeclaM_EVm000996t1:216-3527.p1
+
+GeclaM_EVm001149t1:258-3443	transdecoder	gene	1	3186	.	+	.	ID=GENE.GeclaM_EVm001149t1:258-3443~~GeclaM_EVm001149t1:258-3443.p1;Name=ORF%20type%3A3prime_partial%20len%3A1063%20%28%2B%29%2Cscore%3D590.58
+GeclaM_EVm001149t1:258-3443	transdecoder	mRNA	1	3186	.	+	.	ID=GeclaM_EVm001149t1:258-3443.p1;Parent=GENE.GeclaM_EVm001149t1:258-3443~~GeclaM_EVm001149t1:258-3443.p1;Name=ORF%20type%3A3prime_partial%20len%3A1063%20%28%2B%29%2Cscore%3D590.58
+GeclaM_EVm001149t1:258-3443	transdecoder	exon	1	3186	.	+	.	ID=GeclaM_EVm001149t1:258-3443.p1.exon1;Parent=GeclaM_EVm001149t1:258-3443.p1
+GeclaM_EVm001149t1:258-3443	transdecoder	CDS	1	3186	.	+	0	ID=cds.GeclaM_EVm001149t1:258-3443.p1;Parent=GeclaM_EVm001149t1:258-3443.p1
+
+GeclaM_EVm001336t1:50-3031	transdecoder	gene	1	2982	.	+	.	ID=GENE.GeclaM_EVm001336t1:50-3031~~GeclaM_EVm001336t1:50-3031.p1;Name=ORF%20type%3A3prime_partial%20len%3A995%20%28%2B%29%2Cscore%3D587.39
+GeclaM_EVm001336t1:50-3031	transdecoder	mRNA	1	2982	.	+	.	ID=GeclaM_EVm001336t1:50-3031.p1;Parent=GENE.GeclaM_EVm001336t1:50-3031~~GeclaM_EVm001336t1:50-3031.p1;Name=ORF%20type%3A3prime_partial%20len%3A995%20%28%2B%29%2Cscore%3D587.39
+GeclaM_EVm001336t1:50-3031	transdecoder	exon	1	2982	.	+	.	ID=GeclaM_EVm001336t1:50-3031.p1.exon1;Parent=GeclaM_EVm001336t1:50-3031.p1
+GeclaM_EVm001336t1:50-3031	transdecoder	CDS	1	2982	.	+	0	ID=cds.GeclaM_EVm001336t1:50-3031.p1;Parent=GeclaM_EVm001336t1:50-3031.p1
+
+GeclaM_EVm001411t1:201-3119	transdecoder	gene	1	2919	.	+	.	ID=GENE.GeclaM_EVm001411t1:201-3119~~GeclaM_EVm001411t1:201-3119.p1;Name=ORF%20type%3A3prime_partial%20len%3A974%20%28%2B%29%2Cscore%3D416.36
+GeclaM_EVm001411t1:201-3119	transdecoder	mRNA	1	2919	.	+	.	ID=GeclaM_EVm001411t1:201-3119.p1;Parent=GENE.GeclaM_EVm001411t1:201-3119~~GeclaM_EVm001411t1:201-3119.p1;Name=ORF%20type%3A3prime_partial%20len%3A974%20%28%2B%29%2Cscore%3D416.36
+GeclaM_EVm001411t1:201-3119	transdecoder	exon	1	2919	.	+	.	ID=GeclaM_EVm001411t1:201-3119.p1.exon1;Parent=GeclaM_EVm001411t1:201-3119.p1
+GeclaM_EVm001411t1:201-3119	transdecoder	CDS	1	2919	.	+	0	ID=cds.GeclaM_EVm001411t1:201-3119.p1;Parent=GeclaM_EVm001411t1:201-3119.p1
+
+GeclaM_EVm002370t2:390-2246	transdecoder	gene	1	1857	.	+	.	ID=GENE.GeclaM_EVm002370t2:390-2246~~GeclaM_EVm002370t2:390-2246.p1;Name=ORF%20type%3Ainternal%20len%3A620%20%28%2B%29%2Cscore%3D334.70
+GeclaM_EVm002370t2:390-2246	transdecoder	mRNA	1	1857	.	+	.	ID=GeclaM_EVm002370t2:390-2246.p1;Parent=GENE.GeclaM_EVm002370t2:390-2246~~GeclaM_EVm002370t2:390-2246.p1;Name=ORF%20type%3Ainternal%20len%3A620%20%28%2B%29%2Cscore%3D334.70
+GeclaM_EVm002370t2:390-2246	transdecoder	exon	1	1857	.	+	.	ID=GeclaM_EVm002370t2:390-2246.p1.exon1;Parent=GeclaM_EVm002370t2:390-2246.p1
+GeclaM_EVm002370t2:390-2246	transdecoder	CDS	1	1857	.	+	0	ID=cds.GeclaM_EVm002370t2:390-2246.p1;Parent=GeclaM_EVm002370t2:390-2246.p1
+
