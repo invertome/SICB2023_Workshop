@@ -1,0 +1,82 @@
+AlpvirEVm000013t1:180-7301	transdecoder	gene	1	7122	.	+	.	ID=GENE.AlpvirEVm000013t1:180-7301~~AlpvirEVm000013t1:180-7301.p1;Name=ORF%20type%3A3prime_partial%20len%3A2375%20%28%2B%29%2Cscore%3D353.45
+AlpvirEVm000013t1:180-7301	transdecoder	mRNA	1	7122	.	+	.	ID=AlpvirEVm000013t1:180-7301.p1;Parent=GENE.AlpvirEVm000013t1:180-7301~~AlpvirEVm000013t1:180-7301.p1;Name=ORF%20type%3A3prime_partial%20len%3A2375%20%28%2B%29%2Cscore%3D353.45
+AlpvirEVm000013t1:180-7301	transdecoder	exon	1	7122	.	+	.	ID=AlpvirEVm000013t1:180-7301.p1.exon1;Parent=AlpvirEVm000013t1:180-7301.p1
+AlpvirEVm000013t1:180-7301	transdecoder	CDS	1	7122	.	+	0	ID=cds.AlpvirEVm000013t1:180-7301.p1;Parent=AlpvirEVm000013t1:180-7301.p1
+
+AlpvirEVm000084t1:2-5521	transdecoder	gene	1	5520	.	+	.	ID=GENE.AlpvirEVm000084t1:2-5521~~AlpvirEVm000084t1:2-5521.p1;Name=ORF%20type%3Ainternal%20len%3A1841%20%28%2B%29%2Cscore%3D214.07
+AlpvirEVm000084t1:2-5521	transdecoder	mRNA	1	5520	.	+	.	ID=AlpvirEVm000084t1:2-5521.p1;Parent=GENE.AlpvirEVm000084t1:2-5521~~AlpvirEVm000084t1:2-5521.p1;Name=ORF%20type%3Ainternal%20len%3A1841%20%28%2B%29%2Cscore%3D214.07
+AlpvirEVm000084t1:2-5521	transdecoder	exon	1	5520	.	+	.	ID=AlpvirEVm000084t1:2-5521.p1.exon1;Parent=AlpvirEVm000084t1:2-5521.p1
+AlpvirEVm000084t1:2-5521	transdecoder	CDS	1	5520	.	+	0	ID=cds.AlpvirEVm000084t1:2-5521.p1;Parent=AlpvirEVm000084t1:2-5521.p1
+
+AlpvirEVm000225t1:143-4360	transdecoder	gene	1	4218	.	+	.	ID=GENE.AlpvirEVm000225t1:143-4360~~AlpvirEVm000225t1:143-4360.p1;Name=ORF%20type%3A3prime_partial%20len%3A1407%20%28%2B%29%2Cscore%3D564.75
+AlpvirEVm000225t1:143-4360	transdecoder	mRNA	1	4218	.	+	.	ID=AlpvirEVm000225t1:143-4360.p1;Parent=GENE.AlpvirEVm000225t1:143-4360~~AlpvirEVm000225t1:143-4360.p1;Name=ORF%20type%3A3prime_partial%20len%3A1407%20%28%2B%29%2Cscore%3D564.75
+AlpvirEVm000225t1:143-4360	transdecoder	exon	1	4218	.	+	.	ID=AlpvirEVm000225t1:143-4360.p1.exon1;Parent=AlpvirEVm000225t1:143-4360.p1
+AlpvirEVm000225t1:143-4360	transdecoder	CDS	1	4218	.	+	0	ID=cds.AlpvirEVm000225t1:143-4360.p1;Parent=AlpvirEVm000225t1:143-4360.p1
+
+AlpvirEVm000397t1:153-3800	transdecoder	gene	1	3648	.	+	.	ID=GENE.AlpvirEVm000397t1:153-3800~~AlpvirEVm000397t1:153-3800.p1;Name=ORF%20type%3A3prime_partial%20len%3A1217%20%28%2B%29%2Cscore%3D528.58
+AlpvirEVm000397t1:153-3800	transdecoder	mRNA	1	3648	.	+	.	ID=AlpvirEVm000397t1:153-3800.p1;Parent=GENE.AlpvirEVm000397t1:153-3800~~AlpvirEVm000397t1:153-3800.p1;Name=ORF%20type%3A3prime_partial%20len%3A1217%20%28%2B%29%2Cscore%3D528.58
+AlpvirEVm000397t1:153-3800	transdecoder	exon	1	3648	.	+	.	ID=AlpvirEVm000397t1:153-3800.p1.exon1;Parent=AlpvirEVm000397t1:153-3800.p1
+AlpvirEVm000397t1:153-3800	transdecoder	CDS	1	3648	.	+	0	ID=cds.AlpvirEVm000397t1:153-3800.p1;Parent=AlpvirEVm000397t1:153-3800.p1
+
+AlpvirEVm000468t1:101-3604	transdecoder	gene	1	3504	.	+	.	ID=GENE.AlpvirEVm000468t1:101-3604~~AlpvirEVm000468t1:101-3604.p1;Name=ORF%20type%3A3prime_partial%20len%3A1169%20%28%2B%29%2Cscore%3D499.53
+AlpvirEVm000468t1:101-3604	transdecoder	mRNA	1	3504	.	+	.	ID=AlpvirEVm000468t1:101-3604.p1;Parent=GENE.AlpvirEVm000468t1:101-3604~~AlpvirEVm000468t1:101-3604.p1;Name=ORF%20type%3A3prime_partial%20len%3A1169%20%28%2B%29%2Cscore%3D499.53
+AlpvirEVm000468t1:101-3604	transdecoder	exon	1	3504	.	+	.	ID=AlpvirEVm000468t1:101-3604.p1.exon1;Parent=AlpvirEVm000468t1:101-3604.p1
+AlpvirEVm000468t1:101-3604	transdecoder	CDS	1	3504	.	+	0	ID=cds.AlpvirEVm000468t1:101-3604.p1;Parent=AlpvirEVm000468t1:101-3604.p1
+
+AlpvirEVm000504t1:44-3442	transdecoder	gene	1	3399	.	+	.	ID=GENE.AlpvirEVm000504t1:44-3442~~AlpvirEVm000504t1:44-3442.p1;Name=ORF%20type%3Ainternal%20len%3A1134%20%28%2B%29%2Cscore%3D492.55
+AlpvirEVm000504t1:44-3442	transdecoder	mRNA	1	3399	.	+	.	ID=AlpvirEVm000504t1:44-3442.p1;Parent=GENE.AlpvirEVm000504t1:44-3442~~AlpvirEVm000504t1:44-3442.p1;Name=ORF%20type%3Ainternal%20len%3A1134%20%28%2B%29%2Cscore%3D492.55
+AlpvirEVm000504t1:44-3442	transdecoder	exon	1	3399	.	+	.	ID=AlpvirEVm000504t1:44-3442.p1.exon1;Parent=AlpvirEVm000504t1:44-3442.p1
+AlpvirEVm000504t1:44-3442	transdecoder	CDS	1	3399	.	+	0	ID=cds.AlpvirEVm000504t1:44-3442.p1;Parent=AlpvirEVm000504t1:44-3442.p1
+
+AlpvirEVm000570t1:187-3381	transdecoder	gene	1	3195	.	+	.	ID=GENE.AlpvirEVm000570t1:187-3381~~AlpvirEVm000570t1:187-3381.p1;Name=ORF%20type%3Ainternal%20len%3A1066%20%28%2B%29%2Cscore%3D452.12
+AlpvirEVm000570t1:187-3381	transdecoder	mRNA	1	3195	.	+	.	ID=AlpvirEVm000570t1:187-3381.p1;Parent=GENE.AlpvirEVm000570t1:187-3381~~AlpvirEVm000570t1:187-3381.p1;Name=ORF%20type%3Ainternal%20len%3A1066%20%28%2B%29%2Cscore%3D452.12
+AlpvirEVm000570t1:187-3381	transdecoder	exon	1	3195	.	+	.	ID=AlpvirEVm000570t1:187-3381.p1.exon1;Parent=AlpvirEVm000570t1:187-3381.p1
+AlpvirEVm000570t1:187-3381	transdecoder	CDS	1	3195	.	+	0	ID=cds.AlpvirEVm000570t1:187-3381.p1;Parent=AlpvirEVm000570t1:187-3381.p1
+
+AlpvirEVm000700t1:57-3077	transdecoder	gene	1	3021	.	+	.	ID=GENE.AlpvirEVm000700t1:57-3077~~AlpvirEVm000700t1:57-3077.p1;Name=ORF%20type%3A3prime_partial%20len%3A1008%20%28%2B%29%2Cscore%3D479.36
+AlpvirEVm000700t1:57-3077	transdecoder	mRNA	1	3021	.	+	.	ID=AlpvirEVm000700t1:57-3077.p1;Parent=GENE.AlpvirEVm000700t1:57-3077~~AlpvirEVm000700t1:57-3077.p1;Name=ORF%20type%3A3prime_partial%20len%3A1008%20%28%2B%29%2Cscore%3D479.36
+AlpvirEVm000700t1:57-3077	transdecoder	exon	1	3021	.	+	.	ID=AlpvirEVm000700t1:57-3077.p1.exon1;Parent=AlpvirEVm000700t1:57-3077.p1
+AlpvirEVm000700t1:57-3077	transdecoder	CDS	1	3021	.	+	0	ID=cds.AlpvirEVm000700t1:57-3077.p1;Parent=AlpvirEVm000700t1:57-3077.p1
+
+AlpvirEVm000788t1:526-3432	transdecoder	gene	1	2907	.	+	.	ID=GENE.AlpvirEVm000788t1:526-3432~~AlpvirEVm000788t1:526-3432.p1;Name=ORF%20type%3A3prime_partial%20len%3A970%20%28%2B%29%2Cscore%3D415.77
+AlpvirEVm000788t1:526-3432	transdecoder	mRNA	1	2907	.	+	.	ID=AlpvirEVm000788t1:526-3432.p1;Parent=GENE.AlpvirEVm000788t1:526-3432~~AlpvirEVm000788t1:526-3432.p1;Name=ORF%20type%3A3prime_partial%20len%3A970%20%28%2B%29%2Cscore%3D415.77
+AlpvirEVm000788t1:526-3432	transdecoder	exon	1	2907	.	+	.	ID=AlpvirEVm000788t1:526-3432.p1.exon1;Parent=AlpvirEVm000788t1:526-3432.p1
+AlpvirEVm000788t1:526-3432	transdecoder	CDS	1	2907	.	+	0	ID=cds.AlpvirEVm000788t1:526-3432.p1;Parent=AlpvirEVm000788t1:526-3432.p1
+
+AlpvirEVm000822t1:103-2949	transdecoder	gene	1	2847	.	+	.	ID=GENE.AlpvirEVm000822t1:103-2949~~AlpvirEVm000822t1:103-2949.p1;Name=ORF%20type%3Ainternal%20len%3A950%20%28%2B%29%2Cscore%3D415.71
+AlpvirEVm000822t1:103-2949	transdecoder	mRNA	1	2847	.	+	.	ID=AlpvirEVm000822t1:103-2949.p1;Parent=GENE.AlpvirEVm000822t1:103-2949~~AlpvirEVm000822t1:103-2949.p1;Name=ORF%20type%3Ainternal%20len%3A950%20%28%2B%29%2Cscore%3D415.71
+AlpvirEVm000822t1:103-2949	transdecoder	exon	1	2847	.	+	.	ID=AlpvirEVm000822t1:103-2949.p1.exon1;Parent=AlpvirEVm000822t1:103-2949.p1
+AlpvirEVm000822t1:103-2949	transdecoder	CDS	1	2847	.	+	0	ID=cds.AlpvirEVm000822t1:103-2949.p1;Parent=AlpvirEVm000822t1:103-2949.p1
+
+AlpvirEVm000864t1:114-2894	transdecoder	gene	1	2781	.	+	.	ID=GENE.AlpvirEVm000864t1:114-2894~~AlpvirEVm000864t1:114-2894.p1;Name=ORF%20type%3A3prime_partial%20len%3A928%20%28%2B%29%2Cscore%3D434.22
+AlpvirEVm000864t1:114-2894	transdecoder	mRNA	1	2781	.	+	.	ID=AlpvirEVm000864t1:114-2894.p1;Parent=GENE.AlpvirEVm000864t1:114-2894~~AlpvirEVm000864t1:114-2894.p1;Name=ORF%20type%3A3prime_partial%20len%3A928%20%28%2B%29%2Cscore%3D434.22
+AlpvirEVm000864t1:114-2894	transdecoder	exon	1	2781	.	+	.	ID=AlpvirEVm000864t1:114-2894.p1.exon1;Parent=AlpvirEVm000864t1:114-2894.p1
+AlpvirEVm000864t1:114-2894	transdecoder	CDS	1	2781	.	+	0	ID=cds.AlpvirEVm000864t1:114-2894.p1;Parent=AlpvirEVm000864t1:114-2894.p1
+
+AlpvirEVm000957t1:124-2838	transdecoder	gene	1	2715	.	+	.	ID=GENE.AlpvirEVm000957t1:124-2838~~AlpvirEVm000957t1:124-2838.p1;Name=ORF%20type%3A3prime_partial%20len%3A906%20%28%2B%29%2Cscore%3D371.26
+AlpvirEVm000957t1:124-2838	transdecoder	mRNA	1	2715	.	+	.	ID=AlpvirEVm000957t1:124-2838.p1;Parent=GENE.AlpvirEVm000957t1:124-2838~~AlpvirEVm000957t1:124-2838.p1;Name=ORF%20type%3A3prime_partial%20len%3A906%20%28%2B%29%2Cscore%3D371.26
+AlpvirEVm000957t1:124-2838	transdecoder	exon	1	2715	.	+	.	ID=AlpvirEVm000957t1:124-2838.p1.exon1;Parent=AlpvirEVm000957t1:124-2838.p1
+AlpvirEVm000957t1:124-2838	transdecoder	CDS	1	2715	.	+	0	ID=cds.AlpvirEVm000957t1:124-2838.p1;Parent=AlpvirEVm000957t1:124-2838.p1
+
+AlpvirEVm001005t1:656-2674	transdecoder	gene	1	2019	.	+	.	ID=GENE.AlpvirEVm001005t1:656-2674~~AlpvirEVm001005t1:656-2674.p1;Name=ORF%20type%3Ainternal%20len%3A674%20%28%2B%29%2Cscore%3D312.02
+AlpvirEVm001005t1:656-2674	transdecoder	mRNA	1	2019	.	+	.	ID=AlpvirEVm001005t1:656-2674.p1;Parent=GENE.AlpvirEVm001005t1:656-2674~~AlpvirEVm001005t1:656-2674.p1;Name=ORF%20type%3Ainternal%20len%3A674%20%28%2B%29%2Cscore%3D312.02
+AlpvirEVm001005t1:656-2674	transdecoder	exon	1	2019	.	+	.	ID=AlpvirEVm001005t1:656-2674.p1.exon1;Parent=AlpvirEVm001005t1:656-2674.p1
+AlpvirEVm001005t1:656-2674	transdecoder	CDS	1	2019	.	+	0	ID=cds.AlpvirEVm001005t1:656-2674.p1;Parent=AlpvirEVm001005t1:656-2674.p1
+
+# refined start codon: 1 -> 196 (score: 4.100)
+AlpvirEVm001142t1:14-2545	transdecoder	gene	1	2532	.	+	.	ID=GENE.AlpvirEVm001142t1:14-2545~~AlpvirEVm001142t1:14-2545.p1;Name=ORF%20type%3A3prime_partial%20len%3A845%20%28%2B%29%2Cscore%3D346.75
+AlpvirEVm001142t1:14-2545	transdecoder	mRNA	1	2532	.	+	.	ID=AlpvirEVm001142t1:14-2545.p1;Parent=GENE.AlpvirEVm001142t1:14-2545~~AlpvirEVm001142t1:14-2545.p1;Name=ORF%20type%3A3prime_partial%20len%3A845%20%28%2B%29%2Cscore%3D346.75
+AlpvirEVm001142t1:14-2545	transdecoder	five_prime_UTR	1	195	.	+	.	ID=AlpvirEVm001142t1:14-2545.p1.utr5p1;Parent=AlpvirEVm001142t1:14-2545.p1
+AlpvirEVm001142t1:14-2545	transdecoder	exon	1	2532	.	+	.	ID=AlpvirEVm001142t1:14-2545.p1.exon1;Parent=AlpvirEVm001142t1:14-2545.p1
+AlpvirEVm001142t1:14-2545	transdecoder	CDS	196	2532	.	+	0	ID=cds.AlpvirEVm001142t1:14-2545.p1;Parent=AlpvirEVm001142t1:14-2545.p1
+
+AlpvirEVm001240t1:5-2437	transdecoder	gene	1	2433	.	+	.	ID=GENE.AlpvirEVm001240t1:5-2437~~AlpvirEVm001240t1:5-2437.p1;Name=ORF%20type%3Ainternal%20len%3A812%20%28%2B%29%2Cscore%3D367.47
+AlpvirEVm001240t1:5-2437	transdecoder	mRNA	1	2433	.	+	.	ID=AlpvirEVm001240t1:5-2437.p1;Parent=GENE.AlpvirEVm001240t1:5-2437~~AlpvirEVm001240t1:5-2437.p1;Name=ORF%20type%3Ainternal%20len%3A812%20%28%2B%29%2Cscore%3D367.47
+AlpvirEVm001240t1:5-2437	transdecoder	exon	1	2433	.	+	.	ID=AlpvirEVm001240t1:5-2437.p1.exon1;Parent=AlpvirEVm001240t1:5-2437.p1
+AlpvirEVm001240t1:5-2437	transdecoder	CDS	1	2433	.	+	0	ID=cds.AlpvirEVm001240t1:5-2437.p1;Parent=AlpvirEVm001240t1:5-2437.p1
+
+AlpvirEVm001916t1:335-1936	transdecoder	gene	1	1602	.	+	.	ID=GENE.AlpvirEVm001916t1:335-1936~~AlpvirEVm001916t1:335-1936.p1;Name=ORF%20type%3Ainternal%20len%3A535%20%28%2B%29%2Cscore%3D234.38
+AlpvirEVm001916t1:335-1936	transdecoder	mRNA	1	1602	.	+	.	ID=AlpvirEVm001916t1:335-1936.p1;Parent=GENE.AlpvirEVm001916t1:335-1936~~AlpvirEVm001916t1:335-1936.p1;Name=ORF%20type%3Ainternal%20len%3A535%20%28%2B%29%2Cscore%3D234.38
+AlpvirEVm001916t1:335-1936	transdecoder	exon	1	1602	.	+	.	ID=AlpvirEVm001916t1:335-1936.p1.exon1;Parent=AlpvirEVm001916t1:335-1936.p1
+AlpvirEVm001916t1:335-1936	transdecoder	CDS	1	1602	.	+	0	ID=cds.AlpvirEVm001916t1:335-1936.p1;Parent=AlpvirEVm001916t1:335-1936.p1
+

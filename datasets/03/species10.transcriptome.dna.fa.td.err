@@ -1,0 +1,19 @@
+* Running CMD: /Users/bobsyouruncle/TransDecoder-TransDecoder-v5.5.0/util/compute_base_probs.pl species10.transcriptome.dna.fa 0 > /Users/bobsyouruncle/SICB_LocalMAc/Species_DNA/species10.transcriptome.dna.fa.transdecoder_dir/base_freqs.dat
+
+
+-first extracting base frequencies, we'll need them later.
+
+
+- extracting ORFs from transcripts.
+-total transcripts to examine:       16
+
+
+#################################
+### Done preparing long ORFs.  ###
+##################################
+
+	Use file: /Users/bobsyouruncle/SICB_LocalMAc/Species_DNA/species10.transcriptome.dna.fa.transdecoder_dir/longest_orfs.pep  for Pfam and/or BlastP searches to enable homology-based coding region identification.
+
+	Then, run TransDecoder.Predict for your final coding region predictions.
+
+
